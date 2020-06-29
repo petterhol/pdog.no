@@ -1,0 +1,41 @@
+.rute-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  vertical-align: middle;
+}
+
+.rute {
+  color: white;
+  text-align: center;
+  margin: 2px;
+  min-width: 2rem;
+  padding: 0rem 0.5rem;
+}
+
+.bybuss {
+  background: #f2102d;
+}
+
+.nattbuss {
+  background: #000000;
+}
+
+.regionbuss {
+  background: #6cbe4e;
+}
+
+.metro {
+  background: #f47b21;
+}
+
+.tram {
+  background: #3F90E8;
+}
+
+.flybuss {
+  background: #0086C2;
+}
+
+.nettbuss {
+  background: #1D155B;
+}

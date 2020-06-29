@@ -1,0 +1,161 @@
+body {
+  font-family: "Arial";
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid 
+  grey;
+}
+
+h1 {
+  display: block;
+  font-size: 2.75rem;
+}
+
+box {
+   width: 320px;
+  padding: 10px;
+  border: 5px solid yellow;
+  margin: 0;
+}
+
+
+h3 {
+  display: block;
+  font-size: 1.75rem;
+  font-weight: bold;
+}
+
+h6 {
+	display: block;
+	font-size: 0.5rem;
+}
+
+/* unvisited link */
+a:link {
+  color: 000000;
+}
+
+/* visited link */
+a:visited {
+  color: 000000;
+}
+
+/* mouse over link */
+a:hover {
+  color: 000000;
+}
+
+/* selected link */
+a:active {
+  color: 000000;
+}
+
+#wrapper {
+  display: flex;
+  margin: auto;
+  align-items: flex-start;
+  justify-content: space-around;
+  flex-wrap: wrap;  
+}
+
+#page-content-wrapper {
+  max-width: 600px;
+}
+
+.pdog {
+  font-size: 18pt;
+}
+
+.rute-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  vertical-align: middle;
+  border: 1px solid grey;
+  
+}
+
+.rute {
+  color: white;
+  text-align: center;
+  margin: 2px;
+  min-width: 2rem;
+  padding: 0rem 0.5rem;
+}
+
+.bybuss {
+  background: #f2102d;
+}
+
+.nattbuss {
+  background: #000000;
+}
+
+
+.regionbuss {
+  background: #6cbe4e;
+}
+
+.metro {
+  background: #f47b21;
+}
+
+.tram {
+  background: #3F90E8;
+}
+
+.flybuss {
+  background: #0086C2;
+}
+
+.nettbuss {
+  background: #1D155B;
+}
+
+.table-title {
+  font-weight: bold;
+}
+
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+.collapsible:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: white;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
