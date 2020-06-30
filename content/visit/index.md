@@ -3,8 +3,10 @@ menu: "main"
 title: "Ivan Bjørndals gate 6, Oslo"
 ---
 
-**Enten du bare skal innom for å hente noe på Finn, eller du skal besøke meg
-over mange dager, finner du alt du trenger her.**
+{{< ingress >}}
+Enten du bare skal innom for å hente noe på Finn, eller du skal besøke meg
+over mange dager, finner du **alt** du trenger her.
+{{< /ingress >}}
 
 ## Kart og kompass
 

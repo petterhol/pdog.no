@@ -14,7 +14,7 @@ hei@pdog.no
 
 ## Telefonnummer
 
-+47&nbsp;926&nbsp;96&nbsp;496
+[+47&nbsp;926&nbsp;96&nbsp;496](tel:+4792696496)
 
 ## Besøks- og postadresse
 

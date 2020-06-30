@@ -1,6 +1,5 @@
 {{ define "main" }}
-{{ partial "nav.html" }}
-{{ partial "sidebar.html" }}
+{{ partial "sidebar.html" .Site }}
 <main aria-role="main">
   <header class="homepage-header">
     <h1>{{ .Title }}</h1>
@@ -9,6 +8,5 @@
     {{ end }}
   </header>
   {{ .Content }}
-  <div class="list-group">{{ .TableOfContents }}</div>
 </main>
 {{ end }}
