@@ -3,7 +3,9 @@ menu: "main"
 title: Om e-postadressen
 ---
 
-Du har kanskje fått oppgitt en e-postadresse som slutter på @pdog.no eller @petterholstad.no, men forstår ikke helt hvordan det fungerer? Her forklarer jeg hvordan det fungerer her.
+Du har kanskje fått oppgitt en e-postadresse som slutter på @pdog.no eller
+@petterholstad.no, men forstår ikke helt hvordan det fungerer? Her forklarer
+jeg hvordan det fungerer her.
 
 Hvis du ikke vet det, pdog.no er et domene. ".no" er toppnivådomenet som
 tilhører Norge, mens "pdog" er adressen jeg har registrert selv. Hvem som

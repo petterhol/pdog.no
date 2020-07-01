@@ -11,7 +11,7 @@
     <title>Petter Holstad</title>
 
     <link rel="icon" href="/favicon.png">
-    <link href="style copy.css" rel="stylesheet">
+    <link href="/style copy.css" rel="stylesheet">
 
     <script src="https://kit.fontawesome.com/72ae453d62.js" crossorigin="anonymous"></script>
 
@@ -30,8 +30,8 @@
 </head>
 
 <body id="petter-holstad">
-    {{ partial "nav.html" . .Site .Content }}
-    <div class="container">
+    {{ partial "nav.html" . .Site }}
+    <div class="container-fluid">
         {{ block "main" . }}
         {{ end }}
         {{ block "footer" . }}
