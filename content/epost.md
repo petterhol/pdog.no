@@ -1,6 +1,7 @@
 +++
 menu = "main"
 title = "Om e-postadressen"
+linktitle = "E-post"
 +++
 
 Du har kanskje fått oppgitt en e-postadresse som slutter på @pdog.no eller

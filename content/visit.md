@@ -1,6 +1,7 @@
 +++
 menu = "main"
 title = "Ivan Bjørndals gate 6, Oslo"
+linktitle = "Besøk"
 +++
 
 {{< ingress >}}

@@ -1,6 +1,7 @@
 +++
 menu = "main"
 title = "Slik får du tilgang på Wi-fi"
+linktitle = "Wi-fi"
 +++
 
 Velkommen på besøk! Siden du kom inn på denne siden, antar jeg du har som
