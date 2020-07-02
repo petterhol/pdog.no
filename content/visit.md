@@ -1,7 +1,7 @@
----
-menu: "main"
-title: "Ivan Bjørndals gate 6, Oslo"
----
++++
+menu = "main"
+title = "Ivan Bjørndals gate 6, Oslo"
++++
 
 {{< ingress >}}
 Enten du bare skal innom for å hente noe på Finn, eller du skal besøke meg
@@ -169,11 +169,16 @@ Det finnes mange leiebilaktører i Oslo, men jeg anbefaler følgende:
 
 Det finnes mange drosjeselskaper i Oslo. Noen tilbyr også apper.
 
-- [Uber](https://www.uber.com/global/nb/cities/oslo/), bestilling i app eller på nettsiden.
-- [Oslo Taxi](https://www.oslotaxi.no/bestilling), tilbyr app, bestilling på telefon: [22 38 80 90](tel:22388090).
-- [NorgesTaxi](https://www.norgestaxi.no/oslo), tilbyr app, bestilling på telefon: [910 08 000](tel:91008000).
-- [Christiania Taxi](https://02365.no/), tilbyr app, bestilling på telefon: [22 57 80 00](tel:22578000).
-- [0-TAXI](https://www.0-taxi.no/), tilbyr app, bestilling på telefon: [460 08 294](tel:46008294).
+- [Uber](https://www.uber.com/global/nb/cities/oslo/), bestilling i app eller
+  på nettsiden.
+- [Oslo Taxi](https://www.oslotaxi.no/bestilling), tilbyr app, bestilling på
+  telefon: [22&nbsp;38&nbsp;80&nbsp;90](tel:22388090).
+- [NorgesTaxi](https://www.norgestaxi.no/oslo), tilbyr app, bestilling på
+  telefon: [910&nbsp;08&nbsp;000](tel:91008000).
+- [Christiania Taxi](https://02365.no/), tilbyr app, bestilling på telefon:
+  [22&nbsp;57&nbsp;80&nbsp;00](tel:22578000).
+- [0-TAXI](https://www.0-taxi.no/), tilbyr app, bestilling på telefon:
+  [460&nbsp;08&nbsp;294](tel:46008294).
 
 ### Haiking
 

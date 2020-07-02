@@ -30,7 +30,9 @@
 </head>
 
 <body id="petter-holstad">
-    {{ partial "nav.html" . .Site }}
+    <header>
+        {{ partial "nav.html" . .Site }}
+    </header>
     <div class="container-fluid">
         {{ block "main" . }}
         {{ end }}

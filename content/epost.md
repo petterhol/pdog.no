@@ -1,7 +1,7 @@
----
-menu: "main"
-title: Om e-postadressen
----
++++
+menu = "main"
+title = "Om e-postadressen"
++++
 
 Du har kanskje fått oppgitt en e-postadresse som slutter på @pdog.no eller
 @petterholstad.no, men forstår ikke helt hvordan det fungerer? Her forklarer

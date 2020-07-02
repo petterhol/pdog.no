@@ -1,7 +1,7 @@
----
-title: "Petter Holstad"
-menu: "main"
----
++++
+title = "Petter Holstad"
+menu = "main"
++++
 
 Hei, og velkommen til nettsiden min. Her finner du all kontaktinformasjon du
 trenger å få til meg. Du kan også lære om mitt enkeltpersonsforetak.
