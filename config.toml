@@ -1,4 +1,5 @@
 baseURL = "https://pdog.no"
 languageCode = "nb"
+defaultContentLanguage = "nb"
 title = "Petter Holstad"
 sectionPagesMenu = "main"

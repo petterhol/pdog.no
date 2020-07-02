@@ -1,12 +1,19 @@
 {{ define "main" }}
 <div class="row flex-xl-nowrap">
-    <!-- {{ partial "sidebar.html" .Site }} -->
-    <main class="col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" aria-role="main">
-        <h1>{{ .Title }}</h1>
-        {{ with .Params.subtitle }}
-            <span class="subtitle">{{.}}</span>
-        {{ end }}
-        {{ .Content }}
-    </main>
+  <!-- {{ partial "sidebar.html" .Site }} -->
+  <main class="col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" aria-role="main">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+      <span class="subtitle">{{.}}</span>
+    {{ end }}
+    {{ .Content }}
+  </main>
 </div>
+{{ end }}
+
+{{ define "footer" }}
+<p>
+  Sist oppdatert {{ .Date }}. Alt innhold er © Petter Holstad. Nettsiden er
+  utviklet av Stig Johan Berggren.
+</p>
 {{ end }}

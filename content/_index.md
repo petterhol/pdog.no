@@ -1,6 +1,8 @@
 +++
 title = "Petter Holstad"
 menu = "main"
+type = "single"
+lastmod = 2020-07-02T17:00:00
 +++
 
 Hei, og velkommen til nettsiden min. Her finner du all kontaktinformasjon du
@@ -71,4 +73,5 @@ Du har sannsynligvis gått inn på en av disse nettsidene:
 - petterholstad.no
 - heltogholdent.no
 
-![Portrettbilde av Petter som står på en balkong ved siden av en petunia i blomst. I bakgrunnen synes bybebyggelse i Oslo.](petter.jpg)
+![Portrettbilde av Petter som står på en balkong ved siden av en petunia i
+blomst. I bakgrunnen synes bybebyggelse i Oslo.](petter.jpg)

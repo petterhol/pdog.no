@@ -2,6 +2,7 @@
 menu = "main"
 title = "Om e-postadressen"
 linktitle = "E-post"
+lastmod = 2020-07-20T17:00:00+02:00
 +++
 
 Du har kanskje fått oppgitt en e-postadresse som slutter på @pdog.no eller
