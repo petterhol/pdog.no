@@ -11,7 +11,7 @@
   <title>Petter Holstad</title>
 
   <link rel="icon" href="/favicon.png">
-  <link href="/style copy.css" rel="stylesheet">
+  <link href="/style.css" rel="stylesheet">
 
   <script src="https://kit.fontawesome.com/72ae453d62.js" crossorigin="anonymous"></script>
 
@@ -29,14 +29,15 @@
     defer></script>
 </head>
 
-<body id="petter-holstad">
+<body>
   <header>
     {{ partial "nav.html" . .Site }}
   </header>
-  <div class="container-fluid">
+  <main class="col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content">
+    <h1>{{ .Title }}</h1>
     {{ block "main" . }}
     {{ end }}
-  </div>
+  </main>
   <footer class="text-muted small text-center p-3">
     {{ block "footer" . }}
     {{ end }}

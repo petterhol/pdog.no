@@ -53,11 +53,11 @@ skype@pdog.no
 
 Bruk mitt telefonnummer 926&nbsp;96&nbsp;496 eller scann QR-koden under for å vippse meg, eller be om penger.
 
-<img
+{{< img
   src="vipps.jpg"
-  class="img-fluid"
+  class="img-thumbnail"
   alt="En QR-kode som viser min personlige Vipps-kode. Inne i QR-koden er det et illustrasjon av en hund."
-/>
+>}}
 
 ## Holstad Helt og Holdent
 
