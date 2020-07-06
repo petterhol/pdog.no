@@ -1,6 +1,4 @@
 {{ $iconClasses := dict "bybuss" "bus" "nattbuss" "moon" "tram" "train" "metro" "subway" }}
-{{ range $routeNo, $routeType := . }}
-<div class="rute {{ $routeType }}">
-  <i class="fas fa-{{ index $iconClasses $routeType }}"></i>&nbsp;{{ $routeNo }}
+<div class="rute {{ .routeType }}">
+  <i class="fas fa-{{ index $iconClasses .routeType }}"></i>&nbsp;{{ .routeNo }}
 </div>
-{{ end }}

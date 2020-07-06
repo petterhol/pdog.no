@@ -9,29 +9,45 @@
         <tr>
             <td>Arendalsgata - nærmeste bussholdeplass på Sagene-siden</td>
             <td class="d-flex flex-wrap">
-		{{ $routes := dict "20" "bybuss" "37" "bybuss" "54" "bybuss" "20" "nattbuss" }}
-		{{ partial "rute.html" $routes }}
+		{{ partial "rute.html" (dict "routeNo" "20" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "37" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "54" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "20" "routeType" "nattbuss") }}
             </td>
         </tr>
         <tr>
             <td>Sandaker senter - nærmeste trikkeholdeplass på Torshov-siden</td>
             <td class="d-flex flex-wrap">
 		{{ $routes := dict "11" "tram" "11N" "nattbuss" "12" "tram" "12N" "nattbuss" "13" "tram" }}
-		{{ partial "rute.html" $routes }}
+		{{ partial "rute.html" (dict "routeNo" "11" "routeType" "tram") }}
+		{{ partial "rute.html" (dict "routeNo" "11N" "routeType" "nattbuss") }}
+		{{ partial "rute.html" (dict "routeNo" "12" "routeType" "tram") }}
+		{{ partial "rute.html" (dict "routeNo" "12N" "routeType" "nattbuss") }}
+		{{ partial "rute.html" (dict "routeNo" "13" "routeType" "tram") }}
             </td>
         </tr>
         <tr>
             <td>Torshovparken - i tilfelle du må ta 30-bussen er det gangavstand</td>
             <td class="d-flex flex-wrap">
-		{{ $routes := dict "20" "bybuss" "30" "bybuss" }}
-		{{ partial "rute.html" $routes }}
+		{{ partial "rute.html" (dict "routeNo" "20" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "30" "routeType" "bybuss") }}
             </td>
         </tr>
         <tr>
             <td>Storo - nærmeste knutepunkt med t-bane</td>
             <td class="d-flex flex-wrap">
-		{{ $routes := dict "5" "metro" "6" "metro" "11" "tram" "11N" "nattbuss" "12" "tram" "12N" "nattbuss" "13" "tram" "23" "bybuss" "24" "bybuss" "56" "bybuss" "56B" "bybuss" "91" "bybuss" }}
-		{{ partial "rute.html" $routes }}
+		{{ partial "rute.html" (dict "routeNo" "5" "routeType" "metro") }}
+		{{ partial "rute.html" (dict "routeNo" "6" "routeType" "metro") }}
+		{{ partial "rute.html" (dict "routeNo" "11" "routeType" "tram") }}
+		{{ partial "rute.html" (dict "routeNo" "11N" "routeType" "nattbuss") }}
+		{{ partial "rute.html" (dict "routeNo" "12" "routeType" "tram") }}
+		{{ partial "rute.html" (dict "routeNo" "12N" "routeType" "nattbuss") }}
+		{{ partial "rute.html" (dict "routeNo" "13" "routeType" "tram") }}
+		{{ partial "rute.html" (dict "routeNo" "23" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "24" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "56" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "56B" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "91" "routeType" "bybuss") }}
             </td>
         </tr>
     </tbody>
