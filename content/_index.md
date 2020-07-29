@@ -23,9 +23,11 @@ hei@pdog.no
 Strømsveien 29
 0658 Oslo
 
-Skal du hente noe, levere noe eller besøke meg? Bruk [visit.pdog.no](visit) nettsiden for å få detaljert informasjon om hvordan du kommer deg hit.
+Skal du hente noe, levere noe eller besøke meg? Bruk [visit.pdog.no](visit)
+nettsiden for å få detaljert informasjon om hvordan du kommer deg hit.
 
-Skal du sende en pakke med sporingsnummer? Sett opp en ticket på ticket.pdog.no, slik at jeg blir varslet om den.
+Skal du sende en pakke med sporingsnummer? Sett opp en ticket på
+ticket.pdog.no, slik at jeg blir varslet om den.
 
 ## Imessage
 
@@ -47,11 +49,12 @@ skype@pdog.no
 
 ## Finn.no
 
-[Gå til min profil for å se vurderinger og annonser.](https://www.finn.no/user/profile/profile.html?id=287595302)
+[Gå til min profil for å se vurderinger og annonser.][finn]
 
 ## Vipps
 
-Bruk mitt telefonnummer 926&nbsp;96&nbsp;496 eller scann QR-koden under for å vippse meg, eller be om penger.
+Bruk mitt telefonnummer 926&nbsp;96&nbsp;496 eller scann QR-koden under for å
+vippse meg, eller be om penger.
 
 {{< img
   src="vipps.jpg"
@@ -61,9 +64,11 @@ Bruk mitt telefonnummer 926&nbsp;96&nbsp;496 eller scann QR-koden under for å v
 
 ## Holstad Helt og Holdent
 
-Holstad Helt og Holdent er et enkeltpersonsforetak som jeg eier. Det er ingen spesiell kontaktinformasjon til selskapet, du kan fint bruke e-post eller telefon som er markert lengre opp.
+Holstad Helt og Holdent er et enkeltpersonsforetak som jeg eier. Det er ingen
+spesiell kontaktinformasjon til selskapet, du kan fint bruke e-post eller
+telefon som er markert lengre opp.
 
-[Besøk oppføringen i Enhetsregisteret.](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915283497)
+[Besøk oppføringen i Enhetsregisteret.][brreg]
 
 ## Lurer du på hvordan du kom inn hit?
 
@@ -75,3 +80,6 @@ Du har sannsynligvis gått inn på en av disse nettsidene:
 
 ![Portrettbilde av Petter som står på en balkong ved siden av en petunia i
 blomst. I bakgrunnen synes bybebyggelse i Oslo.](petter.jpg)
+
+[finn]: https://www.finn.no/user/profile/profile.html?id=287595302
+[brreg]: https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915283497

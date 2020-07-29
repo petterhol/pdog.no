@@ -45,26 +45,27 @@ facebook@pdog.no. Det har følgende fordeler:
 - Når jeg oppgir den litt sære e-postadressen til personer, reagerer de på en
   måte som kanskje får dem til å huske e-postadressen min i hodet.
 
-Selvfølgelig vil en person som målrettet går inn for å prøve mine
-innlegginger, eller vil sende meg uønsket e-post, klare å forstå strukturen i
-mine adresser, men de fleste lekkasjer er nok bare situasjoner hvor man
-kjøper en stor database.
+Selvfølgelig vil en person som målrettet går inn for å prøve mine innlegginger,
+eller vil sende meg uønsket e-post, klare å forstå strukturen i mine adresser,
+men de fleste lekkasjer er nok bare situasjoner hvor man kjøper en stor
+database.
 
-Jeg lytter på en podkast som heter Mac Geek Gab, hvor de to programlederene
-tar opp en rekke tekniske spørsmål fra lytterene sine. Sommeren 2017 sendte
-jeg inn et spørsmål hvor jeg forklarte min e-poststrategi som beskrevet
-ovenfor, og spurte om de hadde noen innspill til dette. Du kan lytte til
-programmet på deres nettsider: [Oh…Snap! – Mac Geek Gab
-663](https://www.macobserver.com/podcasts/macgeekgab-663/). Mitt spørsmål er
+Jeg lytter på en podkast som heter Mac Geek Gab, hvor de to programlederene tar
+opp en rekke tekniske spørsmål fra lytterene sine. Sommeren 2017 sendte jeg inn
+et spørsmål hvor jeg forklarte min e-poststrategi som beskrevet ovenfor, og
+spurte om de hadde noen innspill til dette. Du kan lytte til programmet på
+deres nettsider: [Oh…Snap! – Mac Geek Gab 663][macobserver]. Mitt spørsmål er
 det første som tas opp, så du trenger ikke spole.
 
 Har du en Gmail-konto kan noenlunde samme triks brukes der ved å legge til +
 etter adressen din. Les mer her: [3 awesome Gmail address tricks to get more
-out of your email ID -
-TheWindowsCLub](https://www.thewindowsclub.com/gmail-address-tricks).
+out of your email ID - TheWindowsCLub][thewindowsclub].
 
 For å oppsummere: jeg gjør det mest for gøy, men som vi har lært har det også
 en viss verdi. Det er dog veldig nerdete og sært, og jeg ville aldri anbefalt
 noen å gjøre dette med mindre de selv innser verdien i å drive på slik jeg
 gjør. Bedrifter kan selvsagt ha en faktisk verdi av å bruke catch all, men
 erfaringsmessig bruker de ikke å ha det, for meg uvisst hvorfor.
+
+[macobserver]: https://www.macobserver.com/podcasts/macgeekgab-663/
+[thewindowsclub]: https://www.thewindowsclub.com/gmail-address-tricks
