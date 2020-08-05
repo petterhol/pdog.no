@@ -5,6 +5,8 @@ linktitle = "Besøk"
 lastmod = 2020-07-20T17:00:00+02:00
 +++
 
+{{< covid >}}
+
 {{< ingress >}}
 Enten du bare skal innom for å hente noe på Finn, eller du skal besøke meg
 over mange dager, finner du **alt** du trenger her.
