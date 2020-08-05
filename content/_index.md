@@ -8,17 +8,23 @@ lastmod = 2020-07-02T17:00:00
 Hei, og velkommen til nettsiden min. Her finner du all kontaktinformasjon du
 trenger å få til meg. Du kan også lære om mitt enkeltpersonsforetak.
 
-## E-postadresse
+{{< accordion >}}
+
+{{% card header="E-postadresse" %}}
 
 hei@pdog.no
-
+  
 [Stusser du litt på e-postadressen min?](epost)
 
-## Telefonnummer
+{{% /card %}}
+
+{{% card header="Telefonnummer" %}}
 
 [+47&nbsp;926&nbsp;96&nbsp;496](tel:+4792696496)
 
-## Besøks- og postadresse
+{{% /card %}}
+
+{{% card header="Besøks- og postadresse" %}}
 
 Strømsveien 29
 0658 Oslo
@@ -29,24 +35,36 @@ nettsiden for å få detaljert informasjon om hvordan du kommer deg hit.
 Skal du sende en pakke med sporingsnummer? Sett opp en ticket på
 ticket.pdog.no, slik at jeg blir varslet om den.
 
-## Imessage
+{{% /card %}}
+
+{{% card header="Imessage" %}}
 
 +47&nbsp;926&nbsp;96&nbsp;496
 
-## Facebook Messenger
+{{% /card %}}
+
+{{% card header="Facebook Messenger" %}}
 
 Petter Holstad
 
-## Skype
+{{% /card %}}
+
+{{% card header="Skype" %}}
 
 skype@pdog.no
 
-## Instagram
+{{% /card %}}
+
+{{% card header="Instagram" %}}
 
 [petterhol](https://www.instagram.com/petterhol/)
 
 {{< instagram ByYsaCHio2q >}}
 
+
+{{% /card %}}
+
+{{< /accordion >}}
 ## Finn.no
 
 [Gå til min profil for å se vurderinger og annonser.][finn]

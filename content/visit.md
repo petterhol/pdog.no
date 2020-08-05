@@ -1,7 +1,7 @@
 +++
 menu = "main"
 title = "Ivan Bjørndals gate 6, Oslo"
-linktitle = "Besøk"
+linktitle = "Avlegg en visitt"
 lastmod = 2020-07-20T17:00:00+02:00
 +++
 
