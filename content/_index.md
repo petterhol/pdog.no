@@ -2,11 +2,11 @@
 title = "Petter Holstad"
 menu = "main"
 type = "single"
-lastmod = 2020-07-02T17:00:00
+linktitle = "Kontaktinformasjon"
+lastmod = 2020-07-05T20:00:00
 +++
 
-Hei, og velkommen til nettsiden min. Her finner du all kontaktinformasjon du
-trenger å få til meg. Du kan også lære om mitt enkeltpersonsforetak.
+Her finner du min kontaktinformasjon.
 
 {{< accordion >}}
 
@@ -26,8 +26,8 @@ hei@pdog.no
 
 {{% card header="Besøks- og postadresse" %}}
 
-Strømsveien 29
-0658 Oslo
+Ivan Bjørndals gate 6  
+0472 Oslo
 
 Skal du hente noe, levere noe eller besøke meg? Bruk [visit.pdog.no](visit)
 nettsiden for å få detaljert informasjon om hvordan du kommer deg hit.
