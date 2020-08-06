@@ -61,15 +61,17 @@ skype@pdog.no
 
 {{< instagram ByYsaCHio2q >}}
 
-
 {{% /card %}}
 
-{{< /accordion >}}
-## Finn.no
+{{% card header="Finn.no" %}}
 
 [Gå til min profil for å se vurderinger og annonser.][finn]
 
-## Vipps
+[finn]: https://www.finn.no/user/profile/profile.html?id=287595302
+
+{{% /card %}}
+
+{{% card header="Vipps" %}}
 
 Bruk mitt telefonnummer 926&nbsp;96&nbsp;496 eller scann QR-koden under for å
 vippse meg, eller be om penger.
@@ -80,7 +82,9 @@ vippse meg, eller be om penger.
   alt="En QR-kode som viser min personlige Vipps-kode. Inne i QR-koden er det et illustrasjon av en hund."
 >}}
 
-## Holstad Helt og Holdent
+{{% /card %}}
+
+{{% card header="Holstad Helt og Holdent" %}}
 
 Holstad Helt og Holdent er et enkeltpersonsforetak som jeg eier. Det er ingen
 spesiell kontaktinformasjon til selskapet, du kan fint bruke e-post eller
@@ -88,7 +92,11 @@ telefon som er markert lengre opp.
 
 [Besøk oppføringen i Enhetsregisteret.][brreg]
 
-## Lurer du på hvordan du kom inn hit?
+[brreg]: https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915283497
+
+{{% /card %}}
+
+{{% card header="Lurer du på hvordan du kom inn hit?" %}}
 
 Du har sannsynligvis gått inn på en av disse nettsidene:
 
@@ -96,8 +104,10 @@ Du har sannsynligvis gått inn på en av disse nettsidene:
 - petterholstad.no
 - heltogholdent.no
 
+{{% /card %}}
+
+{{< /accordion >}}
+
 ![Portrettbilde av Petter som står på en balkong ved siden av en petunia i
 blomst. I bakgrunnen synes bybebyggelse i Oslo.](petter.jpg)
 
-[finn]: https://www.finn.no/user/profile/profile.html?id=287595302
-[brreg]: https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915283497
