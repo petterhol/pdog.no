@@ -2,6 +2,8 @@
 menu = "main"
 title = "Om e-postadressen"
 linktitle = "E-post"
+Weight = 2
+Parent = "test"
 lastmod = 2020-07-20T17:00:00+02:00
 +++
 

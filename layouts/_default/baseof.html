@@ -31,16 +31,17 @@
 
 <body>
   <header>
-    {{ partial "nav.html" . .Site }}
+    {{ partial "nav.html" . }}
   </header>
+  <br><br>
   <main class="col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content">
-    <h1>{{ .Title }}</h1>
-<div class="alert alert-warning alert-dismissible fade show" role="alert">
-  <strong>Denne siden er ikke ferdig enda!</strong> <br>Det betyr at innholdet på siden kan være utdatert, og noen funksjoner fungerer kanskje ikke som ventet.
+            <div class="alert alert-warning alert-dismissible fade show" role="alert"><b>Du har mye å glede deg til!</b><br>
+ Denne nettsiden er under under utvikling. Den nye nettsiden har mange nye og kule funksjoner. Det meste av siden er oppe og kjøre, men det mangler fremdeles en del funksjoner. Du kan lese mer om nettsidens bakenforliggende systemer og kode <a href="developer.html>">her</a>.
   <button type="button" class="close" data-dismiss="alert" aria-label="Close">
     <span aria-hidden="true">&times;</span>
   </button>
 </div>
+    <h1>{{ .Title }}</h1>
     {{ block "main" . }}
     {{ end }}
   </main>
