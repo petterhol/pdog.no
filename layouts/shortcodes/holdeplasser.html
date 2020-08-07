@@ -1,22 +1,26 @@
+
 <table class="table table-sm" id="collapseHoldeplasser">
     <thead>
         <tr>
             <th>Holdeplass</th>
+            <th>Beskrivelse</th>
             <th>Rute</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Arendalsgata - nærmeste bussholdeplass på Sagene-siden</td>
+            <td>Arendalsgata</td>
             <td class="d-flex flex-wrap">
 		{{ partial "rute.html" (dict "routeNo" "20" "routeType" "bybuss") }}
 		{{ partial "rute.html" (dict "routeNo" "37" "routeType" "bybuss") }}
 		{{ partial "rute.html" (dict "routeNo" "54" "routeType" "bybuss") }}
 		{{ partial "rute.html" (dict "routeNo" "20" "routeType" "nattbuss") }}
             </td>
+             <td>Sagene-siden, beste bussforbindelser</td>
+
         </tr>
         <tr>
-            <td>Sandaker senter - nærmeste trikkeholdeplass på Torshov-siden</td>
+            <td>Sandaker senter</td>
             <td class="d-flex flex-wrap">
 		{{ $routes := dict "11" "tram" "11N" "nattbuss" "12" "tram" "12N" "nattbuss" "13" "tram" }}
 		{{ partial "rute.html" (dict "routeNo" "11" "routeType" "tram") }}
@@ -25,16 +29,19 @@
 		{{ partial "rute.html" (dict "routeNo" "12N" "routeType" "nattbuss") }}
 		{{ partial "rute.html" (dict "routeNo" "13" "routeType" "tram") }}
             </td>
+            <td>Torshov-siden, beste trikkeforbindelser</td>
         </tr>
         <tr>
-            <td>Torshovparken - i tilfelle du må ta 30-bussen er det gangavstand</td>
+            <td>Torshovparken</td>
             <td class="d-flex flex-wrap">
 		{{ partial "rute.html" (dict "routeNo" "20" "routeType" "bybuss") }}
 		{{ partial "rute.html" (dict "routeNo" "30" "routeType" "bybuss") }}
             </td>
+            <td>Kun hvis du må ta 30-bussen</td>
         </tr>
         <tr>
-            <td>Storo - nærmeste knutepunkt med t-bane</td>
+            <td>Storo</td>
+            <td>Nærmeste knutepunkt</td>
             <td class="d-flex flex-wrap">
 		{{ partial "rute.html" (dict "routeNo" "5" "routeType" "metro") }}
 		{{ partial "rute.html" (dict "routeNo" "6" "routeType" "metro") }}

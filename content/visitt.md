@@ -5,12 +5,15 @@ linktitle = "Besøk"
 lastmod = 2020-07-20T17:00:00+02:00
 +++
 
-{{< covid >}}
+{{< underarbeid >}}
 
 {{< ingress >}}
 Enten du bare skal innom for å hente noe på Finn, eller du skal besøke meg
 over mange dager, finner du **alt** du trenger her.
 {{< /ingress >}}
+
+{{< covid >}}
+
 
 ## Kart og kompass
 
@@ -98,6 +101,10 @@ hjelper også til med planleggingen om du er ukjent i Oslo. Hvis du vil finner
 du også en komplett oversikt over mulige transportmidler under, samt
 anbefalinger.
 
+### Sanntidstavle
+
+[Se en sanntidstavle for min bolig.](https://mon.ruter.no/departures/59.93767611327234-10.76438223181862/N4Igrgzgpgwg9gGzAWwHYBkCGBPOYAuIAXPgE5hQA0IAblKRAJZyrEBM1ARnJqQCYRiAbVB8oCHFD4BlfL3wAVRsijEADNQAWjPmIyNUUQUWABfaqhSd6AeQBmAESgAHeWFJH2GkPkb4EqkQgAIIeqHyYCBAA5phyINR8jBCYnAF8CqSYqBDOcKT4ALJwYsZCALrUUKip6cRkFFo6UJmYAMYA1vBIaMR2kdDUEPhwzgAKEm1QAJICwiAActIASkSyoxPtUEQAbADMAOwALCDl5qLikjJyBUoq6k261egGnibmIJbI1qT2Tq4FdxvNjeXz+QIgaTZCIdegAAmk1Xw9ASICSKTSUlaOTyBWKpWElRA1VqUnq5CoIG0YlanW6KFYRH6UUpww2kxmcyIQkWKzWI3GHKIAFYABwARlFwtOpjOQA)
+
 ### Bruk RuterReise sin søkemotor
 
 Skriv inn "Ivan Bjørndals gate 6" i "Fra" eller "Til"-feltet.
@@ -107,6 +114,7 @@ Skriv inn "Ivan Bjørndals gate 6" i "Fra" eller "Til"-feltet.
 ### Tabell med oversikt over holdeplasser
 
 {{< holdeplasser >}}
+
 
 ## Bil, leiebil, drosje
 
