@@ -6,63 +6,25 @@ linktitle = "Kontaktinformasjon"
 lastmod = 2020-07-05T20:00:00
 +++
 
-Her finner du min kontaktinformasjon.
-
 {{< bildepetter>}}
 
-## E-postadresse
+{{< ingress>}}
+Velkommen til min nettside. Jeg heter Petter og her finner du: kontaktinformasjonen min, informasjon om enkeltpersonsforetaket mitt, besøksinformasjon, noen artikler om teknologi jeg har skrevet, samt andre ting jeg har samlet opp gjennom årene.
+{{< /ingress>}}
 
-#### hei@pdog.no
+#### E-postadresse
 
-[Stusser du litt på e-postadressen min?](epost)
+##### hei@pdog.no
 
-## Telefonnummer
+#### Telefonnummer
 
-#### [+47&nbsp;926&nbsp;96&nbsp;496](tel:+4792696496)
+##### [+47&nbsp;926&nbsp;96&nbsp;496](tel:+4792696496)
 
+#### Besøks- og postadresse
 
-## Besøks- og postadresse
-
-#### Ivan Bjørndals gate 6, 0472 Oslo
+##### Ivan Bjørndals gate 6, 0472 Oslo
 
 - [Detaljert veibeskrivelse](visit)  
 - [Sende brev eller pakke](ticket.pdog.no)
 
-## iMessage
-
-+47&nbsp;926&nbsp;96&nbsp;496
-
-## Facebook Messenger
-
-Petter Holstad
-
-## Skype
-
-skype@pdog.no
-
-## Instagram
-
-[petterhol](https://www.instagram.com/petterhol/)
-
-{{< collaps>}}
-
-## Finn.no
-
-{{< finn>}}
-
-### Beer With Me
-[petterhol](https://open.beerwithme.se/#addfriend?email=u2231084@beerwithme.se&name=Petterus)  
-{{< bildebeer>}}
-
-### Google Hangsouts
-
-#### petterholstad@gmail.com
-
-### Signal
-
-#### +4792696496
-
-### WhatsApp
-
-#### +47 926 96 496  
-{{< bildewhatsapp>}}
+{{< knapp-kontaktinfo>}}
