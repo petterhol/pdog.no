@@ -1,9 +1,6 @@
 +++
 title = "Petter Holstad"
-menu = "main"
-type = "single"
-linktitle = "Kontaktinformasjon"
-lastmod = 2020-07-05T20:00:00
+lastmod = 2020-08-05T20:00:00
 +++
 
 {{< bildepetter>}}

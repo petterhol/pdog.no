@@ -33,3 +33,6 @@ Fra utlandet:
 
 #### Eurobonus-poeng
 Hvis du vil betale i EuroBonus-poeng, må du kontakte meg for en avtale.
+
+#### Cola Zero
+Hvis du kan betale i Cola Zero-flasker, kan jeg tilby en vekslingskurs på 5 NOK/liter.
