@@ -1,8 +1,11 @@
 +++
-menu = "main"
 title = "Om Catch-all e-postadresser"
+linkTitle = "E-post: Catch-all"
 Weight = 2
 lastmod = 2020-07-20T17:00:00+02:00
+
+[menu]
+main = { parent = "Tek" }
 +++
 
 {{< ingress >}}
@@ -12,6 +15,7 @@ Synes du e-postadressen jeg bruker er litt rar og annerledes enn det du er vant 
 Jeg eier følgende domener: pdog.no, petterholstad.no og heltogholdent.no, hhv. mitt kallenavn, fulle navn og navn på mitt foretak.
 
 ## Bakgrunn
+
 Hvis du ikke vet det, pdog.no er et domene. ".no" er toppnivådomenet Kongeriket Norge har fått tildelt, mens "pdog" er adressen jeg har registrert selv. Hvem som
 helst kan registrere domener, men noen toppnivådomener har visse
 begrensninger. Tidligere kunne ikke privatpersoner eie ".no"-domener, men det
@@ -31,6 +35,7 @@ i prinsippet sette hva som helst foran.
 Jeg tror det vanligste er at man slår på catch-all for at all epost skal komme frem til mottakeren, selv om den ble skrevet feil, eller epostkontoen er ute av drift. På den forrige arbeidsplassen jeg hadde hvor jeg administrerte e-posttjenestene, hadde vi dette påskrudd for å kunne fange opp alle feilstavinger av diverse e-postadresser, samt e-poster som blir sendt til gamle og utdaterte adresser. Gjennom flere år har vi opprettet og avviklet e-poster til prosjekter, underorganisasjoner, ansatte og andre, som vi slipper å administrere separat med egne kontoer.
 
 ## Min bruk av catch-all
+
 Siden jeg er en privatperson, har jeg ikke det samme behovet for en catch-all-adresse slik som en bedrift eller organisasjon har. Allikevel synes jeg det er interessant å bruke. Hovedformålet er at jeg kan oppgi en unik epostadresse til enhver tjeneste/bedrift jeg registrerer meg på.
 
 ### _Registrering på nettsider_

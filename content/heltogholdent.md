@@ -1,8 +1,10 @@
 +++
 title = "Holstad Helt og Holdent"
-menu = "main"
+linkTitle = "Helt og Holdent"
 lastmod = 2020-07-20T17:00:00+02:00
-weight = 1
+
+[menu]
+main = { weight = 30 }
 +++
 
 {{< ingress>}}

@@ -1,7 +1,11 @@
 +++
 title = "Personvern"
 lastmod = 2020-07-20T17:00:00+02:00
+
+[menu]
+main = { parent = "Diverse" }
 +++
+
 {{< ingress>}}
 Her kan du lese om personvern knytta til nettsiden, samt besøk hos meg.
 {{< /ingress>}}

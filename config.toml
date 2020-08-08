@@ -2,12 +2,3 @@ baseURL = "https://pdog.no"
 languageCode = "nb"
 defaultContentLanguage = "nb"
 title = "Petter Holstad"
-
-[menu]
-
-  [[menu.main]]
-    identifier = "test"
-    name = "This is the blog section"
-    title = "blog section"
-    url = "/test/"
-    weight = -110

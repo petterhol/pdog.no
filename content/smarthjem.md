@@ -8,6 +8,7 @@ Jeg er opptatt av smarthjemsutstyr på et enkelt plan. Det betyr at jeg utvider 
 {{< /ingress>}}
 
 #### Oppsett
+
 - Vanlig trådløs ruter.
 - Switch for flere kablede muligheter.
 - Fiberlinje fra Lynet Internett (500/500).
