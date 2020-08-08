@@ -1,29 +1,33 @@
-<nav class="navbar navbar-expand-sm navbar-light bg-light">
-  <!-- {{ $currentPage := . }} -->
-  <a class="navbar-brand" href="/">Petter Holstad</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-nav" aria-controls="navbar-nav" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="navbar fixed-top navbar-expand-sm navbar-light bg-light">
+  <a class="navbar-brand" href="..">
+    <img src="https://pdog.no/favicon.png" width="30" height="30" class="d-inline-block align-top mr-1" alt="">
+    petterholstad.no • pdog.no
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-nav"
+    aria-controls="navbar-nav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div id="navbar-nav" class="collapse navbar-collapse">
     <div class="navbar-nav">
-    {{ $currentPage := . }}
+      {{ $currentPage := . }}
       {{ range $.Site.Menus.main }}
-        {{ if .HasChildren }}
-        <div class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-            {{ .Pre }} <span>{{ .Name }}</span>
-          </a>
-          <div class="dropdown-menu">
-            {{ range .Children }}
-              <a href="{{ .URL }}" class="dropdown-item">{{ .Weight }} {{ .Name }}</a>
-            {{ end }}
-          </div>
+      {{ if .HasChildren }}
+      <div class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
+          aria-expanded="false">
+          {{ .Pre }} <span>{{ .Name }}</span>
+        </a>
+        <div class="dropdown-menu">
+          {{ range .Children }}
+          <a href="{{ .URL }}" class="dropdown-item">{{ .Weight }} {{ .Name }}</a>
+          {{ end }}
         </div>
-        {{ else }}
-            <a class="nav-item nav-link{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}"
-              href="{{ .URL }}" title="{{ .Title }}">{{ .Weight }} {{ .Name }}</a>
-          
-        {{ end }}
+      </div>
+      {{ else }}
+      <a class="nav-item nav-link{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}"
+        href="{{ .URL }}" title="{{ .Title }}">{{ .Weight }} {{ .Name }}</a>
+
+      {{ end }}
       {{ end }}
     </div>
   </div>
