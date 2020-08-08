@@ -11,23 +11,22 @@
     <div class="navbar-nav">
       {{ $currentPage := . }}
       {{ range $.Site.Menus.main }}
-      {{ if .HasChildren }}
-      <div class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
-          aria-expanded="false">
-          {{ .Pre }} <span>{{ .Name }}</span>
-        </a>
-        <div class="dropdown-menu">
-          {{ range .Children }}
-          <a href="{{ .URL }}" class="dropdown-item">{{ .Weight }} {{ .Name }}</a>
-          {{ end }}
+        {{ if .HasChildren }}
+        <div class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
+            aria-expanded="false">
+            {{ .Pre }} <span>{{ .Name }}</span>
+          </a>
+          <div class="dropdown-menu">
+            {{ range .Children }}
+            <a href="{{ .URL }}" class="dropdown-item">{{ .Name }}</a>
+            {{ end }}
+          </div>
         </div>
-      </div>
-      {{ else }}
-      <a class="nav-item nav-link{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}"
-        href="{{ .URL }}" title="{{ .Title }}">{{ .Weight }} {{ .Name }}</a>
-
-      {{ end }}
+        {{ else }}
+        <a class="nav-item nav-link{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}"
+          href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+        {{ end }}
       {{ end }}
     </div>
   </div>
