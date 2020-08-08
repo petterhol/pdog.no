@@ -8,9 +8,7 @@ main = { parent = "Tek" }
 +++
 
 {{< ingress >}}
-
-Hvis **du** har Apple-produkter, finner du her noen tips til hvordan du kan sikkerhetskopiere innholdet på enhetene dine.
-
+Hvis du har Apple-produkter, finner du her noen tips til hvordan du kan sikkerhetskopiere innholdet på enhetene dine.
 {{< /ingress >}}
 
 ## Begreper
