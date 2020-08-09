@@ -20,11 +20,10 @@ ting jeg har samlet opp gjennom årene.
 
 ##### [+47&nbsp;926&nbsp;96&nbsp;496](tel:+4792696496)
 
+{{< knapp-kontaktinfo>}}
+
 #### Besøks- og postadresse
 
 ##### Ivan Bjørndals gate 6, 0472 Oslo
 
-- [Detaljert veibeskrivelse](visit)  
-- [Sende brev eller pakke](ticket.pdog.no)
-
-{{< knapp-kontaktinfo>}}
+{{< knapp-veibeskrivelse>}}

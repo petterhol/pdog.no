@@ -7,6 +7,7 @@ lastmod = 2020-07-20T17:00:00+02:00
 main = { weight = 20 }
 +++
 
+{{< covid >}}
 {{< underarbeid >}}
 
 {{< ingress >}}
@@ -14,7 +15,6 @@ Enten du bare skal innom for å hente noe på Finn, eller du skal besøke meg
 over mange dager, finner du **alt** du trenger her.
 {{< /ingress >}}
 
-{{< covid >}}
 
 ## Kart og kompass
 
@@ -77,10 +77,14 @@ sykkelrute. For en koseligere rute, gå via Akerselva til du kommer til
 Lilleborg. Du kan bruke mange karttjenester til å lage en sykkelrute, for
 eksempel [Google Maps](https://goo.gl/maps/XujPHW9ShqkvaUCT6).
 
+<<<<<<< Updated upstream
 {{% /card %}}
 
 {{% card header="Oslo bysykkel" %}}
+=======
+Sykkelparkering i stativ utenfor blokka, men pass på at du sykler inn fra den bratte bakken.
 
+### Oslo bysykkel
 Det er flere bysykkelstasjoner i nærheten. Tilbyr dags- og sesongkort, enkel
 opplåsing med app på mobilen. Jeg kan kanskje tilby gratis dagspass, kontakt
 meg i forkant.
@@ -118,9 +122,11 @@ hver enkelt operatør. Her er en oversikt over noen operatører:
 - [Voi](https://www.voiscooters.com/)
 - [Tier](https://www.tier.app/)
 - [Lime](https://www.li.me/)
-- [Circ](https://goflash.com/)
+- [Bird](https://www.bird.co/)
 - [Ryde](https://www.ryde-technology.com/)
 - [Zvipp](https://www.zvipp.no/)
+- [Bolt](https://bolt.eu)
+- [Wind](https://www.wind.co)
 
 {{% /card %}}
 
@@ -139,7 +145,9 @@ anbefalinger.
 
 {{% card header="Sanntidstavle" %}}
 
-[Se en sanntidstavle for min bolig.](https://mon.ruter.no/departures/59.93767611327234-10.76438223181862/N4Igrgzgpgwg9gGzAWwHYBkCGBPOYAuIAXPgE5hQA0IAblKRAJZyrEBM1ARnJqQCYRiAbVB8oCHFD4BlfL3wAVRsijEADNQAWjPmIyNUUQUWABfaqhSd6AeQBmAESgAHeWFJH2GkPkb4EqkQgAIIeqHyYCBAA5phyINR8jBCYnAF8CqSYqBDOcKT4ALJwYsZCALrUUKip6cRkFFo6UJmYAMYA1vBIaMR2kdDUEPhwzgAKEm1QAJICwiAActIASkSyoxPtUEQAbADMAOwALCDl5qLikjJyBUoq6k261egGnibmIJbI1qT2Tq4FdxvNjeXz+QIgaTZCIdegAAmk1Xw9ASICSKTSUlaOTyBWKpWElRA1VqUnq5CoIG0YlanW6KFYRH6UUpww2kxmcyIQkWKzWI3GHKIAFYABwARlFwtOpjOQA)
+[Se Entur-sanntidstavle.](https://tavla.en-tur.no/t/PnVDQGYSsCiPu3B3JRrx)
+
+[Se Ruter-sanntidstavle.](https://mon.ruter.no/departures/59.93767611327234-10.76438223181862/N4Igrgzgpgwg9gGzAWwHYBkCGBPOYAuIAXPgE5hQA0IAblKRAJZyrEBM1ARnJqQCYRiAbVB8oCHFD4BlfL3wAVRsijEADNQAWjPmIyNUUQUWABfaqhSd6AeQBmAESgAHeWFJH2GkPkb4EqkQgAIIeqHyYCBAA5phyINR8jBCYnAF8CqSYqBDOcKT4ALJwYsZCALrUUKip6cRkFFo6UJmYAMYA1vBIaMR2kdDUEPhwzgAKEm1QAJICwiAActIASkSyoxPtUEQAbADMAOwALCDl5qLikjJyBUoq6k261egGnibmIJbI1qT2Tq4FdxvNjeXz+QIgaTZCIdegAAmk1Xw9ASICSKTSUlaOTyBWKpWElRA1VqUnq5CoIG0YlanW6KFYRH6UUpww2kxmcyIQkWKzWI3GHKIAFYABwARlFwtOpjOQA)
 
 {{% /card %}}
 

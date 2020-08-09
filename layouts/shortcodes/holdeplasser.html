@@ -1,67 +1,62 @@
-<!-- The unindented </div> tags are a hack to prevent rendering as <pre> by Hugo -->
-<table class="table table-sm">
-  <thead>
-    <tr>
-      <th>Holdeplass</th>
-      <th>Beskrivelse</th>
-      <th>Rute</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Arendalsgata</td>
-      <td>Sagene-siden, beste bussforbindelser</td>
-      <td>
-        <div class="d-flex flex-wrap">
-          {{ partial "rute.html" (dict "routeNo" "20" "routeType" "bybuss") }}
-          {{ partial "rute.html" (dict "routeNo" "37" "routeType" "bybuss") }}
-          {{ partial "rute.html" (dict "routeNo" "54" "routeType" "bybuss") }}
-          {{ partial "rute.html" (dict "routeNo" "20" "routeType" "nattbuss") }}
-</div>
-      </td>
-    </tr>
-    <tr>
-      <td>Sandaker senter</td>
-      <td>Torshov-siden, beste trikkeforbindelser</td>
-      <td>
-        <div class="d-flex flex-wrap">
-          {{ partial "rute.html" (dict "routeNo" "11" "routeType" "tram") }}
-          {{ partial "rute.html" (dict "routeNo" "11N" "routeType" "nattbuss") }}
-          {{ partial "rute.html" (dict "routeNo" "12" "routeType" "tram") }}
-          {{ partial "rute.html" (dict "routeNo" "12N" "routeType" "nattbuss") }}
-          {{ partial "rute.html" (dict "routeNo" "13" "routeType" "tram") }}
-</div>
-      </td>
-    </tr>
-    <tr>
-      <td>Torshovparken</td>
-      <td>Kun hvis du må ta 30-bussen</td>
-      <td>
-        <div class="d-flex flex-wrap">
-          {{ partial "rute.html" (dict "routeNo" "20" "routeType" "bybuss") }}
-          {{ partial "rute.html" (dict "routeNo" "30" "routeType" "bybuss") }}
-</div>
-      </td>
-    </tr>
-    <tr>
-      <td>Storo</td>
-      <td>Nærmeste knutepunkt</td>
-      <td>
-        <div class="d-flex flex-wrap">
-          {{ partial "rute.html" (dict "routeNo" "5" "routeType" "metro") }}
-          {{ partial "rute.html" (dict "routeNo" "6" "routeType" "metro") }}
-          {{ partial "rute.html" (dict "routeNo" "11" "routeType" "tram") }}
-          {{ partial "rute.html" (dict "routeNo" "11N" "routeType" "nattbuss") }}
-          {{ partial "rute.html" (dict "routeNo" "12" "routeType" "tram") }}
-          {{ partial "rute.html" (dict "routeNo" "12N" "routeType" "nattbuss") }}
-          {{ partial "rute.html" (dict "routeNo" "13" "routeType" "tram") }}
-          {{ partial "rute.html" (dict "routeNo" "23" "routeType" "bybuss") }}
-          {{ partial "rute.html" (dict "routeNo" "24" "routeType" "bybuss") }}
-          {{ partial "rute.html" (dict "routeNo" "56" "routeType" "bybuss") }}
-          {{ partial "rute.html" (dict "routeNo" "56B" "routeType" "bybuss") }}
-          {{ partial "rute.html" (dict "routeNo" "91" "routeType" "bybuss") }}
-</div>
-      </td>
-    </tr>
-  </tbody>
+
+<table class="table table-sm" id="collapseHoldeplasser">
+    <thead>
+        <tr>
+            <th>Holdeplass</th>
+            <th>Ruter</th>
+            <th>Anbefaling</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Arendalsgata</td>
+            <td class="d-flex flex-wrap">
+		{{ partial "rute.html" (dict "routeNo" "20" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "37" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "54" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "20" "routeType" "nattbuss") }}
+            </td>
+             <td>Sagene-siden, gode buss-forbindelser.</td>
+
+        </tr>
+        <tr>
+            <td>Sandaker senter</td>
+            <td class="d-flex flex-wrap">
+		{{ $routes := dict "11" "tram" "11N" "nattbuss" "12" "tram" "12N" "nattbuss" "13" "tram" }}
+		{{ partial "rute.html" (dict "routeNo" "11" "routeType" "tram") }}
+		{{ partial "rute.html" (dict "routeNo" "11N" "routeType" "nattbuss") }}
+		{{ partial "rute.html" (dict "routeNo" "12" "routeType" "tram") }}
+		{{ partial "rute.html" (dict "routeNo" "12N" "routeType" "nattbuss") }}
+		{{ partial "rute.html" (dict "routeNo" "13" "routeType" "tram") }}
+            </td>
+            <td>Torshov-siden, gode trikke-forbindelser.</td>
+        </tr>
+        <tr>
+            <td>Torshovparken</td>
+            <td class="d-flex flex-wrap">
+		{{ partial "rute.html" (dict "routeNo" "20" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "30" "routeType" "bybuss") }}
+            </td>
+            <td>Kun hvis du må ta 30-bussen.</td>
+        </tr>
+        <tr>
+            <td>Storo</td>
+            <td class="d-flex flex-wrap">
+		{{ partial "rute.html" (dict "routeNo" "5" "routeType" "metro") }}
+		{{ partial "rute.html" (dict "routeNo" "6" "routeType" "metro") }}
+		{{ partial "rute.html" (dict "routeNo" "11" "routeType" "tram") }}
+		{{ partial "rute.html" (dict "routeNo" "11N" "routeType" "nattbuss") }}
+		{{ partial "rute.html" (dict "routeNo" "12" "routeType" "tram") }}
+		{{ partial "rute.html" (dict "routeNo" "12N" "routeType" "nattbuss") }}
+		{{ partial "rute.html" (dict "routeNo" "13" "routeType" "tram") }}
+		{{ partial "rute.html" (dict "routeNo" "23" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "24" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "56" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "56B" "routeType" "bybuss") }}
+		{{ partial "rute.html" (dict "routeNo" "91" "routeType" "bybuss") }}
+            </td>
+                        <td>Nærmeste knutepunkt.</td>
+
+        </tr>
+    </tbody>
 </table>
