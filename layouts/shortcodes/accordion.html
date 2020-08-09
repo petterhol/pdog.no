@@ -1,3 +1,4 @@
-<div class="accordion">
+{{ $id := printf "accordion-%d" .Ordinal }}
+<div class="accordion" id="{{ $id }}">
   {{ .Inner }}
 </div>
