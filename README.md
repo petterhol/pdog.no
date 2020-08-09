@@ -15,5 +15,5 @@ cd pdog.no
 hugo
 ```
 
-Denne kommandoen genererer alle filene som hører til nettsiden i en mappe ved navn `public`.
-Innholdet i `public` kan nå kopieres til webhotellet.
+Denne kommandoen genererer alle filene som hører til nettsiden i en mappe ved
+navn `public`. Innholdet i `public` kan nå kopieres til webhotellet.
