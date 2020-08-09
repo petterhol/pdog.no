@@ -2,3 +2,6 @@ baseURL = "https://pdog.no"
 languageCode = "nb"
 defaultContentLanguage = "nb"
 title = "Petter Holstad"
+
+[markup.goldmark.renderer]
+unsafe = true
