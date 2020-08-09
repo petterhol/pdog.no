@@ -1,15 +1,15 @@
 +++
 title = "Petter Holstad"
-menu = "main"
-type = "single"
-linktitle = "Kontaktinformasjon"
-lastmod = 2020-07-05T20:00:00
+lastmod = 2020-08-05T20:00:00
 +++
 
 {{< bildepetter>}}
 
 {{< ingress>}}
-Velkommen til min nettside. Jeg heter Petter og her finner du: kontaktinformasjonen min, informasjon om enkeltpersonsforetaket mitt, besøksinformasjon, noen artikler om teknologi jeg har skrevet, samt andre ting jeg har samlet opp gjennom årene.
+Velkommen til min nettside. Jeg heter Petter og her finner du:
+kontaktinformasjonen min, informasjon om enkeltpersonsforetaket mitt,
+besøksinformasjon, noen artikler om teknologi jeg har skrevet, samt andre
+ting jeg har samlet opp gjennom årene.
 {{< /ingress>}}
 
 #### E-postadresse

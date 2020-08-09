@@ -1,36 +1,33 @@
-<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
- <a class="navbar-brand" href="..">    <img src="https://pdog.no/favicon.png" width="30" height="30" class="d-inline-block align-top" alt="">     							   &nbsp;&nbsp;<b>petterholstad.no • pdog.no</b></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="navbar fixed-top navbar-expand-sm navbar-light bg-light">
+  <a class="navbar-brand" href="..">
+    <img src="https://pdog.no/favicon.png" width="30" height="30" class="d-inline-block align-top mr-1" alt="">
+    petterholstad.no • pdog.no
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-nav"
+    aria-controls="navbar-nav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse" id="navbarNavDropdown">
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link" href="../kontaktinfo">Kontaktinformasjon</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="../visitt">Ivan Bjørndals gate 6</a>
-      </li>      
-      <li class="nav-item">
-        <a class="nav-link" href="../heltogholdent">Helt og Holdent</a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Tek
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="../catchall">E-post: Catch-all</a>
-          <a class="dropdown-item" href="../sikkerhetskopi">Sikkerhetskopiering</a>
-          
-                <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Diverse
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="../utvikler">Utvikler</a>
-          <a class="dropdown-item" href="../personvern">Personvern</a>
+  <div id="navbar-nav" class="collapse navbar-collapse">
+    <div class="navbar-nav">
+      {{ $currentPage := . }}
+      {{ range $.Site.Menus.main }}
+        {{ if .HasChildren }}
+        <div class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true"
+            aria-expanded="false">
+            {{ .Pre }} <span>{{ .Name }}</span>
+          </a>
+          <div class="dropdown-menu">
+            {{ range .Children }}
+            <a href="{{ .URL }}" class="dropdown-item">{{ .Name }}</a>
+            {{ end }}
+          </div>
         </div>
-      </li>
-    </ul>
+        {{ else }}
+        <a class="nav-item nav-link{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}"
+          href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
   </div>
 </nav>
