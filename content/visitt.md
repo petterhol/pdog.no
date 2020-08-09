@@ -16,7 +16,6 @@ over mange dager, finner du **alt** du trenger her.
 
 {{< covid >}}
 
-
 ## Kart og kompass
 
 Det finnes mange karttjenester, og her får du et lite utvalg av dem.
@@ -80,12 +79,21 @@ Anbefaler å laste ned [Oslo Bysykkel-appen](https://oslobysykkel.no/app).
 {{< img
     class="img-fluid"
     src="/bysykkel.jpg"
-    alt="Bildet viser en mann på en Bysykkel fra Oslo Bysykkel. Mannen sykler ikke, men står oppreist med sykkelen mellom beina. Mannen har hendene opp og smiler. Bildet er tatt juni kl. 23.55, og det er litt lyst ute fortsatt. Sykkelen og mannen er oppå operataket i Bjørvika i Oslo. I bakgrunnen vises Oslofjorden, med båter, opplyste boligblokker og generelt havneområde. Til venstre ser vi Kongshavn videregående skole, og litt til høyre skimtes Hovedøya. Trykk på bildet for å se det i full størrelse."
+    alt=`Bildet viser en mann på en Bysykkel fra Oslo Bysykkel. Mannen sykler
+    ikke, men står oppreist med sykkelen mellom beina. Mannen har hendene opp
+    og smiler. Bildet er tatt juni kl. 23.55, og det er litt lyst ute
+    fortsatt. Sykkelen og mannen er oppå operataket i Bjørvika i Oslo. I
+    bakgrunnen vises Oslofjorden, med båter, opplyste boligblokker og
+    generelt havneområde. Til venstre ser vi Kongshavn videregående skole, og
+    litt til høyre skimtes Hovedøya. Trykk på bildet for å se det i full
+    størrelse.`
     >}}
 
 ### Elektrisk sparkesykkelutleie
 
-I Oslo finnes det flere operatører som tilbyr utleie av elektriske sparkesykler. Sjekk priser og vilkår (herunder parkering på min bolig) hos hver enkelt operatør. Her er en oversikt over noen operatører:
+I Oslo finnes det flere operatører som tilbyr utleie av elektriske
+sparkesykler. Sjekk priser og vilkår (herunder parkering på min bolig) hos
+hver enkelt operatør. Her er en oversikt over noen operatører:
 
 - [Voi](https://www.voiscooters.com/)
 - [Tier](https://www.tier.app/)
@@ -116,7 +124,6 @@ Skriv inn "Ivan Bjørndals gate 6" i "Fra" eller "Til"-feltet.
 ### Tabell med oversikt over holdeplasser
 
 {{< holdeplasser >}}
-
 
 ## Bil, leiebil, drosje
 
@@ -176,9 +183,11 @@ Det finnes mange leiebilaktører i Oslo, men jeg anbefaler følgende:
 
 - Tradisjonelle bilutleieselskaper: AVIS, Hertz, Europcar, Sixt.
 - MoveAbout tilbyr elbiler på timesbasis, blant annet på Oslo S.
-- Vy Bybil / Green Mobility tilbyr elbiler på minuttbasis, som kan parkeres på offentlige parkeringsplasser.
+- Vy Bybil / Green Mobility tilbyr elbiler på minuttbasis, som kan parkeres
+  på offentlige parkeringsplasser.
 - Hertz BilPool og Hyre tilbyr alle slags biler på timesbasis, mange steder i Oslo.
-- Nabobil og Hygglo er nettsider hvor privatpersoner leier ut bilene sine. Sikkert en god del biler i nærheten.
+- Nabobil og Hygglo er nettsider hvor privatpersoner leier ut bilene sine.
+  Sikkert en god del biler i nærheten.
 
 ### Drosje
 
