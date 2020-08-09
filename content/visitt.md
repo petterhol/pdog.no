@@ -20,11 +20,15 @@ over mange dager, finner du **alt** du trenger her.
 
 Det finnes mange karttjenester, og her får du et lite utvalg av dem.
 
-### Se det på Google Maps
+{{< accordion >}}
+
+{{% card header="Se det på Google Maps" %}}
 
 {{< googlemaps >}}
 
-### Lenker til karttjenester
+{{% /card %}}
+
+{{% card header="Lenker til karttjenester" %}}
 
 Du kommer direkte til huset i kartene/bildene ved å klikke på lenkene under:
 
@@ -37,13 +41,23 @@ Du kommer direkte til huset i kartene/bildene ved å klikke på lenkene under:
 - [Statens Vegvesen](https://www.vegvesen.no/trafikkbeta?lat=59.93754&long=10.76466&zoom=15&listView=false)
 - [Norgeskart.no](https://www.norgeskart.no/#!?project=norgeskart&layers=1004&zoom=12&lat=6652028.41&lon=263425.49&sok=ivan%20bj%C3%B8rndals%20gate%206&markerLat=6652028.409132199&markerLon=263425.4918123913&panel=searchOptionsPanel&showSelection=false)
 
-### Koordinater
+{{% /card %}}
+
+{{% card header="Koordinater" %}}
 
 Hvis du er så hardcore at du trenger koordinater, har du dem her.
 
 59.937556, 10.764625
 
+{{% /card %}}
+
+{{< /accordion >}}
+
 ## Gå, sykle eller sparkesykle?
+
+{{< accordion >}}
+
+{{% card header="Gange" %}}
 
 ### Gange
 
@@ -53,7 +67,9 @@ gangrute. For en koseligere rute, gå via Akerselva til du kommer til
 Lilleborg. Du kan bruke mange karttjenester til å lage en gangrute, for
 eksempel [Google Maps](https://goo.gl/maps/ZV331iMTMKLFBKtD7).
 
-### Egen sykkel
+{{% /card %}}
+
+{{% card header="Egen sykkel" %}}
 
 Det er mulig å sykle til boligen fra hvor som helst i Oslo. Fra sentrum: Ca.
 en halvtime. Legg merke til at det er minst 86 meter stigning ved effektiv
@@ -61,7 +77,9 @@ sykkelrute. For en koseligere rute, gå via Akerselva til du kommer til
 Lilleborg. Du kan bruke mange karttjenester til å lage en sykkelrute, for
 eksempel [Google Maps](https://goo.gl/maps/XujPHW9ShqkvaUCT6).
 
-### Oslo bysykkel
+{{% /card %}}
+
+{{% card header="Oslo bysykkel" %}}
 
 Det er flere bysykkelstasjoner i nærheten. Tilbyr dags- og sesongkort, enkel
 opplåsing med app på mobilen. Jeg kan kanskje tilby gratis dagspass, kontakt
@@ -89,7 +107,9 @@ Anbefaler å laste ned [Oslo Bysykkel-appen](https://oslobysykkel.no/app).
     størrelse.`
     >}}
 
-### Elektrisk sparkesykkelutleie
+{{% /card %}}
+
+{{% card header="Elektrisk sparkesykkelutleie" %}}
 
 I Oslo finnes det flere operatører som tilbyr utleie av elektriske
 sparkesykler. Sjekk priser og vilkår (herunder parkering på min bolig) hos
@@ -102,6 +122,10 @@ hver enkelt operatør. Her er en oversikt over noen operatører:
 - [Ryde](https://www.ryde-technology.com/)
 - [Zvipp](https://www.zvipp.no/)
 
+{{% /card %}}
+
+{{< /accordion >}}
+
 ## Kollektivtrafikk
 
 Det finnes mange måter å komme seg hit på. I hovedsak er det buss og trikk,
@@ -111,23 +135,35 @@ hjelper også til med planleggingen om du er ukjent i Oslo. Hvis du vil finner
 du også en komplett oversikt over mulige transportmidler under, samt
 anbefalinger.
 
-### Sanntidstavle
+{{< accordion >}}
+
+{{% card header="Sanntidstavle" %}}
 
 [Se en sanntidstavle for min bolig.](https://mon.ruter.no/departures/59.93767611327234-10.76438223181862/N4Igrgzgpgwg9gGzAWwHYBkCGBPOYAuIAXPgE5hQA0IAblKRAJZyrEBM1ARnJqQCYRiAbVB8oCHFD4BlfL3wAVRsijEADNQAWjPmIyNUUQUWABfaqhSd6AeQBmAESgAHeWFJH2GkPkb4EqkQgAIIeqHyYCBAA5phyINR8jBCYnAF8CqSYqBDOcKT4ALJwYsZCALrUUKip6cRkFFo6UJmYAMYA1vBIaMR2kdDUEPhwzgAKEm1QAJICwiAActIASkSyoxPtUEQAbADMAOwALCDl5qLikjJyBUoq6k261egGnibmIJbI1qT2Tq4FdxvNjeXz+QIgaTZCIdegAAmk1Xw9ASICSKTSUlaOTyBWKpWElRA1VqUnq5CoIG0YlanW6KFYRH6UUpww2kxmcyIQkWKzWI3GHKIAFYABwARlFwtOpjOQA)
 
-### Bruk RuterReise sin søkemotor
+{{% /card %}}
+
+{{% card header="Bruk RuterReise sin søkemotor" %}}
 
 Skriv inn "Ivan Bjørndals gate 6" i "Fra" eller "Til"-feltet.
 
 {{< ruterreise >}}
 
-### Tabell med oversikt over holdeplasser
+{{% /card %}}
+
+{{% card header="Tabell med oversikt over holdeplasser" %}}
 
 {{< holdeplasser >}}
 
+{{% /card %}}
+
+{{< /accordion >}}
+
 ## Bil, leiebil, drosje
 
-### Veibeskrivelse med bil
+{{< accordion >}}
+
+{{% card header="Veibeskrivelse med bil" %}}
 
 Disse veibeskrivelsene tar utgangspunkt at du er ukjent i Oslo, og følger
 derfor de største veiene, selv om det nødvendigvis ikke er den absolutt mest
@@ -169,7 +205,9 @@ Kommer fra sørvest på E18:
 - Etter at du har passert frisøren, ta til høyre inn i Ivan Bjørndals gate.
 - Min bolig er inn den første veien inn til blokkene. Parkering i området.
 
-### Parkering
+{{% /card %}}
+
+{{% card header="Parkering" %}}
 
 Det er parkering mot betaling inne på Lilleborg-området. Parkeringsautomater
 finnes.
@@ -177,7 +215,9 @@ finnes.
 Gateparkering på Oslo kommunes parkeringsplasser finnes før man kjører inn på
 Lilleborg-området, som på Torshov, Sagene, Bjølsen.
 
-### Leiebil
+{{% /card %}}
+
+{{% card header="Leiebil" %}}
 
 Det finnes mange leiebilaktører i Oslo, men jeg anbefaler følgende:
 
@@ -189,7 +229,9 @@ Det finnes mange leiebilaktører i Oslo, men jeg anbefaler følgende:
 - Nabobil og Hygglo er nettsider hvor privatpersoner leier ut bilene sine.
   Sikkert en god del biler i nærheten.
 
-### Drosje
+{{% /card %}}
+
+{{% card header="Drosje" %}}
 
 Det finnes mange drosjeselskaper i Oslo. Noen tilbyr også apper.
 
@@ -204,7 +246,9 @@ Det finnes mange drosjeselskaper i Oslo. Noen tilbyr også apper.
 - [0-TAXI](https://www.0-taxi.no/), tilbyr app, bestilling på telefon:
   [460&nbsp;08&nbsp;294](tel:46008294).
 
-### Haiking
+{{% /card %}}
+
+{{% card header="Haiking" %}}
 
 Hvis du haiker til meg, er det kanskje mest naturlig å bli sluppet av på
 Storo ved Ring 3. Ellers er det å bli sluppet av i sentrale Oslo også en god
@@ -214,3 +258,7 @@ For dirkete tilbakemeldinger på denne siden, skriv en epost til
 visit@pdog.no. Spesielt glad for nye forslag til reisemetoder.
 
 Ellers besøk min hjemmeside: [pdog.no](https://pdog.no).
+
+{{% /card %}}
+
+{{< /accordion >}}
