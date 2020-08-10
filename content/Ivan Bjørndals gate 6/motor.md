@@ -8,6 +8,8 @@ main = { parent = "Ivan Bjørndals gate 6" }
 
 {{< covid >}}
 
+{{< navbar-visit-motor >}}
+
 {{< ingress >}}
 Hvis du har egen bil, blir kjørt, eller trenger bil mens du er hos meg, får du fullstendig oversikt her.
 {{< /ingress >}}

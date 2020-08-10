@@ -8,6 +8,8 @@ main = { parent = "Ivan Bjørndals gate 6" }
 
 {{< covid >}}
 
+{{< navbar-visit-kollektivt >}}
+
 {{< ingress >}}
 Det finnes mange måter å komme seg hit på. I hovedsak er det buss og trikk,
 men T-banen er også tilgjengelig. Jeg anbefaler at du bruker søkemotoren
@@ -17,11 +19,13 @@ du også en komplett oversikt over mulige transportmidler under, samt
 anbefalinger.
 {{< /ingress >}}
 
-Her er en tabell som illustrerer alle reisemulighetene:
+{{< accordion >}}
+
+{{% card header="Holdeplasser" %}}
 
 {{< holdeplasser >}}
 
-{{< accordion >}}
+{{% /card %}}
 
 {{% card header="Bruk RuterReise sin søkemotor" %}}
 

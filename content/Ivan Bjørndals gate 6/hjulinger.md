@@ -8,6 +8,8 @@ main = { parent = "Ivan Bjørndals gate 6" }
 
 {{< covid >}}
 
+{{< navbar-visit-hjulinger >}}
+
 {{< ingress >}}
 Du kan selvfølgelig gå, sykle eller sparkesykle til meg.
 {{< /ingress >}}
