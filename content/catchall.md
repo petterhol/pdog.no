@@ -1,11 +1,9 @@
 +++
 title = "Om Catch-all e-postadresser"
 linkTitle = "E-post: Catch-all"
-Weight = 2
 lastmod = 2020-07-20T17:00:00+02:00
-
 [menu]
-main = { parent = "Tek" }
+main = { parent = "Teknologi" }
 +++
 
 {{< ingress >}}
