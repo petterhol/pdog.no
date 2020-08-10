@@ -40,7 +40,6 @@ Foretaket har en inaktiv [Facebook-profil][facebook].
 {{< img
     class="img-fluid"
     src="/hhh.png"
-<<<<<<< Updated upstream
     width="100px"
     align="right"
     alt="Bildet viser logoen til Holstad Helt og Holdent."
