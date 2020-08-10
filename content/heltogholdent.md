@@ -18,22 +18,24 @@ kontaktinformasjon og logoen til selskapet.
 
 Foretaket er registrert i Brønnøysundregistrene med [organisasjonsnummer 915&nbsp;283&nbsp;497](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915283497).
 
-
 #### Adresse
+
 Holstad Helt og Holdent  
 c/o Petter Holstad  
 Ivan Bjørndals gate 6  
 0472 Oslo
 
 #### E-postadresse
+
 [hei@heltogholdent.no](mailto:hei@heltogholdent.no)
 
 #### Telefonnummer
+
 [+47&nbsp;926&nbsp;96&nbsp;496](tel:+4792696496)
 
 #### Facebook
+
 Foretaket har en inaktiv [Facebook-profil][facebook].
->>>>>>> Stashed changes
 
 #### Logo
 
