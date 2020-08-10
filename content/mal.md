@@ -8,3 +8,5 @@ Ingress.
 {{< /ingress>}}
 
 Brødtekst.
+
+{{< skjema >}}
