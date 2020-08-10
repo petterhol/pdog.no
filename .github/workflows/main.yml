@@ -25,4 +25,12 @@ jobs:
       uses: nosborn/github-action-markdown-cli@v1.1.1
       with:
         files: .
-        config_file: ".markdownlint.yaml"
+        config_file: ".markdownlint.json"
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.68.3'
+
+    - name: Build
+      run: hugo --minify
