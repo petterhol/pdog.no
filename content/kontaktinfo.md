@@ -7,7 +7,7 @@ lastmod = 2020-08-12T12:00:00
 main = { weight = 1, parent = "Petter"}
 +++
 
-{{< ingress>}}
+{{< ingress >}}
 Det finnes mange måter å komme i kontakt med meg på. Her er et lite utvalg.
 {{< /ingress >}}
 

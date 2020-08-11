@@ -63,7 +63,8 @@ Kommer fra sørvest på E18:
 
 {{% card header="Parkering" %}}
 
-Lilleborg-området er en privat vei. Parkering i gata er 1 time gratis, deretter betaling per time til automat eller i EasyPark-appen.
+Lilleborg-området er en privat vei. Parkering i gata er 1 time gratis, deretter betaling per time
+til automat eller i EasyPark-appen.
 
 Ved lengre besøk kan jeg kanskje få deg inn i garasjen for en gjesteparkering på 4 timer før avgift løper.
 
