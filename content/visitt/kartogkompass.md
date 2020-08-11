@@ -11,7 +11,8 @@ main = { parent = "Ivan Bjørndals gate 6", weight = 1}
 {{< navbar-visit-kart >}}
 
 {{< ingress >}}
-Navigering bare med kart og kompass er en mulighet. Under finner du alle karttjenester jeg kjenner til for Norge, samt koordinater.
+Navigering bare med kart og kompass er en mulighet. Under finner du alle karttjenester jeg
+kjenner til for Norge, samt koordinater.
 {{< /ingress >}}
 
 {{< accordion >}}
@@ -57,4 +58,10 @@ Hvis du er så hardcore at du trenger koordinater, har du dem her.
 
 {{% /card %}}
 
+<<<<<<< HEAD:content/visitt/kartogkompass.md
 {{< /accordion >}}
+=======
+{{< /accordion >}}
+
+{{< innspill >}}
+>>>>>>> 131c136dfe68111b04d55756d0c5765a37438de9:content/visit/kartogkompass.md

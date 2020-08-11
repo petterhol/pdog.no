@@ -1,6 +1,8 @@
 +++
 title = "Utvikler"
-lastmod = 2020-08-12T12:00:00
+lastmod = 2020-07-20T17:00:00+02:00
+[menu]
+main = { parent = "Diverse" }
 +++
 
 {{< ingress >}}
@@ -8,8 +10,6 @@ Hvis du er utvikler og lurer på hvordan siden er satt opp, finner du all inform
 {{< /ingress >}}
 
 ### v2
-
-Lansert 12. august 2020.
 
 #### Systemer
 
@@ -19,8 +19,6 @@ Den nåværende versjonen av nettsiden er bygget på et
 [Hugo](https://gohugo.io). Prosjektet ligger offentlig tilgjengelig på
 [GitHub](https://github.com/Stigjb/pdog.no). Alt ligger på webhotellet mitt gjennom
 [Domeneshop](https://domene.shop).
-
-På min Mac bruker jeg appene [BBEdit](https://www.barebones.com/products/bbedit/) til å redigere .md- og .html-filene, [Pixelmator](https://www.pixelmator.com) til bildemanipulering og [FileZilla](https://filezilla-project.org) til FTP-overføringer.
 
 #### Status  
 
@@ -35,9 +33,6 @@ Alle tekniske installasjoner er gjort av Stig Johan Berggren. Det redaksjonelle 
 skrevet og utformet av Petter Holstad, med diverse innspill.
 
 ### v1
-<<<<<<< HEAD
-Siden brukte ren HTML- og CSS-koding. Mye av kodingen ble gjort av Stig Johan Berggren, mens det redaksjonelle innholdet ble i hovedsak utformet av Petter Holstad, med diverse innspill.
-=======
 
 Siden brukte ren HTML- og CSS-koding. Mye av kodingen ble gjort av Stig Johan Berggren, mens det
 redaksjonelle innholdet ble i hovedsak utformet av Petter Holstad, med diverse innspill.
@@ -48,4 +43,3 @@ Hvis du vil komme med redaksjonell eller teknisk hjelp til siden, hvis du har no
 forespørsler, kan jeg hjelpe deg.
 
 {{< knapp-kontaktinfo >}}
->>>>>>> 131c136dfe68111b04d55756d0c5765a37438de9
