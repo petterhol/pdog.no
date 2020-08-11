@@ -1,6 +1,6 @@
 +++
 title = "Petter Holstad"
-lastmod = 2020-08-05T20:00:00
+lastmod = 2020-08-12T12:00:00
 +++
 
 {{< bildepetter>}}

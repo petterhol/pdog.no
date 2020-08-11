@@ -1,23 +1,23 @@
 +++
 title = "Personvern"
-lastmod = 2020-07-20T17:00:00+02:00
-
-[menu]
-main = { parent = "Diverse" }
+lastmod = 2020-08-12T12:00:00
 +++
 
 {{< ingress >}}
 Her kan du lese om personvern knytta til nettsiden, samt besøk hos meg.
 {{< /ingress >}}
 
+{{< underarbeid >}}
+
 ## Nettsiden du er på nå
 
 Nettsiden installerer ingen lokale elementer, informasjonskapsler,
-analyseverktøy eller liknende. Det finnes ingen innloggingsmuligheter, eller
-anledning til å legge fra seg informasjon.
+analyseverktøy eller liknende. Det finnes ingen innloggingsmuligheter.
 
-Allikevel kan det være at noe av din data blir snappet opp av eksterne lenker
-og innebygde elementer. Lenkene kan du se selv, men her er en liste over
+Jeg bruker et kontaktskjema flere steder rundt om kring på siden. Dette skjemaet bruker et script fra [Domeneshop](https://domene.shop/faq?id=61&section=21), og sender e-poster til meg. Jeg får e-postene direkte. Innholdet, samt personopplysningene du har valgt å legge ved, blir bare brukt til det formålet som var klart da du sendte inn skjemaet. Utover e-postkassen min, blir ikke innholdet i skjemaene lagret noe annet sted.
+
+Det kan være at noe av din data blir snappet opp av eksterne lenker
+og innebygde elementer. Jeg kan ikke liste alle eksterne lenker, men her er en liste over
 innebygde elementer:
 
 - Ruters reiseforslag kan være underlagt [Personvern i Ruters tjenester](https://ruter.no/fa-hjelp/vilkar/personvern/)
