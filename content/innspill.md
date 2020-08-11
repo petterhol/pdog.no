@@ -3,10 +3,10 @@ title = "Innspill og tilbakemeldinger"
 lastmod = 2020-08-12T12:00:00
 +++
 
-{{< ingress>}}
+{{< ingress >}}
 Har du innspill eller tilbakemeldinger til denne nettsiden? Vil du delta i testing av ny
 funksjonalitet? Har du redaksjonelle forslag?
-{{< /ingress>}}
+{{< /ingress >}}
 
 #### Teknisk
 

@@ -6,12 +6,12 @@ lastmod = 2020-08-12T12:00:00
 main = { weight = 30 }
 +++
 
-{{< ingress>}}
+{{< ingress >}}
 Jeg eier et enkeltpersonsforetak som heter **Holstad Helt og Holdent**.
 Foretaket hadde tidligere navnet Holstad Tjenester. For øyeblikket driver jeg
 ingen virksomhet gjennom foretaket. På denne siden finner du
 kontaktinformasjon og logoen til selskapet.
-{{< /ingress>}}
+{{< /ingress >}}
 
 #### Offentlig registrering
 

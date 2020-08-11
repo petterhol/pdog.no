@@ -5,11 +5,11 @@ lastmod = 2020-08-12T12:00:00
 main = { parent = "Diverse" }
 +++
 
-{{< ingress>}}
+{{< ingress >}}
 [The Tim Traveller](https://www.youtube.com/c/TheTimTraveller/) er en YouTube-kanal som fokuserer
 på tre temaer: reising, turvandring og transport. Videoene tar ofte for seg et fysisk sted. For å
 kunne besøke noen av de samme stedene som Tim har gjort, har jeg laget et Google My Maps-kart.
-{{< /ingress>}}
+{{< /ingress >}}
 
 Ved å trykke på punktene i kartet, kan man se hva det er, lese beskrivelsen av YouTube-videoen og
 se en lenke til YouTube-videoen.
@@ -23,10 +23,10 @@ Kartet er delt inn i tre kategorier (farvekodet):
 - Grenser (morsomme og rare grenser).
 - Alt annet av bygninger, steder, monumenter.
 
-{{< timtraveller>}}
+{{< timtraveller >}}
 
 ### Bidrag, spørsmål eller forespørsler?
 
 Hvis du har noen bidrag, hvis du har noen spørsmål eller forespørsler, kan jeg hjelpe deg.
 
-{{< knapp-kontaktinfo>}}
+{{< knapp-kontaktinfo >}}
