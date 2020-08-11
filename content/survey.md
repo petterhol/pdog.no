@@ -8,7 +8,7 @@ den direkte [her](https://forms.gle/pe3y4GiMc9Ee9Feb8).
 
 {{< survey >}}
 
-###### Konkurransens trekninger og tidligere vinnere
+###### Konkurransens trekninger og tidligere vinnere:
 
 Trekning 1. juli 2019: Jasmine R. W.
 Trekning 1. januar 2020: Anonym.

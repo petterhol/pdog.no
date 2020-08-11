@@ -3,14 +3,14 @@ title = "Betalingsmuligheter"
 lastmod = 2020-08-12T12:00:00
 +++
 
-{{< ingress >}}
+{{< ingress>}}
 Hvis du skylder meg penger, finner du betalingsmulighene dine her.
 Sorteringen er basert på foretrukken måte for meg å motta pengene på.
-{{< /ingress >}}
+{{< /ingress>}}
 
 #### Vipps
 
-{{< bildevipps >}}
+{{< bildevipps>}}
 
 Det enkleste og letteste er om du betaler med Vipps. Da kan transaksjonen
 bekreftes en gang. For å søke meg opp, kan du bruke mitt telefonnummer:

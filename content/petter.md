@@ -6,9 +6,9 @@ main = { weight = 10 }
 
 +++
 
-{{< ingress >}}
+{{< ingress>}}
 Ingress.
-{{< /ingress >}}
+{{< /ingress>}}
 
 Brødtekst.
 

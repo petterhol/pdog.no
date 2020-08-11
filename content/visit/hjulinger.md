@@ -14,6 +14,7 @@ main = { parent = "Ivan Bjørndals gate 6", weight = 2}
 Du kan selvfølgelig gå, sykle eller sparkesykle til meg.
 {{< /ingress >}}
 
+
 ## Gangruter
 
 {{< accordion >}}
@@ -29,6 +30,8 @@ eksempel [Google Maps](https://goo.gl/maps/ZV331iMTMKLFBKtD7).
 {{% /card %}}
 
 {{< /accordion >}}
+
+<br>
 
 ## Sykkel
 
@@ -50,7 +53,6 @@ Sykkelparkering i stativ utenfor blokka, men pass på at du sykler inn fra den b
 {{% card header="Oslo bysykkel" %}}
 
 ### Oslo bysykkel
-
 Det er flere bysykkelstasjoner i nærheten. Tilbyr dags- og sesongkort, enkel
 opplåsing med app på mobilen. Jeg kan kanskje tilby gratis dagspass, kontakt
 meg i forkant.
@@ -100,3 +102,4 @@ hver enkelt operatør. Her er en oversikt over noen operatører:
 {{< /accordion >}}
 
 {{< innspill >}}
+

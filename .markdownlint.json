@@ -1,8 +1,5 @@
 {
-    "no-trailing-punctuation": {
+    "MD026": {
         "punctuation": ".,;:!"
-    },
-    "line-length": {
-        "line_length": 100
     }
 }
