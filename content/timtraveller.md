@@ -23,9 +23,6 @@ Kartet er delt inn i tre kategorier (farvekodet):
 - Grenser (morsomme og rare grenser).
 - Alt annet av bygninger, steder, monumenter.
 
-<<<<<<< HEAD
-{{< timtraveller>}}
-=======
 {{< timtraveller >}}
 
 ### Bidrag, spørsmål eller forespørsler?
@@ -33,4 +30,3 @@ Kartet er delt inn i tre kategorier (farvekodet):
 Hvis du har noen bidrag, hvis du har noen spørsmål eller forespørsler, kan jeg hjelpe deg.
 
 {{< knapp-kontaktinfo >}}
->>>>>>> 131c136dfe68111b04d55756d0c5765a37438de9

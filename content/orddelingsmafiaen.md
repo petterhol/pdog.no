@@ -5,13 +5,7 @@ lastmod = 2020-08-12T12:00:00
 main = { parent = "Diverse" }
 +++
 
-<<<<<<< HEAD
 {{< underarbeid >}}
-=======
-{{< ingress >}}
-Ingress.
-{{< /ingress >}}
->>>>>>> 131c136dfe68111b04d55756d0c5765a37438de9
 
 {{< ingress >}}
 Av irritasjon på orddelingsfeil i samfunnet, startet jeg og en kompis nettsiden Orddelingsmafiaen - som holdt det gående fra 2007 til 2012.
