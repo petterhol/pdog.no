@@ -13,9 +13,6 @@ Det skjer ting i livet mitt! For det første har jeg ferie, for det andre er det
 
 ![bilde av eksempelgrillmat](../../grillmat.jpeg "Eksempel på grillmat")
 
-=======
-Av smittevernshensyn kan jeg dessverre ikke tillate større grupper, derfor skjer det flere fester når folk kan. Maks 3 gjester.
-
 #### Program
 
 - Snakke sammen.
@@ -24,9 +21,9 @@ Av smittevernshensyn kan jeg dessverre ikke tillate større grupper, derfor skje
 
 #### Kalender med ledige plasser
 **Dato - Ledige plasser**  
-onsdag 12. august kveld- 3
-torsdag 13. august formiddag og ettermiddag - 3
-fredag 14. august hele dagen- 3 
+onsdag 12. august kveld- 3  
+torsdag 13. august formiddag - 3  
+fredag 14. august hele dagen- 3   
 
 #### Værmeldingen
 
