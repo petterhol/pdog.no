@@ -20,8 +20,3 @@ Kartet er delt inn i tre kategorier (farvekodet):
 - Alt annet av bygninger, steder, monumenter.
 
 {{< timtraveller>}}
-
-### Bidrag, spørsmål eller forespørsler?
-Hvis du har noen bidrag, hvis du har noen spørsmål eller forespørsler, kan jeg hjelpe deg.
-
-{{< knapp-kontaktinfo>}}

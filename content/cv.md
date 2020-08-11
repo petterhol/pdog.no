@@ -6,18 +6,18 @@ lastmod = 2020-08-12T12:00:00
 main = { weight = 2, parent = "Petter"}
 +++
 
-## Kontaktinformasjon
+{{< ingress >}}
+Dette er min CV for potensielle arbeidsgivere. Av konfidensialitetshensyn kan jeg ikke dele alle mine engasjementer og/eller arbeidsgivere. Kontakt meg gjerne hvis du har flere spørsmål.
+{{< /ingress >}}
 
-E-post: [petterholstad@me.com](petterholstad@me.com)  
-Telefon: [926 96 496](+4792696496)  
-[Se flere måter å kontakte meg på](index)
+## Erfaring
 
-## Nøkkelord
+{{< accordion >}}
 
-### Kundesenter - Webhelp
+{{% card header="Kundesenter - Webhelp" %}}
 
 Har siden august 2017 jobbet på et callcenter som driver med inngående,
-teknisk kundestøtte over telefon. Webhelp er et stort, internasjonalt selskap
+teknisk kundestøtte over telefon. [Webhelp](https://www.webhelp.com/no-no/) er et stort, internasjonalt selskap
 som driver med Business Process Outsourcing (BPO). Jeg har hatt følgende
 roller:
 
@@ -42,10 +42,12 @@ roller:
 
 - Teknisk, inngående kundestøtte på telefon.
 
-### Ideell organisasjon - Juvente
+{{% /card %}}
+
+{{% card header="Ideell organisasjon - Juvente" %}}
 
 Ble medlem av organisasjonen i 2007, og hadde frem til 2018 en rekke
-frivillige verv, samt ansettelse i administrasjonen. Juvente er en frivillig
+frivillige verv, samt ansettelse i administrasjonen. [Juvente](http://juvente.no) er en frivillig
 ungdomsorganisasjon med både egen aktivitet, samt en rekke prosjekter som
 retter seg mot barn og ungdom.
 
@@ -77,10 +79,60 @@ retter seg mot barn og ungdom.
 - Diverse verv på lokalt, regionalt og nasjonalt nivå.
 - Andre småengasjementer.
 
-### Annen erfaring
+{{% /card %}}
 
-- Sommerjobb og deltidsjobb i perioder hos Asbjørns kiosk.
+{{% card header="Annen erfaring" %}}
+
+- Sommerjobb og deltidsjobb i perioder hos [Asbjørns Kiosk](https://goo.gl/maps/6dn2axyqFRhPzkeS9).
 - Bilutleie ved SOS BIL AS (Sixt).
 - Fraktet matvarer til kunder gjennom marked.no (nå nedlagt).
-- Frivillig museumsvakt på Sporveismuseet.
-- Frilandsskribent på itpro.no og x6.no (nå nedlagt).
+- Frivillig museumsvakt på [Sporveismuseet](https://sporveismuseet.no).
+- Frilandsskribent på [itpro.no](https://itprox.no) og x6.no (nå nedlagt).
+
+{{% /card %}}
+
+{{< /accordion >}}
+
+&nbsp;
+
+## Annet
+
+{{< accordion >}}
+
+{{% card header="Utdanning" %}}
+
+Fullført videregående utdanning ved [Heggen videregående skole](http://heggen.vgs.no/#/), studiespesialisering. Uteksaminert vår 2013.
+
+{{% /card %}}
+
+{{% card header="Teknologi" %}}
+
+Svært god kunnskap om forbrukerteknologi og fra et feilsøkingsperspektiv. Setter meg lett inn i nye datasystemer. Mye erfaring ved bruk av Microsoft Office.
+
+{{% /card %}}
+
+{{% card header="Språk" %}}
+
+- Norsk bokmål - Morsmål  
+- Norsk nynorsk - Svært godt  
+- Engelsk - Svært godt  
+- Andre skandinaviske språk - Forstår godt
+
+{{% /card %}}
+
+{{% card header="Førerkort" %}}
+
+Klasse B siden 2012.
+
+{{% /card %}}
+
+{{< /accordion >}}
+
+&nbsp;
+
+## Kontaktinformasjon
+
+E-post: [petterholstad@me.com](petterholstad@me.com)  
+Telefon: [926 96 496](+4792696496)
+
+{{< knapp-kontaktinfo >}}

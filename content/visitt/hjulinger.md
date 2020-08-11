@@ -100,6 +100,3 @@ hver enkelt operatør. Her er en oversikt over noen operatører:
 {{% /card %}}
 
 {{< /accordion >}}
-
-{{< innspill >}}
-

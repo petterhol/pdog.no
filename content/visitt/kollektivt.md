@@ -47,5 +47,3 @@ Disse er kjekke å bruke når du skal reise herfra igjen.
 {{% /card %}}
 
 {{< /accordion >}}
-
-{{< innspill >}}

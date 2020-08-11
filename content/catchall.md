@@ -32,6 +32,8 @@ begrensning på hvor mange slike adresser man kan ha. Kanskje viktigst av alt er
 at man ikke trenger å forhåndsregistrere en slik adresse, så en kan i prinsippet
 sette hva som helst foran.
 
+Personlig videresender jeg all eposten jeg får til en iCloud-epostkonto.
+
 ## Vanlig bruk av catch-all
 
 Jeg tror det vanligste er at man slår på catch-all for at all epost skal komme
@@ -42,6 +44,8 @@ feilstavinger av diverse e-postadresser, samt e-poster som blir sendt til gamle
 og utdaterte adresser. Gjennom flere år har vi opprettet og avviklet e-poster
 til prosjekter, underorganisasjoner, ansatte og andre, som vi slipper å
 administrere separat med egne kontoer.
+
+{{< egenrisk >}}
 
 ## Min bruk av catch-all
 
@@ -58,6 +62,8 @@ E-post: facebook@pdog.no
 På samme måte som man skal ha unike passord på alle tjenester, skader det ikke å
 heller ha unike e-postadresser. Hvis en nettsider nå lekker e-postadressen og
 passordet mitt, vil ikke tyvene kunne bruke min e-postadresse andre steder.
+
+OBS: Ikke bruk dette på innloggingen e-post/domeneleverandøren din - av åpenbare grunner. Til domeneshop har jeg selv bare direkte-adressen til min iCloud-epostkonto.
   
 ### _Registrering på nyhetsbrev_
 
@@ -103,7 +109,7 @@ brukernavn/e-postadresse.
 Til slutt vil det også være hakket mer komplisert å snakke med bedrifter som
 krever at man sender epost fra den adressen man har registrert for å få
 gjennomført endringer på kontoen. Man kan løse det ved å enten endre
-e-postadressen midlertidig,
+e-postadressen midlertidig, eller få satt opp adressen som en "svar fra"-adresse.
 
 ## Lær mer
 

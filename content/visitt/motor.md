@@ -112,5 +112,3 @@ mulighet.
 {{% /card %}}
 
 {{< /accordion >}}
-
-{{< innspill >}}

@@ -9,3 +9,4 @@ Dette er bare en side jeg bruker som mal for å lage nye sider. Denne siden blir
 
 Brødtekst. Kneipbrødtekst.
 
+{{< forsidekort >}}

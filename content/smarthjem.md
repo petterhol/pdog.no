@@ -58,14 +58,13 @@ Meater+. Trådløst steketermometer som kobler seg til en app på iPhone.
 
 #### Fremtidsplaner
 - Erstatte vanlig trådløs ruter med maskenettverksruter, aller helst [eero](https://eero.com) som må kjøpes i utlandet.
-- Ta vekk HomePod som TV-lyd, og kjøpe lydplanke, aller helst en [SONOS Arc] (https://www.sonos.com/no-no/shop/arc.html).
+- Ta vekk HomePod som TV-lyd, og kjøpe lydplanke, aller helst en [SONOS Arc](https://www.sonos.com/no-no/shop/arc.html).
 - [Tibber Pulse](https://tibber.com/no/produkt/pulse), men dette krever internettilgang i 1. etasje (jeg bor i 4. etasje). Vurderer å legge inn en trådløs router et sted, men usikker på hvor jeg kan få strøm fra. Hvis dette er mulig, kan jeg kanskje også skaffe en trådløs bevegelsessensor for postkassen (så vet jeg når jeg får post).
->>>>>>> Stashed changes
-
-[^HomePod]: HomePod er ikke tilgjengelig i Norge fra distributøren (Apple), men noen nettbutikker selger en importert utgave (se [prisjakt.no](https://www.prisjakt.no/product.php?p=4356903) for oversikt). Det dukker titt og ofte opp på [Finn.no](https://www.finn.no/bap/forsale/search.html?q=Homepod&search_type=SEARCH_ID_BAP_ALL). Forøvrig er det ikke noe problem å ta med seg en HomePod fra en annen del av verden til Norge, men vær obs på at man verken kan få garanti- eller lovbestemt service i Norge. Jeg har hentet både fra USA, Frankrike og Tyskland til Norge uten problemer.
 - Værstasjon.
 - Mill panelovn.
 - HomeKit-støttet røykvarsler.
+
+[^HomePod]: HomePod er ikke tilgjengelig i Norge fra distributøren (Apple), men noen nettbutikker selger en importert utgave (se [prisjakt.no](https://www.prisjakt.no/product.php?p=4356903) for oversikt). Det dukker titt og ofte opp på [Finn.no](https://www.finn.no/bap/forsale/search.html?q=Homepod&search_type=SEARCH_ID_BAP_ALL). Forøvrig er det ikke noe problem å ta med seg en HomePod fra en annen del av verden til Norge, men vær obs på at man verken kan få garanti- eller lovbestemt service i Norge. Jeg har hentet både fra USA, Frankrike og Tyskland til Norge uten problemer.
 
 [^Colgate]: Ikke tilgjengelig i Norge. Jeg kjøpte den på en Apple Store-butikk i London.
 

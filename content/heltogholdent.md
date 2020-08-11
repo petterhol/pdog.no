@@ -32,7 +32,6 @@ Ivan Bjørndals gate 6
 
 #### Facebook
 Foretaket har en inaktiv [Facebook-profil][facebook].
->>>>>>> Stashed changes
 
 #### Logo
 

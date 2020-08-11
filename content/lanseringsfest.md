@@ -1,39 +1,39 @@
 +++
-title = "Lanseringsfest"
+title = "Lanseringsfest for nye pdog.no"
 lastmod = 2020-08-12T12:00:00
 [menu]
 main = { parent = "Diverse" }
 +++
 
+{{< covid >}}
+
 {{< ingress >}}
-Det skjer ting i livet mitt! For det første har jeg ferie, for det andre er det sommer og for det tredje har jeg ny leilighet med en stor balkong og ny grill! Derfor passer det veldig godt med en liten lanseringsfest for nye pdog.no!
+Det skjer ting i livet mitt! For det første har jeg ferie, for det andre er det sommer og for det tredje har jeg ny leilighet med en stor balkong og ny grill! Derfor passer det veldig godt med en liten lanseringsfest for nye pdog.no! Det er også veldig smittevennlig - maks 3 gjester!
 {{< /ingress >}}
 
 ![bilde av eksempelgrillmat](../../grillmat.jpeg "Eksempel på grillmat")
-
-Av smittevernshensyn kan jeg dessverre ikke tillate større grupper, derfor skjer det flere fester når folk kan. Maks 3-4 gjester.
 
 #### Program
 - Snakke sammen.
 - Komme med innspill og tilbakemeldinger på nettsiden min.
 - Spise mat.
 
-#### Kalender
+#### Kalender med ledige plasser
 **Dato - Ledige plasser**  
-mandag 10. august - 4  
-tirsdag 11. august - 1  
-onsdag 12. august - 4  
-torsdag 13. august - 0  
-fredag 14. august - 4  
+onsdag 12. august kveld- 3
+torsdag 13. august formiddag og ettermiddag - 3
+fredag 14. august hele dagen- 3 
 
 #### Værmeldingen
 
 {{< yr >}}
 
-#### Påmelding
-
-{{< covid >}}
-
-Jeg må vite om du kommer! Send meg en epost til <a href="mailto:lanseringsfest@pdog.no">lanseringsfest@pdog.no</a>. Eller bare <a href="../../kontaktinfo">kontakt meg på en hvilken som helst måte</a>.
+#### Hvordan kommer jeg meg dit?
 
 {{< knapp-veibeskrivelse >}}
+
+&nbsp;
+
+#### Påmeldingsskjema (må godkjennes pga. smittevern)
+
+{{< festskjema >}}

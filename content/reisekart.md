@@ -10,8 +10,3 @@ For å visualisere mine flyreiser rundt om kring i verden, har jeg laget et kart
 {{< /ingress>}}
 
 {{< flykart>}}
-
-### Bidrag, spørsmål eller forespørsler?
-Hvis du har noen bidrag, hvis du har noen spørsmål eller forespørsler, kan jeg hjelpe deg.
-
-{{< knapp-kontaktinfo>}}
