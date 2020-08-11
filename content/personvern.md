@@ -11,21 +11,23 @@ Her kan du lese om personvern knytta til nettsiden, samt besøk hos meg.
 
 ## Nettsiden du er på nå
 
-Nettsiden installerer ingen lokale elementer, informasjonskapsler,
-analyseverktøy eller liknende. Det finnes ingen innloggingsmuligheter.
+Nettsiden installerer ingen lokale elementer, informasjonskapsler, analyseverktøy eller liknende.
+Det finnes ingen innloggingsmuligheter.
 
-Jeg bruker et kontaktskjema flere steder rundt om kring på siden. Dette skjemaet bruker et script fra [Domeneshop](https://domene.shop/faq?id=61&section=21), og sender e-poster til meg. Jeg får e-postene direkte. Innholdet, samt personopplysningene du har valgt å legge ved, blir bare brukt til det formålet som var klart da du sendte inn skjemaet. Utover e-postkassen min, blir ikke innholdet i skjemaene lagret noe annet sted.
+Jeg bruker et kontaktskjema flere steder rundt om kring på siden. Dette skjemaet bruker et script
+fra [Domeneshop](https://domene.shop/faq?id=61&section=21), og sender e-poster til meg. Jeg får
+e-postene direkte. Innholdet, samt personopplysningene du har valgt å legge ved, blir bare brukt til
+det formålet som var klart da du sendte inn skjemaet. Utover e-postkassen min, blir ikke innholdet i
+skjemaene lagret noe annet sted.
 
-Det kan være at noe av din data blir snappet opp av eksterne lenker
-og innebygde elementer. Jeg kan ikke liste alle eksterne lenker, men her er en liste over
-innebygde elementer:
+Det kan være at noe av din data blir snappet opp av eksterne lenker og innebygde elementer. Jeg kan
+ikke liste alle eksterne lenker, men her er en liste over innebygde elementer:
 
 - Ruters reiseforslag kan være underlagt [Personvern i Ruters tjenester](https://ruter.no/fa-hjelp/vilkar/personvern/)
 - Ruters sanntidsskjerm (MON) har en egen personvernsside på [MON og personvern](https://ruter.no/fa-hjelp/vilkar/personvern/mon-og-personvern/)
-- Hvis du havner inn på [rickroll.htm](http://pdog.no/rickroll) har du
-  sannsynligvis blitt utsatt for et [Grabify](https://grabify.link)-forsøk.
-  Dette henter informasjon din klient sender fra deg, som IP-adresse, nettleser
-  med mer. Når du først er der inne kan du være klar over at bruk av
+- Hvis du havner inn på [rickroll.htm](http://pdog.no/rickroll) har du sannsynligvis blitt utsatt
+  for et [Grabify](https://grabify.link)-forsøk.  Dette henter informasjon din klient sender fra
+  deg, som IP-adresse, nettleser med mer. Når du først er der inne kan du være klar over at bruk av
   YouTube-spilleren kan være underlagt [YouTube API Services Terms of
   Service](https://developers.google.com/youtube/terms/api-services-terms-of-service-emea#user-privacy).
 
