@@ -35,17 +35,4 @@ Alle tekniske installasjoner er gjort av Stig Johan Berggren. Det redaksjonelle 
 skrevet og utformet av Petter Holstad, med diverse innspill.
 
 ### v1
-<<<<<<< HEAD
 Siden brukte ren HTML- og CSS-koding. Mye av kodingen ble gjort av Stig Johan Berggren, mens det redaksjonelle innholdet ble i hovedsak utformet av Petter Holstad, med diverse innspill.
-=======
-
-Siden brukte ren HTML- og CSS-koding. Mye av kodingen ble gjort av Stig Johan Berggren, mens det
-redaksjonelle innholdet ble i hovedsak utformet av Petter Holstad, med diverse innspill.
-
-### Bidrag, spørsmål eller forespørsler?
-
-Hvis du vil komme med redaksjonell eller teknisk hjelp til siden, hvis du har noen spørsmål eller
-forespørsler, kan jeg hjelpe deg.
-
-{{< knapp-kontaktinfo >}}
->>>>>>> 131c136dfe68111b04d55756d0c5765a37438de9

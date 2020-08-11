@@ -65,20 +65,9 @@ fra seg høye pip ved vann, og forutsatt at den er satt opp mot app, gir pushvar
 Bonus: måler temperatur som separat innlegg i Hjem-appen.
 
 #### Fremtidsplaner
-<<<<<<< HEAD
 - Erstatte vanlig trådløs ruter med maskenettverksruter, aller helst [eero](https://eero.com) som må kjøpes i utlandet.
 - Ta vekk HomePod som TV-lyd, og kjøpe lydplanke, aller helst en [SONOS Arc](https://www.sonos.com/no-no/shop/arc.html).
 - [Tibber Pulse](https://tibber.com/no/produkt/pulse), men dette krever internettilgang i 1. etasje (jeg bor i 4. etasje). Vurderer å legge inn en trådløs router et sted, men usikker på hvor jeg kan få strøm fra. Hvis dette er mulig, kan jeg kanskje også skaffe en trådløs bevegelsessensor for postkassen (så vet jeg når jeg får post).
-=======
-
-- Erstatte vanlig trådløs ruter med maskenettverksruter, aller helst [eero](https://eero.com) som
-  må kjøpes i utlandet.
-- Ta vekk HomePod som TV-lyd, og kjøpe lydplanke, aller helst en [SONOS Arc](https://www.sonos.com/no-no/shop/arc.html).
-- [Tibber Pulse](https://tibber.com/no/produkt/pulse), men dette krever internettilgang i 1.
-  etasje (jeg bor i 4. etasje). Vurderer å legge inn en trådløs router et sted, men usikker på hvor
-  jeg kan få strøm fra. Hvis dette er mulig, kan jeg kanskje også skaffe en trådløs
-  bevegelsessensor for postkassen (så vet jeg når jeg får post).
->>>>>>> 131c136dfe68111b04d55756d0c5765a37438de9
 - Værstasjon.
 - Mill panelovn.
 - HomeKit-støttet røykvarsler.

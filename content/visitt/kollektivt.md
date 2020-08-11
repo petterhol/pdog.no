@@ -46,10 +46,4 @@ Disse er kjekke å bruke når du skal reise herfra igjen.
 
 {{% /card %}}
 
-<<<<<<< HEAD:content/visitt/kollektivt.md
 {{< /accordion >}}
-=======
-{{< /accordion >}}
-
-{{< innspill >}}
->>>>>>> 131c136dfe68111b04d55756d0c5765a37438de9:content/visit/kollektivt.md

@@ -97,10 +97,4 @@ hver enkelt operatør. Her er en oversikt over noen operatører:
 
 {{% /card %}}
 
-<<<<<<< HEAD:content/visitt/hjulinger.md
 {{< /accordion >}}
-=======
-{{< /accordion >}}
-
-{{< innspill >}}
->>>>>>> 131c136dfe68111b04d55756d0c5765a37438de9:content/visit/hjulinger.md

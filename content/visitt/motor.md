@@ -112,10 +112,4 @@ mulighet.
 
 {{% /card %}}
 
-<<<<<<< HEAD:content/visitt/motor.md
 {{< /accordion >}}
-=======
-{{< /accordion >}}
-
-{{< innspill >}}
->>>>>>> 131c136dfe68111b04d55756d0c5765a37438de9:content/visit/motor.md
