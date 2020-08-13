@@ -35,7 +35,9 @@
   </header>
   <br><br><br><br>
   <main class="col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content">
-    <h1>{{ .Title }}</h1>
+    {{ with .Title }}
+      <h1>{{ . }}</h1>
+    {{ end }}
     {{ block "main" . }}
     {{ end }}
   </main>
