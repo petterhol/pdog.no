@@ -63,7 +63,8 @@ På samme måte som man skal ha unike passord på alle tjenester, skader det ikk
 heller ha unike e-postadresser. Hvis en nettsider nå lekker e-postadressen og
 passordet mitt, vil ikke tyvene kunne bruke min e-postadresse andre steder.
 
-OBS: Ikke bruk dette på innloggingen e-post/domeneleverandøren din - av åpenbare grunner. Til domeneshop har jeg selv bare direkte-adressen til min iCloud-epostkonto.
+OBS: Ikke bruk dette på innloggingen e-post/domeneleverandøren din - av åpenbare grunner. Til
+domeneshop har jeg selv bare direkte-adressen til min iCloud-epostkonto.
   
 ### _Registrering på nyhetsbrev_
 

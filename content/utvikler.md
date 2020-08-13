@@ -20,7 +20,9 @@ Den nåværende versjonen av nettsiden er bygget på et
 [GitHub](https://github.com/Stigjb/pdog.no). Alt ligger på webhotellet mitt gjennom
 [Domeneshop](https://domene.shop).
 
-På min Mac bruker jeg appene [BBEdit](https://www.barebones.com/products/bbedit/) til å redigere .md- og .html-filene, [Pixelmator](https://www.pixelmator.com) til bildemanipulering og [FileZilla](https://filezilla-project.org) til FTP-overføringer.
+På min Mac bruker jeg appene [BBEdit](https://www.barebones.com/products/bbedit/) til å redigere
+.md- og .html-filene, [Pixelmator](https://www.pixelmator.com) til bildemanipulering og
+[FileZilla](https://filezilla-project.org) til FTP-overføringer.
 
 #### Status  
 
@@ -35,4 +37,6 @@ Alle tekniske installasjoner er gjort av Stig Johan Berggren. Det redaksjonelle 
 skrevet og utformet av Petter Holstad, med diverse innspill.
 
 ### v1
-Siden brukte ren HTML- og CSS-koding. Mye av kodingen ble gjort av Stig Johan Berggren, mens det redaksjonelle innholdet ble i hovedsak utformet av Petter Holstad, med diverse innspill.
+
+Siden brukte ren HTML- og CSS-koding. Mye av kodingen ble gjort av Stig Johan Berggren, mens det
+redaksjonelle innholdet ble i hovedsak utformet av Petter Holstad, med diverse innspill.

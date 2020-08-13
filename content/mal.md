@@ -9,8 +9,3 @@ teste ny funksjonalitet som ikke skal gå live på de andre sidene.
 {{< /ingress >}}
 
 Brødtekst. Kneipbrødtekst.
-<<<<<<< HEAD
-
-{{< forsidekort >}}
-=======
->>>>>>> 131c136dfe68111b04d55756d0c5765a37438de9
