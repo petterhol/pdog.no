@@ -43,14 +43,15 @@ jobs:
     - name: Build
       run: hugo --minify
 
-    - name: HTML5 Validator (wrong extra)
+    - name: HTML5 Validator (all warnings)
       uses: Cyb3r-Jak3/html5validator-action@master
       with:
         root: public/
-        extra: '|| html5validator --version'
+        extra: --show-warnings
+      continue-on-error: true
 
     - name: HTML5 Validator
       uses: Cyb3r-Jak3/html5validator-action@master
       with:
         root: public/
-        extra: "--ignore accept-charset allow-storage-access-by-user-activation 'Section lacks heading' || true"
+        extra: --ignore 'allow-storage-access-by-user-activation' 'doc-endnote'
