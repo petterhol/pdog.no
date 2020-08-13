@@ -43,6 +43,17 @@ jobs:
     - name: Build
       run: hugo --minify
 
+    - name: HTML5 Validator (zero exit)
+      uses: Cyb3r-Jak3/html5validator-action@master
+      with:
+        root: public/
+
+    - name: HTML5 Validator (wrong extra)
+      uses: Cyb3r-Jak3/html5validator-action@master
+      with:
+        root: public/
+        extra: --yolo path --fix-all-errors
+
     - name: HTML5 Validator
       uses: Cyb3r-Jak3/html5validator-action@master
       with:
