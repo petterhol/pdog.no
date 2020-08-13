@@ -47,10 +47,10 @@ jobs:
       uses: Cyb3r-Jak3/html5validator-action@master
       with:
         root: public/
-        extra: --yolo path --fix-all-errors --help || html5validator --version
+        extra: '|| html5validator --version'
 
     - name: HTML5 Validator
       uses: Cyb3r-Jak3/html5validator-action@master
       with:
         root: public/
-        extra: --ignore 'accept-charset' 'allow-storage-access-by-user-activation' 'Section lacks heading' || true
+        extra: "--ignore accept-charset allow-storage-access-by-user-activation 'Section lacks heading' || true"
