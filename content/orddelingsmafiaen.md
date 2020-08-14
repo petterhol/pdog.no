@@ -7,10 +7,12 @@ main = { parent = "Diverse" }
 
 {{< underarbeid >}}
 
-{{< ingress >}}
+{{% ingress %}}
+
 Av irritasjon på orddelingsfeil i samfunnet, startet jeg og en kompis nettsiden Orddelingsmafiaen
 ­– som holdt det gående fra 2007 til 2012.
-{{< /ingress >}}
+
+{{% /ingress %}}
 
 #### Historie
 

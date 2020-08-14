@@ -6,10 +6,12 @@ lastmod = 2020-08-12T12:00:00
 main = { weight = 2, parent = "Petter"}
 +++
 
-{{< ingress >}}
+{{% ingress %}}
+
 Dette er min CV for potensielle arbeidsgivere. Av konfidensialitetshensyn kan jeg ikke dele alle
 mine engasjementer og/eller arbeidsgivere. Kontakt meg gjerne hvis du har flere spørsmål.
-{{< /ingress >}}
+
+{{% /ingress %}}
 
 ## Erfaring
 

@@ -5,10 +5,12 @@ lastmod = 2020-08-12T12:00:00
 main = { parent = "Teknologi" }
 +++
 
-{{< ingress >}}
+{{% ingress %}}
+
 Hvis du har Apple-enheter, finner du her noen tips til hvordan du kan sikkerhetskopiere innholdet
 på enhetene dine.
-{{< /ingress >}}
+
+{{% /ingress %}}
 
 ## Begreper
 

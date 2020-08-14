@@ -11,14 +11,14 @@ main = { parent = "Ivan Bjørndals gate 6", weight = 3}
 
 {{< navbar-visit-kollektivt >}}
 
-{{< ingress >}}
+{{% ingress %}}
 Det finnes mange måter å komme seg hit på. I hovedsak er det buss og trikk,
 men T-banen er også tilgjengelig. Jeg anbefaler at du bruker søkemotoren
 under, eller en av karttjenestene over for å finne en perfekt reisevei. Jeg
 hjelper også til med planleggingen om du er ukjent i Oslo. Hvis du vil finner
 du også en komplett oversikt over mulige transportmidler under, samt
 anbefalinger.
-{{< /ingress >}}
+{{% /ingress %}}
 
 {{< accordion >}}
 
