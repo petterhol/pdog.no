@@ -1,3 +1,7 @@
+iframe {
+  border: 0;
+}
+
 .rute-wrapper {
   display: flex;
   flex-wrap: wrap;
