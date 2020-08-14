@@ -16,8 +16,10 @@ Lansert 12. august 2020.
 Den nåværende versjonen av nettsiden er bygget på et
 [Bootstrap-rammenettverk](https://getbootstrap.com). Innholdet skrives i
 [Markdown-språket](https://daringfireball.net/projects/markdown/syntax), og konverteres med
-[Hugo](https://gohugo.io). Prosjektet ligger offentlig tilgjengelig på
-[GitHub](https://github.com/Stigjb/pdog.no). Alt ligger på webhotellet mitt gjennom
+[Hugo](https://gohugo.io). 
+
+Prosjektet ligger offentlig tilgjengelig på [GitHub](https://github.com/Stigjb/pdog.no). Hvis du er
+på jakt etter en endringslogg, ligger alt der. Alt ligger på webhotellet mitt gjennom
 [Domeneshop](https://domene.shop).
 
 På min Mac bruker jeg appene [BBEdit](https://www.barebones.com/products/bbedit/) til å redigere
@@ -26,10 +28,8 @@ På min Mac bruker jeg appene [BBEdit](https://www.barebones.com/products/bbedit
 
 #### Status  
 
-Nettsiden vil få en større utvidelse av innhold. Teknisk mangler fortsatt
-
-- [Collapseables](https://getbootstrap.com/docs/4.5/components/collapse/) på [visitt](/visitt).
-- en dymatisk navbar (nå er den hardkodet).
+Nettsiden er komplett med de funksjoner som er ment til første lansering. Det kommer flere
+funksjoner etterhvert, men per nå er ingenting konkret planlagt.
 
 #### Anerkjennelser
 
