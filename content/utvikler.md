@@ -16,7 +16,7 @@ Lansert 12. august 2020.
 Den nåværende versjonen av nettsiden er bygget på et
 [Bootstrap-rammenettverk](https://getbootstrap.com). Innholdet skrives i
 [Markdown-språket](https://daringfireball.net/projects/markdown/syntax), og konverteres med
-[Hugo](https://gohugo.io). 
+[Hugo](https://gohugo.io).
 
 Prosjektet ligger offentlig tilgjengelig på [GitHub](https://github.com/Stigjb/pdog.no). Hvis du er
 på jakt etter en endringslogg, ligger alt der. Alt ligger på webhotellet mitt gjennom
