@@ -5,12 +5,13 @@ lastmod = 2020-08-12T12:00:00
 main = { parent = "Teknologi" }
 +++
 
-{{< ingress >}}
-Jeg er opptatt av smarthjemsutstyr på et enkelt plan. Det betyr at jeg
-utvider hjemmet mitt med utstyr som er lett å sette opp, og ikke krever
-avansert konfigurasjon gjennom diverse hubber. Jeg har som mål om at det
-aller meste skal være kompatibelt med HomeKit- og HealthKit-standarden.
-{{< /ingress >}}
+{{% ingress %}}
+
+Jeg er opptatt av smarthjemsutstyr på et enkelt plan. Det betyr at jeg utvider hjemmet mitt med
+utstyr som er lett å sette opp, og ikke krever avansert konfigurasjon gjennom diverse hubber. Jeg
+har som mål om at det aller meste skal være kompatibelt med HomeKit- og HealthKit-standarden.
+
+{{% /ingress %}}
 
 #### Oppsett
 

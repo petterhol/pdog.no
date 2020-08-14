@@ -3,9 +3,9 @@ title = "Utvikler"
 lastmod = 2020-08-12T12:00:00
 +++
 
-{{< ingress >}}
+{{% ingress %}}
 Hvis du er utvikler og lurer på hvordan siden er satt opp, finner du all informasjonen du trenger her.
-{{< /ingress >}}
+{{% /ingress %}}
 
 ### v2
 

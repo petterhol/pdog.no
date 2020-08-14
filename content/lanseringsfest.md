@@ -7,11 +7,13 @@ main = { parent = "Diverse" }
 
 {{< covid >}}
 
-{{< ingress >}}
+{{% ingress %}}
+
 Det skjer ting i livet mitt! For det første har jeg ferie, for det andre er det sommer og for det
 tredje har jeg ny leilighet med en stor balkong og ny grill! Derfor passer det veldig godt med en
 liten lanseringsfest for nye pdog.no! Det er også veldig smittevennlig - maks 3 gjester!
-{{< /ingress >}}
+
+{{% /ingress %}}
 
 ![bilde av eksempelgrillmat](../../grillmat.jpeg "Eksempel på grillmat")
 

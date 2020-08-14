@@ -10,10 +10,10 @@ main = { parent = "Ivan Bjørndals gate 6", weight = 1}
 
 {{< navbar-visit-kart >}}
 
-{{< ingress >}}
+{{% ingress %}}
 Navigering bare med kart og kompass er en mulighet. Under finner du alle karttjenester jeg
 kjenner til for Norge, samt koordinater.
-{{< /ingress >}}
+{{% /ingress %}}
 
 {{< accordion >}}
 

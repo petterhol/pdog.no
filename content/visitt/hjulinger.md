@@ -10,9 +10,9 @@ main = { parent = "Ivan Bjørndals gate 6", weight = 2}
 
 {{< navbar-visit-hjulinger >}}
 
-{{< ingress >}}
+{{% ingress %}}
 Du kan selvfølgelig gå, sykle eller sparkesykle til meg.
-{{< /ingress >}}
+{{% /ingress %}}
 
 ## Gangruter
 
