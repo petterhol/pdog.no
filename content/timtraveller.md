@@ -11,22 +11,31 @@ på tre temaer: reising, turvandring og transport. Videoene tar ofte for seg et 
 kunne besøke noen av de samme stedene som Tim har gjort, har jeg laget et Google My Maps-kart.
 {{< /ingress >}}
 
+### Kartet
 Ved å trykke på punktene i kartet, kan man se hva det er, lese beskrivelsen av YouTube-videoen og
 se en lenke til YouTube-videoen.
 
 Kartet er delt inn i tre kategorier (farvekodet):
 
 - Transportrelatert (jernbaner, trikker, transportmuseer, monobaner, svevebaner, gondoler og samlebånd).
-- Topper (små og store topper rundt om kring). Inkluderer dessverre ikke Mediocre Mountain
-  Challenge (enda).
+- Topper (små og store topper rundt om kring).
 - Gåturer (foreløpig har jeg bare lagt Speyside Way her).
 - Grenser (morsomme og rare grenser).
 - Alt annet av bygninger, steder, monumenter.
 
 {{< timtraveller >}}
 
-### Bidrag, spørsmål eller forespørsler?
+## Eksludert fra kartet
 
-Hvis du har noen bidrag, hvis du har noen spørsmål eller forespørsler, kan jeg hjelpe deg.
+- Mediocre Mountain Challenge-bidragene er ikke med, bortsett fra Tims tur til Montmartre. Årsak: Tidkrevende, gjør det kanskje senere.
+- PathQuest - den første videoen til Tim. Årsak: Tidkrevende, gjør det kanskje senere.
+- 
 
-{{< knapp-kontaktinfo >}}
+
+## Annonsering
+
+Kartet ble annonsert av Tim på YouTube-kanalens "fellesskap"-fane, samt Twitter.
+
+## Innspill eller bidrag?
+
+Du kan alltid foreslå endringer eller tilpasninger til kartet. Kanskje du finner noe feil, ønsker å legge inn Mediocre Mountain Challenge eller PathQuest, forslag til restrukturering av kartet eller nye ikoner? Alle innspill er velkomne!
