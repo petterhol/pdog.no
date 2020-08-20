@@ -6,11 +6,12 @@ lastmod = 2020-07-20T17:00:00+02:00
 main = { parent = "Teknologi" }
 +++
 
-{{< ingress >}}
-Synes du e-postadressen jeg bruker er litt rar og annerledes enn det du er vant
-til? På denne siden kan du lære mer om "catch-all" e-postadresser, og hvordan
-jeg bruker det.
-{{< /ingress >}}
+{{% ingress %}}
+
+Synes du e-postadressen jeg bruker er litt rar og annerledes enn det du er vant til? På denne
+siden kan du lære mer om "catch-all" e-postadresser, og hvordan jeg bruker det.
+
+{{% /ingress %}}
 
 Jeg eier følgende domener: pdog.no, petterholstad.no og heltogholdent.no, hhv.
 mitt kallenavn, fulle navn og navn på mitt foretak.
@@ -63,7 +64,8 @@ På samme måte som man skal ha unike passord på alle tjenester, skader det ikk
 heller ha unike e-postadresser. Hvis en nettsider nå lekker e-postadressen og
 passordet mitt, vil ikke tyvene kunne bruke min e-postadresse andre steder.
 
-OBS: Ikke bruk dette på innloggingen e-post/domeneleverandøren din - av åpenbare grunner. Til domeneshop har jeg selv bare direkte-adressen til min iCloud-epostkonto.
+OBS: Ikke bruk dette på innloggingen e-post/domeneleverandøren din - av åpenbare grunner. Til
+domeneshop har jeg selv bare direkte-adressen til min iCloud-epostkonto.
   
 ### _Registrering på nyhetsbrev_
 

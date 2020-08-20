@@ -3,9 +3,11 @@ title = "Personvern"
 lastmod = 2020-08-12T12:00:00
 +++
 
-{{< ingress >}}
+{{% ingress %}}
+
 Her kan du lese om personvern knytta til nettsiden, samt besøk hos meg.
-{{< /ingress >}}
+
+{{% /ingress %}}
 
 {{< underarbeid >}}
 

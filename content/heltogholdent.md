@@ -6,13 +6,13 @@ lastmod = 2020-08-12T12:00:00
 main = { weight = 30 }
 +++
 
+{{% ingress %}}
 
-{{< ingress >}}
-Jeg eier et enkeltpersonsforetak som heter **Holstad Helt og Holdent**.
-Foretaket hadde tidligere navnet Holstad Tjenester. For øyeblikket driver jeg
-ingen virksomhet gjennom foretaket. På denne siden finner du
-kontaktinformasjon og logoen til selskapet.
-{{< /ingress >}}
+Jeg eier et enkeltpersonsforetak som heter **Holstad Helt og Holdent**. Foretaket hadde tidligere
+navnet Holstad Tjenester. For øyeblikket driver jeg ingen virksomhet gjennom foretaket. På denne
+siden finner du kontaktinformasjon og logoen til selskapet.
+
+{{% /ingress %}}
 
 {{< hhhbilde >}}
 #### Offentlig registrering
@@ -37,8 +37,5 @@ Ivan Bjørndals gate 6
 #### Facebook
 
 Foretaket har en inaktiv [Facebook-profil][facebook].
-
-#### Logo
-
 
 [facebook]: https://www.facebook.com/holstadheltogholdent/

@@ -5,12 +5,13 @@ lastmod = 2020-08-12T12:00:00
 main = { parent = "Teknologi" }
 +++
 
-{{< ingress >}}
-Jeg er opptatt av smarthjemsutstyr på et enkelt plan. Det betyr at jeg
-utvider hjemmet mitt med utstyr som er lett å sette opp, og ikke krever
-avansert konfigurasjon gjennom diverse hubber. Jeg har som mål om at det
-aller meste skal være kompatibelt med HomeKit- og HealthKit-standarden.
-{{< /ingress >}}
+{{% ingress %}}
+
+Jeg er opptatt av smarthjemsutstyr på et enkelt plan. Det betyr at jeg utvider hjemmet mitt med
+utstyr som er lett å sette opp, og ikke krever avansert konfigurasjon gjennom diverse hubber. Jeg
+har som mål om at det aller meste skal være kompatibelt med HomeKit- og HealthKit-standarden.
+
+{{% /ingress %}}
 
 #### Oppsett
 
@@ -65,9 +66,14 @@ fra seg høye pip ved vann, og forutsatt at den er satt opp mot app, gir pushvar
 Bonus: måler temperatur som separat innlegg i Hjem-appen.
 
 #### Fremtidsplaner
-- Erstatte vanlig trådløs ruter med maskenettverksruter, aller helst [eero](https://eero.com) som må kjøpes i utlandet.
+
+- Erstatte vanlig trådløs ruter med maskenettverksruter, aller helst [eero](https://eero.com) som
+  må kjøpes i utlandet.
 - Ta vekk HomePod som TV-lyd, og kjøpe lydplanke, aller helst en [SONOS Arc](https://www.sonos.com/no-no/shop/arc.html).
-- [Tibber Pulse](https://tibber.com/no/produkt/pulse), men dette krever internettilgang i 1. etasje (jeg bor i 4. etasje). Vurderer å legge inn en trådløs router et sted, men usikker på hvor jeg kan få strøm fra. Hvis dette er mulig, kan jeg kanskje også skaffe en trådløs bevegelsessensor for postkassen (så vet jeg når jeg får post).
+- [Tibber Pulse](https://tibber.com/no/produkt/pulse), men dette krever internettilgang i 1.
+  etasje (jeg bor i 4. etasje). Vurderer å legge inn en trådløs router et sted, men usikker på
+  hvor jeg kan få strøm fra. Hvis dette er mulig, kan jeg kanskje også skaffe en trådløs
+  bevegelsessensor for postkassen (så vet jeg når jeg får post).
 - Værstasjon.
 - Mill panelovn.
 - HomeKit-støttet røykvarsler.

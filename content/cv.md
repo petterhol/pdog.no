@@ -6,9 +6,12 @@ lastmod = 2020-08-12T12:00:00
 main = { weight = 2, parent = "Petter"}
 +++
 
-{{< ingress >}}
-Dette er min CV for potensielle arbeidsgivere. Av konfidensialitetshensyn kan jeg ikke dele alle mine engasjementer og/eller arbeidsgivere. Kontakt meg gjerne hvis du har flere spørsmål.
-{{< /ingress >}}
+{{% ingress %}}
+
+Dette er min CV for potensielle arbeidsgivere. Av konfidensialitetshensyn kan jeg ikke dele alle
+mine engasjementer og/eller arbeidsgivere. Kontakt meg gjerne hvis du har flere spørsmål.
+
+{{% /ingress %}}
 
 ## Erfaring
 
@@ -16,12 +19,11 @@ Dette er min CV for potensielle arbeidsgivere. Av konfidensialitetshensyn kan je
 
 {{% card header="Kundesenter - Webhelp" %}}
 
-Har siden august 2017 jobbet på et callcenter som driver med inngående,
-teknisk kundestøtte over telefon. [Webhelp](https://www.webhelp.com/no-no/) er et stort, internasjonalt selskap
-som driver med Business Process Outsourcing (BPO). Jeg har hatt følgende
-roller:
+Har siden august 2017 jobbet på et callcenter som driver med inngående, teknisk kundestøtte over
+telefon. [Webhelp](https://www.webhelp.com/no-no/) er et stort, internasjonalt selskap som driver
+med Business Process Outsourcing (BPO). Jeg har hatt følgende roller:
 
-#### Januar 2020 - d.d: Team Manager
+### Januar 2020 - d.d: Team Manager
 
 - Leder for et team på mellom 15 og 25 tekniske rådgivere.
 - Dag-til-dag-oppfølging, coaching og utvikling av rådgiverne.
@@ -101,13 +103,15 @@ retter seg mot barn og ungdom.
 
 {{% card header="Utdanning" %}}
 
-Fullført videregående utdanning ved [Heggen videregående skole](http://heggen.vgs.no/#/), studiespesialisering. Uteksaminert vår 2013.
+Fullført videregående utdanning ved [Heggen videregående skole](http://heggen.vgs.no/#/),
+studiespesialisering. Uteksaminert vår 2013.
 
 {{% /card %}}
 
 {{% card header="Teknologi" %}}
 
-Svært god kunnskap om forbrukerteknologi og fra et feilsøkingsperspektiv. Setter meg lett inn i nye datasystemer. Mye erfaring ved bruk av Microsoft Office.
+Svært god kunnskap om forbrukerteknologi og fra et feilsøkingsperspektiv. Setter meg lett inn i
+nye datasystemer. Mye erfaring ved bruk av Microsoft Office.
 
 {{% /card %}}
 

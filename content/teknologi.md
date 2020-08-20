@@ -5,9 +5,11 @@ lastmod = 2020-08-12T12:00:00
 main = { weight = 40 }
 +++
 
-{{< ingress >}}
+{{% ingress %}}
+
 Dette er bare en side jeg bruker som mal for å lage nye sider. Denne siden blir også brukt til å
 teste ny funksjonalitet som ikke skal gå live på de andre sidene.
-{{< /ingress >}}
+
+{{% /ingress %}}
 
 Brødtekst. Kneipbrødtekst.

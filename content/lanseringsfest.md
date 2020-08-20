@@ -7,9 +7,13 @@ main = { parent = "Diverse" }
 
 {{< covid >}}
 
-{{< ingress >}}
-Det skjer ting i livet mitt! For det første har jeg ferie, for det andre er det sommer og for det tredje har jeg ny leilighet med en stor balkong og ny grill! Derfor passer det veldig godt med en liten lanseringsfest for nye pdog.no! Det er også veldig smittevennlig - maks 3 gjester!
-{{< /ingress >}}
+{{% ingress %}}
+
+Det skjer ting i livet mitt! For det første har jeg ferie, for det andre er det sommer og for det
+tredje har jeg ny leilighet med en stor balkong og ny grill! Derfor passer det veldig godt med en
+liten lanseringsfest for nye pdog.no! Det er også veldig smittevennlig - maks 3 gjester!
+
+{{% /ingress %}}
 
 ![bilde av eksempelgrillmat](../../grillmat.jpeg "Eksempel på grillmat")
 
@@ -20,10 +24,11 @@ Det skjer ting i livet mitt! For det første har jeg ferie, for det andre er det
 - Spise mat.
 
 #### Kalender med ledige plasser
+
 **Dato - Ledige plasser**  
 onsdag 12. august kveld- 3  
 torsdag 13. august formiddag - 3  
-fredag 14. august hele dagen- 3   
+fredag 14. august hele dagen- 3
 
 #### Værmeldingen
 
