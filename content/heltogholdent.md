@@ -15,6 +15,7 @@ siden finner du kontaktinformasjon og logoen til selskapet.
 {{% /ingress %}}
 
 {{< hhhbilde >}}
+
 #### Offentlig registrering
 
 Foretaket er registrert i Brønnøysundregistrene med [organisasjonsnummer 915&nbsp;283&nbsp;497](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915283497).
