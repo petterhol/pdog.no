@@ -5,16 +5,20 @@ lastmod = 2020-08-12T12:00:00
 main = { parent = "Diverse" }
 +++
 
-{{% ingress %}} The Tim Traveller er en fantastisk fin YouTube-kanal som fokuserer på tre temaer:
-reising, turvandring og transport. Videoene tar ofte for seg et fysisk sted. For å kunne besøke noen
-av de samme stedene som Tim har gjort, har jeg laget et Google My Maps-kart. {{% /ingress %}}
+{{% ingress %}}
+
+The Tim Traveller er en fantastisk fin YouTube-kanal som fokuserer på tre temaer: reising,
+turvandring og transport. Videoene tar ofte for seg et fysisk sted. For å kunne besøke noen av de
+samme stedene som Tim har gjort, har jeg laget et Google My Maps-kart.
+
+{{% /ingress %}}  
 
 Besøk [The Tim Traveller på YouTube](https://www.youtube.com/c/TheTimTraveller/)!
 
 ### Kartet
 
-Ved å trykke på punktene i kartet, kan man se hva det er, lese beskrivelsen av YouTube-videoen og se
-en lenke til YouTube-videoen.
+Ved å trykke på punktene i kartet, kan man se hva det er, lese beskrivelsen av YouTube-videoen og
+se en lenke til YouTube-videoen.
 
 Kartet er delt inn i seks kategorier (farvekodet):
 
@@ -29,15 +33,17 @@ England](https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s)
 ## Eksludert fra kartet
  
 - [Mediocre Mountain
-Challenge-bidragene](https://www.youtube.com/watch?v=O7eomq_jWdY&list=PLeL-qrCp_9NR-
-zT5xwRJv6_pwYP1fdWw6) er ikke med, bortsett fra [Tims tur til
-Montmartre](https://www.youtube.com/watch?v=My-8RqTM4Ag). Årsak: Tidkrevende, gjør det kanskje
-senere. - [PeakQuest - Climbing The Highest Point In All 48 Counties of
-England](https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s). Årsak: Tidkrevende, gjør det kanskje
-senere. - [I'm coming back to NL! | Flevoland Mountain Expedition | Sat 30 Nov
-](https://www.youtube.com/watch?v=isrPq4RkR5Q&list=PLlpH0jWGIMwR9q7A1xZ6BXh65T3K940Z5&index=2). 
-Årsak: Kun en annonsering av noe som kommer, Urk er markert i en annen video. - Alle videoer som har
-kommer ut etter siste oppdateringsdato på kartet.
+  Challenge-bidragene](https://www.youtube.com/watch?v=O7eomq_jWdY&list=PLeL-qrCp_9NR-zT5xwRJv6_pwYP1fdWw6)
+  er ikke med, bortsett fra [Tims tur til
+  Montmartre](https://www.youtube.com/watch?v=My-8RqTM4Ag). Årsak: Tidkrevende, gjør det kanskje
+  senere.
+- [PeakQuest - Climbing The Highest Point In All 48 Counties of
+  England](https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s). Årsak: Tidkrevende, gjør det
+  kanskje senere.
+- [I'm coming back to NL! | Flevoland Mountain Expedition | Sat 30
+  Nov](https://www.youtube.com/watch?v=isrPq4RkR5Q&list=PLlpH0jWGIMwR9q7A1xZ6BXh65T3K940Z5&index=2).
+  Årsak: Kun en annonsering av noe som kommer, Urk er markert i en annen video.
+- Alle videoer som har kommer ut etter siste oppdateringsdato på kartet.
 
 ## Annonsering
 
