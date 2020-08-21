@@ -1,4 +1,8 @@
-+++ title = "The Tim Traveller" lastmod = 2020-08-12T12:00:00 [menu] main = { parent = "Diverse" }
++++ 
+title = "The Tim Traveller" 
+lastmod = 2020-08-12T12:00:00 
+[menu] 
+main = { parent = "Diverse" }
 +++
 
 {{% ingress %}} The Tim Traveller er en fantastisk fin YouTube-kanal som fokuserer på tre temaer:
