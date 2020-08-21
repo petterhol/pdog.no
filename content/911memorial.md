@@ -17,7 +17,7 @@ fin minnekveld.
 {{% /ingress %}}
 
 ## Bakgrunn
- 
+
 Terrorangrepet 11. september 2001 var en rekke koordinerte terroranslag i USA. Fire sivile fly ble
 kapret av aktivister fra al-Qaida på selvmordsoppdrag. To av dem ble med få minutters
 mellomrom styrtet inn i Verdens handelssenter (World Trade Center) i New York. Et tredje fly ble
