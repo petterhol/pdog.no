@@ -31,7 +31,7 @@ England](https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s)
 {{< timtraveller >}}
 
 ## Eksludert fra kartet
- 
+
 - [Mediocre Mountain
   Challenge-bidragene](https://www.youtube.com/watch?v=O7eomq_jWdY&list=PLeL-qrCp_9NR-zT5xwRJv6_pwYP1fdWw6)
   er ikke med, bortsett fra [Tims tur til
