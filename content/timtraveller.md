@@ -28,7 +28,7 @@ Speyside Way her). - Grenser (morsomme og rare landegrenser). - Alt annet av byg
 monumenter. - [PeakQuest - Climbing The Highest Point In All 48 Counties of
 England](https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s)
 
-{{< timtraveller >}}
+{{< mymaps 18Avv8ENKUFllJieGN568CSVIYZr6oIcb >}}
 
 ## Eksludert fra kartet
 
