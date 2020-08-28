@@ -28,15 +28,15 @@ samlebånd).
 - Gåturer (foreløpig har jeg bare lagt
 Speyside Way her).  
 - Grenser (morsomme og rare landegrenser). - Alt annet av bygninger, steder,
-monumenter. 
+monumenter.  
 - [PeakQuest - Climbing The Highest Point In All 48 Counties of
 England](https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s)
 
 {{< mymaps 18Avv8ENKUFllJieGN568CSVIYZr6oIcb >}}
 
 ## Eksludert fra kartet
-- [Mediocre Mountain
-  Challenge-bidragene](https://www.youtube.com/watch?v=O7eomq_jWdY&list=PLeL-qrCp_9NR-zT5xwRJv6_pwYP1fdWw6)
+
+- [Mediocre Mountain  Challenge-bidragene](https://www.youtube.com/watch?v=O7eomq_jWdY&list=PLeL-qrCp_9NR-zT5xwRJv6_pwYP1fdWw6)
   er ikke med, bortsett fra [Tims tur til
   Montmartre](https://www.youtube.com/watch?v=My-8RqTM4Ag). Årsak: Tidkrevende, gjør det kanskje
   senere.
