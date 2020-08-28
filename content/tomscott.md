@@ -1,5 +1,5 @@
 +++
-title = "Tom Scott-kart"
+title = "Tom Scott"
 lastmod = 2020-08-12T12:00:00
 [menu]
 main = { parent = "Kart" }
@@ -27,7 +27,7 @@ eller doble videoer.
 sted å vise frem.
 - Other som er alle andre videoer fra alle andre spillelister.
 
-Placeholder
+{{< mymaps 1OzMo9mwxVf5mQu3kg9iUjdFH58K9ZKnS >}}
 
 ### Tilbakemeldinger
 
