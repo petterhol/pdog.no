@@ -11,4 +11,4 @@ For å visualisere mine flyreiser rundt om kring i verden, har jeg laget et kart
 
 {{% /ingress %}}
 
-{{< flykart >}}
+{{< mymaps 1-WOIi8QVWmtiSyloYHJxDPYAIR0 >}}
