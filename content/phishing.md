@@ -129,7 +129,6 @@ observant på flere phishing-forsøk på e-post og SMS.
 
 {{% /card %}}
 
-
 {{% card header="Jeg ga fra meg betalingsinformasjon (betalingskort, VISA-kort, MasterCard-kort)"
 %}}
 
