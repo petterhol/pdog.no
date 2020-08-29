@@ -38,8 +38,6 @@ Musikk: I'm So - [Andrew Applepie](https://www.andrewapplepie.com/#contact)
 
 Dronen er av typen [DJI Mavic Mini](https://www.dji.com/no/mavic-mini) med Fly More Combo.
 
-{{< cclisens >}}
-
 Bildene og videoene som vises på denne siden er beskyttet av Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Dette betyr at du kan
 fritt dele, endre og utgi det samme materialet forutsatt at du nevner mitt navn, deler på samme
