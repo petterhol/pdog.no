@@ -7,7 +7,8 @@ main = { parent = "Annet" }
 
 {{% ingress %}}
 
-Jeg eier en drone, og tar av og til bilder og video med denne. Her publiserer jeg en del av materialet.
+Jeg eier en drone, og tar av og til bilder og video med denne. Her publiserer jeg en del av
+materialet.
 
 {{% /ingress %}}
 
@@ -21,7 +22,9 @@ Navn på video: Suping i Breivika
 Medvirkende: Thor-Rune Hansen (på sup), Petter Holstad (foto og redigering)  
 Innspilt: August 2020  
 Innspillingssted: [Breivika, Steigen, Nordland](https://goo.gl/maps/zxHi7H7VvkrCbeCVA)  
-Musikk: I'm So - [Andrew Applepie](https://www.andrewapplepie.com/#contact) ([Instagram](https://www.instagram.com/andrew_applepie/), [YouTube](https://www.youtube.com/andrewapplepie)).
+Musikk: I'm So - [Andrew Applepie](https://www.andrewapplepie.com/#contact)
+([Instagram](https://www.instagram.com/andrew_applepie/),
+[YouTube](https://www.youtube.com/andrewapplepie)).
 
 {{< youtube 91CqZ2thBHA >}}
 
@@ -37,7 +40,10 @@ Dronen er av typen [DJI Mavic Mini](https://www.dji.com/no/mavic-mini) med Fly M
 
 {{< cclisens >}}
 
-Bildene og videoene som vises på denne siden er beskyttet av Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Dette betyr at du kan fritt dele, endre og utgi det samme materialet forutsatt at du nevner mitt navn, deler på samme vilkår, og ikke bruker det kommersielt.
+Bildene og videoene som vises på denne siden er beskyttet av Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Dette betyr at du kan
+fritt dele, endre og utgi det samme materialet forutsatt at du nevner mitt navn, deler på samme
+vilkår, og ikke bruker det kommersielt.
 
 Hvis du ønsker bruk utover disse vilkårene (for eksempel kommersiell bruk), ta kontakt.
 
