@@ -21,10 +21,10 @@ lenken til videoen på YouTube.
 
 Kartet er delt inn i tre kategorier (farvekodet):
 
-- Amazing Places-serien: nesten alle videoer er med, med unntak av et par "slik besøker du" 
-eller doble videoer.
-- Thing You Might Not Know-serien: rundt halvparten er med, den andre halvparten har ikke noe 
-sted å vise frem.
+- Amazing Places-serien: nesten alle videoer er med, med unntak av et par "slik besøker du"
+  eller doble videoer.
+- Thing You Might Not Know-serien: rundt halvparten er med, den andre halvparten har ikke noe
+  sted å vise frem.
 - Other som er alle andre videoer fra alle andre spillelister.
 
 {{< mymaps 1OzMo9mwxVf5mQu3kg9iUjdFH58K9ZKnS >}}
