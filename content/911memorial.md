@@ -2,7 +2,7 @@
 title = "Invitasjon til 9/11 Memorial Party"
 lastmod = 2020-08-21T23:00:00
 [menu]
-main = { parent = "Diverse" }
+main = { parent = "Annet" }
 +++
 
 {{< covid >}}
