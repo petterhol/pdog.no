@@ -7,7 +7,7 @@ main = { parent = "Kart" }
 
 {{% ingress %}}
 
-Tom Scott er en YouTube-innholdsskaper med videoer innen en rekke kategorier. Mange av 
+Tom Scott er en YouTube-innholdsskaper med videoer innen en rekke kategorier. Mange av
 videoene viser et bestemt sted, eller er utgangspunkt for å forklare noe.
 
 {{% /ingress %}}  
@@ -16,7 +16,7 @@ Besøk [The Tom Scott på YouTube](https://youtube.com/TomScottGo)!
 
 ### Kartet
 
-Ved å trykke på punktene i kartet, ser man hva eller hvor det er, navnet på videoen, samt 
+Ved å trykke på punktene i kartet, ser man hva eller hvor det er, navnet på videoen, samt
 lenken til videoen på YouTube.
 
 Kartet er delt inn i tre kategorier (farvekodet):
