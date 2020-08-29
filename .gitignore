@@ -1,3 +1,4 @@
 /public/
 *.swp
 /.vscode/
+.DS_Store
