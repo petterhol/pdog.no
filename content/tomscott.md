@@ -1,5 +1,5 @@
 +++
-title = "Tom Scott-kart"
+title = "Tom Scott"
 lastmod = 2020-08-12T12:00:00
 [menu]
 main = { parent = "Kart" }
@@ -22,12 +22,12 @@ lenken til videoen på YouTube.
 Kartet er delt inn i tre kategorier (farvekodet):
 
 - Amazing Places-serien: nesten alle videoer er med, med unntak av et par "slik besøker du"
-eller doble videoer.
+  eller doble videoer.
 - Thing You Might Not Know-serien: rundt halvparten er med, den andre halvparten har ikke noe
-sted å vise frem.
+  sted å vise frem.
 - Other som er alle andre videoer fra alle andre spillelister.
 
-Placeholder
+{{< mymaps 1OzMo9mwxVf5mQu3kg9iUjdFH58K9ZKnS >}}
 
 ### Tilbakemeldinger
 
