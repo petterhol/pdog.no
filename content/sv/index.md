@@ -179,9 +179,7 @@ Texas. Informasjonen under er for den jeg besøkte.
 - Adresse: Fry's San Jose, 550 E Brokaw Rd, San Jose, CA 95112, USA.  
 - Gateparkering.  
 - Her kan man bruke opp til en time.  
-- [Besøk nettsiden]
-(https://www.frys.com/ac/storeinfo/san_jose-location-frys-electronics-hours-maps-
-directions).
+- [Besøk nettsiden](https://www.frys.com/ac/storeinfo/storelocator/).
 
 {{% /card %}}
 
