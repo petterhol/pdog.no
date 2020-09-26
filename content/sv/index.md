@@ -68,9 +68,9 @@ navnevalgene foreviggjort i store, farverike statuer.
 
 - Adresse: 1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA.  
 - Gratis parkering, og selvfølgelig gratis inngang.  
-- Anbefaler å sette av en halvtime her, med mindre du er veldig glad i å prøve på Google-skjorter. 
+- Anbefaler å sette av en halvtime her, med mindre du er veldig glad i å prøve på Google-skjorter.  
 - Ingen offisiell nettside, men [TripSavvy har en fin
-guide](https://www.tripsavvy.com/googleplex-the-google-head-office-in-mountain-view-2993763). 
+guide](https://www.tripsavvy.com/googleplex-the-google-head-office-in-mountain-view-2993763).
 
 {{% /card %}}
 
@@ -113,7 +113,7 @@ samfunnet.
 - Adresse: 1401 N Shoreline Blvd, Mountain View, CA 94043, USA.
 - Gratis parkering, 17 USD inngang for voksne.  
 - Her kan man lett bruke 2-3 timer.  
-- [Besøk nettsiden](https://computerhistory.org). 
+- [Besøk nettsiden](https://computerhistory.org).
 
 {{% /card %}}
 
@@ -178,9 +178,9 @@ Texas. Informasjonen under er for den jeg besøkte.
 
 - Adresse: Fry's San Jose, 550 E Brokaw Rd, San Jose, CA 95112, USA.  
 - Gateparkering.  
-- Her kan man bruke opp til en time. 
-- [Besøk
-nettsiden](https://www.frys.com/ac/storeinfo/san_jose-location-frys-electronics-hours-maps-
+- Her kan man bruke opp til en time.  
+- [Besøk nettsiden]
+(https://www.frys.com/ac/storeinfo/san_jose-location-frys-electronics-hours-maps-
 directions).
 
 {{% /card %}}
@@ -219,6 +219,7 @@ statue av han i Palo Alto. Forutenom å hedre en flott mann, er selve statuen en
 Kickstarter-kampanje, tilbyder av trådløst internett og en tidskapsel som skal åpnes 7. januar 2043.
 
 *Besøk:*
+
 - Adresse: 260 Sheridan Ave, Palo Alto, CA 94306, USA.  
 - Gateparkering i nærheten, og hvor lang tid du bruker er avhengig av hvor mye nett du trenger.  
 
@@ -253,7 +254,7 @@ i San Francisco, er dette fantastisk museum bestående av pinballmaskiner og and
     >}}
 
 Amazon har utviklet et ganske kult konsept for selvbetjente butikker som heter Amazon Go. Det finnes
-flere av disse, den jeg viser til under er den jeg var på selv i april 2019. 
+flere av disse, den jeg viser til under er den jeg var på selv i april 2019.
 
 I denne butikken må du ha Amazon Go-appen for å handle. Du scanner strekkoden ved inngangen for å
 komme inn i butikken. Alt du foretar deg i butikken blir nå overvåket av kameraer og andre sensorer
@@ -268,7 +269,7 @@ blir alt belastet din betalingsmåte i appen. Det er ingen kasse eller kontrollp
 - [Besøk nettsiden](http://www.cablecarmuseum.org).
 
 Hvis du er interessert i mer rundt teknologien og hvor godt den fungerer, kan du se på Linus Tech
-Tips som har testet en tilsvarende butikk i Seattle: 
+Tips som har testet en tilsvarende butikk i Seattle:
 
 {{< youtube vorkmWa7He8 >}}
 
