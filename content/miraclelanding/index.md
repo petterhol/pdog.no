@@ -5,8 +5,6 @@ lastmod = 2020-09-27T23:00:00
 main = { parent = "Annet" }
 +++
 
-{{< covid >}}
-
 {{< img
     class="img-fluid float-right"
     src="landing.jpg"
@@ -39,6 +37,8 @@ Sted: Petters leilighet, Ivan Bjørndals gate 6. [Få veibeskrivelse](../visitt/
 **Påmelding**
 
 Av smittevernshensyn vil alle måtte melde seg på og bli godkjent.
+
+{{< covid >}}
 
 {{< festskjema >}}
 
