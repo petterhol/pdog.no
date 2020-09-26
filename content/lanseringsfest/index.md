@@ -15,7 +15,7 @@ liten lanseringsfest for nye pdog.no! Det er også veldig smittevennlig - maks 3
 
 {{% /ingress %}}
 
-![bilde av eksempelgrillmat](../../grillmat.jpeg "Eksempel på grillmat")
+![bilde av eksempelgrillmat](grillmat.jpeg "Eksempel på grillmat")
 
 #### Program
 

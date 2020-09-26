@@ -8,7 +8,9 @@ main = { weight = 1, parent = "Petter"}
 +++
 
 {{% ingress %}}
+
 Det finnes mange måter å komme i kontakt med meg på. Her er et lite utvalg.
+
 {{% /ingress %}}
 
 {{< kontaktinfo >}}

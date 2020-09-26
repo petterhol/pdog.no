@@ -66,7 +66,7 @@ Anbefaler å laste ned [Oslo Bysykkel-appen](https://oslobysykkel.no/app).
 
 {{< img
     class="img-fluid"
-    src="/bysykkel.jpg"
+    src="bysykkel.jpg"
     alt=`Bildet viser en mann på en Bysykkel fra Oslo Bysykkel. Mannen sykler
     ikke, men står oppreist med sykkelen mellom beina. Mannen har hendene opp
     og smiler. Bildet er tatt juni kl. 23.55, og det er litt lyst ute
