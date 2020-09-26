@@ -37,7 +37,8 @@ også Apple Store-butikker som selger ordinære Apple-produkter og merchandise s
 og vannbeholdere, notatbøker og så videre. Dette selges ikke offisielt noen andre steder. Ved Apple
 Park er det dessuten en VR-modell av Apple Park, en kafé og et utkikkspunkt.
 
-*Besøk*:  
+*Besøk*:
+
 - Adresse: Apple Infinitive Loop: 1 Infinite Loop, Cupertino, CA 95014, USA  
 - Adresse: Apple Park Visitor Center: 10600 N Tantau Ave, Cupertino, CA 95014, USA.  
 - Gratis parkering ved begge steder, og selvfølgelig gratis inngang.  
@@ -63,7 +64,8 @@ annet med utplasserte sykler. Det er en Google-butikk som selger en blanding av 
 og merchandise. Det finnes også en "Android-skulpturpark" hvor du kan se mange av de interessante
 navnevalgene foreviggjort i store, farverike statuer.
 
-*Besøk*:  
+*Besøk*:
+
 - Adresse: 1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA.  
 - Gratis parkering, og selvfølgelig gratis inngang.  
 - Anbefaler å sette av en halvtime her, med mindre du er veldig glad i å prøve på Google-skjorter. 
@@ -84,7 +86,8 @@ Mikroprosessor-produsenten Intel har et eget lite (!) museum i Santa Clara, i ti
 hovedkontor. Her kan man lære mer om Intels og mikroprosessorenes historie. Det er også en liten
 butikk som selger merchandise.
 
-*Besøk*:  
+*Besøk*:
+
 - Adresse: 2200 Mission College Blvd, Santa Clara, CA 95054, USA.
 - Gratis parkering utenfor, og museet er gratis det også.
 - Anbefaler å sette av en halvtime her, med mindre du er spesielt interessert.  
@@ -106,6 +109,7 @@ samling av forskjellig datamaskinteknologi og utforsker informasjonsalderens på
 samfunnet.
 
 *Besøk*:
+
 - Adresse: 1401 N Shoreline Blvd, Mountain View, CA 94043, USA.
 - Gratis parkering, 17 USD inngang for voksne.  
 - Her kan man lett bruke 2-3 timer.  
@@ -128,6 +132,7 @@ og være publikum på sendingene. Man får en bitteliten omvisning, får hilse p
 stille i studioet under opptak.
 
 *Besøk*:
+
 - Adresse: 1351-B Redwood Way, Petaluma, CA 94954, USA.  
 - Gratis parkering, og det å være publikum er også gratis.  
 - Sett av rundt 3 timer basert på hvilket program du er publikum på.  
@@ -148,6 +153,7 @@ Car Museum noe for deg. Her kan man se maskinene og hjulene som trekker kablene.
 ta kabelsporvogn til og fra museumsbesøket.
 
 *Besøk*:
+
 - Adresse: 1201 Mason St, San Francisco, CA 94108, USA.  
 - Gateparkering, gratis inngang.  
 - Her kan man bruke opp til en time, med mindre du er spesielt interessert.  
@@ -169,6 +175,7 @@ hyllemeter, både med elektronikkprodukter og deler. Kjeden har flere butikker, 
 Texas. Informasjonen under er for den jeg besøkte.
 
 *Besøk*:
+
 - Adresse: Fry's San Jose, 550 E Brokaw Rd, San Jose, CA 95112, USA.  
 - Gateparkering.  
 - Her kan man bruke opp til en time. 
@@ -193,6 +200,7 @@ utenfor 1 Hacker Way-skiltet som har en Facebook-tommel. På baksiden av skiltet
 til Sun Microsystems, som var anleggets tidligere leietaker.
 
 *Besøk*:
+
 - Adresse: 1 Hacker Way, Menlo Park, CA 94025, USA.  
 - Trenger ikke å bruke noe mer enn 10 minutter her, så lenge man finner parkering i nærheten.
 
@@ -210,7 +218,7 @@ Nikola Tesla var en oppfinner, fysiker og ingeniør, men det visste du kanskje. 
 statue av han i Palo Alto. Forutenom å hedre en flott mann, er selve statuen en
 Kickstarter-kampanje, tilbyder av trådløst internett og en tidskapsel som skal åpnes 7. januar 2043.
 
-*Besøk*
+*Besøk:*
 - Adresse: 260 Sheridan Ave, Palo Alto, CA 94306, USA.  
 - Gateparkering i nærheten, og hvor lang tid du bruker er avhengig av hvor mye nett du trenger.  
 
@@ -228,6 +236,7 @@ Hvis du er glad i arkadespill kan du gå langt tilbake i tid her. Plassert midt 
 i San Francisco, er dette fantastisk museum bestående av pinballmaskiner og andre arkadespill.
 
 *Besøk*:
+
 - Adresse: 1201 Mason St, San Francisco, CA 94108, USA.  
 - Offentlig gateparkering i nærheten. Inngang gratis, men du må selvfølgelig betale for spillene.
 - Jeg tror man kan bruke opp mot to timer om man er normalt interessert.
@@ -251,7 +260,8 @@ komme inn i butikken. Alt du foretar deg i butikken blir nå overvåket av kamer
 som med høy presisjon kan finne ut hvilke produkter du tar ut av hyllene. Når du forlater butikken,
 blir alt belastet din betalingsmåte i appen. Det er ingen kasse eller kontrollpunkt på vei ut.
 
-*Besøk*:
+*Besøk:*
+
 - Adresse: 1201 Mason St, San Francisco, CA 94108, USA.  
 - Offentlig gateparkering.
 - Dette er liten butikk, så noe mer enn 5 minutter er vanskelig å bruke her.  
