@@ -12,19 +12,29 @@ main = { parent = "Ivan Bjørndals gate 6", weight = 3}
 {{< navbar-visit-kollektivt >}}
 
 {{% ingress %}}
-Det finnes mange måter å komme seg hit på. I hovedsak er det buss og trikk,
+
+Boligen er lett tilgjengelig med kollekivtransport. I hovedsak er det buss og trikk,
 men T-banen er også tilgjengelig. Jeg anbefaler at du bruker søkemotoren
 under, eller en av karttjenestene over for å finne en perfekt reisevei. Jeg
 hjelper også til med planleggingen om du er ukjent i Oslo. Hvis du vil finner
 du også en komplett oversikt over mulige transportmidler under, samt
 anbefalinger.
+
 {{% /ingress %}}
+
+{{< busstreik >}}
 
 {{< accordion >}}
 
-{{% card header="Holdeplasser" %}}
+{{% card header="Anbefalte holdeplasser i nærheten av meg" %}}
 
-{{< holdeplasser >}}
+{{< holdeplasser-avvik >}}
+
+{{% /card %}}
+
+{{% card header="Bruk Entur sin søkemotor" %}}
+
+{{< entur >}}
 
 {{% /card %}}
 
