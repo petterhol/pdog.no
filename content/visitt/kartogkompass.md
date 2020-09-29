@@ -63,5 +63,7 @@ Hvis du er så hardcore at du trenger koordinater, har du dem her.
 {{< /accordion >}}
 
 {{% callout %}}
-Kjenner du til flere karttjenster? Send gjerne inn et <a href="../../innspill">innspill</a>.
+
+Kjenner du til flere karttjenester? Send gjerne inn et [innspill](/innspill).
+
 {{% /callout %}}
