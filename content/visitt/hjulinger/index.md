@@ -11,8 +11,10 @@ main = { parent = "Ivan Bjørndals gate 6", weight = 2}
 {{< navbar-visit-hjulinger >}}
 
 {{% ingress %}}
-Boligen min ligger "midt i Oslo", så det er lett å komme seg hit uansett om du går, sykler eller
-bruker sparesykkel.
+
+Boligen min ligger «midt i Oslo», så det er lett å komme seg hit uansett om du går, sykler eller
+bruker sparkesykkel.
+
 {{% /ingress %}}
 
 {{< accordion >}}
