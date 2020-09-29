@@ -12,7 +12,7 @@ main = { parent = "Ivan Bjørndals gate 6", weight = 1}
 
 {{% ingress %}}
 
-Her har jeg prøvd å samle alle karttjenster jeg kjenner til. De fleste er innebygget på denne 
+Her har jeg prøvd å samle alle karttjenester jeg kjenner til. De fleste er innebygget på denne
 siden, resten må du åpne i egne nettsider.
 
 {{% /ingress %}}
@@ -63,5 +63,7 @@ Hvis du er så hardcore at du trenger koordinater, har du dem her.
 {{< /accordion >}}
 
 {{% callout %}}
-Kjenner du til flere karttjenster? Send gjerne inn et <a href="../../innspill">innspill</a>.
+
+Kjenner du til flere karttjenester? Send gjerne inn et [innspill](/innspill).
+
 {{% /callout %}}
