@@ -19,22 +19,22 @@ ser en dokumentar om hendelsen.
 
 {{% /ingress %}}
 
-Hvis du ikke kjenner til hendelsen, les [US Airways Flight 1549 på 
+Hvis du ikke kjenner til hendelsen, les [US Airways Flight 1549 på
 Wikipedia](https://no.wikipedia.org/wiki/US_Airways_Flight_1549).
 
-**Kveldens program**:
+##### Kveldens program
 
 - Inntak av autentisk mat fra New York City.  
 - Vi ser dokumentaren "Mirakellanding på Hudson-elven", tilgjengelig på Disney+.  
 - Kviss: "Hvordan skal vi oppføre oss i en ditchingsituasjon?"  
 
-**Praktisk informasjon**
+##### Praktisk informasjon
 
 Dato og klokkeslett: Det blir selvfølgelig 15. januar 2020, kom etter 18.00.
 
 Sted: Petters leilighet, Ivan Bjørndals gate 6. [Få veibeskrivelse](../visitt/kartogkompass).
 
-**Påmelding**
+##### Påmelding
 
 Av smittevernshensyn vil alle måtte melde seg på og bli godkjent.
 
@@ -46,5 +46,7 @@ Av smittevernshensyn vil alle måtte melde seg på og bli godkjent.
 
 Bildet av US Airways Flight 1549 er tatt av Greg L og lisensiert under Creative Commons Attribution
 2.0 Generic Lisence. Se bildet på
-[Commons](https://commons.wikimedia.org/wiki/File:US_Airways_Flight_1549_(N106US)
-_after_crashing_into_the_Hudson_River_(crop_1).jpg)
+[Commons][Commons]
+
+[Commons]: https://commons.wikimedia.org/wiki/File:US_Airways_Flight_1549_(N106US)
+_after_crashing_into_the_Hudson_River_(crop_1).jpg
