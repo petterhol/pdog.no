@@ -7,7 +7,7 @@ Dette er den personlige nettsiden til Petter Holstad. Den er tilgjengelig på f�
 
 - pdog.no
 - p-dog.no
-- p-dog.online (fulgte med gratis da jeg kjøpte p-dog.no)
+- p-dog.online (lenker direkte til pdog.no/kontakt)
 - petterholstad.no
 - heltogholdent.no
 
@@ -19,7 +19,7 @@ utvidet til å holde på en del personlig materiale, samt artikler jeg har skrev
 En del av undersidene er ikke tilgjengelig i navigasjonen, fordi de bare er ment som sider jeg
 kan lenke til direkte.
 
-I tillegg har jeg et webhotell som jeg kan bruke til å lagre annet innhold.
+I tillegg har jeg et internetthotell som jeg kan bruke til å lagre annet innhold.
 
 Siden jeg driver et (foreløpig inaktivt) enkeltpersonsforetak, er det også kjekt å kunne ha et
 sted på internett som informerer om det.
