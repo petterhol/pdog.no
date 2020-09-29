@@ -12,7 +12,7 @@ main = { parent = "Ivan Bjørndals gate 6", weight = 1}
 
 {{% ingress %}}
 
-Her har jeg prøvd å samle alle karttjenster jeg kjenner til. De fleste er innebygget på denne 
+Her har jeg prøvd å samle alle karttjenester jeg kjenner til. De fleste er innebygget på denne
 siden, resten må du åpne i egne nettsider.
 
 {{% /ingress %}}
