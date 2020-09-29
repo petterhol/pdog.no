@@ -46,8 +46,6 @@ og utdaterte adresser. Gjennom flere år har vi opprettet og avviklet e-poster
 til prosjekter, underorganisasjoner, ansatte og andre, som vi slipper å
 administrere separat med egne kontoer.
 
-{{< egenrisk >}}
-
 ## Min bruk av catch-all
 
 Siden jeg er en privatperson, har jeg ikke det samme behovet for en

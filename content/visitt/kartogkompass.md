@@ -11,37 +11,39 @@ main = { parent = "Ivan Bjørndals gate 6", weight = 1}
 {{< navbar-visit-kart >}}
 
 {{% ingress %}}
-Navigering bare med kart og kompass er en mulighet. Under finner du alle karttjenester jeg
-kjenner til for Norge, samt koordinater.
+
+Her har jeg prøvd å samle alle karttjenester jeg kjenner til. De fleste er innebygget på denne
+siden, resten må du åpne i egne nettsider.
+
 {{% /ingress %}}
 
 {{< accordion >}}
 
-{{% card header="Google Maps" %}}
+{{% card header="Google Maps (tegnet kart, flyfoto)" %}}
 
 {{< googlemaps >}}
 
 {{% /card %}}
 
-{{% card header="Finn.no-kart" %}}
+{{% card header="Finn.no-kart (teget kart, flyfoto og hybrid)" %}}
 
 {{< findmaps >}}
 
 {{% /card %}}
 
-{{% card header="Gule Sider-kart" %}}
+{{% card header="Gule Sider-kart (tegnet kart)" %}}
 
 {{< gulekart >}}
 
 {{% /card %}}
 
-{{% card header="Norgeskart" %}}
+{{% card header="Norgeskart (tegnet kart)" %}}
 
 {{< norgeskart >}}
 
 {{% /card %}}
 
-{{% card header="Andre kart" %}}
+{{% card header="Andre karttjenster" %}}
 
 - [Apple Maps (Kart)](https://maps.apple.com/?address=Ivan%20Bj%C3%B8rndals%20Gate%206,%200472%20Oslo,%20Norge&ll=59.937556,10.764625&q=Avmerket%20posisjon&_ext=EiYpvV6rP273TUAxtQ540OuCJUA5OzTRm5T4TUBBm6nwQRqMJUBQBA==)
 - [1881.no](https://kart.1881.no/?lat=59.9375397&lon=10.7646633&z=17&v=0&r=F1410926|&o=&layer=)
@@ -59,3 +61,9 @@ Hvis du er så hardcore at du trenger koordinater, har du dem her.
 {{% /card %}}
 
 {{< /accordion >}}
+
+{{% callout %}}
+
+Kjenner du til flere karttjenester? Send gjerne inn et [innspill](/innspill).
+
+{{% /callout %}}

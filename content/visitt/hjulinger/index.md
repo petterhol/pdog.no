@@ -11,14 +11,15 @@ main = { parent = "Ivan Bjørndals gate 6", weight = 2}
 {{< navbar-visit-hjulinger >}}
 
 {{% ingress %}}
-Du kan selvfølgelig gå, sykle eller sparkesykle til meg.
-{{% /ingress %}}
 
-## Gangruter
+Boligen min ligger «midt i Oslo», så det er lett å komme seg hit uansett om du går, sykler eller
+bruker sparkesykkel.
+
+{{% /ingress %}}
 
 {{< accordion >}}
 
-{{% card header="Gange" %}}
+{{% card header="Gangruter" %}}
 
 Det er mulig å gå til boligen fra hvor som helst i Oslo. Fra sentrum: Ca. en
 time gange. Legg merke til at det er minst 86 meter stigning ved effektiv
@@ -28,17 +29,9 @@ eksempel [Google Maps](https://goo.gl/maps/ZV331iMTMKLFBKtD7).
 
 {{% /card %}}
 
-{{< /accordion >}}
-
-## Sykkel
-
-Det er mulig å sykle til boligen fra hvor som helst i Oslo.
-
-{{< accordion >}}
-
 {{% card header="Egnede sykkelruter" %}}
 
- Fra sentrum: Ca. en halvtime. Legg merke til at det er minst 86 meter stigning ved effektiv
+Fra sentrum: Ca. en halvtime. Legg merke til at det er minst 86 meter stigning ved effektiv
 sykkelrute. For en koseligere rute, gå via Akerselva til du kommer til
 Lilleborg. Du kan bruke mange karttjenester til å lage en sykkelrute, for
 eksempel [Google Maps](https://goo.gl/maps/XujPHW9ShqkvaUCT6).
@@ -49,20 +42,19 @@ Sykkelparkering i stativ utenfor blokka, men pass på at du sykler inn fra den b
 
 {{% card header="Oslo bysykkel" %}}
 
-### Oslo bysykkel
-
 Det er flere bysykkelstasjoner i nærheten. Tilbyr dags- og sesongkort, enkel
 opplåsing med app på mobilen. Jeg kan kanskje tilby gratis dagspass, kontakt
 meg i forkant.
 
 I nærheten av huset finnes følgende stativer (sortert etter gangavstand):
 
-- Myraløkka Øst ved Bentsenbrua
-- Krebs' gate ved Vogts gate
-- Bjølsen mølle langs Sandakerveien
-- Bjølsendumpa langs Treschows gate (7 min)
+- Myraløkka Øst ved Bentsenbrua.  
+- Krebs' gate ved Vogts gate.  
+- Bjølsen mølle langs Sandakerveien.  
+- Bjølsendumpa langs Treschows gate (7 min).
 
-Anbefaler å laste ned [Oslo Bysykkel-appen](https://oslobysykkel.no/app).
+Jeg anbefaler å laste ned [Oslo Bysykkel-appen](https://oslobysykkel.no/app). Under ser du et
+bilde av meg på bysykkel.
 
 {{< img
     class="img-fluid"
