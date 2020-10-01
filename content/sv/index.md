@@ -17,8 +17,6 @@ interessant. Under finner du et kart og en liste over alle stedene jeg besøkte 
 
 {{< mymaps 1-WAw9ucizpfmtaVIrsWYqx3A5AdRGvos >}}
 
----
-
 {{< accordion >}}
 
 {{% card header="Apple Park og Apple Infinitive Loop" %}}
@@ -274,7 +272,5 @@ Tips som har testet en tilsvarende butikk i Seattle:
 {{% /card %}}
 
 {{< /accordion >}}
-
----
 
 {{< bildecredits-sv >}}

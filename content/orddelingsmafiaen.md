@@ -5,8 +5,6 @@ lastmod = 2020-08-12T12:00:00
 main = { parent = "Annet" }
 +++
 
-{{< underarbeid >}}
-
 {{% ingress %}}
 
 Av irritasjon på orddelingsfeil i samfunnet, startet jeg og en kompis nettsiden Orddelingsmafiaen
@@ -58,7 +56,7 @@ Gjennom tiden ble vi omtalt litt her og der i blogger, samt i følgende medier:
   siden](../orddelingvg.jpeg).
 - Språkrådet inviterte oss 4. januar 2010 til å skrive et innlegg på bloggen Klarspråk.
   Klarspråk-nettsiden er myntet på ansatte i det offentlige. Les: [Betydningen av å skrive
-  rett](https://www.sprakradet.no/Klarsprak/Aktuelt/2010/Blogginnlegg-Betydningen-av-a-skrive-rett/).
+rett](<https://www.sprakradet.no/Klarsprak/Aktuelt/2010/Blogginnlegg-Betydningen-av-a-skrive-rett/>).
 - Aprilsnarr! 1. april 2010 sendte vi ut en pressemelding til et utvalg redaksjoner for å lure
   inn en aprilspøk. Vi ble dessverre bare omtalt i artikler som omtaler den dagens aprilspøker,
   [eksempel fra VG
@@ -67,12 +65,17 @@ Gjennom tiden ble vi omtalt litt her og der i blogger, samt i følgende medier:
   aktuelle dagen på Wayback Machine). Her er artikkelen: [– Det norske språk svekkes hvis vi ikke
   gjør noe](https://www.nrk.no/nordland/17-aring-kjemper-mot-orddelingsfeil-1.7825450).
 - Etter NRK-oppslaget valgte NRK P1-programmet Norgesglasset å lage en reportasje om oss.  
-- Parallelt kontaktet NRK P3-programmet Banden oss for å lage en annen reportasje.  
+- Parallelt kontaktet NRK P3-programmet Banden oss for å lage en annen reportasje. Videoen under er
+fra denne:
+
+{{< youtube "8Ua-QkcVav0" >}}
 
 #### Fem på gata
 
 I april 2009 produserte vi en amatørmessig reportasje fra Tromsø sentrum: Fem på gata om
 orddeling. Egil Hegerberg (bedre kjent som "Bare Egil Band") var så snill at han lot oss bruke
 nesten hele sangen som bakgrunnsmusikk. Under er videoen og låta på Apple Music:
+
+{{< youtube "-2YORpgRcN0" >}}
 
 {{< bareegil >}}
