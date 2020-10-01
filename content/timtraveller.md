@@ -13,14 +13,20 @@ samme stedene som Tim har gjort, har jeg laget et Google My Maps-kart.
 
 {{% /ingress %}}  
 
+{{< callout primary >}}
+
 Besøk [The Tim Traveller på YouTube](https://www.youtube.com/c/TheTimTraveller/)!
 
-### Kartet
+{{< /callout >}}
+
+{{< mymaps 18Avv8ENKUFllJieGN568CSVIYZr6oIcb >}}
+
+Kartet ble annonsert av Tim på [YouTube-kanalens
+"fellesskap"-fane](https://www.youtube.com/post/UgynBapHI1ROx6lfxKh4AaABCQ), samt
+[Twitter](https://twitter.com/TheTimTraveller/status/1293518513970262017).
 
 Ved å trykke på punktene i kartet, kan man se hva det er, lese beskrivelsen av YouTube-videoen og
-se en lenke til YouTube-videoen.
-
-Kartet er delt inn i seks kategorier (farvekodet):
+se en lenke til YouTube-videoen. Kartet er delt inn i seks kategorier (farvekodet):
 
 - Transportrelatert (jernbaner, trikker, transportmuseer, monobaner, svevebaner, gondoler og
 samlebånd).  
@@ -30,26 +36,24 @@ Speyside Way her).
 - Grenser (morsomme og rare landegrenser). - Alt annet av bygninger, steder,
 monumenter.  
 - [PeakQuest - Climbing The Highest Point In All 48 Counties of
-England](https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s)
+England](https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s), men dette er kun basert på Wikipedia-
+artikkelen [List of ceremonial counties of England by highest point][wikipedia] hvor jeg importerte
+listen direkte inn i Google My Maps, og kan derfor inneholde en del unøyaktigheter.
 
-{{< mymaps 18Avv8ENKUFllJieGN568CSVIYZr6oIcb >}}
-
-## Eksludert fra kartet
+Dette er ikke inkludert:
 
 - [Mediocre Mountain  Challenge-bidragene](https://www.youtube.com/watch?v=O7eomq_jWdY&list=PLeL-qrCp_9NR-zT5xwRJv6_pwYP1fdWw6)
   er ikke med, bortsett fra [Tims tur til
   Montmartre](https://www.youtube.com/watch?v=My-8RqTM4Ag). Årsak: Tidkrevende, gjør det kanskje
   senere.
-- [PeakQuest - Climbing The Highest Point In All 48 Counties of
-  England](https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s). Årsak: Tidkrevende, gjør det
-  kanskje senere.
 - [I'm coming back to NL! | Flevoland Mountain Expedition | Sat 30
   Nov](https://www.youtube.com/watch?v=isrPq4RkR5Q&list=PLlpH0jWGIMwR9q7A1xZ6BXh65T3K940Z5&index=2).
   Årsak: Kun en annonsering av noe som kommer, Urk er markert i en annen video.
 - Alle videoer som har kommer ut etter siste oppdateringsdato på kartet.
 
-## Annonsering
+Du kan gi meg tilbakemelding på kartet. For eksempel hvis noe er feilplassert,
+eller noe er stengt eller flyttet. Du kan også tipse meg om andre steder jeg burde ha lagt til:
 
-Kartet ble annonsert av Tim på [YouTube-kanalens
-"fellesskap"-fane](https://www.youtube.com/post/UgynBapHI1ROx6lfxKh4AaABCQ), samt
-[Twitter](https://twitter.com/TheTimTraveller/status/1293518513970262017).
+{{< knapp-kontaktinfo >}}
+
+[wikipedia]: https://en.wikipedia.org/wiki/List_of_ceremonial_counties_of_England_by_highest_point
