@@ -42,7 +42,9 @@ listen direkte inn i Google My Maps, og kan derfor inneholde en del unøyaktighe
 
 Dette er ikke inkludert:
 
-- [Mediocre Mountain  Challenge-bidragene](https://www.youtube.com/watch?v=O7eomq_jWdY&list=PLeL-qrCp_9NR-zT5xwRJv6_pwYP1fdWw6)
+- [Mediocre Mountain
+Challenge-bidragene](https://www.youtube.com/watch?v=O7eomq_jWdY&list=PLeL-qrCp_9NR-
+zT5xwRJv6_pwYP1fdWw6)
   er ikke med, bortsett fra [Tims tur til
   Montmartre](https://www.youtube.com/watch?v=My-8RqTM4Ag). Årsak: Tidkrevende, gjør det kanskje
   senere.

@@ -20,4 +20,5 @@ alle unike flyruter mellom lufthavnene jeg har reist på.
 - Flyruter med stopp uten flybytte har ikke egne oppføringer. Her vises bare hele strekingen.  
 - Dette sier ingenting om frekvensen - men OSL-CPH, OSL-EVE og OSL-TOS er nok de mest brukte rutene.
 - Oslo lufthavn, Fornebu er markert som en nedlagt flyplass.
-- Det er kun en flyplass uten ruter: Moss lufthavn, Rygge. Den eneste gangen jeg har vært her, ble flyet kansellert på grunn av snøstorm i Roma.
+- Det er kun en flyplass uten ruter: Moss lufthavn, Rygge. Den eneste gangen jeg har vært her, ble
+flyet kansellert på grunn av snøstorm i Roma.
