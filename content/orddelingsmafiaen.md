@@ -56,8 +56,7 @@ Gjennom tiden ble vi omtalt litt her og der i blogger, samt i følgende medier:
   siden](../orddelingvg.jpeg).
 - Språkrådet inviterte oss 4. januar 2010 til å skrive et innlegg på bloggen Klarspråk.
   Klarspråk-nettsiden er myntet på ansatte i det offentlige. Les: [Betydningen av å skrive
-
-rett](https://www.sprakradet.no/Klarsprak/Aktuelt/2010/Blogginnlegg-Betydningen-av-a-skrive-rett/).
+rett](<https://www.sprakradet.no/Klarsprak/Aktuelt/2010/Blogginnlegg-Betydningen-av-a-skrive-rett/>).
 - Aprilsnarr! 1. april 2010 sendte vi ut en pressemelding til et utvalg redaksjoner for å lure
   inn en aprilspøk. Vi ble dessverre bare omtalt i artikler som omtaler den dagens aprilspøker,
   [eksempel fra VG

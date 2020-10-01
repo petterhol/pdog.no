@@ -36,15 +36,13 @@ Speyside Way her).
 - Grenser (morsomme og rare landegrenser). - Alt annet av bygninger, steder,
 monumenter.  
 - [PeakQuest - Climbing The Highest Point In All 48 Counties of
-England](https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s), men dette er kun basert på Wikipedia-
+England](<https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s>), men dette er kun basert på Wikipedia-
 artikkelen [List of ceremonial counties of England by highest point][wikipedia] hvor jeg importerte
 listen direkte inn i Google My Maps, og kan derfor inneholde en del unøyaktigheter.
 
 Dette er ikke inkludert:
 
-- [Mediocre Mountain
-Challenge-bidragene](https://www.youtube.com/watch?v=O7eomq_jWdY&list=PLeL-qrCp_9NR-
-zT5xwRJv6_pwYP1fdWw6)
+- [Mediocre Mountain Challenge-bidragene][mmcb]
   er ikke med, bortsett fra [Tims tur til
   Montmartre](https://www.youtube.com/watch?v=My-8RqTM4Ag). Årsak: Tidkrevende, gjør det kanskje
   senere.
@@ -59,3 +57,4 @@ eller noe er stengt eller flyttet. Du kan også tipse meg om andre steder jeg bu
 {{< knapp-kontaktinfo >}}
 
 [wikipedia]: https://en.wikipedia.org/wiki/List_of_ceremonial_counties_of_England_by_highest_point
+[mmcb]: https://www.youtube.com/watch?v=O7eomq_jWdY&list=PLeL-qrCp_9NR-zT5xwRJv6_pwYP1fdWw6
