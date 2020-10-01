@@ -22,28 +22,13 @@ anbefalinger.
 
 {{% /ingress %}}
 
-{{< busstreik >}}
-
 {{< accordion >}}
 
 {{% card header="Anbefalte holdeplasser i nærheten av meg" %}}
 
-{{< callout danger >}}
-
-##### Før du ser på holdeplassene
-
-Det er en pågående busstreik i Oslo og det som var Akershus. Det betyr at ingen busser går, også
-buss for trikk og nattbuss for trikk. [Les mer på
-ruter.no](https://ruter.no/avvik/busstreik-2020/?id=15327). Tabellen viser for øyeblikket alle
-busser med grå bakgrunn og ~~overstreket rutenummer~~.
-
-{{< /callout >}}
-
-{{< holdeplasser-avvik >}}
+##### Ny trikkelinje fra 4. oktober
 
 {{< callout primary >}}
-
-##### Ny trikkelinje fra 4. oktober
 
 Linje 13 endrer trasé og betjener derfor ikke Sandaker senter lengre. Linje 18 får ny trasé: Grefsen
 stasjon - Jernbanetorget - Rikshospitalet, og vil derfor betjene Sandaker senter. [Les mer på
@@ -51,35 +36,17 @@ ruter.no](https://ruter.no/avvik/ruteendring-4.-oktober/).
 
 {{< /callout >}}
 
+{{< holdeplasser >}}
+
 {{% /card %}}
 
 {{% card header="Bruk Entur sin søkemotor" %}}
-
-{{< callout danger >}}
-
-##### Før du søker på Entur
-
-Det er en pågående busstreik i Oslo og det som var Akershus. Det betyr at ingen busser går, også
-buss for trikk og nattbuss for trikk. [Les mer på
-ruter.no](https://ruter.no/avvik/busstreik-2020/?id=15327). Reiseplanleggeren vil fortsatt vise
-bussruter, så du må fjerne disse manuelt.
-{{< /callout >}}
 
 {{< entur >}}
 
 {{% /card %}}
 
 {{% card header="Bruk RuterReise sin søkemotor" %}}
-
-{{< callout danger >}}
-
-##### Før du søker på Ruter
-
-Det er en pågående busstreik i Oslo og det som var Akershus. Det betyr at ingen busser går, også
-buss for trikk og nattbuss for trikk. [Les mer på
-ruter.no](https://ruter.no/avvik/busstreik-2020/?id=15327). Reiseplanleggeren vil fortsatt vise
-bussruter, så du må fjerne disse manuelt.
-{{< /callout >}}
 
 Skriv inn "Ivan Bjørndals gate 6" i "Fra" eller "Til"-feltet.
 
@@ -88,16 +55,6 @@ Skriv inn "Ivan Bjørndals gate 6" i "Fra" eller "Til"-feltet.
 {{% /card %}}
 
 {{% card header="Sanntidstavle ved avreise" %}}
-
-{{< callout danger >}}
-
-##### Pågående busstreik i Oslo
-
-Det er en pågående busstreik i Oslo og det som var Akershus. Det betyr at ingen busser går, også
-buss for trikk og nattbuss for trikk. [Les mer på
-ruter.no](https://ruter.no/avvik/busstreik-2020/?id=15327). Sanntidsskjermene vil fortsatt vise
-bussruter, så du må fjerne disse manuelt.
-{{< /callout >}}
 
 Disse er kjekke å bruke når du skal reise herfra igjen.
 
