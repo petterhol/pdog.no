@@ -18,10 +18,12 @@ Nettsiden var utformet som en blogg, og ble oppdatert ofte med eksempler på div
 og særskrivingsfeil, både fotograferte og skjermbilder. I starten fant vi innholdet selv, men
 siden ble etterhvert så populær at vi fikk inn andre bidrag. Selve bloggen er fortsatt aktiv på
 wordpress.com:
-[orddeling.wordpress.com {{< external >}}](https://orddeling.wordpress.com/her-finner-du-de-gamle-innleggene/).
+[orddeling.wordpress.com {{< external
+>}}](https://orddeling.wordpress.com/her-finner-du-de-gamle-innleggene/).
 
 En liten stund etter at vi la ned bloggen, brukte vi
-[Facebook-siden {{< external >}}](https://www.facebook.com/orddelingsmafiaen/) til å dele innlegg, men den ble
+[Facebook-siden {{< external >}}](https://www.facebook.com/orddelingsmafiaen/) til å dele innlegg,
+men den ble
 også lagt ned etterhvert. Allikevel er det flere som deler feil eller tagger oss i innlegg den
 dag i dag.
 
@@ -56,14 +58,17 @@ Gjennom tiden ble vi omtalt litt her og der i blogger, samt i følgende medier:
   siden {{< external >}}](../orddelingvg.jpeg).
 - Språkrådet inviterte oss 4. januar 2010 til å skrive et innlegg på bloggen Klarspråk.
   Klarspråk-nettsiden er myntet på ansatte i det offentlige. Les: [Betydningen av å skrive
-rett {{< external >}}](<https://www.sprakradet.no/Klarsprak/Aktuelt/2010/Blogginnlegg-Betydningen-av-a-skrive-rett/>).
+rett {{< external
+>}}](<https://www.sprakradet.no/Klarsprak/Aktuelt/2010/Blogginnlegg-Betydningen-av-a-skrive-rett/>).
 - Aprilsnarr! 1. april 2010 sendte vi ut en pressemelding til et utvalg redaksjoner for å lure
   inn en aprilspøk. Vi ble dessverre bare omtalt i artikler som omtaler den dagens aprilspøker,
   [eksempel fra VG
-  her {{< external >}}](https://www.vg.no/nyheter/innenriks/i/6LvxL/ferdigsmurte-loeyper-porno-alarm-og-mgp-krise).
+  her {{< external
+>}}](https://www.vg.no/nyheter/innenriks/i/6LvxL/ferdigsmurte-loeyper-porno-alarm-og-mgp-krise).
 - NRK Nordland skrev om oss 9. oktober 2011, vi var også på forsiden til NRK (se forsiden fra den
   aktuelle dagen på Wayback Machine). Her er artikkelen: [– Det norske språk svekkes hvis vi ikke
-  gjør noe {{< external >}}](https://www.nrk.no/nordland/17-aring-kjemper-mot-orddelingsfeil-1.7825450).
+  gjør noe {{< external
+>}}](https://www.nrk.no/nordland/17-aring-kjemper-mot-orddelingsfeil-1.7825450).
 - Etter NRK-oppslaget valgte NRK P1-programmet Norgesglasset å lage en reportasje om oss.  
 - Parallelt kontaktet NRK P3-programmet Banden oss for å lage en annen reportasje. Videoen under er
 fra denne:

@@ -36,18 +36,22 @@ Speyside Way her).
 - Grenser (morsomme og rare landegrenser). - Alt annet av bygninger, steder,
 monumenter.  
 - [PeakQuest - Climbing The Highest Point In All 48 Counties of
-England {{< external >}}](<https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s>), men dette er kun basert på Wikipedia-
-artikkelen [List of ceremonial counties of England by highest point {{< external >}}][wikipedia] hvor jeg importerte
+England {{< external >}}](<https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s>), men dette er kun
+basert på Wikipedia-
+artikkelen [List of ceremonial counties of England by highest point {{< external >}}][wikipedia]
+hvor jeg importerte
 listen direkte inn i Google My Maps, og kan derfor inneholde en del unøyaktigheter.
 
 Dette er ikke inkludert:
 
 - [Mediocre Mountain Challenge-bidragene {{< external >}}][mmcb]
   er ikke med, bortsett fra [Tims tur til
-  Montmartre {{< external >}}](https://www.youtube.com/watch?v=My-8RqTM4Ag). Årsak: Tidkrevende, gjør det kanskje
+  Montmartre {{< external >}}](https://www.youtube.com/watch?v=My-8RqTM4Ag). Årsak: Tidkrevende,
+gjør det kanskje
   senere.
 - [I'm coming back to NL! | Flevoland Mountain Expedition | Sat 30
-  Nov {{< external >}}](https://www.youtube.com/watch?v=isrPq4RkR5Q&list=PLlpH0jWGIMwR9q7A1xZ6BXh65T3K940Z5&index=2).
+  Nov {{< external
+>}}](https://www.youtube.com/watch?v=isrPq4RkR5Q&list=PLlpH0jWGIMwR9q7A1xZ6BXh65T3K940Z5&index=2).
   Årsak: Kun en annonsering av noe som kommer, Urk er markert i en annen video.
 - Alle videoer som har kommer ut etter siste oppdateringsdato på kartet.
 

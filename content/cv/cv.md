@@ -20,7 +20,8 @@ mine engasjementer og/eller arbeidsgivere.
 {{% card header="Kundesenter - Webhelp" %}}
 
 Har siden august 2017 jobbet på et callcenter som driver med inngående, teknisk kundestøtte over
-telefon. [Webhelp {{< external >}}](https://www.webhelp.com/no-no/) er et stort, internasjonalt selskap som driver
+telefon. [Webhelp {{< external >}}](https://www.webhelp.com/no-no/) er et stort, internasjonalt
+selskap som driver
 med Business Process Outsourcing (BPO). Jeg har hatt følgende roller:
 
 Januar 2020 - d.d - Team Manager:
@@ -49,7 +50,8 @@ Oktober 2017-juli 2018 - Teknisk rådgiver:
 {{% card header="Ideell organisasjon - Juvente" %}}
 
 Ble medlem av organisasjonen i 2007, og hadde frem til 2018 en rekke
-frivillige verv, samt ansettelse i administrasjonen. [Juvente {{< external >}}](http://juvente.no) er en frivillig
+frivillige verv, samt ansettelse i administrasjonen. [Juvente {{< external >}}](http://juvente.no)
+er en frivillig
 ungdomsorganisasjon med både egen aktivitet, samt en rekke prosjekter som
 retter seg mot barn og ungdom.
 
@@ -85,7 +87,8 @@ Omtrent 2007-2013 - Annet:
 
 {{% card header="Annen erfaring" %}}
 
-- Sommerjobb og deltidsjobb i perioder hos [Asbjørns Kiosk {{< external >}}](https://goo.gl/maps/6dn2axyqFRhPzkeS9).
+- Sommerjobb og deltidsjobb i perioder hos [Asbjørns Kiosk {{< external
+>}}](https://goo.gl/maps/6dn2axyqFRhPzkeS9).
 - Bilutleie ved SOS BIL AS (Sixt).
 - Fraktet matvarer til kunder gjennom marked.no (nå nedlagt).
 - Frivillig museumsvakt på [Sporveismuseet {{< external >}}](https://sporveismuseet.no).
@@ -103,7 +106,8 @@ Omtrent 2007-2013 - Annet:
 
 {{% card header="Utdanning" %}}
 
-Fullført videregående utdanning ved [Heggen videregående skole {{< external >}}](http://heggen.vgs.no/#/),
+Fullført videregående utdanning ved [Heggen videregående skole {{< external
+>}}](http://heggen.vgs.no/#/),
 studiespesialisering. Uteksaminert vår 2013.
 
 {{% /card %}}
