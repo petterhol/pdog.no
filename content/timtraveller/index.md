@@ -38,15 +38,15 @@ samlebånd).
 monumenter.  
 
 - [PeakQuest - Climbing The Highest Point In All 48 Counties of England {{< external >}}][pq],
-men dette er kun basert på Wikipedia-artikkelen 
+men dette er kun basert på Wikipedia-artikkelen
 [List of ceremonial counties of England by highest point {{< external >}}][wikipedia]
-hvor jeg importerte listen direkte inn i Google My Maps, og kan derfor inneholde en del 
+hvor jeg importerte listen direkte inn i Google My Maps, og kan derfor inneholde en del
 unøyaktigheter.
 
 Dette er ikke inkludert:
 
 - [Mediocre Mountain Challenge-bidragene {{< external >}}][mmcb]
-  er ikke med, bortsett fra [Tims tur til Montmartre {{< external >}}][montmartre]. Årsak: 
+  er ikke med, bortsett fra [Tims tur til Montmartre {{< external >}}][montmartre]. Årsak:
 Tidkrevende, gjør det kanskje senere.
 
 - [I'm coming back to NL! | Flevoland Mountain Expedition | Sat 30 Nov {{< external >}}][nl].

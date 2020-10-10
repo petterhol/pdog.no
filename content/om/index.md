@@ -69,7 +69,8 @@ underlagt
 [Googles personvernserklæring {{< external>}}](https://safety.google/privacy/).
 
 - Ruters reiseforslag kan være underlagt
-[Personvern i Ruters tjenester {{< external>}}](https://ruter.no/fa-hjelp/vilkar/personvern/). Ruters sanntidsskjerm (MON) har en egen personvernsside på
+[Personvern i Ruters tjenester {{< external>}}](https://ruter.no/fa-hjelp/vilkar/personvern/). 
+Ruters sanntidsskjerm (MON) har en egen personvernsside på
 [MON og personvern {{< external>}}][mon]
 
 - Hvis du havner inn på [rickroll.htm](http://pdog.no/rickroll) har du sannsynligvis blitt utsatt
@@ -90,7 +91,7 @@ det redaksjonelle innholdet ble i hovedsak utformet av Petter Holstad, med diver
 [Bootstrap-rammenettverk. {{< external >}}](https://getbootstrap.com) Innholdet skrives i
 [Markdown-språket {{< external >}}](https://daringfireball.net/projects/markdown/syntax), og
 konverteres med
-[Hugo {{< external >}}](https://gohugo.io). På min Mac bruker jeg appene 
+[Hugo {{< external >}}](https://gohugo.io). På min Mac bruker jeg appene
 [BBEdit {{< external>}}](https://www.barebones.com/products/bbedit/) til å redigere
 .md- og .html-filene, [Pixelmator {{< external >}}](https://www.pixelmator.com) til
 bildemanipulering og
@@ -99,8 +100,7 @@ filene etter markdownlint og hugo før de flettes i main. Nettsiden er utviklet 
 Berggren, innholdet er i hovedsak av Petter Holstad med diverse bidragsytere.
 
 **v2.1**: Denne versjonen skal implementere oversettelser - i første omgang engelsk. Foreløpig er
-dette bare på idéstadiet, og kan følges på [GitHubs prosjektsider {{< external
->}}](https://github.com/Stigjb/pdog.no/projects/1).
+dette bare på idéstadiet, og kan følges på [GitHubs prosjektsider {{< external >}}](git2).
 
 #### Lisens
 
@@ -122,3 +122,4 @@ til det også.
 [yt]: https://developers.google.com/youtube/terms/api-services-terms-of-service-emea#user-privacy
 [mon]: https://ruter.no/fa-hjelp/vilkar/personvern/mon-og-personvern
 [git]: https://github.com/Stigjb/pdog.no
+[git2]: https://github.com/Stigjb/pdog.no/projects/1

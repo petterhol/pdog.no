@@ -21,11 +21,15 @@ materialet.
 {{< youtube 91CqZ2thBHA >}}
 
 Medvirkende: Thor-Rune Hansen (på sup), Petter Holstad (foto og redigering)  
-Innspilt: August 2020   
+Innspilt: August 2020  
 Innspillingssted: [Breivika, Steigen, Nordland {{< external >}}][breivika]  
+
 Musikk: I'm So av Andrew Applepie  
+
 - [Artistens nettside {{< external >}}][a1]  
+
 - [Instagram {{< external >}}][a2]  
+
 - [YouTube {{< external >}}][a3]  
 
 [breivika]: https://goo.gl/maps/zxHi7H7VvkrCbeCVA
