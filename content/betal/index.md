@@ -1,6 +1,6 @@
 +++
 title = "Betalingsmuligheter"
-lastmod = 2020-08-12T12:00:00
+lastmod = 2020-10-06T22:00:00
 +++
 
 {{% ingress %}}
@@ -36,7 +36,7 @@ Fra utlandet:
 
 #### PayPal
 
-[Trykk her for å komme til min PayPal-nettside](https://paypal.me/petterhol?locale.x=no_NO).
+[Trykk her for å komme til min PayPal-nettside {{< external >}}](https://paypal.me/petterhol?locale.x=no_NO).
 
 #### Kontanter
 

@@ -1,6 +1,6 @@
 +++
 title = ""
-lastmod = 2020-08-12T12:00:00
+lastmod = 2020-10-06T22:00:00
 +++
 
 {{< forsidekort >}}

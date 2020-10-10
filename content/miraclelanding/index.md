@@ -1,8 +1,6 @@
 +++
 title = "Temakveld: Mirakellanding på Hudson-elva"
-lastmod = 2020-09-27T23:00:00
-[menu]
-main = { parent = "Annet" }
+lastmod = 2020-10-06T22:00:00
 +++
 
 {{< img
@@ -20,7 +18,7 @@ ser en dokumentar om hendelsen.
 {{% /ingress %}}
 
 Hvis du ikke kjenner til hendelsen, les [US Airways Flight 1549 på
-Wikipedia](https://no.wikipedia.org/wiki/US_Airways_Flight_1549).
+Wikipedia {{< external >}}](https://no.wikipedia.org/wiki/US_Airways_Flight_1549).
 
 ##### Kveldens program
 
@@ -46,6 +44,6 @@ Av smittevernshensyn vil alle måtte melde seg på og bli godkjent.
 
 Bildet av US Airways Flight 1549 er tatt av Greg L og lisensiert under Creative Commons Attribution
 2.0 Generic Lisence. Se bildet på
-[Commons][Commons].
+[Commons {{< external >}}][Commons].
 
 [Commons]: https://commons.wikimedia.org/wiki/File:US_Airways_Flight_1549_(N106US)_after_crashing_into_the_Hudson_River_(crop_1).jpg

@@ -1,9 +1,9 @@
 +++
 title = "Tralle leies ut mot at du gjør noe fint for andre"
 linkTitle = "Utleie av tralle"
-lastmod = 2020-10-04T12:00:00
+lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Annet" }
+main = { parent = "Alt annet" }
 +++
 
 {{< img
@@ -22,7 +22,7 @@ trenger den en gang?
 {{% /ingress %}}
 
 Da er du heldig - for jeg leier ut en tralle mot at du gjør noe fint for andre. [Les mer og lei på
-finn.no](https://www.finn.no/bap/forsale/ad.html?finnkode=192779877).
+finn.no {{< external >}}](https://www.finn.no/bap/forsale/ad.html?finnkode=192779877).
 
 Har du funnet tralla mi forlatt? Det hadde vært veldig hyggelig om du kan hjelpe meg å få den
 tilbake. Hvis du tilfeldigvis vil låne den er det også greit, så lenge jeg får den til slutt. Jeg
