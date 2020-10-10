@@ -18,16 +18,16 @@ materialet.
 
 {{% card header="Suping i Breivika" %}}
 
-Navn på video: Suping i Breivika  
+{{< youtube 91CqZ2thBHA >}}
+
 Medvirkende: Thor-Rune Hansen (på sup), Petter Holstad (foto og redigering)  
 Innspilt: August 2020  
 Innspillingssted: [Breivika, Steigen, Nordland {{< external
 >}}](https://goo.gl/maps/zxHi7H7VvkrCbeCVA)  
-Musikk: I'm So - [Andrew Applepie {{< external >}}](https://www.andrewapplepie.com/#contact)
+Musikk: I'm So - 
+[Andrew Applepie {{< external >}}](https://www.andrewapplepie.com/#contact)
 ([Instagram {{< external >}}](https://www.instagram.com/andrew_applepie/),
 [YouTube {{< external >}}](https://www.youtube.com/andrewapplepie)).
-
-{{< youtube 91CqZ2thBHA >}}
 
 {{% /card %}}
 

@@ -22,8 +22,7 @@ Besøk [The Tim Traveller på YouTube {{< external >}}](https://www.youtube.com/
 {{< mymaps 18Avv8ENKUFllJieGN568CSVIYZr6oIcb >}}
 
 Kartet ble annonsert av Tim på [YouTube-kanalens
-"fellesskap"-fane {{< external >}}](https://www.youtube.com/post/UgynBapHI1ROx6lfxKh4AaABCQ), samt
-[Twitter](https://twitter.com/TheTimTraveller/status/1293518513970262017).
+"fellesskap"-fane {{< external >}}][yt], samt [Twitter {{< external >}}][twitter].
 
 Ved å trykke på punktene i kartet, kan man se hva det er, lese beskrivelsen av YouTube-videoen og
 se en lenke til YouTube-videoen. Kartet er delt inn i seks kategorier (farvekodet):
@@ -51,8 +50,7 @@ gjør det kanskje
   senere.
 - [I'm coming back to NL! | Flevoland Mountain Expedition | Sat 30
   Nov {{< external
->}}](https://www.youtube.com/watch?v=isrPq4RkR5Q&list=PLlpH0jWGIMwR9q7A1xZ6BXh65T3K940Z5&index=2).
-  Årsak: Kun en annonsering av noe som kommer, Urk er markert i en annen video.
+>}}](https://www.youtube.com/watch?v=isrPq4RkR5Q&list=PLlpH0jWGIMwR9q7A1xZ6BXh65T3K940Z5&index=2). Årsak: Kun en annonsering av noe som kommer, Urk er markert i en annen video.
 - Alle videoer som har kommer ut etter siste oppdateringsdato på kartet.
 
 Du kan gi meg tilbakemelding på kartet. For eksempel hvis noe er feilplassert,
@@ -62,3 +60,5 @@ eller noe er stengt eller flyttet. Du kan også tipse meg om andre steder jeg bu
 
 [wikipedia]: https://en.wikipedia.org/wiki/List_of_ceremonial_counties_of_England_by_highest_point
 [mmcb]: https://www.youtube.com/watch?v=O7eomq_jWdY&list=PLeL-qrCp_9NR-zT5xwRJv6_pwYP1fdWw6
+[yt]: https://www.youtube.com/post/UgynBapHI1ROx6lfxKh4AaABCQ
+[twitter]: https://twitter.com/TheTimTraveller/status/1293518513970262017

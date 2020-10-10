@@ -87,12 +87,18 @@ Omtrent 2007-2013 - Annet:
 
 {{% card header="Annen erfaring" %}}
 
-- Sommerjobb og deltidsjobb i perioder hos [Asbjørns Kiosk {{< external
->}}](https://goo.gl/maps/6dn2axyqFRhPzkeS9).
+- Sommerjobb og deltidsjobb i perioder hos 
+[Asbjørns Kiosk {{< external >}}][ak].
+
 - Bilutleie ved SOS BIL AS (Sixt).
+
 - Fraktet matvarer til kunder gjennom marked.no (nå nedlagt).
+
 - Frivillig museumsvakt på [Sporveismuseet {{< external >}}](https://sporveismuseet.no).
+
 - Frilandsskribent på [itpro.no {{< external >}}](https://itprox.no) og x6.no (nå nedlagt).
+
+[ak]: https://goo.gl/maps/6dn2axyqFRhPzkeS9
 
 {{% /card %}}
 
@@ -106,8 +112,8 @@ Omtrent 2007-2013 - Annet:
 
 {{% card header="Utdanning" %}}
 
-Fullført videregående utdanning ved [Heggen videregående skole {{< external
->}}](http://heggen.vgs.no/#/),
+Fullført videregående utdanning ved 
+[Heggen videregående skole {{< external>}}](http://heggen.vgs.no/#/),
 studiespesialisering. Uteksaminert vår 2013.
 
 {{% /card %}}
