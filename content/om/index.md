@@ -69,7 +69,7 @@ underlagt
 [Googles personvernserklæring {{< external>}}](https://safety.google/privacy/).
 
 - Ruters reiseforslag kan være underlagt
-[Personvern i Ruters tjenester {{< external>}}](https://ruter.no/fa-hjelp/vilkar/personvern/). 
+[Personvern i Ruters tjenester {{< external>}}](https://ruter.no/fa-hjelp/vilkar/personvern/).
 Ruters sanntidsskjerm (MON) har en egen personvernsside på
 [MON og personvern {{< external>}}][mon]
 
@@ -104,9 +104,8 @@ dette bare på idéstadiet, og kan følges på [GitHubs prosjektsider {{< extern
 
 #### Lisens
 
-Nettsidens innhold er beskyttet: {{< cclisens >}}
-
-For bruk som ikke dekkes av CC-lisensen, [ta kontakt](../kontaktinfo) med meg.
+Nettsidens innhold er beskyttet: [CC-BY-NC-SA 4.0 {{< external >}}][cc]. For bruk som ikke dekkes 
+av CC-lisensen, [ta kontakt](../kontaktinfo) med meg.
 
 #### Bidrag og tilbakemeldinger
 
@@ -123,3 +122,4 @@ til det også.
 [mon]: https://ruter.no/fa-hjelp/vilkar/personvern/mon-og-personvern
 [git]: https://github.com/Stigjb/pdog.no
 [git2]: https://github.com/Stigjb/pdog.no/projects/1
+[cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
