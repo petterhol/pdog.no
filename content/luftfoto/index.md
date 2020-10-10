@@ -21,7 +21,8 @@ materialet.
 Navn på video: Suping i Breivika  
 Medvirkende: Thor-Rune Hansen (på sup), Petter Holstad (foto og redigering)  
 Innspilt: August 2020  
-Innspillingssted: [Breivika, Steigen, Nordland {{< external >}}](https://goo.gl/maps/zxHi7H7VvkrCbeCVA)  
+Innspillingssted: [Breivika, Steigen, Nordland {{< external
+>}}](https://goo.gl/maps/zxHi7H7VvkrCbeCVA)  
 Musikk: I'm So - [Andrew Applepie {{< external >}}](https://www.andrewapplepie.com/#contact)
 ([Instagram {{< external >}}](https://www.instagram.com/andrew_applepie/),
 [YouTube {{< external >}}](https://www.youtube.com/andrewapplepie)).
@@ -36,7 +37,8 @@ Musikk: I'm So - [Andrew Applepie {{< external >}}](https://www.andrewapplepie.c
 
 #### Om opptakene
 
-Dronen er av typen [DJI Mavic Mini {{< external >}}](https://www.dji.com/no/mavic-mini) med Fly More Combo.
+Dronen er av typen [DJI Mavic Mini {{< external >}}](https://www.dji.com/no/mavic-mini) med Fly More
+Combo.
 
 Bildene og videoene som vises på denne siden er beskyttet av Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Dette betyr at du kan
