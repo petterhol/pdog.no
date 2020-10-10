@@ -1,6 +1,6 @@
 +++
 title = "Sillicon Valley og omegn"
-lastmod = 2020-09-26T12:00:00
+lastmod = 2020-10-06T22:00:00
 [menu]
 main = { parent = "Kart og reiser", weight = 2 }
 +++
@@ -42,8 +42,8 @@ Park er det dessuten en VR-modell av Apple Park, en kafé og et utkikkspunkt.
 - Gratis parkering ved begge steder, og selvfølgelig gratis inngang.  
 - Anbefaler å sette av en halvtime per sted, med mindre du skal gjøre ditt livs kjøp av
 Apple-produkter.  
-- Nettside for [Apple Park Visitor Center](https://www.apple.com/retail/appleparkvisitorcenter/)
-eller [Apple Infinitive Loop](https://www.apple.com/retail/infiniteloop/).
+- Nettside for [Apple Park Visitor Center {{< external >}}](https://www.apple.com/retail/appleparkvisitorcenter/)
+eller [Apple Infinitive Loop {{< external >}}](https://www.apple.com/retail/infiniteloop/).
 
 {{% /card %}}
 
@@ -68,7 +68,7 @@ navnevalgene foreviggjort i store, farverike statuer.
 - Gratis parkering, og selvfølgelig gratis inngang.  
 - Anbefaler å sette av en halvtime her, med mindre du er veldig glad i å prøve på Google-skjorter.  
 - Ingen offisiell nettside, men [TripSavvy har en fin
-guide](https://www.tripsavvy.com/googleplex-the-google-head-office-in-mountain-view-2993763).
+guide {{< external >}}](https://www.tripsavvy.com/googleplex-the-google-head-office-in-mountain-view-2993763).
 
 {{% /card %}}
 
@@ -89,7 +89,7 @@ butikk som selger merchandise.
 - Adresse: 2200 Mission College Blvd, Santa Clara, CA 95054, USA.
 - Gratis parkering utenfor, og museet er gratis det også.
 - Anbefaler å sette av en halvtime her, med mindre du er spesielt interessert.  
-- [Besøk nettsiden](https://www.intel.com/content/www/us/en/company-overview/intel-museum.html).
+- [Besøk nettsiden {{< external >}}](https://www.intel.com/content/www/us/en/company-overview/intel-museum.html).
 
 {{% /card %}}
 
@@ -111,7 +111,7 @@ samfunnet.
 - Adresse: 1401 N Shoreline Blvd, Mountain View, CA 94043, USA.
 - Gratis parkering, 17 USD inngang for voksne.  
 - Her kan man lett bruke 2-3 timer.  
-- [Besøk nettsiden](https://computerhistory.org).
+- [Besøk nettsiden {{< external >}}](https://computerhistory.org).
 
 {{% /card %}}
 
@@ -134,7 +134,7 @@ stille i studioet under opptak.
 - Adresse: 1351-B Redwood Way, Petaluma, CA 94954, USA.  
 - Gratis parkering, og det å være publikum er også gratis.  
 - Sett av rundt 3 timer basert på hvilket program du er publikum på.  
-- [Besøk nettsiden](https://twit.tv/about/tickets).
+- [Besøk nettsiden {{< external >}}](https://twit.tv/about/tickets).
 
 {{% /card %}}
 
@@ -155,7 +155,7 @@ ta kabelsporvogn til og fra museumsbesøket.
 - Adresse: 1201 Mason St, San Francisco, CA 94108, USA.  
 - Gateparkering, gratis inngang.  
 - Her kan man bruke opp til en time, med mindre du er spesielt interessert.  
-- [Besøk nettsiden](http://www.cablecarmuseum.org).
+- [Besøk nettsiden {{< external >}}](http://www.cablecarmuseum.org).
 
 {{% /card %}}
 
@@ -177,7 +177,7 @@ Texas. Informasjonen under er for den jeg besøkte.
 - Adresse: Fry's San Jose, 550 E Brokaw Rd, San Jose, CA 95112, USA.  
 - Gateparkering.  
 - Her kan man bruke opp til en time.  
-- [Besøk nettsiden](https://www.frys.com/ac/storeinfo/storelocator/).
+- [Besøk nettsiden {{< external >}}](https://www.frys.com/ac/storeinfo/storelocator/).
 
 {{% /card %}}
 
@@ -237,7 +237,7 @@ i San Francisco, er dette fantastisk museum bestående av pinballmaskiner og and
 - Adresse: 1201 Mason St, San Francisco, CA 94108, USA.  
 - Offentlig gateparkering i nærheten. Inngang gratis, men du må selvfølgelig betale for spillene.
 - Jeg tror man kan bruke opp mot to timer om man er normalt interessert.
-- [Besøk nettsiden](http://www.cablecarmuseum.org).
+- [Besøk nettsiden {{< external >}}](http://www.cablecarmuseum.org).
 
 {{% /card %}}
 
@@ -262,7 +262,7 @@ blir alt belastet din betalingsmåte i appen. Det er ingen kasse eller kontrollp
 - Adresse: 1201 Mason St, San Francisco, CA 94108, USA.  
 - Offentlig gateparkering.
 - Dette er liten butikk, så noe mer enn 5 minutter er vanskelig å bruke her.  
-- [Besøk nettsiden](http://www.cablecarmuseum.org).
+- [Besøk nettsiden {{< external >}}](http://www.cablecarmuseum.org).
 
 Hvis du er interessert i mer rundt teknologien og hvor godt den fungerer, kan du se på Linus Tech
 Tips som har testet en tilsvarende butikk i Seattle:

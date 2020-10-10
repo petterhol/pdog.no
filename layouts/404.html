@@ -1,20 +1,8 @@
 
 {{ define "main"}}
       <div>      
-      <img src="../../404katt.jpeg" alt="Bildet viser en hund som står ved en kjøttpresse og kverner kjøtt. Hunden har et litt forskrekket ansiktsuttrykk. På bildet står følgende tekst (på dansk): Katten!!!!!! Nej den har jeg ikke set ???">
+      <img class="img-fluid" src="../../404katt.jpeg" alt="Bildet viser en hund som står ved en kjøttpresse og kverner kjøtt. Hunden har et litt forskrekket ansiktsuttrykk. På bildet står følgende tekst (på dansk): Katten!!!!!! Nej den har jeg ikke set ???">
       
-       <h1 id="title"><a href="{{ "/" | relURL }}">Gå tilbake til hovedsiden.</a></h1>
+       <h3 id="title"><a href="{{ "/" | relURL }}">Gå tilbake til hovedsiden.</a></h3>
       </div>
-{{ end }}
-
-{{ define "footer" }}
-<p>
-  Sist oppdatert {{ .Date }}. Alt innhold er © Petter Holstad. Nettsiden er
-  utviklet av Stig Johan Berggren.
-  <br>
-  <a href="../../innspill" rel="noreferrer noopener">Innspill og bidrag</a> • 
-  <a href="../../utvikler" rel="noreferrer noopener">Utvikler</a> • 
-  <a href="../../personvern" rel="noreferrer noopener">Personvern</a> • 
-  <a href="../../sidetre" rel="noreferrer noopener">Sidetre</a>
-</p>
 {{ end }}
