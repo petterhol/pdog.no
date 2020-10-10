@@ -53,23 +53,23 @@ Gjennom tiden ble vi omtalt litt her og der i blogger, samt i følgende medier:
 - Orddelingsmafiaen ble nevnt i Sunnmørspostens helgemagasin 19. januar 2008. Vi har dessverre
   ikke kopi av dette.
 
-- I VGs papirutgave 1. mars 2009 på side 4 fikk vi mye plass - 
+- I VGs papirutgave 1. mars 2009 på side 4 fikk vi mye plass -
 [se faksimile av siden](../orddelingvg.jpeg).
 
 - Språkrådet inviterte oss 4. januar 2010 til å skrive et innlegg på bloggen Klarspråk.
-  Klarspråk-nettsiden er myntet på ansatte i det offentlige. Les: [Betydningen av å skrive
-rett {{< external>}}][ks].
+  Klarspråk-nettsiden er myntet på ansatte i det offentlige. Les:
+[Betydningen av å skrive rett {{< external>}}][ks].
 
 - Aprilsnarr! 1. april 2010 sendte vi ut en pressemelding til et utvalg redaksjoner for å lure
   inn en aprilspøk. Vi ble dessverre bare omtalt i artikler som omtaler den dagens aprilspøker,
   [eksempel fra VG her {{< external >}}][vg].
 
 - NRK Nordland skrev om oss 9. oktober 2011, vi var også på forsiden til NRK (se forsiden fra den
-  aktuelle dagen på Wayback Machine). Her er artikkelen: [– Det norske språk svekkes hvis vi ikke
-  gjør noe {{< external
->}}][nrk]
+  aktuelle dagen på Wayback Machine). Her er artikkelen:
+[– Det norske språk svekkes hvis vi ikke gjør noe {{< external >}}][nrk]
 
-- Etter NRK-oppslaget valgte NRK P1-programmet Norgesglasset å lage en reportasje om oss. Denne har jeg dessverre ingen kopi av.
+- Etter NRK-oppslaget valgte NRK P1-programmet Norgesglasset å lage en reportasje om oss.
+Denne har jeg dessverre ingen kopi av.
 
 - Parallelt kontaktet NRK P3-programmet Banden oss for å lage en annen reportasje. Videoen under er
 fra denne:

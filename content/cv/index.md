@@ -87,8 +87,7 @@ Omtrent 2007-2013 - Annet:
 
 {{% card header="Annen erfaring" %}}
 
-- Sommerjobb og deltidsjobb i perioder hos 
-[Asbjørns Kiosk {{< external >}}][ak].
+- Sommerjobb og deltidsjobb i perioder hos [Asbjørns Kiosk {{< external >}}][ak].
 
 - Bilutleie ved SOS BIL AS (Sixt).
 
@@ -112,7 +111,7 @@ Omtrent 2007-2013 - Annet:
 
 {{% card header="Utdanning" %}}
 
-Fullført videregående utdanning ved 
+Fullført videregående utdanning ved
 [Heggen videregående skole {{< external>}}](http://heggen.vgs.no/#/),
 studiespesialisering. Uteksaminert vår 2013.
 

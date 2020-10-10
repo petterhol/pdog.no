@@ -12,7 +12,7 @@ materialet.
 
 {{% /ingress %}}
 
-#### Ferdig-redigerte filmer
+#### Filmer
 
 {{< accordion >}}
 
@@ -21,13 +21,17 @@ materialet.
 {{< youtube 91CqZ2thBHA >}}
 
 Medvirkende: Thor-Rune Hansen (på sup), Petter Holstad (foto og redigering)  
-Innspilt: August 2020  
-Innspillingssted: [Breivika, Steigen, Nordland {{< external
->}}](https://goo.gl/maps/zxHi7H7VvkrCbeCVA)  
-Musikk: I'm So - 
-[Andrew Applepie {{< external >}}](https://www.andrewapplepie.com/#contact)
-([Instagram {{< external >}}](https://www.instagram.com/andrew_applepie/),
-[YouTube {{< external >}}](https://www.youtube.com/andrewapplepie)).
+Innspilt: August 2020   
+Innspillingssted: [Breivika, Steigen, Nordland {{< external >}}][breivika]  
+Musikk: I'm So av Andrew Applepie  
+- [Artistens nettside {{< external >}}][a1]  
+- [Instagram {{< external >}}][a2]  
+- [YouTube {{< external >}}][a3]  
+
+[breivika]: https://goo.gl/maps/zxHi7H7VvkrCbeCVA
+[a1]: https://www.andrewapplepie.com/#contact
+[a2]: https://www.instagram.com/andrew_applepie/
+[a3]: https://www.youtube.com/andrewapplepie
 
 {{% /card %}}
 

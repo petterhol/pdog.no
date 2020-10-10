@@ -29,28 +29,29 @@ se en lenke til YouTube-videoen. Kartet er delt inn i seks kategorier (farvekode
 
 - Transportrelatert (jernbaner, trikker, transportmuseer, monobaner, svevebaner, gondoler og
 samlebånd).  
+
 - Topper (små og store topper rundt om kring).  
-- Gåturer (foreløpig har jeg bare lagt
-Speyside Way her).  
+
+- Gåturer (foreløpig har jeg bare lagt Speyside Way her).  
+
 - Grenser (morsomme og rare landegrenser). - Alt annet av bygninger, steder,
 monumenter.  
-- [PeakQuest - Climbing The Highest Point In All 48 Counties of
-England {{< external >}}](<https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s>), men dette er kun
-basert på Wikipedia-
-artikkelen [List of ceremonial counties of England by highest point {{< external >}}][wikipedia]
-hvor jeg importerte
-listen direkte inn i Google My Maps, og kan derfor inneholde en del unøyaktigheter.
+
+- [PeakQuest - Climbing The Highest Point In All 48 Counties of England {{< external >}}][pq],
+men dette er kun basert på Wikipedia-artikkelen 
+[List of ceremonial counties of England by highest point {{< external >}}][wikipedia]
+hvor jeg importerte listen direkte inn i Google My Maps, og kan derfor inneholde en del 
+unøyaktigheter.
 
 Dette er ikke inkludert:
 
 - [Mediocre Mountain Challenge-bidragene {{< external >}}][mmcb]
-  er ikke med, bortsett fra [Tims tur til
-  Montmartre {{< external >}}](https://www.youtube.com/watch?v=My-8RqTM4Ag). Årsak: Tidkrevende,
-gjør det kanskje
-  senere.
-- [I'm coming back to NL! | Flevoland Mountain Expedition | Sat 30
-  Nov {{< external
->}}](https://www.youtube.com/watch?v=isrPq4RkR5Q&list=PLlpH0jWGIMwR9q7A1xZ6BXh65T3K940Z5&index=2). Årsak: Kun en annonsering av noe som kommer, Urk er markert i en annen video.
+  er ikke med, bortsett fra [Tims tur til Montmartre {{< external >}}][montmartre]. Årsak: 
+Tidkrevende, gjør det kanskje senere.
+
+- [I'm coming back to NL! | Flevoland Mountain Expedition | Sat 30 Nov {{< external >}}][nl].
+Årsak: Kun en annonsering av noe som kommer, Urk er markert i en annen video.
+
 - Alle videoer som har kommer ut etter siste oppdateringsdato på kartet.
 
 Du kan gi meg tilbakemelding på kartet. For eksempel hvis noe er feilplassert,
@@ -62,3 +63,6 @@ eller noe er stengt eller flyttet. Du kan også tipse meg om andre steder jeg bu
 [mmcb]: https://www.youtube.com/watch?v=O7eomq_jWdY&list=PLeL-qrCp_9NR-zT5xwRJv6_pwYP1fdWw6
 [yt]: https://www.youtube.com/post/UgynBapHI1ROx6lfxKh4AaABCQ
 [twitter]: https://twitter.com/TheTimTraveller/status/1293518513970262017
+[nl]: https://www.youtube.com/watch?v=isrPq4RkR5Q&list=PLlpH0jWGIMwR9q7A1xZ6BXh65T3K940Z5&index=2
+[montmartre]: https://www.youtube.com/watch?v=My-8RqTM4Ag
+[pq]: https://www.youtube.com/watch?v=rNkbRjb7YDY&t=25s

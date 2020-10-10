@@ -65,24 +65,21 @@ markert med {{< external>}}-ikonet.
 - Nettsidene [Personlig flykart](reisekart), [Silicon Valley og omegn](sv), [The Tim
 Traveller](timtraveller) og [Tom Scott](tomscott) bruker alle innbygde elementer fra Google MyMaps.
 Nettsiden [Kart og kompass](visitt/kartogkompass) bruker innebygde elementer fra Google Maps. Alt er
-underlagt 
+underlagt
 [Googles personvernserklæring {{< external>}}](https://safety.google/privacy/).
 
-- Ruters reiseforslag kan være underlagt [Personvern i Ruters tjenester {{< external
->}}](https://ruter.no/fa-hjelp/vilkar/personvern/). Ruters sanntidsskjerm (MON) har en egen
-personvernsside på 
-[MON og personvern {{< external>}}](https://ruter.no/fa-hjelp/vilkar/personvern/mon-og-personvern)
+- Ruters reiseforslag kan være underlagt
+[Personvern i Ruters tjenester {{< external>}}](https://ruter.no/fa-hjelp/vilkar/personvern/). Ruters sanntidsskjerm (MON) har en egen personvernsside på
+[MON og personvern {{< external>}}][mon]
 
 - Hvis du havner inn på [rickroll.htm](http://pdog.no/rickroll) har du sannsynligvis blitt utsatt
   for et [Grabify {{< external >}}](https://grabify.link)-forsøk.  Dette henter informasjon din
 klient sender fra
   deg, som IP-adresse, nettleser med mer. Når du først er der inne kan du være klar over at bruk av
-  YouTube-spilleren kan være underlagt [YouTube API Services Terms of Service {{< external
->}}][yt].
+YouTube-spilleren kan være underlagt
+[YouTube API Services Terms of Service {{< external>}}][yt].
 
 Jeg jobber stadig for å forbedre denne oversikten med mer konkret informasjon.  
-
-[yt]: https://developers.google.com/youtube/terms/api-services-terms-of-service-emea#user-privacy
 
 #### Versjonshistorikk, teknologi og bidragsytere
 
@@ -114,10 +111,14 @@ For bruk som ikke dekkes av CC-lisensen, [ta kontakt](../kontaktinfo) med meg.
 #### Bidrag og tilbakemeldinger
 
 Jeg tar hjertelig imot alle bidrag og tilbakemeldinger til nettsiden. Hvis du er kjent med GitHub og
-Markdown, er kodeforbedringer og innholdsbidrag hjertelig velkommen der: 
-[Stigjb/pdog.no {{<external >}}](https://github.com/Stigjb/pdog.no).
+Markdown, er kodeforbedringer og innholdsbidrag hjertelig velkommen der:
+[Stigjb/pdog.no {{< external >}}][git].
 
 Forøvrig er alle andre tilbakemeldinger best å [kontakte meg](../kontaktinfo) for.
 
 Hvis du vil være betatester, korrekturleser eller ha en annen funksjon, er du hjertelig velkommen
 til det også.
+
+[yt]: https://developers.google.com/youtube/terms/api-services-terms-of-service-emea#user-privacy
+[mon]: https://ruter.no/fa-hjelp/vilkar/personvern/mon-og-personvern
+[git]: https://github.com/Stigjb/pdog.no
