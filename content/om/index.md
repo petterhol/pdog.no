@@ -44,28 +44,32 @@ skrevet om.
 Alle domenene er registert hos [Domeneshop {{< external >}}](https://domene.shop), mens
 e-posttjeneren er iCloud.
 
-#### Personvern
+#### Personvernserklæring
 
-Jeg tar personvern på alvor, og derfor deklarerer jeg alt som skjer på nettsiden. Jeg har personlig
-ikke installert noen lokale elementer, informasjonskapsler, analyseverktøy eller liknende. Det
-finnes heller ingen innloggingsmuligheter.
+**Formål:** Jeg har ingen interesse av å spore deg, men andre selskaper kan ha det. Nettsiden
+inneholder ingen lokale elementer, informasjonskapsler, analyseverktøy eller liknende som jeg har
+installert på egen hånd. Det er ingen innloggingsmuligheter. Her deklarerer jeg alle tilfeller av
+potensiell sporing og lagring av personlig data.
 
-Jeg bruker et kontaktskjema flere steder rundt om kring på siden. Dette skjemaet bruker et script
-fra [Domeneshop {{< external >}}](https://domene.shop/faq?id=61&section=21), og sender e-poster til
-meg. Jeg får
-e-postene direkte. Innholdet, samt personopplysningene du har valgt å legge ved, blir bare brukt til
-det formålet som var klart da du sendte inn skjemaet. Utover e-postkassen min, blir ikke innholdet i
-skjemaene lagret noe annet sted.
+**Kontaktskjema:** Jeg bruker et kontaktskjema flere steder på nettsiden. Dette skjemaet bruker et
+script fra [Domeneshop {{< external >}}](https://domene.shop/faq?id=61&section=21), og sender
+e-poster til meg direkte. Innholdet, samt personopplysningene du har valgt å legge ved, blir bare
+brukt til det formålet som var klart da du sendte inn skjemaet. Opplysningene i skjemaet lagres
+ingen andre steder enn i min personlige e-postkasse.
 
-Nettsiden lenker til flere eksterne nettsider. Alle eksterne nettsider er markert med {{< external
->}}-ikonet.
+**Eksterne lenker:** Nettsiden lenker til flere eksterne nettsider. Alle eksterne nettsider er
+markert med {{< external>}}-ikonet.
 
-Jeg har også noen innebygde elementer. Jeg kan ikke liste alle eksterne lenker, men her er en liste
-over innebygde elementer:
+**Innebygde elementer på nettsiden**:
 
+- Nettsidene [Personlig flykart](reisekart), [Silicon Valley og omegn](sv), [The Tim
+Traveller](timtraveller) og [Tom Scott](tomscott) bruker alle innbygde elementer fra Google MyMaps.
+Nettsiden [Kart og kompass](visitt/kartogkompass) bruker innebygde elementer fra Google Maps. Alt er
+underlagt [Googles personvernserklæring {{< external
+>}}](https://safety.google/privacy/).
 - Ruters reiseforslag kan være underlagt [Personvern i Ruters tjenester {{< external
->}}](https://ruter.no/fa-hjelp/vilkar/personvern/)
-- Ruters sanntidsskjerm (MON) har en egen personvernsside på [MON og personvern {{< external
+>}}](https://ruter.no/fa-hjelp/vilkar/personvern/). Ruters sanntidsskjerm (MON) har en egen
+personvernsside på [MON og personvern {{< external
 >}}](https://ruter.no/fa-hjelp/vilkar/personvern/mon-og-personvern/)
 - Hvis du havner inn på [rickroll.htm](http://pdog.no/rickroll) har du sannsynligvis blitt utsatt
   for et [Grabify {{< external >}}](https://grabify.link)-forsøk.  Dette henter informasjon din
@@ -82,7 +86,7 @@ Jeg jobber stadig for å forbedre denne oversikten med mer konkret informasjon.
 det redaksjonelle innholdet ble i hovedsak utformet av Petter Holstad, med diverse innspill.
 
 **v2:** Den nåværende versjonen av nettsiden er bygget på et
-[Bootstrap-rammenettverk {{< external >}}](https://getbootstrap.com). Innholdet skrives i
+[Bootstrap-rammenettverk. {{< external >}}](https://getbootstrap.com) Innholdet skrives i
 [Markdown-språket {{< external >}}](https://daringfireball.net/projects/markdown/syntax), og
 konverteres med
 [Hugo {{< external >}}](https://gohugo.io). På min Mac bruker jeg appene [BBEdit {{< external
