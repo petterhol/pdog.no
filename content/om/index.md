@@ -104,7 +104,7 @@ dette bare på idéstadiet, og kan følges på [GitHubs prosjektsider {{< extern
 
 #### Lisens
 
-Nettsidens innhold er beskyttet: [CC-BY-NC-SA 4.0 {{< external >}}][cc]. For bruk som ikke dekkes 
+Nettsidens innhold er beskyttet: [CC-BY-NC-SA 4.0 {{< external >}}][cc]. For bruk som ikke dekkes
 av CC-lisensen, [ta kontakt](../kontaktinfo) med meg.
 
 #### Bidrag og tilbakemeldinger
