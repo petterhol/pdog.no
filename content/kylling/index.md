@@ -92,7 +92,7 @@ kjøtt, ikke rosa eller rødt.
 2. Kyllingen må også kuttes opp. Dette er ikke jeg så flink til, men jeg liker i alle fall å bruke
 en stor saks til dette formålet.
 
-3. Sett gryta, risen og salaten på bordet og servér. Ikke glem å ta kraft fra leirgryta over risen, 
+3. Sett gryta, risen og salaten på bordet og servér. Ikke glem å ta kraft fra leirgryta over risen,
 det er dette som gjør retten ekstra god.
 
 Enten du er alene eller du har gjester, det er veldig lurt å sette en liten asjett ved siden av
