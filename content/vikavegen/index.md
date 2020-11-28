@@ -11,14 +11,14 @@ Her finner du en vegbeskrivelse for å komme frem til Vikavegen 61, 2960 Røn.
 
 ## Med navigasjonstjenester (GPS)
 
-Google Maps viser foreløpig ikke riktig vei hvis man tar en vegbeskrivelse direkte, men 
+Google Maps viser foreløpig ikke riktig vei hvis man tar en vegbeskrivelse direkte, men
 hvis du har kommet deg til Kiwi Røn kan du [trykke her for en nøyaktig veibeskrivelse][google].
 
 Apple Maps viser riktig hele veien, så du kan bare [trykke her][apple] for å starte navigeringen.
 
 ## Med tekstveiledning
 
-Fra Oslo: Følg Europaveg 16 til Kiwi Røn som ligger Lundeskogen 9, 2960 Røn. Passerer du 
+Fra Oslo: Følg Europaveg 16 til Kiwi Røn som ligger Lundeskogen 9, 2960 Røn. Passerer du
 YX-stasjonen har du kjørt for langt.
 
 Følg Fossheimvegen til krysset, og ta til høyre inn på Vestsidevegen.
