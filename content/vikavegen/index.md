@@ -18,7 +18,7 @@ Apple Maps viser riktig hele veien, så du kan bare [trykke her][apple] for å s
 
 ## Med tekstveiledning
 
-Fra Oslo: Følg Europaveg 16 til Kiwi Røn som ligger Lundeskogen 9, 2960 Røn. Passerer du 
+Fra Oslo: Følg Europaveg 16 til Kiwi Røn som ligger Lundeskogen 9, 2960 Røn. Passerer du
 YX-stasjonen har du kjørt for langt.
 
 Følg Fossheimvegen til krysset, og ta til høyre inn på Vestsidevegen.
