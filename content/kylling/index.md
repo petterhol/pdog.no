@@ -6,7 +6,7 @@ lastmod = 2020-11-28T22:00:00
 {{% ingress %}}
 
 Kylling i leirgryte er en enkel rett som gjør mesteparten av jobben i komfyren. Som tilbehør kan du
-lage en salat med balsamicodressing, og koke ris til. Kraften fra kyllingen er mye bedre enn 
+lage en salat med balsamicodressing, og koke ris til. Kraften fra kyllingen er mye bedre enn
 å bruke en kyllingsaus. Det tar omtrent en time å lage retten, i tillegg til tiden det tar å tine kyllingen.
 
 {{% /ingress %}}
@@ -57,43 +57,43 @@ smartklokke eller smartassistent på 60 minutter.
 
 ### Så kan vi sette på risen
 
-6. To kopper ris og tre kopper vann i en kjele. Salte litt, blande litt og salte litt mer.
+1. To kopper ris og tre kopper vann i en kjele. Salte litt, blande litt og salte litt mer.
 
-7. Lokket på og svak varme, ca. like lenge som kyllingen. 
+2. Lokket på og svak varme, ca. like lenge som kyllingen.
 
-8. Vannet skal være borte, og de flinkeste kokkene vet at risen skal dufte deilig når den er ferdig.
+3. Vannet skal være borte, og de flinkeste kokkene vet at risen skal dufte deilig når den er ferdig.
 Det gjør ingenting om litt ris setter seg nederst, det blir ikke brent uansett. Ikke bli fristet til
 å løfte lokket.
 
 Salaten kan du vente litt med hvis du vil.
 
-### Når du er klar, la oss lage salat!
+### Når du er klar, la oss lage salat
 
-9. Isbergssalat kuttes opp i ikke-så-lange biter.
+1. Isbergssalat kuttes opp i ikke-så-lange biter.
 
-10. Gulrot rives i gulrotriveting.
+2. Gulrot rives i gulrotriveting.
 
-11. Og som sagt så kan du strengt tatt legge oppi hva du vil, men hvis du synes det høres kjedelig
+3. Og som sagt så kan du strengt tatt legge oppi hva du vil, men hvis du synes det høres kjedelig
 ut allerede, så utfordrer jeg deg til å prøve!
 
-12. Hakk opp et fedd med hvitløk, putt oppi en kopp. I den samme koppen tar vi to spisesjeer hver
+4. Hakk opp et fedd med hvitløk, putt oppi en kopp. I den samme koppen tar vi to spisesjeer hver
 med balsamicoeddik og olivenolje. Så skal vi blande dette sammen, gjerne med en bitteliten visp, og
 lenge, til det skummer en del. Så kan du helle dette over salaten.
 
 Av og til ser det ut som at salaten er litt vassen med denne dressingen, men det er den ikke. Du har
 jo nettopp laget den fersk!
 
-### Snart ferdig!
+### Snart ferdig
 
-13. 60 minutter er en ca-beregning, men du må faktisk sjekke at kyllingen er ferdig. Det er to
+1. 60 minutter er en ca-beregning, men du må faktisk sjekke at kyllingen er ferdig. Det er to
 kjennetegn: kyllingen har sluppet kraften, og når du skjærer i den skal det selvfølgelig være HVITT
 kjøtt, ikke rosa eller rødt.
 
-14. Kyllingen må også kuttes opp. Dette er ikke jeg så flink til, men jeg liker i alle fall å bruke
+2. Kyllingen må også kuttes opp. Dette er ikke jeg så flink til, men jeg liker i alle fall å bruke
 en stor saks til dette formålet.
 
-15. Sett gryta, risen og salaten på bordet og servér. Ikke glem å ta kraft fra leirgryta over risen
-- det er dette som gjør retten ekstra god.
+3. Sett gryta, risen og salaten på bordet og servér. Ikke glem å ta kraft fra leirgryta over risen, 
+det er dette som gjør retten ekstra god.
 
 Enten du er alene eller du har gjester, det er veldig lurt å sette en liten asjett ved siden av
 tallerkenen for å samle opp beinrester. Og husk at det er lov å gnage av den minste lille kjøttbit
