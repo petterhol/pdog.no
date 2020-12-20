@@ -24,12 +24,12 @@ resturant, hvor vi engang fikk den servert. Notert etter hukommelsen.
 De fine indrefiletene stekes i smør, saltes og pepres først når de er vel brunet. Tas opp og
 holdes varme. Løken kan forvelles et øyeblikk i vann og has sammen med den finhakkede
 champignon i samme stekepanne, surrer godt (ved ikke for høy temperatur, samtidig
-som man stadig må røre det rundt så det ikke brennes). 
+som man stadig må røre det rundt så det ikke brennes).
 
 Tilsett litt sherry og damp inn til en tykk stuing. Smaken justeres. La stuingen avkjøles litt.
 Legg så denne soppstuingen med en skje på hver pannekake (som du selvfølgelig må ha stekt
 på forhånd). Legg den stekte fileten ovenpå, og til slutt litt av stuingen på toppen, før
-pannekaken pakkes sammen. 
+pannekaken pakkes sammen.
 
 Legg dem etter hverandre i en ildfast form, ha en klatt smør over, topp det hele med revet ost
 og sett formen til gratinering. Før den går i ovnen helles saften av en sitron rundt det hele,
