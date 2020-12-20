@@ -7,7 +7,8 @@ lastmod = 2020-11-28T22:00:00
 
 Denne oppskriften er fra en tidligere kokk, som nå er
 død - [Hroar Dege](https://no.wikipedia.org/wiki/Hroar_Dege). Han er ikke så presis med sine
-forklaringer slik oppskrifter vanligvis er, eller burde være. Dette er en mer forseggjort tilberedning som er ganske uimotståelig. Oppskriften har jeg fra en stor fransk
+forklaringer slik oppskrifter vanligvis er, eller burde være. Dette er en mer forseggjort
+tilberedning som er ganske uimotståelig. Oppskriften har jeg fra en stor fransk
 resturant, hvor vi engang fikk den servert. Notert etter hukommelsen.
 
 {{% /ingress %}}
