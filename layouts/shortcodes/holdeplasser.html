@@ -3,14 +3,12 @@
   <thead>
     <tr>
       <th>Holdeplass</th>
-      <th>Beskrivelse</th>
       <th>Rute</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Arendalsgata</td>
-      <td>Sagene-siden, beste bussforbindelser</td>
+      <td><b>Arendalsgata</b> (400 m) er nærmeste og beste holdeplass for bussforbindelser.</td>
       <td>
         <div class="d-flex flex-wrap">
           {{ partial "rute.html" (dict "routeNo" "20" "routeType" "bybuss") }}
@@ -21,21 +19,19 @@
       </td>
     </tr>
     <tr>
-      <td>Sandaker senter</td>
-      <td>Torshov-siden, beste trikkeforbindelser</td>
+      <td><b>Sandaker senter</b> (400 m) er nærmeste og beste holdeplass for trikkeforbindelser.</td>
       <td>
         <div class="d-flex flex-wrap">
           {{ partial "rute.html" (dict "routeNo" "11" "routeType" "tram") }}
-          {{ partial "rute.html" (dict "routeNo" "11N" "routeType" "nattbuss") }}
           {{ partial "rute.html" (dict "routeNo" "12" "routeType" "tram") }}
+          {{ partial "rute.html" (dict "routeNo" "18" "routeType" "tram") }}
+          {{ partial "rute.html" (dict "routeNo" "11N" "routeType" "nattbuss") }}
           {{ partial "rute.html" (dict "routeNo" "12N" "routeType" "nattbuss") }}
-          {{ partial "rute.html" (dict "routeNo" "13" "routeType" "tram") }}
 </div>
       </td>
     </tr>
         <tr>
-      <td>Sagene</td>
-      <td>Kun om du må ta 34-bussen</td>
+      <td><b>Sagene</b> (850 m) er bare et alternativ hvis du uansett er på 34-bussen.</td>
       <td>
         <div class="d-flex flex-wrap">
           {{ partial "rute.html" (dict "routeNo" "20" "routeType" "bybuss") }}
@@ -47,8 +43,7 @@
       </td>
     </tr>
     <tr>
-      <td>Torshovparken</td>
-      <td>Kun hvis du må ta 30-bussen</td>
+      <td><b>Torshovparken</b> (700 m) er bare et alternativ hvis du tar 30-bussen. Du kan ev. korrespondere med 20 til Torshov eller Arendalsgata.</td>
       <td>
         <div class="d-flex flex-wrap">
           {{ partial "rute.html" (dict "routeNo" "20" "routeType" "bybuss") }}
@@ -57,22 +52,30 @@
       </td>
     </tr>
     <tr>
-      <td>Storo</td>
-      <td>Nærmeste knutepunkt</td>
+      <td><b>Københavngata</b> (1,4 km) er nærmeste holdeplass for Flybussen. Anbefaler å korrespondere med 20-bussen opp til Arendalsgata eller Torshov.</td>
+      <td>
+        <div class="d-flex flex-wrap">
+          {{ partial "rute.html" (dict "routeNo" "20" "routeType" "bybuss") }}
+          {{ partial "rute.html" (dict "routeNo" "F2" "routeType" "flybuss") }}
+</div>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Storo</b> (1,3 km) er nærmeste kollektivknytepunkt med flere busser og ikke minst t-banen.</td>
       <td>
         <div class="d-flex flex-wrap">
           {{ partial "rute.html" (dict "routeNo" "5" "routeType" "metro") }}
           {{ partial "rute.html" (dict "routeNo" "6" "routeType" "metro") }}
           {{ partial "rute.html" (dict "routeNo" "11" "routeType" "tram") }}
-          {{ partial "rute.html" (dict "routeNo" "11N" "routeType" "nattbuss") }}
           {{ partial "rute.html" (dict "routeNo" "12" "routeType" "tram") }}
-          {{ partial "rute.html" (dict "routeNo" "12N" "routeType" "nattbuss") }}
-          {{ partial "rute.html" (dict "routeNo" "13" "routeType" "tram") }}
+          {{ partial "rute.html" (dict "routeNo" "18" "routeType" "tram") }}
           {{ partial "rute.html" (dict "routeNo" "23" "routeType" "bybuss") }}
           {{ partial "rute.html" (dict "routeNo" "24" "routeType" "bybuss") }}
           {{ partial "rute.html" (dict "routeNo" "56" "routeType" "bybuss") }}
           {{ partial "rute.html" (dict "routeNo" "56B" "routeType" "bybuss") }}
           {{ partial "rute.html" (dict "routeNo" "91" "routeType" "bybuss") }}
+          {{ partial "rute.html" (dict "routeNo" "11N" "routeType" "nattbuss") }}
+          {{ partial "rute.html" (dict "routeNo" "12N" "routeType" "nattbuss") }}
 </div>
       </td>
     </tr>

@@ -13,11 +13,7 @@ samme stedene som Tim har gjort, har jeg laget et Google My Maps-kart.
 
 {{% /ingress %}}  
 
-{{< callout primary >}}
-
 Besøk [The Tim Traveller på YouTube {{< external >}}](https://www.youtube.com/c/TheTimTraveller/).
-
-{{< /callout >}}
 
 {{< mymaps 18Avv8ENKUFllJieGN568CSVIYZr6oIcb >}}
 
