@@ -13,11 +13,7 @@ kart som viser flere interessante steder å besøke fra videoene hans.
 
 {{% /ingress %}}  
 
-{{< callout primary >}}
-
 Besøk [Tom Scott på YouTube {{< external >}}](https://youtube.com/TomScottGo).
-
-{{< /callout >}}
 
 {{< mymaps 1OzMo9mwxVf5mQu3kg9iUjdFH58K9ZKnS >}}
 
