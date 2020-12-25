@@ -3,7 +3,7 @@ title = "Petters podkasttips"
 lastmod = 2020-12-24T22:00:00
 +++
 
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD034 -->
 
 {{% ingress %}}
 
