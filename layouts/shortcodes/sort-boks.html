@@ -4,12 +4,11 @@
 <div class="card {{ .Get "type" }} mb-3" style="max-width: 18rem;">
   <img src="{{ .Get "src" }}" class="card-img-top" alt="{{ .Get "alt" }}">
   <div class="card-header"><h4>{{ .Get "header" }}</h4></div>
-  <div class="card-body">
-    <p class="card-text">{{ .Inner }}</p>
-  </div>
+    <ul class="list-group {{ .Get "type" }} list-group-flush">
+    <li class="list-group-item {{ .Get "type" }}">{{ .Inner }}</li>
+  </ul>
     <div class="card-footer text-muted">
     <a href="{{ .Get "link" }}" class="card-link" target="_blank"><span class="text-white">{{ .Get "linkedtext" }} <i class="fas fa-external-link-alt"></i></span></a>
     </div>
 </div>
 </div>
-
