@@ -24,3 +24,10 @@ Vi bruker markdownlint-verktøyet i dette prosjektet. Enhver merge må gjennom e
 markdownlint-kontroll. For å unngå for mange markdownlint-commits, bruker vi
 [https://dlaa.me/markdownlint/](https://dlaa.me/markdownlint/) til å kontrollere
 dokumentene før vi commiter.
+
+## hugo validator
+
+Det er også installert en kontroll for hugo som sjekker de ferdige HTML-filene
+som genereres. For å unngå for mange hugo-commits, bruker vi 
+[https://html5.validator.nu](https://html5.validator.nu) til å kontrollere dokumentene
+før vi commiter.
