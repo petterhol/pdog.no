@@ -1,6 +1,12 @@
 +++
 title = "Taco er ikke middag"
-lastmod = 2020-11-28T22:00:00
+linktitle = "Taco"
+lastmod = 2020-12-26T22:00:00
+aliases = [
+    "tako",
+]
+[menu]
+main = { weight = 4, parent = "Mat"}
 +++
 
 {{< img

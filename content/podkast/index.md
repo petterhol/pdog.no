@@ -1,6 +1,16 @@
 +++
 title = "Petters podkasttips"
+linktitle = "Podkasttips"
 lastmod = 2020-12-24T22:00:00
+aliases = [
+    "podcast",
+    "podcasttips",
+    "podkasttips",
+    "netcast",
+    "netcasts",
+]
+[menu]
+main = { parent = "Alt annet" }
 +++
 
 <!-- markdownlint-disable MD033 MD034 -->

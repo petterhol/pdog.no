@@ -3,7 +3,7 @@ title = "CV - Petter Holstad"
 linktitle = "CV"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { weight = 2, parent = "Petter Holstad"}
+main = { weight = 4, parent = "Petter Holstad"}
 +++
 
 {{% ingress %}}
