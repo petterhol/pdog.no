@@ -1,6 +1,5 @@
 +++
 title = "Kontaktinformasjon"
-linkTitle = "Kontakt"
 lastmod = 2020-10-06T22:00:00
 [menu]
 main = { weight = 1, parent = "Petter Holstad"}
@@ -8,12 +7,17 @@ main = { weight = 1, parent = "Petter Holstad"}
 
 {{% ingress %}}
 
-Det finnes mange måter å komme i kontakt med meg på. Her er et lite utvalg.
+Hvis du vil kontakte meg, har jeg gjort det lett for deg å finne meg på alle
+mulige måter.
 
 {{% /ingress %}}
 
-{{< kontaktinfo >}}
-
-Du kan også bruke kontaktskjemaet under:
+### Det enklereste er nok å bare bruke dette skjemaet:
 
 {{< skjema >}}
+
+---
+
+### Eller finn din favoritt-plattform:
+
+{{< kontaktinfo >}}
