@@ -1,7 +1,19 @@
 +++
-title = "Oppskrift på kylling stekt i leirgryte"
-lastmod = 2020-11-28T22:00:00
+title = "Oppskrift kylling stekt i leirgryte"
+linktitle = "Kylling i leirgryte"
+lastmod = 2020-12-26T22:00:00
+[menu]
+main = { weight = 1, parent = "Mat"}
 +++
+
+{{< img-caption
+    class="rounded"
+    src="kylling liten.jpg"
+    alt="En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen."
+    width="500"
+    link="kylling.jpeg"
+    img-caption="Aktuell kyllingrett ferdig tilbredt. Trykk for å se stort format."
+  >}}
 
 {{% ingress %}}
 
@@ -10,14 +22,6 @@ lage en salat med balsamicodressing, og koke ris til. Kraften fra kyllingen er m
 å bruke en kyllingsaus. Det tar omtrent en time å lage retten, i tillegg til tiden det tar å tine kyllingen.
 
 {{% /ingress %}}
-
-{{< img
-    class="img-fluid"
-    src="kylling liten.jpg"
-    alt=`En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen.`
-    >}}
-
-[Se bildet i stort format](kylling.jpeg)
 
 ### Ingredienser og utstyr
 
