@@ -1,8 +1,13 @@
 +++
 title = "Om pdog.no"
 lastmod = 2020-10-06T22:00:00
+aliases = [
+    "sidekart",
+    "personvern",
+    "lisens",
+]
 [menu]
-main = { parent = "Alt annet" }
+main = { weight = 1, parent = "Alt annet" }
 +++
 
 {{% ingress %}}
@@ -12,13 +17,17 @@ personvernserklæring, versjonshistorikk, teknologi, bidragsytere, lisens og inn
 
 {{% /ingress %}}
 
-#### Formål og innholdsoversikt
+{{< accordion >}}
 
-Nettsiden oppfyller følgende formål for meg:
+{{% card header="Formål og innholdsoversikt" %}}
+
+Før du leser videre: denne nettsiden er _i all hovedsak_ et hobbyprosjekt hvor jeg lærer meg selv å lage nettsider, koding og det å jobbe med GitHub. Bare gleden av å lage nettsiden er mer enn nok for meg.
+
+Når nettsiden først finnes, er det greit å vite at den oppyller disse formålene:
 
 - Landingsside for domenet jeg eier, som jeg også bruker som e-postdomene.  
 - Oversikt over [komplett kontaktinformasjon](../kontaktinfo).  
-- [Veibeskrivelse til min bolig](../visitt).  
+- [Veibeskrivelse til min bolig](../visit).  
 - Et sted å ha en offentlig [CV](../cv).  
 - Landingsside for mitt enkeltpersonsforetak [Helt og Holdent](../heltogholdent).  
 - Noen artikler om [teknologi](../teknologi).  
@@ -33,23 +42,29 @@ lærer mye ved å drive med nettsideutvikling. Noen av ideene mine, inkludert ar
 jeg som selvstendige sider for å lenke når jeg er i en diskusjon med noen om det temaet jeg har
 skrevet om.
 
-#### Oversikt over domener
+{{% /card %}}
+
+{{% card header="Oversikt over domener" %}}
 
 - pdog.no (tilknyttet webhotell og e-post)  
-- p-dog.no (typisk feilstaving av domenenavnet)  
-- p.dog.online (lenkes direkte til [kontaktinfo-siden](../kontaktinfo))  
 - petterholstad.no (annet domene brukt til epost)  
 - heltogholdent.no  (lenkes direkte til [siden om enkeltpersonsforetaket](../heltogholdent))
 
 Alle domenene er registert hos [Domeneshop {{< external >}}](https://domene.shop), mens
 e-posttjeneren er iCloud.
 
-#### Personvernserklæring
+{{% /card %}}
+
+{{% card header="Personvernserklæring" %}}
 
 **Formål:** Jeg har ingen interesse av å spore deg, men andre selskaper kan ha det. Nettsiden
 inneholder ingen lokale elementer, informasjonskapsler, analyseverktøy eller liknende som jeg har
 installert på egen hånd. Det er ingen innloggingsmuligheter. Her deklarerer jeg alle tilfeller av
 potensiell sporing og lagring av personlig data.
+
+**Innhenting av eksterne ressurser:** For at nettsiden skal fungere må den hente inn eksterne ressurser fra [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
+
+Jeg henter også inn eksterne ikoner fra [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
 
 **Kontaktskjema:** Jeg bruker et kontaktskjema flere steder på nettsiden. Dette skjemaet bruker et
 script fra [Domeneshop {{< external >}}](https://domene.shop/faq?id=61&section=21), og sender
@@ -69,20 +84,24 @@ underlagt
 [Googles personvernserklæring {{< external>}}](https://safety.google/privacy/).
 
 - Ruters reiseforslag kan være underlagt
-[Personvern i Ruters tjenester {{< external>}}](https://ruter.no/fa-hjelp/vilkar/personvern/).
+[Personvern i Ruters tjenester {{< external>}}](https://ruter.no/fa-hjelp/vilkar/personvern/). Jeg har kontaktet Ruter for informasjon om hvilken informasjon Ruter henter inn, uten å få svar.
 Ruters sanntidsskjerm (MON) har en egen personvernsside på
 [MON og personvern {{< external>}}][mon]
 
 - Hvis du havner inn på [rickroll.htm](http://pdog.no/rickroll) har du sannsynligvis blitt utsatt
-  for et [Grabify {{< external >}}](https://grabify.link)-forsøk.  Dette henter informasjon din
-klient sender fra
-  deg, som IP-adresse, nettleser med mer. Når du først er der inne kan du være klar over at bruk av
-YouTube-spilleren kan være underlagt
+  for et [Grabify {{< external >}}](https://grabify.link)-forsøk.  Dette henter informasjon din klient sender fra deg, som IP-adresse, nettleser med mer. Du kan lese mer om denne på siden min om [scambaiting](../scambaiting)
+
+- Sider med YouTube-spiller kan være underlagt
 [YouTube API Services Terms of Service {{< external>}}][yt].
 
-Jeg jobber stadig for å forbedre denne oversikten med mer konkret informasjon.  
+Jeg jobber stadig for å forbedre denne oversikten med mer konkret informasjon.
 
-#### Versjonshistorikk, teknologi og bidragsytere
+[yt]: https://developers.google.com/youtube/terms/api-services-terms-of-service-emea#user-privacy
+[mon]: https://ruter.no/fa-hjelp/vilkar/personvern/mon-og-personvern  
+
+{{% /card %}}
+
+{{% card header="Versjonshistorikk, bidragsytere og teknologi" %}}
 
 **v1:** Siden brukte ren HTML- og CSS-koding. Mye av kodingen ble gjort av Stig Johan Berggren, mens
 det redaksjonelle innholdet ble i hovedsak utformet av Petter Holstad, med diverse innspill.
@@ -102,24 +121,50 @@ Berggren, innholdet er i hovedsak av Petter Holstad med diverse bidragsytere.
 **v2.1**: Denne versjonen skal implementere oversettelser - i første omgang engelsk. Foreløpig er
 dette bare på idéstadiet, og kan følges på [GitHubs prosjektsider {{< external >}}](git2).
 
-#### Lisens
+[git2]: https://github.com/Stigjb/pdog.no/projects/1
 
-Nettsidens innhold er beskyttet: [CC-BY-NC-SA 4.0 {{< external >}}][cc]. For bruk som ikke dekkes
-av CC-lisensen, [ta kontakt](../kontaktinfo) med meg.
+{{% /card %}}
 
-#### Bidrag og tilbakemeldinger
+{{% card header="Lisens" %}}
+
+Jeg tror på en verden der man kan dele det man lager med andre, og velger derfor å bruke en Creative Commons-lisens på det mestre jeg lager. Forutsatt at man krediterer, ikke bruker innholdet kommersielt og deler på like vilkår, kan man bruke følgende innhold etter [CC-BY-NC-SA 4.0 {{< external >}}][cc]:
+
+- Nettsidens kildekode.
+- Nettsidens tekster.
+- Bilder uten bildekreditering.
+
+Noen bilder på nettsiden er opphavsrettbeskyttet eller beskyttet av en annen lisens. Dette er i så fall skrevet på den aktulle nettsiden.
+
+Hvis du vil bruke noe kommersielt, eller er i tvil på hvordan du kan bruke innholdet, er det ikke verre enn at du bare [tar kontakt](../kontaktinfo) med meg.
+
+[cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+{{% /card %}}
+
+{{% card header="Språk" %}}
+
+Jeg prøver å opprettholde et godt språk på siden. Foreløpig er tekstene skrevet på norsk (bokmål), men jeg prøver å oversette til engelsk etterhvert.
+
+Noen språkregler jeg selv prøver å følge:
+
+- Nettsidens domene skal uttales uten punktum og skråstrek. Eksempel: "pdog.no" --> "pe dågg no". Eksempel: "pdog.no/kylling" --> "pe dågg no kylling".
+- Hvis det er finnes et norsk ord for noe man kanskje normalt bruker et engelsk begrep for, skal man i hovedsak bruke det norske uttrykket. En forutsetning er at det må være oppført i en ordbok, brukt av norsk media eller på annen måte etablert.
+
+{{% /card %}}
+
+{{% card header="Korrigering, korrektur, bidrag, betatesting og tilbakemeldinger" %}}
 
 Jeg tar hjertelig imot alle bidrag og tilbakemeldinger til nettsiden. Hvis du er kjent med GitHub og
 Markdown, er kodeforbedringer og innholdsbidrag hjertelig velkommen der:
-[Stigjb/pdog.no {{< external >}}][git].
+[petterhol/pdog.no {{< external >}}][git].
 
 Forøvrig er alle andre tilbakemeldinger best å [kontakte meg](../kontaktinfo) for.
 
 Hvis du vil være betatester, korrekturleser eller ha en annen funksjon, er du hjertelig velkommen
 til det også.
 
-[yt]: https://developers.google.com/youtube/terms/api-services-terms-of-service-emea#user-privacy
-[mon]: https://ruter.no/fa-hjelp/vilkar/personvern/mon-og-personvern
-[git]: https://github.com/Stigjb/pdog.no
-[git2]: https://github.com/Stigjb/pdog.no/projects/1
-[cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[git]: https://github.com/petterhol/pdog.no
+
+{{% /card %}}
+
+{{< /accordion >}}
