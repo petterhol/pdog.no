@@ -76,15 +76,29 @@ fra denne:
 
 {{< youtube "8Ua-QkcVav0" >}}
 
+{{< lisens
+  type="Reportasjen over er gjengitt etter tillatelse fra NRK og"
+  lisensnavn="Copyright"
+  lisenslink="https://www.patentstyret.no/tjenester/opphavsrett/"
+  >}}
+
 #### Fem på gata
 
 I april 2009 produserte vi en amatørmessig reportasje fra Tromsø sentrum: Fem på gata om
-orddeling. Egil Hegerberg (bedre kjent som "Bare Egil Band") var så snill at han lot oss bruke
-nesten hele sangen som bakgrunnsmusikk. Under er videoen og låta på Apple Music:
+orddeling.
 
 {{< youtube "-2YORpgRcN0" >}}
 
+Egil Hegerberg (bedre kjent som "Bare Egil Band") var så snill at han lot oss bruke
+låta "Ved Rørende Norske Rett Skrivings Regler" som bakgrunnsmusikk. Her kan du lytte til låta på Apple Music:
+
 {{< bareegil >}}
+
+{{< lisens
+  type="Ved Rørende Norske Rett Skrivings Regler"
+  lisensnavn="Copyright"
+  lisenslink="https://www.patentstyret.no/tjenester/opphavsrett/"
+  >}}
 
 [om]: https://orddeling.wordpress.com/her-finner-du-de-gamle-innleggene/
 [ks]: https://www.sprakradet.no/Klarsprak/Aktuelt/2010/Blogginnlegg-Betydningen-av-a-skrive-rett/
