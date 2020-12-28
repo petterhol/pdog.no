@@ -1,0 +1,34 @@
+<div class="list-group">
+  <a href="../kylling" class="list-group-item list-group-item-action">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">Oppskrift kylling stekt i leirgryte</h5>
+      <small></small>
+    </div>
+    <p class="mb-1">Kylling i leirgryte er en enkel rett som gjør mesteparten av jobben i komfyren. Som tilbehør kan du lage en salat med balsamicodressing, og koke ris til. Kraften fra kyllingen er mye bedre enn å bruke en kyllingsaus. </p>
+    <small>Sist oppdatert i november 2020.</small>
+  </a>
+  <a href="../indrefilet" class="list-group-item list-group-item-action">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">Oppskrift på indrefileter stekt med pannekaker i leirgryte</h5>
+      <small></small>
+    </div>
+    <p class="mb-1">Denne oppskriften er fra en tidligere kokk, som nå er død - Hroar Dege. Han er ikke så presis med sine forklaringer slik oppskrifter vanligvis er, eller burde være. Dette er en mer forseggjort tilberedning som er ganske uimotståelig. </p>
+    <small>Sist oppdatert i desember 2020.</small>
+  </a>
+  <a href="../fattigmannssushi" class="list-group-item list-group-item-action">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">Oppskrift på fattigmannssushi</h5>
+      <small></small>
+    </div>
+    <p class="mb-1">Sushi er godt, men dyrt å kjøpe ferdig. Det er mulig å lage hjemme, men det krever spesial- ingredienser, tålmodighet og opplæring. Heldigvis finnes det et billigere alternativ om det ikke må se så fint ut. Jeg kaller retten fattigmanssushi med laks - fordi du bruker ting du allerede har, og ikke minst kjøper den viktigste ingrediensen billig. </p>
+    <small>Sist oppdatert i desember 2020.</small>
+  </a>
+  <a href="../taco" class="list-group-item list-group-item-action">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">Taco er ikke middag</h5>
+      <small></small>
+    </div>
+    <p class="mb-1">I alle fall ikke slik den serveres i norske hjem hver helg. Jeg har ingenting imot meksikansk mat, og kjøper du det på restaurant går det selvfølgelig fint, men det vi serverer hjemme er et hån mot den norske gane. </p>
+    <small>Sist oppdatert i desember 2020.</small>
+  </a>
+</div>
