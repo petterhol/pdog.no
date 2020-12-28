@@ -2,9 +2,20 @@
 title = "Holstad Helt og Holdent"
 linkTitle = "Helt og Holdent"
 lastmod = 2020-10-06T22:00:00
+aliases = [
+    "hhh",
+]
 [menu]
-main = { weight = 30, parent = "Petter Holstad" }
+main = { weight = 3, parent = "Petter Holstad" }
 +++
+
+{{< img-caption
+    class="rounded"
+    src="hhh.png"
+    alt="Logoen til Helt og Holdent"
+    width="280"
+    img-caption="Logo til Holstad Helt og Holdent"
+  >}}
 
 {{% ingress %}}
 
@@ -14,7 +25,6 @@ siden finner du kontaktinformasjon og logoen til selskapet.
 
 {{% /ingress %}}
 
-{{< hhhbilde >}}
 
 ##### Offentlig registrering
 
@@ -39,6 +49,17 @@ Ivan Bjørndals gate 6
 ##### Facebook
 
 Foretaket har en inaktiv [Facebook-profil][facebook].
+
+#### Logo
+
+Logoen til Helt og Holdent er utformet av Øyvind Kind Robertsen. Trykk
+[her](hhh.png) for å se den i stort format.
+
+{{< lisens
+  type="Logoen"
+  lisensnavn="Copyright"
+  lisenslink="https://www.patentstyret.no/tjenester/opphavsrett/"
+  >}}
 
 [brreg]: https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915283497
 [facebook]: https://www.facebook.com/holstadheltogholdent/
