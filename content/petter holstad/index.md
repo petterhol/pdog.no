@@ -15,7 +15,8 @@ jeg kan anmelde deg for datainnbrudd.
   author="kode24.no"
   >}}
 
-Dette, mine damer og herrer, koker ned til én enkel ting: Det er tydeligvis ikke lov å endre URL-er på internett for å få tilgang til data. Med mindre tjenesten legger opp til det.
+Dette, mine damer og herrer, koker ned til én enkel ting: Det er tydeligvis ikke lov å
+endre URL-er på internett for å få tilgang til data. Med mindre tjenesten legger opp til det.
 
 {{< /quote >}}
 

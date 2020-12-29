@@ -21,7 +21,9 @@ personvernserklæring, versjonshistorikk, teknologi, bidragsytere, lisens og inn
 
 {{% card header="Formål og innholdsoversikt" %}}
 
-Før du leser videre: denne nettsiden er _i all hovedsak_ et hobbyprosjekt hvor jeg lærer meg selv å lage nettsider, koding og det å jobbe med GitHub. Bare gleden av å lage nettsiden er mer enn nok for meg.
+Før du leser videre: denne nettsiden er _i all hovedsak_ et hobbyprosjekt hvor jeg lærer meg
+selv å lage nettsider, koding og det å jobbe med GitHub. Bare gleden av å lage nettsiden er mer
+enn nok for meg.
 
 Når nettsiden først finnes, er det greit å vite at den oppyller disse formålene:
 
@@ -62,9 +64,11 @@ inneholder ingen lokale elementer, informasjonskapsler, analyseverktøy eller li
 installert på egen hånd. Det er ingen innloggingsmuligheter. Her deklarerer jeg alle tilfeller av
 potensiell sporing og lagring av personlig data.
 
-**Innhenting av eksterne ressurser:** For at nettsiden skal fungere må den hente inn eksterne ressurser fra [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
+**Innhenting av eksterne ressurser:** For at nettsiden skal fungere må den hente inn eksterne
+ressurser fra [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
 
-Jeg henter også inn eksterne ikoner fra [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
+Jeg henter også inn eksterne ikoner fra
+[Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use).
 
 **Kontaktskjema:** Jeg bruker et kontaktskjema flere steder på nettsiden. Dette skjemaet bruker et
 script fra [Domeneshop {{< external >}}](https://domene.shop/faq?id=61&section=21), og sender
@@ -84,12 +88,15 @@ underlagt
 [Googles personvernserklæring {{< external>}}](https://safety.google/privacy/).
 
 - Ruters reiseforslag kan være underlagt
-[Personvern i Ruters tjenester {{< external>}}](https://ruter.no/fa-hjelp/vilkar/personvern/). Jeg har kontaktet Ruter for informasjon om hvilken informasjon Ruter henter inn, uten å få svar.
+[Personvern i Ruters tjenester {{< external>}}](https://ruter.no/fa-hjelp/vilkar/personvern/).
+Jeg har kontaktet Ruter for informasjon om hvilken informasjon Ruter henter inn, uten å få svar.
 Ruters sanntidsskjerm (MON) har en egen personvernsside på
 [MON og personvern {{< external>}}][mon]
 
-- Hvis du havner inn på [rickroll.htm](http://pdog.no/rickroll) har du sannsynligvis blitt utsatt
-  for et [Grabify {{< external >}}](https://grabify.link)-forsøk.  Dette henter informasjon din klient sender fra deg, som IP-adresse, nettleser med mer. Du kan lese mer om denne på siden min om [scambaiting](../scambaiting)
+- Hvis du havner inn på [rickroll.htm](http://pdog.no/rickroll) har du sannsynligvis blitt
+utsatt for et [Grabify {{< external >}}](https://grabify.link)-forsøk.  Dette henter
+informasjon din klient sender fra deg, som IP-adresse, nettleser med mer. Du kan lese mer
+om denne på siden min om [scambaiting](../scambaiting).
 
 - Sider med YouTube-spiller kan være underlagt
 [YouTube API Services Terms of Service {{< external>}}][yt].
@@ -127,15 +134,20 @@ dette bare på idéstadiet, og kan følges på [GitHubs prosjektsider {{< extern
 
 {{% card header="Lisens" %}}
 
-Jeg tror på en verden der man kan dele det man lager med andre, og velger derfor å bruke en Creative Commons-lisens på det mestre jeg lager. Forutsatt at man krediterer, ikke bruker innholdet kommersielt og deler på like vilkår, kan man bruke følgende innhold etter [CC-BY-NC-SA 4.0 {{< external >}}][cc]:
+Jeg tror på en verden der man kan dele det man lager med andre, og velger derfor å bruke en
+Creative Commons-lisens på det mestre jeg lager. Forutsatt at man krediterer,
+ikke bruker innholdet kommersielt og deler på like vilkår, kan man bruke følgende innhold
+etter [CC-BY-NC-SA 4.0 {{< external >}}][cc]:
 
 - Nettsidens kildekode.
 - Nettsidens tekster.
 - Bilder uten bildekreditering.
 
-Noen bilder på nettsiden er opphavsrettbeskyttet eller beskyttet av en annen lisens. Dette er i så fall skrevet på den aktulle nettsiden.
+Noen bilder på nettsiden er opphavsrettbeskyttet eller beskyttet av en annen lisens.
+Dette er i så fall skrevet på den aktulle nettsiden.
 
-Hvis du vil bruke noe kommersielt, eller er i tvil på hvordan du kan bruke innholdet, er det ikke verre enn at du bare [tar kontakt](../kontaktinfo) med meg.
+Hvis du vil bruke noe kommersielt, eller er i tvil på hvordan du kan bruke innholdet,
+er det ikke verre enn at du bare [tar kontakt](../kontaktinfo) med meg.
 
 [cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -143,12 +155,16 @@ Hvis du vil bruke noe kommersielt, eller er i tvil på hvordan du kan bruke innh
 
 {{% card header="Språk" %}}
 
-Jeg prøver å opprettholde et godt språk på siden. Foreløpig er tekstene skrevet på norsk (bokmål), men jeg prøver å oversette til engelsk etterhvert.
+Jeg prøver å opprettholde et godt språk på siden. Foreløpig er tekstene skrevet på norsk
+(bokmål), men jeg prøver å oversette til engelsk etterhvert.
 
 Noen språkregler jeg selv prøver å følge:
 
-- Nettsidens domene skal uttales uten punktum og skråstrek. Eksempel: "pdog.no" --> "pe dågg no". Eksempel: "pdog.no/kylling" --> "pe dågg no kylling".
-- Hvis det er finnes et norsk ord for noe man kanskje normalt bruker et engelsk begrep for, skal man i hovedsak bruke det norske uttrykket. En forutsetning er at det må være oppført i en ordbok, brukt av norsk media eller på annen måte etablert.
+- Nettsidens domene skal uttales uten punktum og skråstrek. Eksempel: "pdog.no" -->
+"pe dågg no". Eksempel: "pdog.no/kylling" --> "pe dågg no kylling".
+- Hvis det er finnes et norsk ord for noe man kanskje normalt bruker et
+engelsk begrep for, skal man i hovedsak bruke det norske uttrykket. En forutsetning
+er at det må være oppført i en ordbok, brukt av norsk media eller på annen måte etablert.
 
 {{% /card %}}
 

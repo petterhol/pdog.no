@@ -9,6 +9,8 @@ aliases = [
 main = { weight = 3, parent = "Petter Holstad" }
 +++
 
+<!-- markdownlint-disable MD034 -->
+
 {{< img-caption
     class="rounded"
     src="hhh.png"
@@ -24,7 +26,6 @@ navnet Holstad Tjenester. For øyeblikket driver jeg ingen virksomhet gjennom fo
 siden finner du kontaktinformasjon og logoen til selskapet.
 
 {{% /ingress %}}
-
 
 ##### Offentlig registrering
 

@@ -5,6 +5,8 @@ lastmod = 2020-10-06T22:00:00
 main = { parent = "Alt annet" }
 +++
 
+<!-- markdownlint-disable MD034 -->
+
 {{% ingress %}}
 
 Av irritasjon på orddelingsfeil i samfunnet, startet jeg og en kompis nettsiden Orddelingsmafiaen
@@ -90,7 +92,8 @@ orddeling.
 {{< youtube "-2YORpgRcN0" >}}
 
 Egil Hegerberg (bedre kjent som "Bare Egil Band") var så snill at han lot oss bruke
-låta "Ved Rørende Norske Rett Skrivings Regler" som bakgrunnsmusikk. Her kan du lytte til låta på Apple Music:
+låta "Ved Rørende Norske Rett Skrivings Regler" som bakgrunnsmusikk.
+Her kan du lytte til låta på Apple Music:
 
 {{< bareegil >}}
 

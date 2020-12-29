@@ -20,10 +20,14 @@ med adresse Ivan Bjørndals gate 6, Oslo.
 
 {{< covid type="warning" >}}
 
-<b>Viktig om covid-19:</b> Har du luftveisinfeksjoner eller andre symptomer på covid-19? Da skal du ikke komme på besøk til meg. Les mer om <a href="https://www.fhi.no/nettpub/coronavirus/fakta/hvis_du_mistenker_at_du_er_syk_med_covid-19/" target="_blank">hva du skal gjøre hvis du mistenker at du er smittet på Folkehelseinstituttets sider <i class="fas fa-external-link-alt"></i></a>. Hvis du er frisk, er du velkommen uten håndhilsing, med en meters avstand og hyppig håndvask.
+<b>Viktig om covid-19:</b> Har du luftveisinfeksjoner eller andre symptomer på
+covid-19? Da skal du ikke komme på besøk til meg. Les mer om
+<a href="https://www.fhi.no/nettpub/coronavirus/fakta/hvis_du_mistenker_at_du_er_syk_med_covid-19/">
+hva du skal gjøre hvis du mistenker at du er smittet på Folkehelseinstituttets
+sider <i class="fas fa-external-link-alt"></i></a>. Hvis du er frisk, er du velkommen
+uten håndhilsing, med en meters avstand og hyppig håndvask.
 
 {{< /covid >}}
-
 
 ## Kollektivtransport
 

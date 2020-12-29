@@ -21,7 +21,8 @@ etter bruk. Denne informasjonen inkluderer:
 - Vertsnavnet for enheten.
 - MAC-adressen.
 
-Du skal ikke bruke nettet for å søke på piratkopiert materiale, eller annet som strider mot [norsk lov {{< external >}}](https://lovdata.no).
+Du skal ikke bruke nettet for å søke på piratkopiert materiale,
+eller annet som strider mot [norsk lov {{< external >}}](https://lovdata.no).
 
 Nettverksadministratoren får automatisk beskjed om nye enheter som kobles på nettverket, og kan
 begrense bruken per enhet.
