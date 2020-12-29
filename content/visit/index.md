@@ -11,6 +11,8 @@ aliases = [
 main = { weight = 2, parent = "Petter Holstad" }
 +++
 
+<!-- markdownlint-disable MD033 -->
+
 {{% ingress %}}
 
 Her finner du en fullstendig oversikt over alle tenkelige måter du kan komme deg til min bolig
