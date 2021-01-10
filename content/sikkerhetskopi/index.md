@@ -1,8 +1,11 @@
 +++
 title = "Sikkerhetskopiering"
 lastmod = 2020-10-06T22:00:00
+aliases = [
+    "backup",
+]
 [menu]
-main = { parent = "Teknologi" }
+main = { weight = 1, parent = "Teknologi" }
 +++
 
 {{% ingress %}}

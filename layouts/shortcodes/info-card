@@ -1,0 +1,14 @@
+<!-- Denne boksen er utviklet til bruk på podkast.md som shortcode. Du må selv sette text-farven og bakgrunnen ved å legge til dette. To eksempler er text-white og text-dark og bg-dark og bg-secondary -->
+
+<div class="w-auto p-3">
+<div class="card {{ .Get "type" }} mb-3" style="max-width: 18rem;">
+  <img src="{{ .Get "src" }}" class="card-img-top" alt="{{ .Get "alt" }}">
+  <div class="card-header"><h4>{{ .Get "header" }}</h4></div>
+    <ul class="list-group {{ .Get "type" }} list-group-flush">
+    <li class="list-group-item {{ .Get "type" }}">{{ .Inner }}</li>
+  </ul>
+    <div class="card-footer text-muted">
+    <a href="{{ .Get "link" }}" class="card-link"><span class="text-white">{{ .Get "linkedtext" }}</span></a>
+    </div>
+</div>
+</div>
