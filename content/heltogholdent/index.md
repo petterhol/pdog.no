@@ -12,6 +12,7 @@ main = { weight = 3, parent = "Petter Holstad" }
 <!-- markdownlint-disable MD034 -->
 
 {{< img-caption
+	figure-class="float-right"
     class="rounded"
     src="hhh.png"
     alt="Logoen til Helt og Holdent"
