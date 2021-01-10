@@ -10,10 +10,10 @@ main = { weight = 3, parent = "Mat"}
 +++
 
 {{< img-caption
+	figure-class="float"
     class="rounded"
     src="sushi liten.jpg"
     alt="En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen."
-    width="500"
     link="sushi.jpg"
     img-caption="Aktuell sushi ferdig tilbredt. Trykk for å se stort format."
   >}}
