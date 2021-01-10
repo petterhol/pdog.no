@@ -7,10 +7,10 @@ main = { weight = 1, parent = "Mat"}
 +++
 
 {{< img-caption
+	figure-class="float"
     class="rounded"
     src="kylling liten.jpg"
     alt="En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen."
-    width="500"
     link="kylling.jpeg"
     img-caption="Aktuell kyllingrett ferdig tilbredt. Trykk for å se stort format."
   >}}
