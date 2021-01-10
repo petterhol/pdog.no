@@ -17,12 +17,8 @@ resturant, hvor vi engang fikk den servert. Notert etter hukommelsen.
 
 {{% /ingress %}}
 
-{{< img
-    class="img-fluid"
-    src="#"
-    alt=`Her kommer det et bilde etterhvert.`
-    width="500"
-    >}}
+Lag noen pannekaker. For oppskrift, se for
+eksempel [MatPrat.no](https://www.matprat.no/oppskrifter/familien/pannekaker/).
 
 De fine indrefiletene stekes i smør, saltes og pepres først når de er vel brunet. Tas opp og
 holdes varme. Løken kan forvelles et øyeblikk i vann og has sammen med den finhakkede
@@ -41,3 +37,5 @@ nok til å holde det litt fuktig i formen. Det blir ganske forbløffende godt!
 Jeg koker ris til, og lager eventuelt en enkel salat til.
 
 Bon Appétit!
+
+_Jeg legger ut et bilde senere._
