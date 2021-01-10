@@ -54,7 +54,7 @@ Foretaket har en inaktiv [Facebook-profil][facebook].
 #### Logo
 
 Logoen til Helt og Holdent er utformet av Øyvind Kind Robertsen. Trykk
-[her](hhh.png) for å se den i stort format.
+[her](hhh-stor.png) for å se den i stort format.
 
 {{< lisens
   type="Logoen"
