@@ -48,6 +48,11 @@ kundesentre fra India.
 også innhold om
 falske produkter og uriktige Facebook-annonser.
 
+- [James Veitch {{< external >}}][jv] er en komiker som har gjort noen svindelsamtaler til
+morsomme foredrag og småvideoer på internett. På sin egen YouTube-kanal har han publisert
+_Scamalot_-serien, men hvis du søker på "James Veitch scam" på YouTube finner du også
+foredragene der.
+
 Et verktøy som kan brukes av scambaitere er Grabify. Her kan du lage en lenke som samler inn
 IP-adresse, dato og tid, brukerens dato og tid samt tidssone, hvilken nettleser og operativsystem
 brukeren bruker og annen informasjon fra den som klikker. Brukeren blir så sendt videre til en annen
@@ -60,3 +65,4 @@ pdog.no/rickroll. Resultatene fra dette kan jeg dermed se på denne sporingsside
 [jb]: https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw
 [jpt]: https://tv.nrk.no/program/KOID20006620
 [as]: https://www.youtube.com/c/AtomicShrimp/featured
+[jv]: https://www.youtube.com/c/jamesveitch/playlists
