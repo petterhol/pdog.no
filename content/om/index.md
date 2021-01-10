@@ -65,9 +65,7 @@ installert på egen hånd. Det er ingen innloggingsmuligheter. Her deklarerer je
 potensiell sporing og lagring av personlig data.
 
 **Innhenting av eksterne ressurser:** For at nettsiden skal fungere må den hente inn eksterne
-ressurser fra [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
-
-Jeg henter også inn eksterne ikoner fra
+ressurser fra [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/). Jeg henter også inn eksterne ikoner fra
 [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use).
 
 **Kontaktskjema:** Jeg bruker et kontaktskjema flere steder på nettsiden. Dette skjemaet bruker et
@@ -89,7 +87,8 @@ underlagt
 
 - Ruters reiseforslag kan være underlagt
 [Personvern i Ruters tjenester {{< external>}}](https://ruter.no/fa-hjelp/vilkar/personvern/).
-Jeg har kontaktet Ruter for informasjon om hvilken informasjon Ruter henter inn, uten å få svar.
+Innebygde elementer fra Ruter bruker i følge Ruters personvernsombud januar 2021 ingen
+sporere.
 Ruters sanntidsskjerm (MON) har en egen personvernsside på
 [MON og personvern {{< external>}}][mon]
 
@@ -139,12 +138,20 @@ Creative Commons-lisens på det mestre jeg lager. Forutsatt at man krediterer,
 ikke bruker innholdet kommersielt og deler på like vilkår, kan man bruke følgende innhold
 etter [CC-BY-NC-SA 4.0 {{< external >}}][cc]:
 
-- Nettsidens kildekode.
+- Nettsidens kildekode (bortsett fra innebygde elementer fra tredjeparter).
 - Nettsidens tekster.
 - Bilder uten bildekreditering.
 
-Noen bilder på nettsiden er opphavsrettbeskyttet eller beskyttet av en annen lisens.
-Dette er i så fall skrevet på den aktulle nettsiden.
+Noen bilder på nettsiden er opphavsrettbeskyttet eller beskyttet av en annen lisens. Dette gjelder
+alle innebygde elementer (Google MyMaps, YouTube m.m).
+
+I de fleste tilfeller er andre lisenser markert med følgende:
+
+{{< lisens
+  type="Eksempelinnhold"
+  lisensnavn="Eksempel"
+  lisenslink="#"
+  >}}
 
 Hvis du vil bruke noe kommersielt, eller er i tvil på hvordan du kan bruke innholdet,
 er det ikke verre enn at du bare [tar kontakt](../kontaktinfo) med meg.
