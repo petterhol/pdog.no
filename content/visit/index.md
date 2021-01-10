@@ -102,7 +102,7 @@ eksempel [Google Maps {{< external >}}](https://goo.gl/maps/XujPHW9ShqkvaUCT6).
 {{% card header="Sykkelparkering" %}}
 
 Sykkelparkering utendørs for korte besøk, eller innendørs for lengre besøk kan organiseres
-på forespørsel. [Kontakt meg][../kontaktinfo] for mer informasjon.
+på forespørsel. [Kontakt meg](../kontaktinfo) for mer informasjon.
 
 {{% /card %}}
 
@@ -352,4 +352,4 @@ over brua, ta første trapp til høyre og gå rett frem. Her finner du nr. 6.
 - Fra Sandakerveien, gå ned bakken og ta første asfalterte vei med bom inn til venstre. Gå til
 du finner nr. 6.
 
-Ring på Holstad/Øien og ta heis/trapp til 4. etasje.
+Ring på Holstad/Øyen og ta heis/trapp til 4. etasje.
