@@ -18,6 +18,19 @@ hugo
 Denne kommandoen genererer alle filene som hører til nettsiden i en mappe ved
 navn `public`. Innholdet i `public` kan nå kopieres til webhotellet.
 
-## Lanseringsfest
+## Markdownlint
 
-Sjekk under diverse for lanseringsfester.
+Vi bruker markdownlint-verktøyet i dette prosjektet. Enhver merge må gjennom en
+markdownlint-kontroll. For å unngå for mange markdownlint-commits, bruker vi
+[https://dlaa.me/markdownlint/](https://dlaa.me/markdownlint/) til å kontrollere
+dokumentene før vi commiter.
+
+## hugo validator
+
+Det er også installert en kontroll for hugo som sjekker de ferdige HTML-filene
+som genereres. For å unngå for mange hugo-commits, bruker vi
+[https://html5.validator.nu](https://html5.validator.nu) til å kontrollere dokumentene
+før vi commiter.
+
+*Hugo validator er foreløpig deaktivert grunnet en uløselig konflikt i pull
+request #44. Denne aktivseres på et senere tidspunkt*.
