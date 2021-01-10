@@ -28,8 +28,6 @@ og litt om hvordan vi skriver ordet podkast på norsk.
 
 {{% /ingress %}}
 
-Hvis du klikker på bildene kommer du til den offisielle nettsiden til podkastene {{< external >}}.
-
 {{< card-deck >}}
 
 {{% horisontalkort
@@ -342,3 +340,11 @@ en del andre valg.
 {{% /sort-boks %}}
 
 {{% card-deck-end %}}
+
+Hvis du klikker på bildene kommer du til den offisielle nettsiden til podkastene {{< external >}}.
+
+{{< lisens
+  type="Podkastalbumbildene"
+  lisensnavn="Copyright"
+  lisenslink="https://www.patentstyret.no/tjenester/opphavsrett/"
+  >}}
