@@ -19,8 +19,9 @@ resturant, hvor vi engang fikk den servert. Notert etter hukommelsen.
 
 {{< img
     class="img-fluid"
-    src=""
+    src="#"
     alt=`Her kommer det et bilde etterhvert.`
+    width="500"
     >}}
 
 De fine indrefiletene stekes i smør, saltes og pepres først når de er vel brunet. Tas opp og

@@ -124,6 +124,7 @@ Jeg anbefaler å laste ned
 
 {{< img-caption
     class="img-fluid"
+    width=""
     src="bysykkel.jpg"
     alt=`Bildet viser en mann på en Bysykkel fra Oslo Bysykkel. Mannen sykler
     ikke, men står oppreist med sykkelen mellom beina. Mannen har hendene opp

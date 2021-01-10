@@ -21,12 +21,12 @@ interessant. Under finner du et kart og en liste over alle stedene jeg besøkte 
 
 {{% card header="Apple Park og Apple Infinitive Loop" %}}
 
-{{< img
+{{< img width="500"
     class="img-fluid float-right"
     src="applepark.jpg"
-    alt=`Bildet viser et skilt plassert utenfor Apple Park Visitor Center. Bakgrunnsfargen er svart.
+    alt="Bildet viser et skilt plassert utenfor Apple Park Visitor Center. Bakgrunnsfargen er svart.
 Bildet viser en Apple-logo med teksten "Visitor Center" under. Lengre ned på skiltet står adressen
-til stedet: "10600 N Tantau Avenue. I bakgrunnen vises veier og en bygning.`
+til stedet: "10600 N Tantau Avenue. I bakgrunnen vises veier og en bygning."
     >}}
 
 Teknologiselskapet Apple har både sitt gamle hovedkontor Infinite Loop og Apple Park i Cupertino.
@@ -49,12 +49,12 @@ eller [Apple Infinitive Loop {{< external >}}](https://www.apple.com/retail/infi
 
 {{% card header="Googleplex" %}}
 
-{{< img
+{{< img width="500"
     class="img-fluid float-right"
     src="googleplex.jpg"
-    alt=`Bildet flere "statuer" som står på en sandflate. Den nærmeste satuten til venstre er en
+    alt="Bildet flere "statuer" som står på en sandflate. Den nærmeste satuten til venstre er en
 grønn figur med en Oreo-kjeks som hode. Bak den, i midten, står en annen figur formet som en
-KitKat-sjokolade. Lengst bak, helt til høyre, vinker en annen grønn figur.`
+KitKat-sjokolade. Lengst bak, helt til høyre, vinker en annen grønn figur."
     >}}
 
 Googles hovedkontorer i Mountain View. Det er mulig for alle å bevege seg inne på uteområdene, blant
@@ -74,10 +74,10 @@ guide {{< external >}}](https://www.tripsavvy.com/googleplex-the-google-head-off
 
 {{% card header="Intel-museet" %}}
 
-{{< img
+{{< img width="500"
     class="img-fluid float-right"
     src="intel.jpg"
-    alt=`Bildet flere en stor, blå Intel-logo plassert utenfor Intel-hovedkontoret.`
+    alt="Bildet flere en stor, blå Intel-logo plassert utenfor Intel-hovedkontoret."
     >}}
 
 Mikroprosessor-produsenten Intel har et eget lite (!) museum i Santa Clara, i tilknytning til deres
@@ -95,11 +95,11 @@ butikk som selger merchandise.
 
 {{% card header="Computer History Museum" %}}
 
-{{< img
+{{< img width="500"
     class="img-fluid float-right"
     src="computerhistory.jpg"
-    alt=`Bildet viser en rekke datamaskiner og tilbehør i en stor hylle inne på Computer History
-Museum.`
+    alt="Bildet viser en rekke datamaskiner og tilbehør i en stor hylle inne på Computer History
+Museum."
     >}}
 
 Plassert midt i smørøyet i Mountain View finner man Computer History Museum, som med sin flotte
@@ -117,11 +117,11 @@ samfunnet.
 
 {{% card header="TWIT Eastside Studios" %}}
 
-{{< img
+{{< img width="500"
     class="img-fluid float-right"
     src="iostoday.jpg"
-    alt=`Bildet opptak fra en innspilling av podkasten iOS Today. Vi ser programlederen fra siden
-mens hun ser inn i kameraet foran seg, og studiogjesten (meg) i bakgrunnen som vinker.`
+    alt="Bildet opptak fra en innspilling av podkasten iOS Today. Vi ser programlederen fra siden
+mens hun ser inn i kameraet foran seg, og studiogjesten (meg) i bakgrunnen som vinker."
     >}}
 
 Dette egner seg nok best for de som kjenner til podkastnettverket TWIT sin produksjon av lyd- og
@@ -140,10 +140,10 @@ stille i studioet under opptak.
 
 {{% card header="Cable Car Museum" %}}
 
-{{< img
+{{< img width="500"
     class="img-fluid float-right"
     src="cablecar.jpg"
-    alt=`Bildet viser deler av maskineriet til kabelsporvognene, tatt i museet.`
+    alt="Bildet viser deler av maskineriet til kabelsporvognene, tatt i museet."
     >}}
 
 Hvis du er interessert i å lære om San Franciscos ikoniske kabelsporvogner, er en titt innom Cable
@@ -161,10 +161,10 @@ ta kabelsporvogn til og fra museumsbesøket.
 
 {{% card header="Fry's Electronics" %}}
 
-{{< img
+{{< img width="500"
     class="img-fluid float-right"
     src="frys.jpg"
-    alt=`Bildet deler av inngangspartiet til en tilfeldig Fry's Electronics-butikk.`
+    alt="Bildet deler av inngangspartiet til en tilfeldig Fry's Electronics-butikk."
     >}}
 
 Dette er intet annet enn et stort elektromarked. Og med stort mener jeg at det ikke kan sammenliknes
@@ -183,12 +183,12 @@ Texas. Informasjonen under er for den jeg besøkte.
 
 {{% card header="Facebook-hovedkontoret" %}}
 
-{{< img
+{{< img width="500"
     class="img-fluid float-right"
     src="fb.jpg"
-    alt=`Bildet viser skiltet ved inngangen til Facebook-hovedkontoret. Skiltet har to deler, den
+    alt="Bildet viser skiltet ved inngangen til Facebook-hovedkontoret. Skiltet har to deler, den
 ene viser en stor "tommel opp" som tilsvarer ikonet Facebook-grensesnittet viser "liker" på et
-innlegg. Den andre delen viser firmanavnet "Facebook" og adressen "1 Hacker Way".`
+innlegg. Den andre delen viser firmanavnet "Facebook" og adressen "1 Hacker Way"."
     >}}
 
 Her er det ikke mye å se annet enn at Facebook har hovedkontorene sine her, og man kan ta en selfie
@@ -204,10 +204,10 @@ til Sun Microsystems, som var anleggets tidligere leietaker.
 
 {{% card header="Statue av Nikola Tesla" %}}
 
-{{< img
+{{< img width="500"
     class="img-fluid float-right"
     src="tesla.jpg"
-    alt=`Bildet viser statuen av Tesla.`
+    alt="Bildet viser statuen av Tesla."
     >}}
 
 Nikola Tesla var en oppfinner, fysiker og ingeniør, men det visste du kanskje. Uansett er det en
@@ -223,10 +223,10 @@ Kickstarter-kampanje, tilbyder av trådløst internett og en tidskapsel som skal
 
 {{% card header="Musée Mécanique" %}}
 
-{{< img
+{{< img width="500"
     class="img-fluid float-right"
     src="museemecanique.jpg"
-    alt=`Bildet viser deler av maskineriet til kabelsporvognene, tatt i museet.`
+    alt="Bildet viser deler av maskineriet til kabelsporvognene, tatt i museet."
     >}}
 
 Hvis du er glad i arkadespill kan du gå langt tilbake i tid her. Plassert midt på Fisherman's Wharf
@@ -243,10 +243,10 @@ i San Francisco, er dette fantastisk museum bestående av pinballmaskiner og and
 
 {{% card header="Amazon Go" %}}
 
-{{< img
+{{< img width="500"
     class="img-fluid float-right"
     src="ago.jpg"
-    alt=`Bilder viser fasaden på en Amazon Go-butikk.`
+    alt="Bilder viser fasaden på en Amazon Go-butikk."
     >}}
 
 Amazon har utviklet et ganske kult konsept for selvbetjente butikker som heter Amazon Go. Det finnes
