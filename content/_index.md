@@ -27,10 +27,8 @@ Jeg skriver om ting som interesserer meg, men du finner også ting som min
  linkedtext="Les mine artikler"
  %}}
 
-Jeg er interessert i å hjelpe folk være trygge på nett, ha gode “digitale beredskapsplaner”
-og ivareta sine forbrukerrettigheter. På denne siden finner du en del artikler jeg har
-skrevet om disse teamene.
-
+Les mer om hva jeg mener om
+teknologi og forbrukerteknologi, forbukerrettigheter og digital beredskap.
 {{% /info-card %}}
 
 {{% info-card
