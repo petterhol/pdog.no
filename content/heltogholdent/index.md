@@ -9,7 +9,7 @@ aliases = [
 main = { weight = 3, parent = "Petter Holstad" }
 +++
 
-<!-- markdownlint-disable MD034 -->
+<!-- markdownlint-disable MD034 MD010 -->
 
 {{< img-caption
 	figure-class="float-right"

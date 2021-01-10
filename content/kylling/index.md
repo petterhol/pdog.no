@@ -6,6 +6,8 @@ lastmod = 2020-12-26T22:00:00
 main = { weight = 1, parent = "Mat"}
 +++
 
+<!-- markdownlint-disable MD010 -->
+
 {{< img-caption
 	figure-class="float"
     class="rounded"

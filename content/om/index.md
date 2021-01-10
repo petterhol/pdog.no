@@ -65,7 +65,8 @@ installert på egen hånd. Det er ingen innloggingsmuligheter. Her deklarerer je
 potensiell sporing og lagring av personlig data.
 
 **Innhenting av eksterne ressurser:** For at nettsiden skal fungere må den hente inn eksterne
-ressurser fra [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/). Jeg henter også inn eksterne ikoner fra
+ressurser fra [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/). Jeg
+henter også inn eksterne ikoner fra
 [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use).
 
 **Kontaktskjema:** Jeg bruker et kontaktskjema flere steder på nettsiden. Dette skjemaet bruker et

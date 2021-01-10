@@ -9,6 +9,8 @@ aliases = [
 main = { weight = 3, parent = "Mat"}
 +++
 
+<!-- markdownlint-disable MD010 -->
+
 {{< img-caption
 	figure-class="float"
     class="rounded"
