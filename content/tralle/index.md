@@ -1,32 +1,37 @@
 +++
-title = "Tralle leies ut mot at du gjør noe fint for andre"
-linkTitle = "Utleie av tralle"
-lastmod = 2020-10-06T22:00:00
-[menu]
-main = { parent = "Alt annet" }
+title = "Har du funnet tralla mi?"
+lastmod = 2020-12-28T22:00:00
 +++
-
-{{< img
-    class="img-fluid float-right"
-    src="tralle-liten.jpg"
-    alt=`Bilder viser en blå sekketralle som står på en tom parkeringsplass inne i et p-hus.`
-    >}}
 
 {{% ingress %}}
 
-Midt i flyttekaoset? Hente et møbel på Finn.no helt på egenhånd? Skal dere ha et arrangement? Det
-kan være mange grunner til å ønske seg tilgang på en lagertralle! Og de er egentlig ikke så dyre,
-opp mot 600 kr på Clas Ohlson eller Biltema. Men det er jo kanskje litt surt hvis du egentlig bare
-trenger den en gang?
+Hvis du har kommet inn på denne siden, er det nok fordi du har funnet
+min flotte sekketralle et eller annet sted. Les mer her!
 
 {{% /ingress %}}
 
-Da er du heldig - for jeg leier ut en tralle mot at du gjør noe fint for andre. [Les mer og lei på
-finn.no {{< external >}}](https://www.finn.no/bap/forsale/ad.html?finnkode=192779877).
+{{< img-caption
+    class="img-fluid float-right"
+    src="tralle-liten.jpg"
+    alt="Blå sekketralle med to hjul som står i en parkeringsgarasje"
+    img-caption="Trallen jeg leier ut er blå og litt sliten."
+    >}}
 
-Har du funnet tralla mi forlatt? Det hadde vært veldig hyggelig om du kan hjelpe meg å få den
-tilbake. Hvis du tilfeldigvis vil låne den er det også greit, så lenge jeg får den til slutt. Jeg
-bor i Ivan Bjørndals gate 6 i Oslo, men kan sikkert hente den der den dukker opp. Ta
-gjerne kontakt.
+Trallen du sikkert har funnet tilhører meg: Petter Holstad. Jeg leier den ut
+på finn.no uten å ta betalt, men jeg vil gjerne at andre skal gjøre noe
+hyggelig for _noen_. [Les mer på finn.no {{< external >}}][finnno].
 
-{{< knapp-kontaktinfo >}}
+Hvis du derfor har funnet tralla mi, er jeg veldig takknemmelig om du
+gir meg beskjed. Jeg kan sendes tekstmelding til på +47 926 96 496,
+du kan sende epost til tralle@pdog.no
+eller du kan [kontakte meg](../kontaktinfo) på en annen måte.
+Jeg henter den gjerne der du finner den.
+
+Min adresse er:
+
+Ivan Bjørndals gate 6  
+0472 Oslo
+
+Hvis du trenger å bruke tralla før du leverer den tilbake, vær så god.
+
+[finnno]: https://www.finn.no/bap/forsale/ad.html?finnkode=192779877

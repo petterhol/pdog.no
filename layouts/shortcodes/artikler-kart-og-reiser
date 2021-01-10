@@ -1,0 +1,42 @@
+<div class="list-group">
+  <a href="../reisekart" class="list-group-item list-group-item-action">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">Personlig flykart</h5>
+      <small></small>
+    </div>
+    <p class="mb-1">For å visualisere mine flyreiser rundt om kring i verden, har jeg laget et kart på Google My Maps som p.t. viser alle flystrekninger jeg har fløyet.</p>
+    <small>Sist oppdatert i juni 2020.</small>
+  </a>
+  <a href="../sv" class="list-group-item list-group-item-action">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">Sillicon Valley og omegn</h5>
+      <small></small>
+    </div>
+    <p class="mb-1">For den som er noenlunde er interessert i datamaskiner og teknologi vet at Silicon Valley er fødested for de største teknologiselskapene. Mens oss vanlige dødelige selvfølgelig ikke kommer innenfor dørene, kan en liten dagstur til ulike hovedkontor, monumenter og museer være veldig interessant.</p>
+    <small>Sist oppdatert i oktober 2020.</small>
+  </a>
+  <a href="../salton" class="list-group-item list-group-item-action">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">Salton Sea og omegn</h5>
+      <small></small>
+    </div>
+    <p class="mb-1">Denne artikkelen kommer</p>
+    <small>Sist oppdatert i desember 2020.</small>
+  </a>
+  <a href="../timtraveller" class="list-group-item list-group-item-action">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">The Tim Traveller</h5>
+      <small></small>
+    </div>
+    <p class="mb-1">The Tim Traveller er en fantastisk fin YouTube-kanal som fokuserer på tre temaer: reising, turvandring og transport. Videoene tar ofte for seg et fysisk sted. For å kunne besøke noen av de samme stedene som Tim har gjort, har jeg laget et Google My Maps-kart.</p>
+    <small>Sist oppdatert i oktober 2020.</small>
+  </a>
+  <a href="../tomscott" class="list-group-item list-group-item-action">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">Tom Scott</h5>
+      <small></small>
+    </div>
+    <p class="mb-1">Tom Scott er en YouTube-innholdsskaper med videoer innen en rekke kategorier. Mange av videoene viser et bestemt sted, eller er utgangspunkt for å forklare noe. Her finner du et kart som viser flere interessante steder å besøke fra videoene hans.</p>
+    <small>Sist oppdatert i oktober 2020.</small>
+  </a>
+</div>
