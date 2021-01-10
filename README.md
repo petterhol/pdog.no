@@ -28,6 +28,9 @@ dokumentene før vi commiter.
 ## hugo validator
 
 Det er også installert en kontroll for hugo som sjekker de ferdige HTML-filene
-som genereres. For å unngå for mange hugo-commits, bruker vi 
+som genereres. For å unngå for mange hugo-commits, bruker vi
 [https://html5.validator.nu](https://html5.validator.nu) til å kontrollere dokumentene
 før vi commiter.
+
+*Hugo validator er foreløpig deaktivert grunnet en uløselig konflikt i pull
+request #44. Denne aktivseres på et senere tidspunkt*.
