@@ -12,7 +12,7 @@ main = { weight = 4, parent = "Mat"}
 {{< img
     class="img-fluid"
     src="sushi liten.jpg"
-    alt=`En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen.`
+    alt="En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen."
     >}}
 
 [Se bildet i stort format](sushi.jpg)
