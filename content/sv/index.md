@@ -24,9 +24,7 @@ interessant. Under finner du et kart og en liste over alle stedene jeg besøkte 
 {{< img width="500"
     class="img-fluid float-right"
     src="applepark.jpg"
-    alt="Bildet viser et skilt plassert utenfor Apple Park Visitor Center. Bakgrunnsfargen er svart.
-Bildet viser en Apple-logo med teksten "Visitor Center" under. Lengre ned på skiltet står adressen
-til stedet: "10600 N Tantau Avenue. I bakgrunnen vises veier og en bygning."
+    alt="Skilt til Apple Park"
     >}}
 
 Teknologiselskapet Apple har både sitt gamle hovedkontor Infinite Loop og Apple Park i Cupertino.
@@ -52,9 +50,7 @@ eller [Apple Infinitive Loop {{< external >}}](https://www.apple.com/retail/infi
 {{< img width="500"
     class="img-fluid float-right"
     src="googleplex.jpg"
-    alt="Bildet flere "statuer" som står på en sandflate. Den nærmeste satuten til venstre er en
-grønn figur med en Oreo-kjeks som hode. Bak den, i midten, står en annen figur formet som en
-KitKat-sjokolade. Lengst bak, helt til høyre, vinker en annen grønn figur."
+    alt="Android-figurer"
     >}}
 
 Googles hovedkontorer i Mountain View. Det er mulig for alle å bevege seg inne på uteområdene, blant
@@ -98,8 +94,7 @@ butikk som selger merchandise.
 {{< img width="500"
     class="img-fluid float-right"
     src="computerhistory.jpg"
-    alt="Bildet viser en rekke datamaskiner og tilbehør i en stor hylle inne på Computer History
-Museum."
+    alt="Datamaskiner og tilbehør i en stor hylle inne på Computer History Museum."
     >}}
 
 Plassert midt i smørøyet i Mountain View finner man Computer History Museum, som med sin flotte
@@ -120,8 +115,7 @@ samfunnet.
 {{< img width="500"
     class="img-fluid float-right"
     src="iostoday.jpg"
-    alt="Bildet opptak fra en innspilling av podkasten iOS Today. Vi ser programlederen fra siden
-mens hun ser inn i kameraet foran seg, og studiogjesten (meg) i bakgrunnen som vinker."
+    alt="Bilde fra podkastinnspilling."
     >}}
 
 Dette egner seg nok best for de som kjenner til podkastnettverket TWIT sin produksjon av lyd- og
@@ -186,9 +180,7 @@ Texas. Informasjonen under er for den jeg besøkte.
 {{< img width="500"
     class="img-fluid float-right"
     src="fb.jpg"
-    alt="Bildet viser skiltet ved inngangen til Facebook-hovedkontoret. Skiltet har to deler, den
-ene viser en stor "tommel opp" som tilsvarer ikonet Facebook-grensesnittet viser "liker" på et
-innlegg. Den andre delen viser firmanavnet "Facebook" og adressen "1 Hacker Way"."
+    alt="Skilt til Facebook"
     >}}
 
 Her er det ikke mye å se annet enn at Facebook har hovedkontorene sine her, og man kan ta en selfie
