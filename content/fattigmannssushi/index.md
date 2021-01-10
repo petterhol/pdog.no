@@ -1,7 +1,24 @@
 +++
 title = "Oppskrift på fattigmannssushi"
-lastmod = 2020-11-28T22:00:00
+linktitle = "Fattigmannssushi"
+lastmod = 2020-12-26T22:00:00
+aliases = [
+    "sushi",
+]
+[menu]
+main = { weight = 3, parent = "Mat"}
 +++
+
+<!-- markdownlint-disable MD010 -->
+
+{{< img-caption
+	figure-class="float"
+    class="rounded"
+    src="sushi liten.jpg"
+    alt="En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen."
+    link="sushi.jpg"
+    img-caption="Aktuell sushi ferdig tilbredt. Trykk for å se stort format."
+  >}}
 
 {{% ingress %}}
 
@@ -11,14 +28,6 @@ må se så fint ut. Jeg kaller retten fattigmanssushi med laks - fordi du bruker
 har, og ikke minst kjøper den viktigste ingrediensen billig.
 
 {{% /ingress %}}
-
-{{< img
-    class="img-fluid"
-    src="sushi liten.jpg"
-    alt=`En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen.`
-    >}}
-
-[Se bildet i stort format](sushi.jpg)
 
 ### Hva trenger du
 

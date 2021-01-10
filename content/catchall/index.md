@@ -3,7 +3,7 @@ title = "Om Catch-all e-postadresser"
 linkTitle = "E-post: Catch-all"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Teknologi" }
+main = { weight = 5, parent = "Teknologi" }
 +++
 
 {{% ingress %}}
@@ -64,17 +64,17 @@ passordet mitt, vil ikke tyvene kunne bruke min e-postadresse andre steder.
 
 OBS: Ikke bruk dette på innloggingen e-post/domeneleverandøren din - av åpenbare grunner. Til
 domeneshop har jeg selv bare direkte-adressen til min iCloud-epostkonto.
-  
+
 ### _Registrering på nyhetsbrev_
 
 Eksempel: Enkeltregistrering til nyhetsbrevet til Elkjøp for å oppnå en rabatt  
 E-post: elkjop20200721@pdog.no
-  
+
 Her bruker jeg bare datoen jeg registrerte meg. Hvis jeg får mye reklame eller
 søppelpost jeg ikke kan stoppe, kan jeg enkelt spore dette tilbake til en
 enkeltpåmelding, og da for eksempel blokkere alle eposter som sendes TIL denne
 e-postkontoen.
-  
+
 ### _Beskyttelse mot lekkasje eller uautorisert dataoverføring_
 
 Eksempel: Foodora får datainnbrudd ([dette skjedde sommeren 2020 {{< external >}}][vg-foodora]),
@@ -83,7 +83,7 @@ E-post: foodora@pdog.no blir brukt som mottaker, da vet jeg at kilden er
 Foodora Hvis et selskap enten blir frastjålet kundedata, eller de gjennomfører
 en uautorisert overføring av data til en tredjepart, vil jeg veldig enkelt kunne
 spore kilden.
-  
+
 [vg-foodora]: https://www.vg.no/nyheter/innenriks/i/jdoO6A/lekkasje-av-kundedata-hos-foodora
 
 ### _Morsomheten i det_

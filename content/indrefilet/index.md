@@ -1,6 +1,10 @@
 +++
 title = "Oppskrift på indrefileter stekt med pannekaker i leirgryte"
-lastmod = 2020-11-28T22:00:00
+linktitle = "Indrefilet i leirgryte"
+lastmod = 2020-12-26T22:00:00
+[menu]
+main = { weight = 2, parent = "Mat"}
+
 +++
 
 {{% ingress %}}
@@ -13,13 +17,8 @@ resturant, hvor vi engang fikk den servert. Notert etter hukommelsen.
 
 {{% /ingress %}}
 
-{{< img
-    class="img-fluid"
-    src="kylling liten.jpg"
-    alt=`En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen.`
-    >}}
-
-[Se bildet i stort format](kylling.jpeg)
+Lag noen pannekaker. For oppskrift, se for
+eksempel [MatPrat.no](https://www.matprat.no/oppskrifter/familien/pannekaker/).
 
 De fine indrefiletene stekes i smør, saltes og pepres først når de er vel brunet. Tas opp og
 holdes varme. Løken kan forvelles et øyeblikk i vann og has sammen med den finhakkede
@@ -38,3 +37,5 @@ nok til å holde det litt fuktig i formen. Det blir ganske forbløffende godt!
 Jeg koker ris til, og lager eventuelt en enkel salat til.
 
 Bon Appétit!
+
+_Jeg legger ut et bilde senere._

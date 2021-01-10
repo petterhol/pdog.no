@@ -1,6 +1,16 @@
 +++
 title = "Petters podkasttips"
+linktitle = "Podkasttips"
 lastmod = 2020-12-24T22:00:00
+aliases = [
+    "podcast",
+    "podcasttips",
+    "podkasttips",
+    "netcast",
+    "netcasts",
+]
+[menu]
+main = { parent = "Alt annet" }
 +++
 
 <!-- markdownlint-disable MD033 MD034 -->
@@ -17,8 +27,6 @@ text-white">Video</span>-podkaster. Jeg skriver også om min favorittapp for avs
 og litt om hvordan vi skriver ordet podkast på norsk.
 
 {{% /ingress %}}
-
-Hvis du klikker på bildene kommer du til den offisielle nettsiden til podkastene {{< external >}}.
 
 {{< card-deck >}}
 
@@ -332,3 +340,11 @@ en del andre valg.
 {{% /sort-boks %}}
 
 {{% card-deck-end %}}
+
+Hvis du klikker på bildene kommer du til den offisielle nettsiden til podkastene {{< external >}}.
+
+{{< lisens
+  type="Podkastalbumbildene"
+  lisensnavn="Copyright"
+  lisenslink="https://www.patentstyret.no/tjenester/opphavsrett/"
+  >}}

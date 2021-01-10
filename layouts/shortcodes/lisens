@@ -1,0 +1,6 @@
+<small class="text-muted">
+<i class="fas fa-gavel"></i>
+{{ .Get "type" }} er utgitt under
+<a href="{{ .Get "lisenslink" }}" target=_blank>
+{{ .Get "lisensnavn" }}</a>-lisensen. Les mer om <a href="../om#lisens">lisenser på pdog.no</a>.
+</small>

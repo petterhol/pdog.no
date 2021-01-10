@@ -1,6 +1,9 @@
 +++
-title = "Vikavegen 61"
-lastmod = 2020-11-28T12:00:00
+title = "Vegbeskrivelse til Vikavegen 61"
+lastmod = 2020-12-28T12:00:00
+aliases = [
+    "hildehytte",
+]
 +++
 
 {{% ingress %}}
@@ -9,14 +12,14 @@ Her finner du en vegbeskrivelse for å komme frem til Vikavegen 61, 2960 Røn.
 
 {{% /ingress %}}
 
-## Med navigasjonstjenester (GPS)
+### Med navigasjonstjenester (GPS)
 
 Google Maps viser foreløpig ikke riktig vei hvis man tar en vegbeskrivelse direkte, men
 hvis du har kommet deg til Kiwi Røn kan du [trykke her for en nøyaktig veibeskrivelse][google].
 
 Apple Maps viser riktig hele veien, så du kan bare [trykke her][apple] for å starte navigeringen.
 
-## Med tekstveiledning
+### Med tekstveiledning
 
 Fra Oslo: Følg Europaveg 16 til Kiwi Røn som ligger Lundeskogen 9, 2960 Røn. Passerer du
 YX-stasjonen har du kjørt for langt.

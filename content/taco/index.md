@@ -1,15 +1,21 @@
 +++
 title = "Taco er ikke middag"
-lastmod = 2020-11-28T22:00:00
+linktitle = "Taco"
+lastmod = 2020-12-26T22:00:00
+aliases = [
+    "tako",
+]
+[menu]
+main = { weight = 4, parent = "Mat"}
 +++
 
 {{< img
     class="img-fluid"
-    src="sushi liten.jpg"
-    alt=`En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen.`
+    src="taco.jpg"
+    alt="Taco presentert som tacosalat."
     >}}
 
-[Se bildet i stort format](sushi.jpg)
+_Bildet viser min foretrukne måte å spise taco på når jeg får det servert._
 
 I alle fall ikke slik den serveres i norske hjem hver helg. Jeg har ingenting imot meksikansk mat,
 og kjøper du det på restaurant går det selvfølgelig fint, men det vi serverer hjemme er et hån mot
