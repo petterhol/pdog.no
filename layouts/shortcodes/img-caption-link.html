@@ -1,0 +1,16 @@
+<figure class="figure {{ .Get "figure-class" }}">
+
+<a href="{{ .Get "link" }}" target="_blank">
+
+<img
+    class="{{ .Get "class" }}"
+    src="{{ .Get "src" }}"
+    alt="{{ .Get "alt" }}"
+/>
+
+</a>
+
+<figcaption
+  class="figure-caption"><a href="{{ .Get "link" }}" target="_blank">{{ .Get "img-caption" }}</a>
+</figcaption>
+</figure>
