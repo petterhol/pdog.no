@@ -39,4 +39,12 @@
     <p class="mb-1">Tom Scott er en YouTube-innholdsskaper med videoer innen en rekke kategorier. Mange av videoene viser et bestemt sted, eller er utgangspunkt for å forklare noe. Her finner du et kart som viser flere interessante steder å besøke fra videoene hans.</p>
     <small>Sist oppdatert i oktober 2020.</small>
   </a>
+  <a href="../embassies" class="list-group-item list-group-item-action">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1"> Map of Norway's embassies</h5>
+      <small></small>
+    </div>
+    <p class="mb-1">This is a complete map of all embassies, consulate generals and permanent delegations of the Norwegian foreign service. There is also a playable GeoGuessr map here.</p>
+    <small>Sist oppdatert i mars 2021.</small>
+  </a>
 </div>

@@ -1,0 +1,1786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Norway's Embassies, Consulate Generals and Delegations]]></name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Ambassader.xlsx</name>
+      <Placemark>
+        <name>Danmark</name>
+        <address>Dampfærgevej 10, 4. sal, 2100 København Ø</address>
+        <description><![CDATA[Adresse: Dampfærgevej 10, 4. sal, 2100 København Ø<br>Navn: København <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Dampfærgevej 10, 4. sal, 2100 København Ø</value>
+          </Data>
+          <Data name="Navn">
+            <value>København </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>De forente arabiske emirater</name>
+        <address>Etihad Towers, West Courniche, Tower No. 3 Level 11, Abu Dhabi</address>
+        <description><![CDATA[Adresse: Etihad Towers, West Courniche, Tower No. 3 Level 11, Abu Dhabi<br>Navn: Abu Dhabi <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Etihad Towers, West Courniche, Tower No. 3 Level 11, Abu Dhabi</value>
+          </Data>
+          <Data name="Navn">
+            <value>Abu Dhabi </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Nigeria </name>
+        <address>No. 54, T.Y. Danjuma Street, Asokoro, Abuja</address>
+        <description><![CDATA[Adresse: No. 54, T.Y. Danjuma Street, Asokoro, Abuja<br>Navn: Abuja <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>No. 54, T.Y. Danjuma Street, Asokoro, Abuja</value>
+          </Data>
+          <Data name="Navn">
+            <value>Abuja </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ghana</name>
+        <address>89, Liberation Road, Ako Adjei Interchange, Accra</address>
+        <description><![CDATA[Adresse: 89, Liberation Road, Ako Adjei Interchange, Accra<br>Navn: Accra <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>89, Liberation Road, Ako Adjei Interchange, Accra</value>
+          </Data>
+          <Data name="Navn">
+            <value>Accra </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Etiopia</name>
+        <address>Buna Board Road, Mekanissa, Addis Abeba</address>
+        <description><![CDATA[Adresse: Buna Board Road, Mekanissa, Addis Abeba<br>Navn: Addis Abeba <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Buna Board Road, Mekanissa, Addis Abeba</value>
+          </Data>
+          <Data name="Navn">
+            <value>Addis Abeba </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Algerie</name>
+        <address>07, Chemin Doudou Mokhtar, Benaknoun, Alger</address>
+        <description><![CDATA[Adresse: 07, Chemin Doudou Mokhtar, Benaknoun, Alger<br>Navn: Alger <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>07, Chemin Doudou Mokhtar, Benaknoun, Alger</value>
+          </Data>
+          <Data name="Navn">
+            <value>Alger </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Jordan </name>
+        <address>25 Damascus Street, Abdoun, Amman</address>
+        <description><![CDATA[Adresse: 25 Damascus Street, Abdoun, Amman<br>Navn: Amman <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>25 Damascus Street, Abdoun, Amman</value>
+          </Data>
+          <Data name="Navn">
+            <value>Amman </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tyrkia </name>
+        <address>Kirkpinar Sokak No. 18; 06540 Cankaya, Ankara</address>
+        <description><![CDATA[Adresse: Kirkpinar Sokak No. 18; 06540 Cankaya, Ankara<br>Navn: Ankara <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Kirkpinar Sokak No. 18; 06540 Cankaya, Ankara</value>
+          </Data>
+          <Data name="Navn">
+            <value>Ankara </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hellas</name>
+        <address>Hatziyianni Mexi 5, GR-115 28 Aten</address>
+        <description><![CDATA[Adresse: Hatziyianni Mexi 5, GR-115 28 Aten<br>Navn: Aten <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Hatziyianni Mexi 5, GR-115 28 Aten</value>
+          </Data>
+          <Data name="Navn">
+            <value>Aten </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Mali</name>
+        <address>Bamako Embassy District</address>
+        <description><![CDATA[Adresse: Bamako Embassy District<br>Navn: Bamako <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Bamako Embassy District</value>
+          </Data>
+          <Data name="Navn">
+            <value>Bamako </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Thailand </name>
+        <address>UBC II Building 591 Sukhumvit Road, Soi 33, Bangkok 10110</address>
+        <description><![CDATA[Adresse: UBC II Building 591 Sukhumvit Road, Soi 33, Bangkok 10110<br>Navn: Bangkok <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>UBC II Building 591 Sukhumvit Road, Soi 33, Bangkok 10110</value>
+          </Data>
+          <Data name="Navn">
+            <value>Bangkok </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kina</name>
+        <address>1, Dong Yi Jie; San Li Tun, Beijing</address>
+        <description><![CDATA[Adresse: 1, Dong Yi Jie; San Li Tun, Beijing<br>Navn: Beijing <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>1, Dong Yi Jie; San Li Tun, Beijing</value>
+          </Data>
+          <Data name="Navn">
+            <value>Beijing </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Libanon</name>
+        <address>Embassy Complex, Serail Hill, Beirut</address>
+        <description><![CDATA[Adresse: Embassy Complex, Serail Hill, Beirut<br>Navn: Beirut <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Embassy Complex, Serail Hill, Beirut</value>
+          </Data>
+          <Data name="Navn">
+            <value>Beirut </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Serbia </name>
+        <address>Milentija Popovica 5a
+11070 New Belgrade</address>
+        <description><![CDATA[Adresse: Milentija Popovica 5a<br>11070 New Belgrade<br>Navn: Beograd <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Milentija Popovica 5a
+11070 New Belgrade</value>
+          </Data>
+          <Data name="Navn">
+            <value>Beograd </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tyskland </name>
+        <address>Rauchstr. 1, D-10787 Berlin</address>
+        <description><![CDATA[Adresse: Rauchstr. 1, D-10787 Berlin<br>Navn: Berlin <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Rauchstr. 1, D-10787 Berlin</value>
+          </Data>
+          <Data name="Navn">
+            <value>Berlin </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sveits </name>
+        <address>Bubenbergplatz 10, CH-3011 Bern</address>
+        <description><![CDATA[Adresse: Bubenbergplatz 10, CH-3011 Bern<br>Navn: Bern <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Bubenbergplatz 10, CH-3011 Bern</value>
+          </Data>
+          <Data name="Navn">
+            <value>Bern </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Colombia</name>
+        <address>Oxo center Cra.11A Of. 904 Bogota</address>
+        <description><![CDATA[Adresse: Oxo center Cra.11A Of. 904 Bogota<br>Navn: Bogota <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Oxo center Cra.11A Of. 904 Bogota</value>
+          </Data>
+          <Data name="Navn">
+            <value>Bogota </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Brasil</name>
+        <address>Lote 28, CEP 70, 418-900 Brasilia - DF</address>
+        <description><![CDATA[Adresse: Lote 28, CEP 70, 418-900 Brasilia - DF<br>Navn: Brasilia <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Lote 28, CEP 70, 418-900 Brasilia - DF</value>
+          </Data>
+          <Data name="Navn">
+            <value>Brasilia </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Slovakia</name>
+        <address>Palisády 29, 811 06 Bratislava</address>
+        <description><![CDATA[Adresse: Palisády 29, 811 06 Bratislava<br>Navn: Bratislava <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Palisády 29, 811 06 Bratislava</value>
+          </Data>
+          <Data name="Navn">
+            <value>Bratislava </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Belgia</name>
+        <address>Rue Archimede 17, B-1000 Bruxelles</address>
+        <description><![CDATA[Adresse: Rue Archimede 17, B-1000 Bruxelles<br>Navn: Brussel <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Rue Archimede 17, B-1000 Bruxelles</value>
+          </Data>
+          <Data name="Navn">
+            <value>Brussel </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Romania</name>
+        <address>Strada Atena 18, 011832 Bucuresti</address>
+        <description><![CDATA[Adresse: Strada Atena 18, 011832 Bucuresti<br>Navn: Bucuresti <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Strada Atena 18, 011832 Bucuresti</value>
+          </Data>
+          <Data name="Navn">
+            <value>Bucuresti </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ungarn </name>
+        <address>Ostrom u. 13, H-1015, Budapest</address>
+        <description><![CDATA[Adresse: Ostrom u. 13, H-1015, Budapest<br>Navn: Budapest <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Ostrom u. 13, H-1015, Budapest</value>
+          </Data>
+          <Data name="Navn">
+            <value>Budapest </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Argentina</name>
+        <address>Carlos Pellegrini 1427 - 2do piso, C1011AAC Buenos Aires, Argentina</address>
+        <description><![CDATA[Adresse: Carlos Pellegrini 1427 - 2do piso, C1011AAC Buenos Aires, Argentina<br>Navn: Buenos Aires <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Carlos Pellegrini 1427 - 2do piso, C1011AAC Buenos Aires, Argentina</value>
+          </Data>
+          <Data name="Navn">
+            <value>Buenos Aires </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Australia</name>
+        <address>17 Hunter Street; Yarralumla, Canberra ACT 2600</address>
+        <description><![CDATA[Adresse: 17 Hunter Street; Yarralumla, Canberra ACT 2600<br>Navn: Canberra <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>17 Hunter Street; Yarralumla, Canberra ACT 2600</value>
+          </Data>
+          <Data name="Navn">
+            <value>Canberra </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sri Lanka </name>
+        <address><![CDATA[49 Buller's Lane, Colombo 7]]></address>
+        <description><![CDATA[Adresse: 49 Buller's Lane, Colombo 7<br>Navn: Colombo <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value><![CDATA[49 Buller's Lane, Colombo 7]]></value>
+          </Data>
+          <Data name="Navn">
+            <value>Colombo </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Syria (p.t.Beirut)</name>
+        <address>Mezzeh, Eastern Villas, Shafei Street</address>
+        <description><![CDATA[Adresse: Mezzeh, Eastern Villas, Shafei Street<br>Navn: Damaskus <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Mezzeh, Eastern Villas, Shafei Street</value>
+          </Data>
+          <Data name="Navn">
+            <value>Damaskus </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tanzania</name>
+        <address>160/50 Mirambo Street, Dar es Salaam</address>
+        <description><![CDATA[Adresse: 160/50 Mirambo Street, Dar es Salaam<br>Navn: Dar es Salaam <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>160/50 Mirambo Street, Dar es Salaam</value>
+          </Data>
+          <Data name="Navn">
+            <value>Dar es Salaam </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bangladesh</name>
+        <address><![CDATA[Bay's Edgewater, 6th Floor, Plot 12, North Avenue, Gulshan 2, Dhaka 1212]]></address>
+        <description><![CDATA[Adresse: Bay's Edgewater, 6th Floor, Plot 12, North Avenue, Gulshan 2, Dhaka 1212<br>Navn: Dhaka <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value><![CDATA[Bay's Edgewater, 6th Floor, Plot 12, North Avenue, Gulshan 2, Dhaka 1212]]></value>
+          </Data>
+          <Data name="Navn">
+            <value>Dhaka </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Irland</name>
+        <address>34 Molesworth Street, IRL-Dublin 2</address>
+        <description><![CDATA[Adresse: 34 Molesworth Street, IRL-Dublin 2<br>Navn: Dublin <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>34 Molesworth Street, IRL-Dublin 2</value>
+          </Data>
+          <Data name="Navn">
+            <value>Dublin </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Vietnam </name>
+        <address>Vincom City Towers, 191 Ba Trieu Street, Hanoi</address>
+        <description><![CDATA[Adresse: Vincom City Towers, 191 Ba Trieu Street, Hanoi<br>Navn: Hanoi <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Vincom City Towers, 191 Ba Trieu Street, Hanoi</value>
+          </Data>
+          <Data name="Navn">
+            <value>Hanoi </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Cuba</name>
+        <address>Calle 21 , e/ H e I, Vedado, La Habana</address>
+        <description><![CDATA[Adresse: Calle 21 , e/ H e I, Vedado, La Habana<br>Navn: Havana <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Calle 21 , e/ H e I, Vedado, La Habana</value>
+          </Data>
+          <Data name="Navn">
+            <value>Havana </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Finland</name>
+        <address>Rehbinderintie 17, FIN-00150 Helsingfors</address>
+        <description><![CDATA[Adresse: Rehbinderintie 17, FIN-00150 Helsingfors<br>Navn: Helsingfors <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Rehbinderintie 17, FIN-00150 Helsingfors</value>
+          </Data>
+          <Data name="Navn">
+            <value>Helsingfors </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Nederland </name>
+        <address>Eisenhowerlaan 77J, NL-2517 KK The Hague</address>
+        <description><![CDATA[Adresse: Eisenhowerlaan 77J, NL-2517 KK The Hague<br>Navn: Haag <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Eisenhowerlaan 77J, NL-2517 KK The Hague</value>
+          </Data>
+          <Data name="Navn">
+            <value>Haag </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Pakistan </name>
+        <address>House 25, Str. 19, F 6/2, Islamabad</address>
+        <description><![CDATA[Adresse: House 25, Str. 19, F 6/2, Islamabad<br>Navn: Islamabad <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>House 25, Str. 19, F 6/2, Islamabad</value>
+          </Data>
+          <Data name="Navn">
+            <value>Islamabad </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Indonesia</name>
+        <address><![CDATA[Menara Rajawali Building, 25 th> floor,  Mega Kuningan, Kawasan Mega Kuningan, Jakarta 12950]]></address>
+        <description><![CDATA[Adresse: Menara Rajawali Building, 25 th> floor,  Mega Kuningan, Kawasan Mega Kuningan, Jakarta 12950<br>Navn: Jakarta <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value><![CDATA[Menara Rajawali Building, 25 th> floor,  Mega Kuningan, Kawasan Mega Kuningan, Jakarta 12950]]></value>
+          </Data>
+          <Data name="Navn">
+            <value>Jakarta </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sør-Sudan</name>
+        <address>Joint Embassy Compond, Airport Dr. Juba</address>
+        <description><![CDATA[Adresse: Joint Embassy Compond, Airport Dr. Juba<br>Navn: Juba <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Joint Embassy Compond, Airport Dr. Juba</value>
+          </Data>
+          <Data name="Navn">
+            <value>Juba </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Afghanistan</name>
+        <address>Wazir Akbar Khan, Street 15, Lane 4, Kabul</address>
+        <description><![CDATA[Adresse: Wazir Akbar Khan, Street 15, Lane 4, Kabul<br>Navn: Kabul <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Wazir Akbar Khan, Street 15, Lane 4, Kabul</value>
+          </Data>
+          <Data name="Navn">
+            <value>Kabul </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Egypt</name>
+        <address>8, El Gezirah Street; Zamalek, ET-Cairo</address>
+        <description><![CDATA[Adresse: 8, El Gezirah Street; Zamalek, ET-Cairo<br>Navn: Kairo <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>8, El Gezirah Street; Zamalek, ET-Cairo</value>
+          </Data>
+          <Data name="Navn">
+            <value>Kairo </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Uganda</name>
+        <address>Plot 18B Akii-Bva Road, Nakasero, Kampala</address>
+        <description><![CDATA[Adresse: Plot 18B Akii-Bva Road, Nakasero, Kampala<br>Navn: Kampala <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Plot 18B Akii-Bva Road, Nakasero, Kampala</value>
+          </Data>
+          <Data name="Navn">
+            <value>Kampala </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Nepal </name>
+        <address>Surya Court, Pulchowk, Lalitpur</address>
+        <description><![CDATA[Adresse: Surya Court, Pulchowk, Lalitpur<br>Navn: Katmandu <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Surya Court, Pulchowk, Lalitpur</value>
+          </Data>
+          <Data name="Navn">
+            <value>Katmandu </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sudan</name>
+        <address>Street 49, Khartoum 2</address>
+        <description><![CDATA[Adresse: Street 49, Khartoum 2<br>Navn: Khartoum <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Street 49, Khartoum 2</value>
+          </Data>
+          <Data name="Navn">
+            <value>Khartoum </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Malaysia</name>
+        <address>53 Floor, The Intermark Complex. Jalan Tun Razak, 50400 Kuala Lumpur</address>
+        <description><![CDATA[Adresse: 53 Floor, The Intermark Complex. Jalan Tun Razak, 50400 Kuala Lumpur<br>Navn: Kuala Lumpur <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>53 Floor, The Intermark Complex. Jalan Tun Razak, 50400 Kuala Lumpur</value>
+          </Data>
+          <Data name="Navn">
+            <value>Kuala Lumpur </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ukraina </name>
+        <address>Vul. Striletska 15, 01901 Kyiv</address>
+        <description><![CDATA[Adresse: Vul. Striletska 15, 01901 Kyiv<br>Navn: Kyiv <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Vul. Striletska 15, 01901 Kyiv</value>
+          </Data>
+          <Data name="Navn">
+            <value>Kyiv </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Malawi </name>
+        <address>Arwa House, City Centre, P/Bag B 323, Lilongwe 3</address>
+        <description><![CDATA[Adresse: Arwa House, City Centre, P/Bag B 323, Lilongwe 3<br>Navn: Lilongwe <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Arwa House, City Centre, P/Bag B 323, Lilongwe 3</value>
+          </Data>
+          <Data name="Navn">
+            <value>Lilongwe </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Portugal </name>
+        <address>Avenida D. Vasco da Gama 1, P-1400-127 Lisboa</address>
+        <description><![CDATA[Adresse: Avenida D. Vasco da Gama 1, P-1400-127 Lisboa<br>Navn: Lisboa <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Avenida D. Vasco da Gama 1, P-1400-127 Lisboa</value>
+          </Data>
+          <Data name="Navn">
+            <value>Lisboa </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Storbritannia </name>
+        <address>25 Belgrave Square, London SW1X 8QD</address>
+        <description><![CDATA[Adresse: 25 Belgrave Square, London SW1X 8QD<br>Navn: London <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>25 Belgrave Square, London SW1X 8QD</value>
+          </Data>
+          <Data name="Navn">
+            <value>London </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Angola</name>
+        <address>Rua Garcia Neto nº 9, C.P. 3835, Luanda</address>
+        <description><![CDATA[Adresse: Rua Garcia Neto nº 9, C.P. 3835, Luanda<br>Navn: Luanda <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Rua Garcia Neto nº 9, C.P. 3835, Luanda</value>
+          </Data>
+          <Data name="Navn">
+            <value>Luanda </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Spania </name>
+        <address>Calle Serrano 26, 5ª Planta 28001 Madrid,</address>
+        <description><![CDATA[Adresse: Calle Serrano 26, 5ª Planta 28001 Madrid,<br>Navn: Madrid <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Calle Serrano 26, 5ª Planta 28001 Madrid,</value>
+          </Data>
+          <Data name="Navn">
+            <value>Madrid </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Filippinene</name>
+        <address>12th Floor DelRosarioLaw Centre, 21st Drive corner 20th Drive, Bonifacio Global City, Taguig City, Metro Manila 1630</address>
+        <description><![CDATA[Adresse: 12th Floor DelRosarioLaw Centre, 21st Drive corner 20th Drive, Bonifacio Global City, Taguig City, Metro Manila 1630<br>Navn: Manila <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>12th Floor DelRosarioLaw Centre, 21st Drive corner 20th Drive, Bonifacio Global City, Taguig City, Metro Manila 1630</value>
+          </Data>
+          <Data name="Navn">
+            <value>Manila </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Mosambik </name>
+        <address>Ave. Julius Nyerere 1162, Maputo</address>
+        <description><![CDATA[Adresse: Ave. Julius Nyerere 1162, Maputo<br>Navn: Maputo <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Ave. Julius Nyerere 1162, Maputo</value>
+          </Data>
+          <Data name="Navn">
+            <value>Maputo </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Mexico</name>
+        <address>Avenida Virreyes 1460; Col Lomas Virreyes, C.P. 11000 Mexico D.F.</address>
+        <description><![CDATA[Adresse: Avenida Virreyes 1460; Col Lomas Virreyes, C.P. 11000 Mexico D.F.<br>Navn: Mexico D.F. <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Avenida Virreyes 1460; Col Lomas Virreyes, C.P. 11000 Mexico D.F.</value>
+          </Data>
+          <Data name="Navn">
+            <value>Mexico D.F. </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Russland</name>
+        <address>Povarskaja ul. 7, Moskva, Russland 121069</address>
+        <description><![CDATA[Adresse: Povarskaja ul. 7, Moskva, Russland 121069<br>Navn: Moskva <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Povarskaja ul. 7, Moskva, Russland 121069</value>
+          </Data>
+          <Data name="Navn">
+            <value>Moskva </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kenya</name>
+        <address>58, Red Hill Road, Gigiri, 00621 Nairobi</address>
+        <description><![CDATA[Adresse: 58, Red Hill Road, Gigiri, 00621 Nairobi<br>Navn: Nairobi <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>58, Red Hill Road, Gigiri, 00621 Nairobi</value>
+          </Data>
+          <Data name="Navn">
+            <value>Nairobi </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>India</name>
+        <address>50 C Shantipath; Chanakyapuri, IND-110 021 New Delhi</address>
+        <description><![CDATA[Adresse: 50 C Shantipath; Chanakyapuri, IND-110 021 New Delhi<br>Navn: New Delhi <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>50 C Shantipath; Chanakyapuri, IND-110 021 New Delhi</value>
+          </Data>
+          <Data name="Navn">
+            <value>New Delhi </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Canada</name>
+        <address>150 Metcalfe Street, Suite 1300, Ottawa, Ont. K2P 1P1</address>
+        <description><![CDATA[Adresse: 150 Metcalfe Street, Suite 1300, Ottawa, Ont. K2P 1P1<br>Navn: Ottawa <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>150 Metcalfe Street, Suite 1300, Ottawa, Ont. K2P 1P1</value>
+          </Data>
+          <Data name="Navn">
+            <value>Ottawa </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Frankrike</name>
+        <address>262, rue du Faubourg Saint-Honoré, 75008 Paris </address>
+        <description><![CDATA[Adresse: 262, rue du Faubourg Saint-Honoré, 75008 Paris <br>Navn: Paris <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>262, rue du Faubourg Saint-Honoré, 75008 Paris </value>
+          </Data>
+          <Data name="Navn">
+            <value>Paris </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tsjekkia </name>
+        <address>Hellichova 458/1, CZ-118 00, Praha 1, Malá Strana</address>
+        <description><![CDATA[Adresse: Hellichova 458/1, CZ-118 00, Praha 1, Malá Strana<br>Navn: Praha <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Hellichova 458/1, CZ-118 00, Praha 1, Malá Strana</value>
+          </Data>
+          <Data name="Navn">
+            <value>Praha </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sør-Afrika</name>
+        <address>Ozmik House, 165 Lynnwood Road,  Brooklyn</address>
+        <description><![CDATA[Adresse: Ozmik House, 165 Lynnwood Road,  Brooklyn<br>Navn: Pretoria <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Ozmik House, 165 Lynnwood Road,  Brooklyn</value>
+          </Data>
+          <Data name="Navn">
+            <value>Pretoria </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kosovo</name>
+        <address>Sejdi Kryeziu, Blok IV, Qteza Pejton,</address>
+        <description><![CDATA[Adresse: Sejdi Kryeziu, Blok IV, Qteza Pejton,<br>Navn: Prishtina <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Sejdi Kryeziu, Blok IV, Qteza Pejton,</value>
+          </Data>
+          <Data name="Navn">
+            <value>Prishtina </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Marokko </name>
+        <address>6 rue Beni Ritoune rabat</address>
+        <description><![CDATA[Adresse: 6 rue Beni Ritoune rabat<br>Navn: Rabat <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>6 rue Beni Ritoune rabat</value>
+          </Data>
+          <Data name="Navn">
+            <value>Rabat </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Island</name>
+        <address>Fjólugt. 17, 101 Reykjavik</address>
+        <description><![CDATA[Adresse: Fjólugt. 17, 101 Reykjavik<br>Navn: Reykjavik <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Fjólugt. 17, 101 Reykjavik</value>
+          </Data>
+          <Data name="Navn">
+            <value>Reykjavik </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Latvia</name>
+        <address>Kalku iela 15, P.O.Box 181, Riga LV-1050</address>
+        <description><![CDATA[Adresse: Kalku iela 15, P.O.Box 181, Riga LV-1050<br>Navn: Riga <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Kalku iela 15, P.O.Box 181, Riga LV-1050</value>
+          </Data>
+          <Data name="Navn">
+            <value>Riga </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Saudi-Arabia </name>
+        <address>Diplomatic Quarter, Riyadh</address>
+        <description><![CDATA[Adresse: Diplomatic Quarter, Riyadh<br>Navn: Riyadh <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Diplomatic Quarter, Riyadh</value>
+          </Data>
+          <Data name="Navn">
+            <value>Riyadh </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Italia </name>
+        <address>Via delle Terme Deciane 7, 00153 Roma</address>
+        <description><![CDATA[Adresse: Via delle Terme Deciane 7, 00153 Roma<br>Navn: Roma <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Via delle Terme Deciane 7, 00153 Roma</value>
+          </Data>
+          <Data name="Navn">
+            <value>Roma </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Chile</name>
+        <address>San Sebastián 2839; Of. 509, Las Condes, Santiago</address>
+        <description><![CDATA[Adresse: San Sebastián 2839; Of. 509, Las Condes, Santiago<br>Navn: Santiago de Chile <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>San Sebastián 2839; Of. 509, Las Condes, Santiago</value>
+          </Data>
+          <Data name="Navn">
+            <value>Santiago de Chile </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bosnia-Hercegovina</name>
+        <address>Ferhadija 20, 71000 Sarajevo</address>
+        <description><![CDATA[Adresse: Ferhadija 20, 71000 Sarajevo<br>Navn: Sarajevo <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Ferhadija 20, 71000 Sarajevo</value>
+          </Data>
+          <Data name="Navn">
+            <value>Sarajevo </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sør-Korea </name>
+        <address>Jeong-dong Building, 15-5 Jeong-dong, Jung-gu, Seoul 100-784, Republic of Korea</address>
+        <description><![CDATA[Adresse: Jeong-dong Building, 15-5 Jeong-dong, Jung-gu, Seoul 100-784, Republic of Korea<br>Navn: Seoul <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Jeong-dong Building, 15-5 Jeong-dong, Jung-gu, Seoul 100-784, Republic of Korea</value>
+          </Data>
+          <Data name="Navn">
+            <value>Seoul </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Singapore </name>
+        <address>16 Raffles Quay; No 44-01 Hong Leong Bldg., Singapore 048581</address>
+        <description><![CDATA[Adresse: 16 Raffles Quay; No 44-01 Hong Leong Bldg., Singapore 048581<br>Navn: Singapore <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>16 Raffles Quay; No 44-01 Hong Leong Bldg., Singapore 048581</value>
+          </Data>
+          <Data name="Navn">
+            <value>Singapore </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Sverige </name>
+        <address>Besøksadresse: Skarpögatan 4, SE-115 27 Stockholm</address>
+        <description><![CDATA[Adresse: Besøksadresse: Skarpögatan 4, SE-115 27 Stockholm<br>Navn: Stockholm <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Besøksadresse: Skarpögatan 4, SE-115 27 Stockholm</value>
+          </Data>
+          <Data name="Navn">
+            <value>Stockholm </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Estland</name>
+        <address>Harju 6,  15054 Tallinn</address>
+        <description><![CDATA[Adresse: Harju 6,  15054 Tallinn<br>Navn: Tallinn <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Harju 6,  15054 Tallinn</value>
+          </Data>
+          <Data name="Navn">
+            <value>Tallinn </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Georgia</name>
+        <address>Giorgi Leonidze street 2, 0105 Tbilisi</address>
+        <description><![CDATA[Adresse: Giorgi Leonidze street 2, 0105 Tbilisi<br>Navn: Tbilisi <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Giorgi Leonidze street 2, 0105 Tbilisi</value>
+          </Data>
+          <Data name="Navn">
+            <value>Tbilisi </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Iran</name>
+        <address>No 201 Dr. Lavasani St. (Ex-Farmanieh St.), Corner of Sonbol St., Teheran</address>
+        <description><![CDATA[Adresse: No 201 Dr. Lavasani St. (Ex-Farmanieh St.), Corner of Sonbol St., Teheran<br>Navn: Teheran <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>No 201 Dr. Lavasani St. (Ex-Farmanieh St.), Corner of Sonbol St., Teheran</value>
+          </Data>
+          <Data name="Navn">
+            <value>Teheran </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Israel</name>
+        <address>40 Einstein Street, Canion Ramat Aviv, 13. Etg., 69101 Tel Aviv</address>
+        <description><![CDATA[Adresse: 40 Einstein Street, Canion Ramat Aviv, 13. Etg., 69101 Tel Aviv<br>Navn: Tel Aviv <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>40 Einstein Street, Canion Ramat Aviv, 13. Etg., 69101 Tel Aviv</value>
+          </Data>
+          <Data name="Navn">
+            <value>Tel Aviv </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Japan </name>
+        <address>Minami Azabu 5-12-2; Minato-Ku, J-Tokyo 106-0047</address>
+        <description><![CDATA[Adresse: Minami Azabu 5-12-2; Minato-Ku, J-Tokyo 106-0047<br>Navn: Tokyo <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Minami Azabu 5-12-2; Minato-Ku, J-Tokyo 106-0047</value>
+          </Data>
+          <Data name="Navn">
+            <value>Tokyo </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Litauen </name>
+        <address>K. Kalinausko g. 24, 3rd floor, 03107 Vilnius</address>
+        <description><![CDATA[Adresse: K. Kalinausko g. 24, 3rd floor, 03107 Vilnius<br>Navn: Vilnius <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>K. Kalinausko g. 24, 3rd floor, 03107 Vilnius</value>
+          </Data>
+          <Data name="Navn">
+            <value>Vilnius </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Polen </name>
+        <address>ul. Fr. Chopina 2A, PL-00-559 Warszawa</address>
+        <description><![CDATA[Adresse: ul. Fr. Chopina 2A, PL-00-559 Warszawa<br>Navn: Warszawa <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>ul. Fr. Chopina 2A, PL-00-559 Warszawa</value>
+          </Data>
+          <Data name="Navn">
+            <value>Warszawa </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>USA </name>
+        <address>2900 K St. NW, Ste. 500, Washington DC 20007</address>
+        <description><![CDATA[Adresse: 2900 K St. NW, Ste. 500, Washington DC 20007<br>Navn: Washington <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>2900 K St. NW, Ste. 500, Washington DC 20007</value>
+          </Data>
+          <Data name="Navn">
+            <value>Washington </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Østerrike </name>
+        <address>Reisnerstrasse. 55-57, A-1030 Wien</address>
+        <description><![CDATA[Adresse: Reisnerstrasse. 55-57, A-1030 Wien<br>Navn: Wien <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Reisnerstrasse. 55-57, A-1030 Wien</value>
+          </Data>
+          <Data name="Navn">
+            <value>Wien </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Myanmar</name>
+        <address>No. 7 Pyi Thu Street, Pyay Road Ward (6),</address>
+        <description><![CDATA[Adresse: No. 7 Pyi Thu Street, Pyay Road Ward (6),<br>Navn: Yangon <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>No. 7 Pyi Thu Street, Pyay Road Ward (6),</value>
+          </Data>
+          <Data name="Navn">
+            <value>Yangon </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kroatia </name>
+        <address>Hektoroviceva 2/3, HR-10 000 Zagreb</address>
+        <description><![CDATA[Adresse: Hektoroviceva 2/3, HR-10 000 Zagreb<br>Navn: Zagreb <br>Type: Amb.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Hektoroviceva 2/3, HR-10 000 Zagreb</value>
+          </Data>
+          <Data name="Navn">
+            <value>Zagreb </value>
+          </Data>
+          <Data name="Type">
+            <value>Amb.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Consulate General</name>
+      <Placemark>
+        <name>Kina</name>
+        <address>Kina Citic Plaza, 233 Tian He North Road, CN-Guangzhou 510613</address>
+        <description><![CDATA[Adresse: Citic Plaza, 233 Tian He North Road, CN-Guangzhou 510613<br>Navn: Guangzhou<br>Type: Gk.]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Citic Plaza, 233 Tian He North Road, CN-Guangzhou 510613</value>
+          </Data>
+          <Data name="Navn">
+            <value>Guangzhou</value>
+          </Data>
+          <Data name="Type">
+            <value>Gk.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>USA </name>
+        <address>USA  3410 West Dallas Street, Houston, TX 77019</address>
+        <description><![CDATA[Adresse: 3410 West Dallas Street, Houston, TX 77019<br>Navn: Houston <br>Type: Gk.]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>3410 West Dallas Street, Houston, TX 77019</value>
+          </Data>
+          <Data name="Navn">
+            <value>Houston </value>
+          </Data>
+          <Data name="Type">
+            <value>Gk.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>India</name>
+        <address>India TCG Financial Centre, 3rd Floor, C-53, G Block, Bandra Kurla Complex, Bandra (E), Mumbai</address>
+        <description><![CDATA[Adresse: TCG Financial Centre, 3rd Floor, C-53, G Block, Bandra Kurla Complex, Bandra (E), Mumbai<br>Navn: Mumbai <br>Type: Gk.]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>TCG Financial Centre, 3rd Floor, C-53, G Block, Bandra Kurla Complex, Bandra (E), Mumbai</value>
+          </Data>
+          <Data name="Navn">
+            <value>Mumbai </value>
+          </Data>
+          <Data name="Type">
+            <value>Gk.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Russland</name>
+        <address>Russland Proezd Kapitana Tarana 25 183025 Murmansk</address>
+        <description><![CDATA[Adresse: Proezd Kapitana Tarana 25 183025 Murmansk<br>Navn: Murmansk <br>Type: Gk.]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Proezd Kapitana Tarana 25 183025 Murmansk</value>
+          </Data>
+          <Data name="Navn">
+            <value>Murmansk </value>
+          </Data>
+          <Data name="Type">
+            <value>Gk.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>USA </name>
+        <address>USA  1 Dag Hammarskjold Plaza, 35th floor </address>
+        <description><![CDATA[Adresse: 1 Dag Hammarskjold Plaza, 35th floor <br>Navn: New York <br>Type: Gk.]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>1 Dag Hammarskjold Plaza, 35th floor </value>
+          </Data>
+          <Data name="Navn">
+            <value>New York </value>
+          </Data>
+          <Data name="Type">
+            <value>Gk.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Brasil</name>
+        <address>Brasil Rua Lauro Müller 116, Sala 2206, Torre Rio Sul, Botafogo CEP: 22 290-160, Rio de Janeiro</address>
+        <description><![CDATA[Adresse: Rua Lauro Müller 116, Sala 2206, Torre Rio Sul, Botafogo CEP: 22 290-160, Rio de Janeiro<br>Navn: Rio de Janeiro <br>Type: Gk.]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Rua Lauro Müller 116, Sala 2206, Torre Rio Sul, Botafogo CEP: 22 290-160, Rio de Janeiro</value>
+          </Data>
+          <Data name="Navn">
+            <value>Rio de Janeiro </value>
+          </Data>
+          <Data name="Type">
+            <value>Gk.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>USA </name>
+        <address>USA  575 Market Street, Suite 3950, San Francisco, CA 94105</address>
+        <description><![CDATA[Adresse: 575 Market Street, Suite 3950, San Francisco, CA 94105<br>Navn: San Francisco <br>Type: Gk.]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>575 Market Street, Suite 3950, San Francisco, CA 94105</value>
+          </Data>
+          <Data name="Navn">
+            <value>San Francisco </value>
+          </Data>
+          <Data name="Type">
+            <value>Gk.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kina</name>
+        <address>Kina Bund Center, No. 222  East Yan’an Road, Huangpu District, Shanghai 200002</address>
+        <description><![CDATA[Adresse: Bund Center, No. 222  East Yan’an Road, Huangpu District, Shanghai 200002<br>Navn: Shanghai <br>Type: Gk.]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Bund Center, No. 222  East Yan’an Road, Huangpu District, Shanghai 200002</value>
+          </Data>
+          <Data name="Navn">
+            <value>Shanghai </value>
+          </Data>
+          <Data name="Type">
+            <value>Gk.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Russland</name>
+        <address>Russland Ligovsky pr, 13-15, 191014 St. Petersburg</address>
+        <description><![CDATA[Adresse: Ligovsky pr, 13-15, 191014 St. Petersburg<br>Navn: St. Petersburg <br>Type: Gk.]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Ligovsky pr, 13-15, 191014 St. Petersburg</value>
+          </Data>
+          <Data name="Navn">
+            <value>St. Petersburg </value>
+          </Data>
+          <Data name="Type">
+            <value>Gk.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Delegations</name>
+      <Placemark>
+        <name>Norges faste delegasjon til Den afrikanske union (AU)</name>
+        <address>Egypt Street, Nifas Silk Lafto Subcity, Addis Abeba, Etiopia</address>
+        <description><![CDATA[Adresse: Egypt Street, Nifas Silk Lafto Subcity, Addis Abeba, Etiopia<br>Navn: Addis Abeba<br>Type: Delegasjon]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Egypt Street, Nifas Silk Lafto Subcity, Addis Abeba, Etiopia</value>
+          </Data>
+          <Data name="Navn">
+            <value>Addis Abeba</value>
+          </Data>
+          <Data name="Type">
+            <value>Delegasjon</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Norges faste delegasjon (Nato)</name>
+        <address>Blvd. Léopold III, B-1110 Bruxelles</address>
+        <description><![CDATA[Adresse: Blvd. Léopold III, B-1110 Bruxelles<br>Navn: Brussel <br>Type: Delegasjon]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Blvd. Léopold III, B-1110 Bruxelles</value>
+          </Data>
+          <Data name="Navn">
+            <value>Brussel </value>
+          </Data>
+          <Data name="Type">
+            <value>Delegasjon</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Norges faste delegasjon (EU)</name>
+        <address>Rue Archimede 17, B-1000 Bruxelles</address>
+        <description><![CDATA[Adresse: Rue Archimede 17, B-1000 Bruxelles<br>Navn: Brussel <br>Type: Delegasjon]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Rue Archimede 17, B-1000 Bruxelles</value>
+          </Data>
+          <Data name="Navn">
+            <value>Brussel </value>
+          </Data>
+          <Data name="Type">
+            <value>Delegasjon</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Norges faste delegasjon (FN og andre internasjonale organisasjoner)</name>
+        <address>35 bis, avenue de Budé, CH-1202 Genève</address>
+        <description><![CDATA[Adresse: 35 bis, avenue de Budé, CH-1202 Genève<br>Navn: Geneve <br>Type: Delegasjon]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>35 bis, avenue de Budé, CH-1202 Genève</value>
+          </Data>
+          <Data name="Navn">
+            <value>Geneve </value>
+          </Data>
+          <Data name="Type">
+            <value>Delegasjon</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Norges faste delegasjon til De forente nasjoner</name>
+        <address>1 Dag Hammarskjold Plaza, 35th floor, 885 2nd Avenue, New York, N.Y. 10017</address>
+        <description><![CDATA[Adresse: 1 Dag Hammarskjold Plaza, 35th floor, 885 2nd Avenue, New York, N.Y. 10017<br>Navn: New York  <br>Type: Delegasjon]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>1 Dag Hammarskjold Plaza, 35th floor, 885 2nd Avenue, New York, N.Y. 10017</value>
+          </Data>
+          <Data name="Navn">
+            <value>New York  </value>
+          </Data>
+          <Data name="Type">
+            <value>Delegasjon</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Norges faste delegasjon til OECD og Unesco</name>
+        <address>33, rue de Franqueville, 75116 Paris</address>
+        <description><![CDATA[Adresse: 33, rue de Franqueville, 75116 Paris<br>Navn: Paris <br>Type: Delegasjon]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>33, rue de Franqueville, 75116 Paris</value>
+          </Data>
+          <Data name="Navn">
+            <value>Paris </value>
+          </Data>
+          <Data name="Type">
+            <value>Delegasjon</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Norges faste delegasjon (til FN-organisasjonene FAO, WFP og Ifad)</name>
+        <address>Via delle Terme Deciane, 7, 00153 Roma</address>
+        <description><![CDATA[Adresse: Via delle Terme Deciane, 7, 00153 Roma<br>Navn: Roma<br>Type: Delegasjon]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Via delle Terme Deciane, 7, 00153 Roma</value>
+          </Data>
+          <Data name="Navn">
+            <value>Roma</value>
+          </Data>
+          <Data name="Type">
+            <value>Delegasjon</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Norges faste delegasjon (Europarådet)</name>
+        <address>42, rue Schweighaeuser, 67000 Strasbourg</address>
+        <description><![CDATA[Adresse: 42, rue Schweighaeuser, 67000 Strasbourg<br>Navn: Strasbourg <br>Type: Delegasjon]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>42, rue Schweighaeuser, 67000 Strasbourg</value>
+          </Data>
+          <Data name="Navn">
+            <value>Strasbourg </value>
+          </Data>
+          <Data name="Type">
+            <value>Delegasjon</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Norges faste delegasjon (OSSE)</name>
+        <address>Reisnerstrasse 55-57, A-1030 Wien</address>
+        <description><![CDATA[Adresse: Reisnerstrasse 55-57, A-1030 Wien<br>Navn: Wien <br>Type: Delegasjon]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Reisnerstrasse 55-57, A-1030 Wien</value>
+          </Data>
+          <Data name="Navn">
+            <value>Wien </value>
+          </Data>
+          <Data name="Type">
+            <value>Delegasjon</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
