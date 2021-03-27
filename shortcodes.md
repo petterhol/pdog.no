@@ -48,6 +48,11 @@ Formål: Lager et "kort" på nettsiden til Silicon Valley.
 
 Variabler:
 - src: bildefil
+- fotograf: navn på fotografen til bildet
+- lisenslenke: lenke for å lese mer om lisensen
+- lisens: angir hvilken lisens som er brukt
+- sourcelenke: lenke til kilden av verket
+- source: beskrivelse av hvor verket er hentet fra
 - alt: alternativ tekst
 - link: hvor man lander hvis man trykker på bilde.t
 - header: overskrift på kortet
