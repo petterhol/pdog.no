@@ -31,7 +31,6 @@ Variabler:
 - link: hvor man lander hvis man trykker på bilde.t
 - img-caption: tekst som står under bildet
 
-
 ```
 {{< img-caption-link
  figure-class="float"
@@ -43,3 +42,34 @@ Variabler:
   >}}
 ```
 
+## svkort
+
+Formål: Lager et "kort" på nettsiden til Silicon Valley.
+
+Variabler:
+- scr: bildefil
+- alt: alternativ tekst
+- link: hvor man lander hvis man trykker på bilde.t
+- header: overskrift på kortet
+- adresse: besøksadresse til stedet
+- parkering: informasjon om parkering
+- tid: hvor lang tid det er ment å bruke på stedet
+- lenke: lenke til nettside
+- kartlenke: lenke til Apple Maps (går automatisk til Google Maps for enheter uten Apple Maps
+
+```
+{{% svkort
+	scr="xxxxx"
+	alt="xxxxx"
+	header="xxxxx"
+	adresse="xxxxx"
+	parkering="xxxxx"
+	tid="xxxxx"
+	lenke="xxxxx"
+	kartlenke="xxxxx"
+%}}
+
+xxxxxx
+
+{{% /svkort %}}
+```
