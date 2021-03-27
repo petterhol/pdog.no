@@ -61,6 +61,11 @@ Variabler:
 ```
 {{% svkort
 	src="xxxxx"
+	fotograf="xxxxx"
+	lisenslenke="xxxxx"
+	lisens="xxxxx"
+	sourcelenke="xxxxx"
+	source="xxxxx"
 	alt="xxxxx"
 	header="xxxxx"
 	adresse="xxxxx"
