@@ -59,7 +59,7 @@ Variabler:
 
 ```
 {{% svkort
-	scr="xxxxx"
+	src="xxxxx"
 	alt="xxxxx"
 	header="xxxxx"
 	adresse="xxxxx"
