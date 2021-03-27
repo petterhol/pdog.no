@@ -47,15 +47,16 @@ Variabler:
 Formål: Lager et "kort" på nettsiden til Silicon Valley.
 
 Variabler:
-- scr: bildefil
+- src: bildefil
 - alt: alternativ tekst
 - link: hvor man lander hvis man trykker på bilde.t
 - header: overskrift på kortet
 - adresse: besøksadresse til stedet
 - parkering: informasjon om parkering
+- betaling: informasjon om inngangspenger
 - tid: hvor lang tid det er ment å bruke på stedet
-- lenke: lenke til nettside
-- kartlenke: lenke til Apple Maps (går automatisk til Google Maps for enheter uten Apple Maps
+- lenke: lenke til nettside, enten offisiell eller uoffisiell
+- kartlenke: lenke til Apple Maps (går automatisk til Google Maps for enheter uten Apple Maps)
 
 ```
 {{% svkort
@@ -64,6 +65,7 @@ Variabler:
 	header="xxxxx"
 	adresse="xxxxx"
 	parkering="xxxxx"
+	betaling="xxxxx"
 	tid="xxxxx"
 	lenke="xxxxx"
 	kartlenke="xxxxx"
