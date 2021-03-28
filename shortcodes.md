@@ -20,6 +20,37 @@ Variabler:
 xxxxxx {{% /copy %}}
 ```
 
+## img-lisens
+
+Formål: Legger til et bilde, samt lisensinformasjon under.
+
+Variabler:
+- class: img-class, normalt "img-fluid"
+- src: kilde til bildet
+- alt: alternativ tekst
+- type: kategorisering av hva verket er for noe, eksempel bilde
+- aristlink: lenke til kunstner nettside
+- artist: navnet på kunstner
+- sourcelink: hvor verket er hentet fra
+- source: navnet på stedet verket er hentet fra
+- lisenslink: lenke til lisensinformasjon
+- lisens: beskrivelse av lisensen
+
+```
+{{< img-lisens
+	class="xxxxx"
+	src="xxxxx"
+	alt="xxxxx"
+	type="xxxxx"
+	artistlink="xxxxx"
+	artist="xxxxx"
+	sourcelink="xxxxx"
+	source="xxxxx"
+	lisenslink="xxxxx"
+	lisens="xxxxx"
+>}}
+```
+
 ## Img-caption-link
 
 Formål: Legger til et klikkbart bilde med bildetekst i grå tekst. Kan både brukes til ekstenre nettsider, interne nettsider
