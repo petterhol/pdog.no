@@ -1,5 +1,5 @@
 +++
-title = "Veibeskrivelse til Ivan Bjørndals gate 6"
+title = "Veibeskrivelse til Ivan Bjørndals gate 6"
 linktitle = "Ivan Bjørndals gate 6"
 lastmod = 2020-12-28T22:00:00
 aliases = [
@@ -16,7 +16,7 @@ main = { weight = 2, parent = "Petter Holstad" }
 {{% ingress %}}
 
 Her finner du en fullstendig oversikt over alle tenkelige måter du kan komme deg til min bolig
-med adresse Ivan Bjørndals gate 6, Oslo.
+med adresse Ivan Bjørndals gate 6, Oslo.
 
 {{% /ingress %}}
 
@@ -26,7 +26,7 @@ med adresse Ivan Bjørndals gate 6, Oslo.
 covid-19? Da skal du ikke komme på besøk til meg. Les mer om
 <a href="https://www.fhi.no/nettpub/coronavirus/fakta/hvis_du_mistenker_at_du_er_syk_med_covid-19/">
 hva du skal gjøre hvis du mistenker at du er smittet på Folkehelseinstituttets
-sider <i class="fas fa-external-link-alt"></i></a>. Hvis du er frisk, er du velkommen
+sider <sup><i class="fas fa-external-link-alt"></i></sup></a>. Hvis du er frisk, er du velkommen
 uten håndhilsing, med en meters avstand og hyppig håndvask.
 
 {{< /covid >}}
@@ -42,7 +42,7 @@ uten håndhilsing, med en meters avstand og hyppig håndvask.
 {{< muted >}}
 
 Ved å trykke på lenker i boksen over kan du bli sendt til en ekstern lenke
-{{< external >}}.
+{{< ext >}}.
 
 {{< /muted >}}
 
@@ -57,7 +57,7 @@ Skriv inn "Ivan Bjørndals gate 6" i "Fra" eller "Til"-feltet.
 {{< muted >}}
 
 Ved å trykke på lenker i boksen over kan du bli sendt til en ekstern lenke
-{{< external >}}.
+{{< ext >}}.
 
 {{< /muted >}}
 
@@ -74,8 +74,8 @@ Ved å trykke på lenker i boksen over kan du bli sendt til en ekstern lenke
 Dette er to varianter av _sanntidstavler_ som viser avganger basert på
 Ivan Bjørndals gate 6:
 
-- [Entur {{< external >}}][entur].
-- [Ruter {{< external >}}][rutermon].
+- [Entur {{< ext >}}][entur]
+- [Ruter {{< ext >}}][rutermon]
 
 [entur]: https://tavla.en-tur.no/t/PnVDQGYSsCiPu3B3JRrx
 [rutermon]: https://mon.ruter.no/departures/59.93767611327234-10.76438223181862/N4Igrgzgpgwg9gGzAWwHYBkCGBPOYAuIAXPgE5hQA0IAblKRAJZyrEBM1ARnJqQCYRiAbVB8oCHFD4BlfL3wAVRsijEADNQAWjPmIyNUUQUWABfaqhSd6AeQBmAESgAHeWFJH2GkPkb4EqkQgAIIeqHyYCBAA5phyINR8jBCYnAF8CqSYqBDOcKT4ALJwYsZCALrUUKip6cRkFFo6UJmYAMYA1vBIaMR2kdDUEPhwzgAKEm1QAJICwiAActIASkSyoxPtUEQAbADMAOwALCDl5qLikjJyBUoq6k261egGnibmIJbI1qT2Tq4FdxvNjeXz+QIgaTZCIdegAAmk1Xw9ASICSKTSUlaOTyBWKpWElRA1VqUnq5CoIG0YlanW6KFYRH6UUpww2kxmcyIQkWKzWI3GHKIAFYABwARlFwtOpjOQA
@@ -95,7 +95,7 @@ Ivan Bjørndals gate 6:
 Fra sentrum: Ca. en halvtime. Legg merke til at det er minst 86 meter stigning ved effektiv
 sykkelrute. For en koseligere rute, gå via Akerselva til du kommer til
 Lilleborg. Du kan bruke mange karttjenester til å lage en sykkelrute, for
-eksempel [Google Maps {{< external >}}](https://goo.gl/maps/XujPHW9ShqkvaUCT6).
+eksempel [Google Maps {{< ext >}}](https://goo.gl/maps/XujPHW9ShqkvaUCT6).
 
 {{% /card %}}
 
@@ -120,7 +120,7 @@ I nærheten av huset finnes følgende stativer (sortert etter gangavstand):
 - Bjølsendumpa langs Treschows gate (7 min).
 
 Jeg anbefaler å laste ned
-[Oslo Bysykkel-appen {{< external >}}](https://oslobysykkel.no/app).
+[Oslo Bysykkel-appen {{< ext >}}](https://oslobysykkel.no/app).
 
 {{< img-caption
     class="img-fluid"
@@ -143,14 +143,14 @@ I Oslo finnes det flere operatører som tilbyr utleie av elektriske
 sparkesykler. Sjekk priser og vilkår (herunder parkering på min bolig) hos
 hver enkelt operatør. Her er en oversikt over noen operatører:
 
-- [Voi {{< external >}}](https://www.voiscooters.com/)
-- [Tier {{< external >}}](https://www.tier.app/)
-- [Lime {{< external >}}](https://www.li.me/)
-- [Bird {{< external >}}](https://www.bird.co/)
-- [Ryde {{< external >}}](https://www.ryde-technology.com/)
-- [Zvipp {{< external >}}](https://www.zvipp.no/)
-- [Bolt {{< external >}}](https://bolt.eu)
-- [Wind {{< external >}}](https://www.wind.co)
+- [Voi {{< ext >}}](https://www.voiscooters.com/)
+- [Tier {{< ext >}}](https://www.tier.app/)
+- [Lime {{< ext >}}](https://www.li.me/)
+- [Bird {{< ext >}}](https://www.bird.co/)
+- [Ryde {{< ext >}}](https://www.ryde-technology.com/)
+- [Zvipp {{< ext >}}](https://www.zvipp.no/)
+- [Bolt {{< ext >}}](https://bolt.eu/no/scooters/)
+- [Wind {{< ext >}}](https://www.wind.co)
 
 {{< sparkesykkelinfo >}}
 
@@ -240,15 +240,15 @@ Det finnes mange leiebilaktører i Oslo, men jeg anbefaler følgende:
 
 Det finnes mange drosjeselskaper i Oslo. Noen tilbyr også apper.
 
-- [Uber {{< external >}}](https://www.uber.com/global/nb/cities/oslo/), bestilling i app eller
+- [Uber {{< ext >}}](https://www.uber.com/global/nb/cities/oslo/), bestilling i app eller
   på nettsiden.
-- [Oslo Taxi {{< external >}}](https://www.oslotaxi.no/bestilling), tilbyr app, bestilling på
+- [Oslo Taxi {{< ext >}}](https://www.oslotaxi.no/bestilling), tilbyr app, bestilling på
   telefon: [22&nbsp;38&nbsp;80&nbsp;90](tel:22388090).
-- [NorgesTaxi {{< external >}}](https://www.norgestaxi.no/oslo), tilbyr app, bestilling på
+- [NorgesTaxi {{< ext >}}](https://www.norgestaxi.no/oslo), tilbyr app, bestilling på
   telefon: [910&nbsp;08&nbsp;000](tel:91008000).
-- [Christiania Taxi {{< external >}}](https://02365.no/), tilbyr app, bestilling på telefon:
+- [Christiania Taxi {{< ext >}}](https://02365.no/), tilbyr app, bestilling på telefon:
   [22&nbsp;57&nbsp;80&nbsp;00](tel:22578000).
-- [0-TAXI {{< external >}}](https://www.0-taxi.no/), tilbyr app, bestilling på telefon:
+- [0-TAXI {{< ext >}}](https://www.0-taxi.no/), tilbyr app, bestilling på telefon:
   [460&nbsp;08&nbsp;294](tel:46008294).
 
 {{% /card %}}
@@ -276,7 +276,7 @@ mulighet.
 {{< muted >}}
 
 Ved å trykke på lenker i boksen over kan du bli sendt til en ekstern lenke
-{{< external >}}.
+{{< ext >}}.
 
 {{< /muted >}}
 
@@ -289,7 +289,7 @@ Ved å trykke på lenker i boksen over kan du bli sendt til en ekstern lenke
 {{< muted >}}
 
 Ved å trykke på lenker i boksen over kan du bli sendt til en ekstern lenke
-{{< external >}}.
+{{< ext >}}.
 
 {{< /muted >}}
 
@@ -302,7 +302,7 @@ Ved å trykke på lenker i boksen over kan du bli sendt til en ekstern lenke
 {{< muted >}}
 
 Ved å trykke på lenker i boksen over kan du bli sendt til en ekstern lenke
-{{< external >}}.
+{{< ext >}}.
 
 {{< /muted >}}
 
@@ -315,7 +315,7 @@ Ved å trykke på lenker i boksen over kan du bli sendt til en ekstern lenke
 {{< muted >}}
 
 Ved å trykke på lenker i boksen over kan du bli sendt til en ekstern lenke
-{{< external >}}.
+{{< ext >}}.
 
 {{< /muted >}}
 
@@ -323,10 +323,11 @@ Ved å trykke på lenker i boksen over kan du bli sendt til en ekstern lenke
 
 {{% card header="Andre karttjenster" %}}
 
-- [Apple Maps (Kart) {{< external >}}](https://maps.apple.com/?address=Ivan%20Bj%C3%B8rndals%20Gate%206,%200472%20Oslo,%20Norge&ll=59.937556,10.764625&q=Avmerket%20posisjon&_ext=EiYpvV6rP273TUAxtQ540OuCJUA5OzTRm5T4TUBBm6nwQRqMJUBQBA==)
-- [1881.no {{< external >}}](https://kart.1881.no/?lat=59.9375397&lon=10.7646633&z=17&v=0&r=F1410926|&o=&layer=)
-- [Norge i bilder {{< external >}}](https://norgeibilder.no/?x=263425&y=6652028&level=14&utm=33&projects=&layers=&plannedOmlop=0&plannedGeovekst=0)
-- [Statens Vegvesen {{< external >}}](https://www.vegvesen.no/trafikkbeta?lat=59.93754&long=10.76466&zoom=15&listView=false)
+- [Apple Maps (Kart) {{< ext >}}](https://maps.apple.com/?address=Ivan%20Bj%C3%B8rndals%20Gate%206,%200472%20Oslo,%20Norge&ll=59.937556,10.764625&q=Avmerket%20posisjon&_ext=EiYpvV6rP273TUAxtQ540OuCJUA5OzTRm5T4TUBBm6nwQRqMJUBQBA==)
+- [1881.no {{< ext >}}](https://kart.1881.no/?lat=59.9375397&lon=10.7646633&z=17&v=0&r=F1410926|&o=&layer=)
+- [Norge i bilder {{< ext >}}](https://norgeibilder.no/?x=263425&y=6652028&level=14&utm=33&projects=&layers=&plannedOmlop=0&plannedGeovekst=0)
+- [Statens Vegvesen {{< ext >}}](https://www.vegvesen.no/trafikkbeta?lat=59.93754&long=10.76466&zoom=15&listView=false)
+- [Togkart {{< ext >}}](https://togkart.banenor.no)
 
 {{% /card %}}
 
@@ -347,9 +348,9 @@ Hvis du er så hardcore at du trenger koordinater, har du dem her.
 Det er to veier inn på området, enten fra Treschows gate eller Sandakerveien.
 
 - Fra Treschows gate, finn inngangen mot skiltet "Det Andre Teateret". Når du har gått
-over brua, ta første trapp til høyre og gå rett frem. Her finner du nr. 6.
+over brua, ta første trapp til høyre og gå rett frem. Her finner du nr. 6.
 
 - Fra Sandakerveien, gå ned bakken og ta første asfalterte vei med bom inn til venstre. Gå til
-du finner nr. 6.
+du finner nr. 6.
 
-Ring på Holstad/Øyen og ta heis/trapp til 4. etasje.
+Ring på Holstad/Øyen og ta heis/trapp til 4. etasje.
