@@ -3,7 +3,7 @@ title = "Minneside: M/S Fjordkongen"
 lastmod = 2020-12-26T22:00:00
 +++
 
-<!-- markdownlint-disable MD001 MD026 MD036 -->
+<!-- markdownlint-disable MD001 MD026 MD036 MD034 -->
 
 {{% ingress %}}
 
