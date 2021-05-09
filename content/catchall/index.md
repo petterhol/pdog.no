@@ -20,8 +20,6 @@ bruker dette selv på mitt eget domene.
     class="img-fluid"
     src="illustrasjonsbilde.jpg"
     alt="Illustrasjonsbilde."
-    alt="Illustrasjon. Grønn bakgrunn, to tegna hender holder en mobiltelefon.
-    Ikoner som viser konvolutter flyr ut eller inn av  mobiltelefonen."
     type="Illustrasjonsbilde"
     artistlink="<https://bit.ly/3y6KnMH"
     artist="Mohamed Hassan"
