@@ -17,8 +17,8 @@ kalenderen din.
 Av en eller annen grunn legger de fleste e-postklienter opp til at man skal begynne med å legge inn mottakere, emnefelt og avsenderadresse _før_ man legger inn selve meldingen og eventuelt vedlegget. Ved å snu opp-ned på denne tankegangen, kan du få en bedre arbeidsflyt.
 
 {{< img
-	class="img-fluid"
-	src="epost.png"
+ class="img-fluid"
+ src="epost.png"
 >}}
 
 Bildet over viser min foreslåtte arbeidsflyt:
@@ -45,30 +45,30 @@ Her er det ikke noe gode fasitsvar, men står du fast kan du bruke disse veiledn
 {{< card-deck >}}
 
 {{< ramme
-	header="Til/To"
-	>}}
+ header="Til/To"
+ >}}
 Den du faktisk har ment meldingen til, som skal gjøre en handling eller faktisk bli informert om e-postens innhold.
 {{< /ramme >}}
 
 {{< ramme
-	header="Kopi/CC"
-	>}}
+ header="Kopi/CC"
+ >}}
 En person du vil orientere om e-posten, men som nødvendigvis ikke er den faktiske mottakeren.
 Alle på "til" og "kopi" kan se hverandre. CC står for "carbon copy".
 
 {{< /ramme >}}
 
 {{< ramme
-	header="Blindkopi/BCC"
-	>}}
+ header="Blindkopi/BCC"
+ >}}
 En person du vil orientere om e-posten, men du vil ikke at noen verken på "til" eller "kopi" skal
 få vite om det. Mottakeren på blindkopi kan se hvem som er på "til og "kopi", men ikke andre mottakere på "blindkopi". BCC står for "blind carbon copy".
 
 {{< /ramme >}}
 
 {{< ramme
-	header="Svar til /reply-to"
-	>}}
+ header="Svar til /reply-to"
+ >}}
 En e-postadresse hvor du vil at alle mottakere skal svare. E-postprogammet skjønner dette
 av seg selv, og vil adressere svaret korrekt automatisk.
 {{< /ramme >}}
@@ -88,8 +88,8 @@ Blindkopi har to gode bruksområder:
 Jeg er personlig motstander av signaturer med overflødig mye informasjon. Jobber man i et stort selskap er man gjerne tvunget til å bruke en stor signatur med all mulig informasjon.
 
 {{% expand
-	ident="argumenter"
-	bait="Her er mine argumenter mot (trykk for å utvide)"
+ ident="argumenter"
+ bait="Her er mine argumenter mot (trykk for å utvide)"
 %}}
 
 - Firmalogo i en signatur er kanskje lurt hvis du presenterer deg for første gang til en ny kunde eller ekstern kontakt, men å ha det i drøssevis av mailer mellom ansatte i samme firma er bare å bruke unødvendig båndbredde og lagringskapasitet.
@@ -103,8 +103,8 @@ Jeg er personlig motstander av signaturer med overflødig mye informasjon. Jobbe
 Personlig bruker jeg så lite informasjon som nødvendig når jeg sender ut e-poster. I korte utvekslinger, hvor det er etablert hvem jeg er, bruker jeg normalt ikke signatur i det hele tatt. Når jeg sender en ny e-post til kjente mottakere, sender jeg bare med navnet "Petter" på slutten. Hvis det er noen som ikke kjenner jeg, legger jeg til hele navnet mitt. Hvis stillingstittel eller firma er relevant, legger jeg til det, og hvis telefonnummeret mitt også ville vært relevant for mottaker, legger jeg ved det. Alt er i ren tekst, uten noen form for innramming eller formatering.
 
 {{% expand
-	ident="utvidelser"
-	bait="Man kan faktisk automatisere jobben med å veksle på signaturer (trykk for å utvide)"
+ ident="utvidelser"
+ bait="Man kan faktisk automatisere jobben med å veksle på signaturer (trykk for å utvide)"
 %}}
 
 - Hvis du bruker en Mac-datamaskin, kan du bruke det innebygde verktøyet for teksterstatning. Du finner det ved å gå på Apple-logoen () -> Systemvalg -> Tastatur -> Tekst. Les mer i [bruksanvisningen {{< ext >}}](https://support.apple.com/no-no/guide/mac-help/mh35735/mac).
@@ -118,7 +118,6 @@ Når du videresender e-post, tenk på følgende:
 
 - **Vedlegg**: Tenk over om det har vært vedlegg i den tråden du videresender, og om det er meningen at mottakeren skal motta disse.
 - **Interne diskusjoner**: Inneholder den videresendte e-posttråden interne diskusjoner før du har bestemt deg for å sende videre meldingen? Fjern dette i så fall.
-
 
 ## Navn på kalenderinvitasjoner
 
