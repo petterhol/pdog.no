@@ -6,6 +6,8 @@ lastmod = 2020-10-06T22:00:00
 main = { weight = 5, parent = "Teknologi" }
 +++
 
+<!-- markdownlint-disable MD034 -->
+
 {{% ingress %}}
 
 Hvis du eier et e-postdomene, kan du velge å slå på en funksjon som heter *"catch all"*, som lar
@@ -17,9 +19,9 @@ bruker dette selv på mitt eget domene.
 {{< img-lisens class="img-fluid" src="illustrasjonsbilde.jpg" alt="Illustrasjon. Grønn bakgrunn, to
 tegna hender holder en mobiltelefon. Ikoner som viser konvolutter flyr ut eller inn av
 mobiltelefonen." type="Illustrasjonsbilde"
-artistlink="https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&
+artistlink="<https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution>&
 utm_medium=referral&utm_campaign=image&utm_content=3543958" artist="Mohamed Hassan"
-sourcelink="https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image
+sourcelink="<https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image>
 &utm_content=3543958" source="Pixabay" lisenslink="https://pixabay.com/service/license/"
 lisens="Pixabay Lisence"
 >}}
