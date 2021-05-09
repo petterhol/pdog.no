@@ -26,15 +26,15 @@ materialet.
 
 Medvirkende: Thor-Rune Hansen (på sup), Petter Holstad (foto og redigering)  
 Innspilt: August 2020  
-Innspillingssted: [Breivika, Steigen, Nordland {{< external >}}][breivika]  
+Innspillingssted: [Breivika, Steigen, Nordland {{< ext >}}][breivika]  
 
 Musikk: I'm So av Andrew Applepie  
 
-- [Artistens nettside {{< external >}}][a1]  
+- [Artistens nettside {{< ext >}}][a1]  
 
-- [Instagram {{< external >}}][a2]  
+- [Instagram {{< ext >}}][a2]  
 
-- [YouTube {{< external >}}][a3]  
+- [YouTube {{< ext >}}][a3]  
 
 [breivika]: https://goo.gl/maps/zxHi7H7VvkrCbeCVA
 [a1]: https://www.andrewapplepie.com/#contact
@@ -49,7 +49,7 @@ Musikk: I'm So av Andrew Applepie
 
 #### Om opptakene
 
-Dronen er av typen [DJI Mavic Mini {{< external >}}](https://www.dji.com/no/mavic-mini) med Fly More
+Dronen er av typen [DJI Mavic Mini {{< ext >}}](https://www.dji.com/no/mavic-mini) med Fly More
 Combo.
 
 Bildene og videoene som vises på denne siden er beskyttet av Creative Commons

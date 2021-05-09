@@ -12,12 +12,4 @@ mulige måter.
 
 {{% /ingress %}}
 
-### Det enklereste er nok å bare bruke dette skjemaet
-
-{{< skjema >}}
-
----
-
-### Eller finn din favoritt-plattform
-
 {{< kontaktinfo >}}
