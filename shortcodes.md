@@ -1,6 +1,7 @@
 # Om denne siden
 
-Her legger jeg inn alle Markdown-malene til shortcodes jeg bruker på nettsiden, slik at jeg lett kan finne dem igjen. Variabler merkes med fem x-sympboler: ```xxxxx``` og vi bruker
+Her legger jeg inn alle Markdown-malene til shortcodes jeg bruker på nettsiden, slik at jeg lett kan finne dem igjen.
+Variabler merkes med fem x-sympboler: ```xxxxx``` og vi bruker
 [Code and Syntax Highlighting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code-and-syntax-highlighting)
 for å gjerde inn koden.
 
@@ -55,7 +56,8 @@ Variabler:
 
 ## Img-caption-link
 
-Formål: Legger til et klikkbart bilde med bildetekst i grå tekst. Kan både brukes til ekstenre nettsider, interne nettsider
+Formål: Legger til et klikkbart bilde med bildetekst i grå tekst. Kan både brukes til ekstenre nettsider,
+interne nettsider
 og for å åpne større versjon av et bilde.
 
 Variabler:
