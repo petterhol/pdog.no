@@ -5,7 +5,7 @@ lastmod = 2020-10-06T22:00:00
 main = { parent = "Kart og reiser", weight = 2 }
 +++
 
-<!-- markdownlint-disable MD034 -->
+<!-- markdownlint-disable MD013 MD034 -->
 
 {{% ingress %}}
 
