@@ -1,0 +1,14 @@
+<text id="{{ .Get "ident" }}">
+<div style="display:none;">{{ .Get "hiddentext" }}</div></text>
+
+{{ .Inner }} <button class="btn badge badge-light" onclick="copyToClipboard('#{{ .Get "ident" }}')">Kopier</button>
+
+<script>
+function copyToClipboard(element) {
+  var $temp = $("<input>");
+  $("body").append($temp);
+  $temp.val($(element).text()).select();
+  document.execCommand("copy");
+  $temp.remove();
+}
+</script>
