@@ -6,7 +6,7 @@ lastmod = 2020-10-06T22:00:00
 main = { parent = "Kart og reiser", weight = 10 }
 +++
 
-<!-- markdownlint-disable MD034 -->
+<!-- markdownlint-disable MD034 MD032 -->
 
 {{% ingress %}}
 
@@ -86,8 +86,7 @@ Anne-Elisabeth Hagen ble angivelig bortført fra sitt hjem i Lørenskog 31. okto
 
 Lær mer:
 
-- [Åsted Norge: Savnet (S1E3) på TV2 Sumo {{< ext
->}}](https://sumo.tv2.no/programmer/fakta/aasted-norge-savnet/sesong-1/aasted-norge-savnet-1-
+- [Åsted Norge: Savnet (S1E3) på TV2 Sumo {{< ext >}}](https://sumo.tv2.no/programmer/fakta/aasted-norge-savnet/sesong-1/aasted-norge-savnet-1-
 episode-3-1568652.html?showPlayer=true) - [Lørenskog-forsvinningen på norsk Wikipedia {{< ext
 >}}](https://no.wikipedia.org/wiki/Lørenskog-forsvinningen)
 
@@ -100,8 +99,7 @@ en liten grusvei innover til noen åkre og en gård, grønne trær står i veien
 *Saken*: En av de mest omtalte drapssakene i Norge, hvor tre familiemedlemmer ble skutt og drept
 22. mai 1999.
 
-*Stedet*: Det er ikke mulig å kjøre inn på [Orderud gård {{< ext
->}}](https://goo.gl/maps/JFpcwR7cgnMrMDWy8), men vi ser gården fra veien. Hint om Sørumsand finnes
+*Stedet*: Det er ikke mulig å kjøre inn på [Orderud gård {{< ext >}}](https://goo.gl/maps/JFpcwR7cgnMrMDWy8), men vi ser gården fra veien. Hint om Sørumsand finnes
 i umiddelbar nærhet.
 
 Lær mer:
@@ -139,8 +137,7 @@ gikk til Frydendal Varehandel for å kjøpe is og godteri, men kom aldri hjem ig
 
 Lær mer:
 
-- [Marianne-saken på TV 2 Sumo {{< ext
->}}](https://sumo.tv2.no/programmer/fakta/mysteriet-marianne) - [Marianne-saken på norsk Wikipedia
+- [Marianne-saken på TV 2 Sumo {{< ext >}}](https://sumo.tv2.no/programmer/fakta/mysteriet-marianne) - [Marianne-saken på norsk Wikipedia
 {{< ext >}}](https://no.wikipedia.org/wiki/Marianne-saken)
 
 {{% /crimescene %}}
@@ -159,6 +156,7 @@ Lær mer:
 
 - [22. juli-serien på NRK TV {{< ext >}}](https://tv.nrk.no/serie/22-juli) - [Terrorangrepene i
 Norge 2011 på norsk Wikipedia {{< ext
+
 >}}](https://no.wikipedia.org/wiki/Terrorangrepene_i_Norge_2011)
 
 {{% /crimescene %}}
@@ -189,8 +187,8 @@ komme med Street View. Vi ser Gamle Sundsvegen som en grusvei.
 
 Lær mer:
 
-- [Hvem drepte Birgitte? på TV2 Sumo {{< ext
->}}](https://sumo.tv2.no/programmer/fakta/hvem-drepte-birgitte) - [Birgitte-saken på norsk
+- [Hvem drepte Birgitte? på TV2 Sumo {{< ext >}}](https://sumo.tv2.no/programmer/fakta/hvem-drepte-birgitte)
+- [Birgitte-saken på norsk
 Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Birgitte-saken)
 
 {{% /crimescene %}}
@@ -207,8 +205,8 @@ Bråten av brua.
 
 Lær mer:
 
-- [Fallet i serien Forbrytelsene som rystet Norge på Discovery+ {{< ext
->}}](https://www.discoveryplus.no/programmer/forbrytelsene-som-rystet-norge) - [Breviksbrua-saken
+- [Fallet i serien Forbrytelsene som rystet Norge på Discovery+ {{< ext >}}](https://www.discoveryplus.no/programmer/forbrytelsene-som-rystet-norge)
+- [Breviksbrua-saken
 på norsk Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Breviksbrua-saken)
 
 {{% /crimescene %}}
@@ -225,8 +223,8 @@ egen stesøster og prøvde å angripe besøkende på Al-Noor-moskeen i Bærum, f
 
 Lær mer:
 
-- [Dagsrevyen-sendingen fra den aktuelle dagen på NRK TV {{< ext
->}}](https://tv.nrk.no/serie/dagsrevyen/201908/NNFA02081019/avspiller/). - [Drapet og moskéangrepet
+- [Dagsrevyen-sendingen fra den aktuelle dagen på NRK TV {{< ext >}}](https://tv.nrk.no/serie/dagsrevyen/201908/NNFA02081019/avspiller/).
+- [Drapet og moskéangrepet
 i Bærum 10. august 2019 på norsk Wikipedia {{< ext
 >}}](https://no.wikipedia.org/wiki/Drapet_og_moskéangrepet_i_Bærum_10._august_2019)
 
@@ -247,8 +245,8 @@ ble 230 familier utslettet.
 
 Lær mer:
 
-- [Apokalypse - andre verdenskrig på NRK TV {{< ext
->}}](https://tv.nrk.no/serie/apokalypse-verden-i-krig) - [Norge under andre verdenskrig på norsk
+- [Apokalypse - andre verdenskrig på NRK TV {{< ext >}}](https://tv.nrk.no/serie/apokalypse-verden-i-krig)
+- [Norge under andre verdenskrig på norsk
 Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Norge_under_andre_verdenskrig#Jødene)
 
 {{% /crimescene %}}
@@ -266,8 +264,8 @@ innrømte egne rusproblemer.
 
 Lær mer:
 
-- [Pressekonferanse 21. august 2020 på NRK TV {{< ext
->}}](https://tv.nrk.no/serie/nyheter/202008/NNFA12082120/avspiller) - [Petter Northug på norsk
+- [Pressekonferanse 21. august 2020 på NRK TV {{< ext >}}](https://tv.nrk.no/serie/nyheter/202008/NNFA12082120/avspiller)
+- [Petter Northug på norsk
 Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Petter_Northug#Privat)
 
 {{% /crimescene %}}
