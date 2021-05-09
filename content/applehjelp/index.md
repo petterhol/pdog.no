@@ -47,7 +47,10 @@ godtok vilkårene. {{% /expand-btn %}}
 
 [ek]:
 https://www.elkjop.no/catalog/data/no-harddisk-ssd-nettverksharddisk/harddisk-ssd-og-
-nettverkslagring-nas [pw]:
-https://www.power.no/data-og-tilbehoer/harddisk-og-lagring/ekstern-harddisk/pl-1940/ [kc]:
-https://www.kjell.com/no/produkter/data/lagring/harddisker [co]:
+nettverkslagring-nas
+[pw]:
+https://www.power.no/data-og-tilbehoer/harddisk-og-lagring/ekstern-harddisk/pl-1940/ 
+[kc]:
+https://www.kjell.com/no/produkter/data/lagring/harddisker 
+[co]:
 https://www.clasohlson.com/no/Multimedia/Lagringsmedia/Harddisker/
