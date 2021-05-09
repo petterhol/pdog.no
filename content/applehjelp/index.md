@@ -39,11 +39,16 @@ harddisk som vi kan bruke til sikkerhetskopi. Dette får man kjøpt "overalt" so
 Jeg hjelper deg gjerne med å velge ut, og kjøpe en harddisk for deg. Hvis du kan sannsynliggjøre
 for meg at du allerede har en tilfredsstillende sikkerhetskopi, kan dette kravet droppes.
 
-{{% expand-btn ident="toc" class="btn btn-primary btn-lg btn-block" bait="Jeg aksepterer vilkårene
-på denne siden og vil ha hjelp"
-%}}
+{{% expand-btn
+    ident="toc"
+    class="btn btn-primary btn-lg btn-block"
+    bait="Jeg aksepterer vilkårene på denne siden og vil ha hjelp"
+    %}}
+    
 Tusen takk - da kan vi sette i gang. Oppgi denne koden til Petter: DOGP42 for å verifisere at du
-godtok vilkårene. {{% /expand-btn %}}
+godtok vilkårene.
+
+{{% /expand-btn %}}
 
 [ek]: https://www.elkjop.no/catalog/data/no-harddisk-ssd-nettverksharddisk/harddisk-ssd-og-nettverkslagring-nas
 [pw]: https://www.power.no/data-og-tilbehoer/harddisk-og-lagring/ekstern-harddisk/pl-1940/
