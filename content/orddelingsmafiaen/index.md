@@ -66,7 +66,10 @@ Gjennom tiden ble vi omtalt litt her og der i blogger, samt i følgende medier:
   Klarspråk-nettsiden er myntet på ansatte i det offentlige. Bloggern er nå fjeret fra internett,
   og jeg forsøker å få tak i en kopi.
 
-- Aprilsnarr! 1. april 2010 sendte vi ut en pressemelding til et utvalg norske avisredaksjoner for å lure inn en aprilspøk. Vi ble dessverre bare omtalt i artikler som omtaler den dagens aprilspøker,
+- Aprilsnarr! 1. april 2010 sendte vi ut
+en pressemelding til et utvalg norske avisredaksjoner for å lure inn en aprilspøk. Vi ble
+dessverre bare omtalt i artikler som omtaler den dagens
+aprilspøker,
   [eksempel fra VG her](../orddelingsmafiaen-vg2).
 
 - NRK Nordland skrev om oss 9. oktober 2011, vi var også på forsiden til NRK (se forsiden fra den
@@ -106,3 +109,4 @@ låta «Ved Rørende Norske Rett Skrivings Regler» som bakgrunnsmusikk.
 [nrk]: https://www.nrk.no/nordland/17-aring-kjemper-mot-orddelingsfeil-1.7825450
 [wb]: http://web.archive.org/web/20080301000000*/https://orddeling.wordpress.com
 [fb]: https://www.facebook.com/orddelingsmafiaen
+1
