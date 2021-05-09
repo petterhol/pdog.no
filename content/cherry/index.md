@@ -11,9 +11,9 @@ hvis du fjerner enten den ene eller den andre knappenålen så vil bildet falle 
 {{% /ingress %}}
 
 {{< img
-	class="img-fluid"
-	src="cherry.jpg"
-	alt="bildet av Cherry the Chicken"
+ class="img-fluid"
+ src="cherry.jpg"
+ alt="bildet av Cherry the Chicken"
 >}}
 
 ---

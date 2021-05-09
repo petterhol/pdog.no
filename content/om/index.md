@@ -136,7 +136,7 @@ dette bare på idéstadiet, og kan følges på [GitHubs prosjektsider {{< ext >}
 {{% card header="Lisens" %}}
 
 I all hovedsak ønsker jeg å tilby det jeg lager relativt fritt tilgjengelig for ikke-kommersielle
-formål. Jeg har derfor valgt å bruke 
+formål. Jeg har derfor valgt å bruke
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International CC-BY-NC-SA 4.0 {{< ext >}}][cc]
 til det aller meste av innholdet på nettsiden. Med mindre annet er nevnt, gjelder den følgende:
 
@@ -186,6 +186,7 @@ Markdown, er kodeforbedringer og innholdsbidrag hjertelig velkommen der:
 [petterhol/pdog.no {{< ext >}}][git].
 
 Følgende prosjekter har spesifikke instruksjoner for hvordan du best gir tilbakemelding:
+
 - Tom Scott (nedlastbar, lesbar HTML-fil)
 
 Forøvrig er alle andre tilbakemeldinger best å [kontakte meg](../kontaktinfo) for.

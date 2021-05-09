@@ -11,40 +11,35 @@ main = { weight = 3, parent = "Mat"}
 
 <!-- markdownlint-disable MD010 -->
 
-{{< img-caption
-	figure-class="float"
-    class="rounded"
-    src="sushi liten.jpg"
-    alt="En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen."
-    link="sushi.jpg"
-    img-caption="Aktuell sushi ferdig tilbredt. Trykk for å se stort format."
+{{< img-caption figure-class="float" class="rounded" src="sushi liten.jpg" alt="En ferdig servert
+rett av den aktuelle oppskriften som presenteres i denne artikkelen." link="sushi.jpg"
+img-caption="Aktuell sushi ferdig tilbredt. Trykk for å se stort format."
   >}}
 
 {{% ingress %}}
 
-Sushi er godt, men dyrt å kjøpe ferdig tilbredt. Det er mulig å lage hjemme, men det krever spesial-
-ingredienser, tålmodighet og opplæring. Heldigvis finnes det et billigere alternativ om det ikke
-må se så fint ut. Jeg kaller retten _fattigmanssushi med laks_ - fordi du bruker ting du allerede
-har, og ikke minst kjøper den viktigste ingrediensen billig.
+Sushi er godt, men dyrt å kjøpe ferdig tilbredt. Det er mulig å lage hjemme, men det krever
+spesial- ingredienser, tålmodighet og opplæring. Heldigvis finnes det et billigere alternativ om
+det ikke må se så fint ut. Jeg kaller retten _fattigmanssushi med laks_ - fordi du bruker ting du
+allerede har, og ikke minst kjøper den viktigste ingrediensen billig.
 
 {{% /ingress %}}
 
 ### Hva trenger du
 
-- **Salma-laks** som du finner i "halv pris fordi det går ut snart"-hylla på butikken.
-- **Ris** du allerede har hjemme, jeg bruker jasminris.
-- En pakke **sesamfrø** (når du først har kjøpt det holder den i evigheter).
-- Tilbehør kan være **avokado, mango, rømme, agurk** eller annet du synes er digg.
-- **Soyasaus** må du selvfølgelig ha.
+- **Salma-laks** som du finner i "halv pris fordi det går ut snart"-hylla på butikken. - **Ris** du
+allerede har hjemme, jeg bruker jasminris. - En pakke **sesamfrø** (når du først har kjøpt det
+holder den i evigheter). - Tilbehør kan være **avokado, mango, rømme, agurk** eller annet du synes
+er digg. - **Soyasaus** må du selvfølgelig ha.
 
 ### Koke ris
 
-1. Bland ris etter forholdet 2 kopper ris - 3 kopper vann. 
-2. Salt godt og rør rundt. 
-3. Legg på lokket. 
-4. Hvis du har dårlig tid, setter du på sterk varme med en gang, lar det så vidt koke, og skrur ned til laveste temperatur.
-5. Har du god tid, har du på laveste eller nest laveste temperatur hele tiden. 
-6. Ikke la deg lure til å åpne lokket for å se hvordan det går - det går nemlig helt fint. Risen er ferdig når det lukter godt, og du ikke ser noe mer vann i kjelen gjennom lokket.
+1. Bland ris etter forholdet 2 kopper ris - 3 kopper vann. 2. Salt godt og rør rundt. 3. Legg på
+lokket. 4. Hvis du har dårlig tid, setter du på sterk varme med en gang, lar det så vidt koke, og
+skrur ned til laveste temperatur. 5. Har du god tid, har du på laveste eller nest laveste
+temperatur hele tiden. 6. Ikke la deg lure til å åpne lokket for å se hvordan det går - det går
+nemlig helt fint. Risen er ferdig når det lukter godt, og du ikke ser noe mer vann i kjelen gjennom
+lokket.
 
 ### Laks og frukt
 
@@ -52,9 +47,9 @@ Laksen skjærer du opp i tynne skriver. Det samme med den eventuelle frukten du 
 
 ### Slik serverer du
 
-Det beste er om risen ikke er helt varm, men avkjølt eller lunken. Ta den gjerne ut av kjelen
-og fordel den på et større område. Under serveringen tar jeg risen på en stor tallerken og
-søler litt soyasaus over.
+Det beste er om risen ikke er helt varm, men avkjølt eller lunken. Ta den gjerne ut av kjelen og
+fordel den på et større område. Under serveringen tar jeg risen på en stor tallerken og søler litt
+soyasaus over.
 
 Laksen og grønnsakene skal være på separerte tallerkner. Du kan strø litt sesamfrø over laksen.
 

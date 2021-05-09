@@ -30,12 +30,12 @@ prosjekter jeg måtte ha. På denne siden finner du kontaktinformasjon og logoen
   
 ##### Offentlig registrering
 
-Foretaket er registrert i Brønnøysundregistrene. 
+Foretaket er registrert i Brønnøysundregistrene.
 
 {{% copy
 	hiddentext="915283497"
 	ident="orgnr"
-%}} 
+%}}
 Organisasjonsnummer:
 [915 283 497](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915283497) {{< ext >}}
 {{% /copy %}}
