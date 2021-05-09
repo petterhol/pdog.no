@@ -44,7 +44,7 @@ for meg at du allerede har en tilfredsstillende sikkerhetskopi, kan dette kravet
     class="btn btn-primary btn-lg btn-block"
     bait="Jeg aksepterer vilkårene på denne siden og vil ha hjelp"
     %}}
-    
+
 Tusen takk - da kan vi sette i gang. Oppgi denne koden til Petter: DOGP42 for å verifisere at du
 godtok vilkårene.
 
