@@ -1,0 +1,20 @@
+<div class="w-auto p-3">
+<div class="card" style="width: 18rem;">
+<a class="btn btn-link"
+	data-toggle="collapse"
+	href="#{{ .Get "ident" }}"
+	role="button"
+	aria-expanded="false"
+	aria-controls="fasit">
+  <img src="{{ .Get "src" }}" class="card-img-top" alt="{{ .Get "alt" }}">
+  </a>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">
+    <div 
+	class="collapse" 
+	id="{{ .Get "ident" }}">
+		<h5>{{ .Get "header"}}</h5>
+		{{ .Inner }}</li>
+</ul>
+</div>
+</div>
