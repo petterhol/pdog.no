@@ -1,5 +1,9 @@
-+++ title = "Rettigheter ved feil på produkter" lastmod = 2020-10-06T22:00:00 [menu] main = {
-weight = 4, parent = "Teknologi" } +++
++++ 
+title = "Rettigheter ved feil på produkter"
+lastmod = 2020-10-06T22:00:00
+[menu]
+main = { weight = 4, parent = "Teknologi" }
++++
 
 <!-- markdownlint-disable MD033 -->
 
