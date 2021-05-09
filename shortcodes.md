@@ -12,7 +12,7 @@ Variabler:
 - hiddentext: den faktiske verdien som skal kopieres til utklippstavlen.
 - ident: en unik identifiseringsverdi, for Javascript-koden til å vite hvilken verdi som skal kopieres.
 
-```
+```html
 {{% copy
 	hiddentext="xxxxxx"
 	ident="xxxxxx"
@@ -36,7 +36,7 @@ Variabler:
 - lisenslink: lenke til lisensinformasjon
 - lisens: beskrivelse av lisensen
 
-```
+```html
 {{< img-lisens
 	class="xxxxx"
 	src="xxxxx"
@@ -62,7 +62,7 @@ Variabler:
 - link: hvor man lander hvis man trykker på bilde.t
 - img-caption: tekst som står under bildet
 
-```
+```html
 {{< img-caption-link
  figure-class="float"
     class="rounded"
@@ -94,7 +94,7 @@ Variabler:
 - lenke: lenke til nettside, enten offisiell eller uoffisiell
 - kartlenke: lenke til Apple Maps (går automatisk til Google Maps for enheter uten Apple Maps)
 
-```
+```html
 {{% svkort
 	src="xxxxx"
 	fotograf="xxxxx"
