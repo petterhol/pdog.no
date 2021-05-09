@@ -23,14 +23,20 @@ lov {{< ext >}}](https://lovdata.no).
 Nettverksadministratoren får automatisk beskjed om nye enheter som kobles på nettverket, og kan
 begrense bruken per enhet.
 
-{{% expand-btn ident="disagree" class="btn btn-success btn-lg btn-block" bait="Jeg er UENIG
-vilkårene over"
+{{% expand-btn
+    ident="disagree"
+    class="btn btn-success btn-lg btn-block"
+    bait="Jeg er UENIG vilkårene over"
 %}}
+
 Beklager, men du kan ikke koble deg på nettet. {{% /expand-btn %}}
 
-{{% expand-btn ident="agree" class="btn btn-danger btn-lg btn-block" bait="Jeg er ENIG vilkårene
-over"
+{{% expand-btn
+    ident="agree"
+    class="btn btn-danger btn-lg btn-block"
+    bait="Jeg er ENIG vilkårene over"
 %}}
+
 Nettverksnavn (SSID): pdog.no/wifi
 
 Passordet finner du på en plakat i stua, til høyre for balkongdøra. Følg normale

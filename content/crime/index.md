@@ -74,8 +74,11 @@ Hvis du vil starte å spille, gå til [GeoGuessr {{< ext
 
 {{% /crimescene %}}
 
-{{% crimescene src="S01E1.png" ident="S01E1" header="Lørenskog-forsvinningen" alt="Hvit garasje
-foran et hus, port på venstre side og del av en bil på høyre"
+{{% crimescene
+    src="S01E1.png"
+    ident="S01E1"
+    header="Lørenskog-forsvinningen"
+    alt="Hvit garasje foran et hus, port på venstre side og del av en bil på høyre"
 %}}
 
 *Saken*: Fortsatt uløst forsvinningssak hvor kona til den rike forretningsmannen Tom Hagens kone
@@ -92,8 +95,12 @@ episode-3-1568652.html?showPlayer=true) - [Lørenskog-forsvinningen på norsk Wi
 
 {{% /crimescene %}}
 
-{{% crimescene src="S01E2.png" ident="S01E2" header="Orderud-saken" alt="Fra en asfaltert vei vises
-en liten grusvei innover til noen åkre og en gård, grønne trær står i veien"
+{{% crimescene
+    src="S01E2.png"
+    ident="S01E2"
+    header="Orderud-saken"
+    alt="Fra en asfaltert vei vises en liten grusvei
+    innover til noen åkre og en gård, grønne trær står i veien"
 %}}
 
 *Saken*: En av de mest omtalte drapssakene i Norge, hvor tre familiemedlemmer ble skutt og drept
@@ -111,8 +118,11 @@ norsk Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Orderud-saken)
 
 {{% /crimescene %}}
 
-{{% crimescene src="S01E3.png" ident="S01E3" header="NOKAS-ranet" alt="Brosteinbelagt plass med tre
-flaggstenger, en hvit matvogn og et stort, grått bygg"
+{{% crimescene
+    src="S01E3.png"
+    ident="S01E3"
+    header="NOKAS-ranet"
+    alt="Brosteinbelagt plass med tre flaggstenger, en hvit matvogn og et stort, grått bygg"
 %}}
 
 *Saken*: En av Norges mest spetakulære ran i Norsk Kontantservice (NOKAS) 5. april 2004.
@@ -127,8 +137,11 @@ norsk Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/NOKAS-ranet)
 
 {{% /crimescene %}}
 
-{{% crimescene src="S01E4.png" ident="S01E4" header="Marianne-saken" alt="Sett fra et veikryss,
-rødt hus med sort bil utenfor"
+{{% crimescene
+    src="S01E4.png"
+    ident="S01E4"
+    header="Marianne-saken"
+    alt="Sett fra et veikryss, rødt hus med sort bil utenfor"
 %}}
 
 *Saken*: Uoppklart forsvinningssak fra 28. august 1981, hvor seks år gamle Marianne Rugaas Knudsen
@@ -146,8 +159,11 @@ TV 2 Sumo {{< ext >}}](https://sumo.tv2.no/programmer/fakta/mysteriet-marianne)
 
 {{% /crimescene %}}
 
-{{% crimescene src="S01E5.png" ident="S01E5" header="Terrorangrepene i Norge 2011" alt="Sett fra en
-asfaltert vei med autovern ut mot vannet, en øy ligger i det blå vannet"
+{{% crimescene
+    src="S01E5.png"
+    ident="S01E5"
+    header="Terrorangrepene i Norge 2011"
+    alt="Sett fra en asfaltert vei med autovern ut mot vannet, en øy ligger i det blå vannet"
 %}}
 
 *Saken*: En av to åsteder for Anders Behring Breiviks terrorhandlinger 22. juli 2011, her
@@ -179,8 +195,12 @@ Hvis du vil starte å spille, gå til [GeoGuessr {{< ext
 
 {{% /crimescene %}}
 
-{{% crimescene src="S02E1.png" ident="S02E1" header="Birgitte-saken" alt="Asfaltert vei svinger
-svakt mot høyre, en gresslette skiller veien fra en grusvei på venstre side"
+{{% crimescene
+    src="S02E1.png"
+    ident="S02E1"
+    header="Birgitte-saken"
+    alt="Asfaltert vei svinger svakt mot høyre,
+    en gresslette skiller veien fra en grusvei på venstre side"
 %}}
 
 *Saken*: Uoppklart drapssak fra 1995 på Kopervik, Karmøy. 17 år gamle Birgitte Tengs ble voldtatt
@@ -197,8 +217,11 @@ Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Birgitte-saken)
 
 {{% /crimescene %}}
 
-{{% crimescene src="S02E2.png" ident="S02E2" header="Breviksbrua-saken" alt="Sett i
-froskeperspektiv fra sørvest, vises hengebrua Breiviksbrua"
+{{% crimescene
+    src="S02E2.png"
+    ident="S02E2"
+    header="Breviksbrua-saken"
+    alt="Sett i froskeperspektiv fra sørvest, vises hengebrua Breiviksbrua"
 %}}
 
 *Saken*: Etter at Linn Madelen Bråthen ble funnet død i vannet ved Sandøya utenfor Brevik 3. august
@@ -215,8 +238,11 @@ på norsk Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Breviksbrua-saken
 
 {{% /crimescene %}}
 
-{{% crimescene src="S02E3.png" ident="S02E3" header="Drapet og moskéangrepet i Bærum" alt="Sett fra
-veien vises et hvitt, frittstående bygg"
+{{% crimescene
+    src="S02E3.png"
+    ident="S02E3"
+    header="Drapet og moskéangrepet i Bærum"
+    alt="Sett fra veien vises et hvitt, frittstående bygg"
 %}}
 
 *Saken*: Forsøk på terrorangrep 10. august 2019 hvor 21 år gamle Philip Manshaus tok liv av sin
@@ -234,8 +260,11 @@ i Bærum 10. august 2019 på norsk Wikipedia {{< ext
 
 {{% /crimescene %}}
 
-{{% crimescene src="S02E4.png" ident="S02E4" header="Andre verdenskrig: deponerte norske jøder"
-alt="Sett fra en asfaltert vei, gressplen med statuer og brosteinsmur bak"
+{{% crimescene
+    src="S02E4.png"
+    ident="S02E4"
+    header="Andre verdenskrig: deponerte norske jøder"
+    alt="Sett fra en asfaltert vei, gressplen med statuer og brosteinsmur bak"
 %}}
 
 *Saken*: I forbindelse med andre verdenskrig er det laget et minnesmerke for å markere at den 26.
@@ -255,8 +284,11 @@ Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Norge_under_andre_verdenskr
 
 {{% /crimescene %}}
 
-{{% crimescene src="S02E5.png" ident="S02E5" header="Råkjøringa til Petter Northug"
-alt="Avkjøringsveistubb vises med en motorveibru i bakgrunnen"
+{{% crimescene
+    src="S02E5.png"
+    ident="S02E5"
+    header="Råkjøringa til Petter Northug"
+    alt="Avkjøringsveistubb vises med en motorveibru i bakgrunnen"
 %}}
 
 *Saken*: 13. august 2020 ble skiløperen stoppet i en politikontroll, som også førte til at han
