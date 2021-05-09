@@ -66,8 +66,8 @@ Man kan også få tilgang på navn og sted ved å sende registreringsnummer med 
 Inne på "Din side" kan man også, forutsatt at man har en persons fødsels- og personnummer og
 etternavn, søke etter alle kjøretøy. som vedkommende eier.
 
-[Søk i kjøretøysopplysninger på vegvesen.no {{< ext
->}}](https://www.vegvesen.no/kjoretoy/Kjop+og+salg/Kjøretøyopplysninger/finn-kjoretoyets-eier)
+[Søk i kjøretøysopplysninger på vegvesen.no
+{{< ext >}}](https://www.vegvesen.no/kjoretoy/Kjop+og+salg/Kjøretøyopplysninger/finn-kjoretoyets-eier)
 
 {{% /card %}}
 
