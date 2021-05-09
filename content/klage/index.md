@@ -1,5 +1,5 @@
 +++
-title = "Klage på produkter"
+title = "Rettigheter ved feil på produkter"
 lastmod = 2020-10-06T22:00:00
 [menu]
 main = { weight = 4, parent = "Teknologi" }
@@ -14,25 +14,20 @@ jeg her en dokumentert artikkel om begrepene, samt noen tips.
 
 {{% /ingress %}}
 
-{{< egenrisk >}}
+{{% alert
+	color="info"
+	align="center"
+	header="Juridisk avklaring"
+%}}
 
-## De ulike måtene å klage på
+Alt som står i denne artikkelen er basert på min erfaring og mine personlige meninger knytta til dette temaet. Det kan hende det er feil eller unøyaktigheter i teksten, og du gjennomfører eventuelle steg på egen risiko. Hvis du har spørsmål eller tilbakemeldinger, kan du
+<a href="../kontaktinfo" class="alert-link">kontakte meg</a>.
+
+{{% /alert %}}
+
+## Frivillige løsninger for selger
 
 {{< accordion >}}
-
-{{% card header="Angrerett" %}}
-
-Hvis du nylig har kjøpt et produkt via fjernsalg (internett, telefon, messe, postordre, katalog
-osv.) i Norge, har du 14 dagers angrerett. Formålet med dette er at du ikke er helt bundet av
-kjøpet når du ikke har hatt sjans til å se det fysisk selv.
-
-Angreretten gjelder altså ikke i fysiske butikker.
-
-Husk at du av og til må betale frakten tilbake selv, andre ganger følger det med en returlapp du
-bare kan gå på posten med. Noen ganger, kan butikken sende deg en returlapp i posten eller som du
-må skrive ut. Bare kontakt selger for å høre hvordan dette fungerer.
-
-{{% /card %}}
 
 {{% card header="Returrett og fornøydgarantier" %}}
 
@@ -59,9 +54,64 @@ den vanlige garantien. Dette skjer ofte når det er en kjent feil med et produkt
 
 {{% /card %}}
 
-{{% card header="Lovverk: Forbrukerkjøpsloven, kjøpsloven, reklamasjonsrett, heving" %}}
+{{% card header="Forsikringer du har fra før, du har kjøpt eller knytta til betalingsmåte" %}}
 
-### Forbrukerkjøpsloven
+Selv om du mener at produktet burde blitt dekket av garanti eller reklamasjon, kan det av og til
+være like greit å sjekke om du har en forsikring på varen. Det finnes flere typer forsikringer:
+
+**Verdigjenstandsforsikring**
+
+Verdigjenstandsforsikringer dekker helt spesifikt verdigjenstander. Her må du ofte ha bestilt
+denne på forhånd for at dette skal gjelde.
+
+**Forsikring kjøpt i butikk**
+
+Ulykkesforsikring (uhellforsikring, idiotforsikring) er noe produsenter av og til tilbyr sammen
+med en vare. Den dekker helt spesifikt den varen.
+
+**Forsikring gjennom kredittkort**
+
+I flere tilfeller kan du klage gjennom å kontakte banken du kjøpte produktet med.
+
+**Innbo- og reiseforsikring**
+
+Innbo- og reiseforsikring kan ofte dekke skader, også uhell, på produkter.
+
+{{% /card %}}
+
+{{% card header="Godvilje (goodwill)" %}}
+
+Noen selskaper gir deg en gratis reparasjon, erstatning eller heving selv om du ikke har krav på
+det, og selv om det går utover de aktuelle publiserte garantivilkår eller lovverk. Dette kaller
+jeg "selgers godvilje" eller "velvilje", eller på engelsk "goodwill".
+
+{{% /card %}}
+
+{{< /accordion >}}
+
+## Lovbestemte rettigheter
+
+{{< accordion >}}
+
+{{% card header="Lovbestemt angrerett" %}}
+
+Hvis du nylig har kjøpt et produkt via fjernsalg (internett, telefon, messe, postordre, katalog
+osv.) i Norge, har du 14 dagers angrerett. Formålet med dette er at du ikke er helt bundet av
+kjøpet når du ikke har hatt sjans til å se det fysisk selv. Angreretten gjelder altså ikke i fysiske butikker.
+
+Du bør anta at butikken ikke godtar åpnede produkter på angrerett.
+
+Husk at du av og til må betale frakten tilbake selv, andre ganger følger det med en returlapp du
+bare kan gå på posten med. Noen ganger, kan butikken sende deg en returlapp i posten eller som du
+må skrive ut. Bare kontakt selger for å høre hvordan dette fungerer.
+
+[Les mer om angrerett på forbrukerrådet.no {{< ext >}}](https://www.forbrukerradet.no/forside/angrer-du-pa-et-kjop/).
+
+{{% /card %}}
+
+{{% card header="Forbrukerkjøpsloven, kjøpsloven, reklamasjonsrett, heving" %}}
+
+**Forbrukerkjøpsloven**
 
 Hvis du kjøper et produkt som forbruker (privatperson), fra en bedrift, i Norge, gir
 forbrukerkjøpsloven deg rett til å reklamere på varen. Å reklamere betyr å klage.
@@ -83,7 +133,7 @@ Hvis du har kjøpt produktet i utlandet, er det ikke usannsynlig at det finnes l
 landet som også gir deg rettigheter, men det kan hende produktet må leveres eller sendes inn i
 det aktuelle landet for at du skal kunne få utøvd dine rettigheter.
 
-### Kjøpsloven
+**Kjøpsloven**
 
 Hvis du kjøper et produkt i Norge som bedrift, eller mellom to privatpersoner, gjelder
 kjøpsloven. Flere av prinsippene fra forbrukerkjøpsloven gjelder, men ikke alt. Blant annet er
@@ -91,78 +141,14 @@ det maksimalt to år.
 
 {{% /card %}}
 
-{{% card header="Forsikringer du har fra før, du har kjøpt eller knytta til betalingsmåte" %}}
-
-Selv om du mener at produktet burde blitt dekket av garanti eller reklamasjon, kan det av og til
-være like greit å sjekke om du har en forsikring på varen. Det finnes flere typer forsikringer:
-
-### Verdigjenstandsforsikring
-
-Verdigjenstandsforsikringer dekker helt spesifikt verdigjenstander. Her må du ofte ha bestilt
-denne på forhånd for at dette skal gjelde.
-
-### Forsikring kjøpt i butikk
-
-Ulykkesforsikring (uhellforsikring, idiotforsikring) er noe produsenter av og til tilbyr sammen
-med en vare. Den dekker helt spesifikt den varen.
-
-### Forsikring gjennom kredittkort
-
-I flere tilfeller kan du klage gjennom å kontakte banken du kjøpte produktet med.
-
-### Innbo- og reiseforsikring
-
-Innbo- og reiseforsikring kan ofte dekke skader, også uhell, på produkter.
-
-{{% /card %}}
-
-{{% card header="Goodwill" %}}
-
-Noen selskaper gir deg en gratis reparasjon, erstatning eller heving selv om du ikke har krav på
-det, og selv om det går utover de aktuelle publiserte garantivilkår eller lovverk. Dette kaller
-jeg «goodwill». Noen ganger kan løsninger oppfattes som goodwill, mens det i realiteten er en
-garantisak allikevel. [^goodwill]
-
-{{% /card %}}
-
 {{< /accordion >}}
 
-## Mer informasjon
+
+## Gode råd
 
 {{< accordion >}}
 
-{{% card header="Når gjelder hva?" %}}
-
-Det er viktig å forstå angrerett, returrett, garantier og lovverk gjelder samtidig. Det er ikke
-slik at man for eksempel ikke kan reklamere på et produkt som er ødelagt, så lenge det er
-innenfor angreretten. Forbrukerkjøpsloven tar ikke over for en garanti som utløper, den gjelder
-samtidig.
-
-{{% /card %}}
-
-{{% card header="Kvittering" %}}
-
-I mange situasjoner vil selger, produsent eller importør be deg om kvittering for kjøpet.
-
-Selvfølgelig - ta vare på kvitteringen din. Jeg tar bilde av alle mine kvitteringer, og sorterer
-det i mapper på datamaskinen min, sammen med eventuelle andre dokumenter som ordrebekreftelse,
-brukerhåndbøker, kopi av klager eller henvendelser til kundeservice og så videre. En annen
-strategi er å bare ha en skoeske med kvitteringer. Du har aldri så mange kvitteringer at du ikke
-kan rote gjennom esken hver gang du trenger det, og da kan du samtidig kvitte deg med
-kvitteringer for ting du ikke har lengre, eller som er for gamle til å klages på.
-
-Hvis du har rota bort kvitteringen, prøv følgende:
-
-- Alle nettbutikker, og enkelte fysiske butikker, sender kvittering på epost. Søk i eposten din
-  etter navnet på produktet, produsenten, butikken du kjøpte på og så videre.
-- Noen butikker har kundeklubber, hvor kvitteringer kan lagres digitalt på profilen din.
-- Spør i butikken der du kjøpte produktet, enten fysisk eller ring kundeservice. Ofte hjelper det
-  å ha funnet frem til dato, klokkeslett og eksakt beløp før du kontakter butikken - noe du ofte
-  finner i nettbanken.
-
-{{% /card %}}
-
-{{% card header="Gode tips" %}}
+{{% card header="Når du tar kontakt med selger" %}}
 
 - Husk at de du prater med er mennesker, og sjelden skyld i feilen eller problemet ditt. Derfor
   bør du alltid være hyggelig og vennlig når du klager. Du kan være bestemt, men ikke urimelig.
@@ -175,6 +161,35 @@ Hvis du har rota bort kvitteringen, prøv følgende:
 
 {{% /card %}}
 
-{{< /accordion >}}
+{{% card header="Når gjelder hva?" %}}
 
-[^goodwill]: Jeg hadde et kjøleskap en gang hvor jeg ødela en del av håndtaket på døren. Jeg trodde det var min feil, da jeg sannsynligvis hadde tatt for hardt i når kjøleskapet nettopp hadde blitt lukket og dermed var vanskelig å få opp igjen. Jeg kontaktet produsenten for å høre hva eventuelt en reservedel ville koste meg. Mot at jeg oppga kjøpsinformasjon og kvittering, kom det en kjøleskapsreperatør til meg etter et par uker, og byttet hele døren, helt kostnadsfritt. Produktet var innenfor garanti, og kanskje hadde produsenten identifisert en svakhet med akkurat denne delen på dette produktet.
+Det er viktig å forstå angrerett, returrett, garantier og lovverk gjelder samtidig. Det er ikke
+slik at man for eksempel ikke kan reklamere på et produkt som er ødelagt, så lenge det er
+innenfor angreretten. Forbrukerkjøpsloven tar ikke over for en garanti som utløper, den gjelder
+samtidig.
+
+{{% /card %}}
+
+{{% card header="Ta vare på kvitteringene dine" %}}
+
+I mange situasjoner vil selger, produsent eller importør be deg om kvittering for kjøpet - og det kan være vanskelig å komme noen vei uten dette.
+
+Har du rota bort kvitteringen, prøv dette:
+
+- Alle nettbutikker, og enkelte fysiske butikker, sender kvittering på epost. Søk i eposten din
+  etter navnet på produktet, produsenten, butikken du kjøpte på og så videre.
+- Noen butikker har kundeklubber, hvor kvitteringer kan lagres digitalt på profilen din.
+- Spør i butikken der du kjøpte produktet, enten fysisk eller ring kundeservice. Ofte hjelper det
+  å ha funnet frem til dato, klokkeslett og eksakt beløp før du kontakter butikken - noe du ofte
+  finner i nettbanken.
+
+For å forebygge dette, gjør jeg følgende: Jeg tar bilde av alle mine kvitteringer, og sorterer
+det i mapper på datamaskinen min, sammen med eventuelle andre dokumenter som ordrebekreftelse,
+brukerhåndbøker, kopi av klager eller henvendelser til kundeservice og så videre. 
+
+En annen strategi er å bare ha en skoeske med kvitteringer. Du har aldri så mange kvitteringer at du ikke kan rote gjennom esken hver gang du trenger det, og da kan du samtidig kvitte deg med kvitteringer for ting du ikke har lengre, eller som er for gamle til å klages på.
+
+
+{{% /card %}}
+
+{{< /accordion >}}
