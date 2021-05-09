@@ -13,12 +13,12 @@ samme stedene som Tim har gjort, har jeg laget et Google My Maps-kart.
 
 {{% /ingress %}}  
 
-Besøk [The Tim Traveller på YouTube {{< external >}}](https://www.youtube.com/c/TheTimTraveller/).
+Besøk [The Tim Traveller på YouTube {{< ext >}}](https://www.youtube.com/c/TheTimTraveller/).
 
 {{< mymaps 18Avv8ENKUFllJieGN568CSVIYZr6oIcb >}}
 
 Kartet ble annonsert av Tim på [YouTube-kanalens
-"fellesskap"-fane {{< external >}}][yt], samt [Twitter {{< external >}}][twitter].
+"fellesskap"-fane {{< ext >}}][yt], samt [Twitter {{< ext >}}][twitter].
 
 Ved å trykke på punktene i kartet, kan man se hva det er, lese beskrivelsen av YouTube-videoen og
 se en lenke til YouTube-videoen. Kartet er delt inn i seks kategorier (farvekodet):
@@ -33,19 +33,19 @@ samlebånd).
 - Grenser (morsomme og rare landegrenser). - Alt annet av bygninger, steder,
 monumenter.  
 
-- [PeakQuest - Climbing The Highest Point In All 48 Counties of England {{< external >}}][pq],
+- [PeakQuest - Climbing The Highest Point In All 48 Counties of England {{< ext >}}][pq],
 men dette er kun basert på Wikipedia-artikkelen
-[List of ceremonial counties of England by highest point {{< external >}}][wikipedia]
+[List of ceremonial counties of England by highest point {{< ext >}}][wikipedia]
 hvor jeg importerte listen direkte inn i Google My Maps, og kan derfor inneholde en del
 unøyaktigheter.
 
 Dette er ikke inkludert:
 
-- [Mediocre Mountain Challenge-bidragene {{< external >}}][mmcb]
-  er ikke med, bortsett fra [Tims tur til Montmartre {{< external >}}][montmartre]. Årsak:
+- [Mediocre Mountain Challenge-bidragene {{< ext >}}][mmcb]
+  er ikke med, bortsett fra [Tims tur til Montmartre {{< ext >}}][montmartre]. Årsak:
 Tidkrevende, gjør det kanskje senere.
 
-- [I'm coming back to NL! | Flevoland Mountain Expedition | Sat 30 Nov {{< external >}}][nl].
+- [I'm coming back to NL! | Flevoland Mountain Expedition | Sat 30 Nov {{< ext >}}][nl].
 Årsak: Kun en annonsering av noe som kommer, Urk er markert i en annen video.
 
 - Alle videoer som har kommer ut etter siste oppdateringsdato på kartet.
