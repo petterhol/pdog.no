@@ -6,7 +6,7 @@ lastmod = 2020-10-06T22:00:00
 main = { parent = "Kart og reiser", weight = 10 }
 +++
 
-<!-- markdownlint-disable MD034 MD032 -->
+<!-- markdownlint-disable MD013 MD034 MD032 -->
 
 {{% ingress %}}
 
@@ -99,8 +99,7 @@ episode-3-1568652.html?showPlayer=true) - [Lørenskog-forsvinningen på norsk Wi
     src="S01E2.png"
     ident="S01E2"
     header="Orderud-saken"
-    alt="Fra en asfaltert vei vises en liten grusvei
-    innover til noen åkre og en gård, grønne trær står i veien"
+    alt="Fra en asfaltert vei vises en liten grusvei innover til noen åkre og en gård, grønne trær står i veien"
 %}}
 
 *Saken*: En av de mest omtalte drapssakene i Norge, hvor tre familiemedlemmer ble skutt og drept
@@ -199,8 +198,7 @@ Hvis du vil starte å spille, gå til [GeoGuessr {{< ext
     src="S02E1.png"
     ident="S02E1"
     header="Birgitte-saken"
-    alt="Asfaltert vei svinger svakt mot høyre,
-    en gresslette skiller veien fra en grusvei på venstre side"
+    alt="Asfaltert vei svinger svakt mot høyre, en gresslette skiller veien fra en grusvei på venstre side"
 %}}
 
 *Saken*: Uoppklart drapssak fra 1995 på Kopervik, Karmøy. 17 år gamle Birgitte Tengs ble voldtatt
