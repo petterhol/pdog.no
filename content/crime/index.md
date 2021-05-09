@@ -99,7 +99,8 @@ episode-3-1568652.html?showPlayer=true) - [Lørenskog-forsvinningen på norsk Wi
     src="S01E2.png"
     ident="S01E2"
     header="Orderud-saken"
-    alt="Fra en asfaltert vei vises en liten grusvei innover til noen åkre og en gård, grønne trær står i veien"
+    alt="Fra en asfaltert vei vises en liten grusvei
+    innover til noen åkre og en gård, grønne trær står i veien"
 %}}
 
 *Saken*: En av de mest omtalte drapssakene i Norge, hvor tre familiemedlemmer ble skutt og drept
@@ -137,10 +138,10 @@ norsk Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/NOKAS-ranet)
 {{% /crimescene %}}
 
 {{% crimescene
-	src="S01E4.png"
-	ident="S01E4"
-	header="Marianne-saken"
-	alt="Sett fra et veikryss, rødt hus med sort bil utenfor"
+    src="S01E4.png"
+    ident="S01E4"
+    header="Marianne-saken"
+    alt="Sett fra et veikryss, rødt hus med sort bil utenfor"
 %}}
 
 *Saken*: Uoppklart forsvinningssak fra 28. august 1981, hvor seks år gamle Marianne Rugaas Knudsen
@@ -198,7 +199,8 @@ Hvis du vil starte å spille, gå til [GeoGuessr {{< ext
     src="S02E1.png"
     ident="S02E1"
     header="Birgitte-saken"
-    alt="Asfaltert vei svinger svakt mot høyre, en gresslette skiller veien fra en grusvei på venstre side"
+    alt="Asfaltert vei svinger svakt mot høyre,
+    en gresslette skiller veien fra en grusvei på venstre side"
 %}}
 
 *Saken*: Uoppklart drapssak fra 1995 på Kopervik, Karmøy. 17 år gamle Birgitte Tengs ble voldtatt

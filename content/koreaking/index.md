@@ -19,7 +19,7 @@ strekningen Tromsø-Finnsnes-Brøstadbotn-Engenes-Harstad.
     type="Fotografi"
     artistlink="https://commons.wikimedia.org/wiki/User:3s" artist="3s"
     sourcelink="https://no.wikipedia.org/wiki/MS_«Fjordkongen»#/media/Fil:Fjordkongen.JPG"
-    source="Wikipedia" lisenslink="https://creativecommons.org/licenses/by-sa/3.0/" 
+    source="Wikipedia" lisenslink="https://creativecommons.org/licenses/by-sa/3.0/"
     lisens="CC BY-SA 3.0"
 >}}
 
@@ -45,7 +45,7 @@ rederi og heter nå *Korea King*. Hansen skrev om turen i avisa Nordlys sommeren
 {{< img
     class="img-fluid"
     src="faksimile.png"
-    alt=`En faksimile av Nordlys.` 
+    alt=`En faksimile av Nordlys.`
     width="400"
     >}}
 
