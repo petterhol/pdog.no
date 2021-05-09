@@ -8,7 +8,8 @@ main = { parent = "Kart og reiser", weight = 4 }
 {{% ingress %}}
 
 Tom Scott er en YouTube-innholdsskaper med videoer innen en rekke kategorier. Mange av
-videoene viser et bestemt sted, eller er utgangspunkt for å forklare noe. Dette er en komplett oversikt over alle videoene han har laget, samt et kart.
+videoene viser et bestemt sted, eller er utgangspunkt for å forklare noe.
+Dette er en komplett oversikt over alle videoene han har laget, samt et kart.
 
 {{% /ingress %}}  
 
