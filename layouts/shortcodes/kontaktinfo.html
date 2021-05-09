@@ -1,3 +1,13 @@
+<script>
+function copyToClipboard(element) {
+  var $temp = $("<input>");
+  $("body").append($temp);
+  $temp.val($(element).text()).select();
+  document.execCommand("copy");
+  $temp.remove();
+}
+</script>
+
 <div class="table-responsive">
   <table class="table table-hover" id="collapseHoldeplasser">
     <thead>
@@ -21,14 +31,37 @@
         <td><a href="https://open.beerwithme.se/#addfriend?email=u2231084@beerwithme.se&name=Petterus"
             target="_blank" rel="noreferrer noopener">petterhol</a></td>
       </tr>
+      
+     <tr>
+        <td>Clubhouse</td>
+
+<td><text id="clubhouse">
+<div style="display:none;">
+petterhol
+</div></text>
+<a href="https://www.joinclubhouse.com/@petterhol"
+            target="_blank" rel="noreferrer noopener">@petterhol</a>
+<button 
+class="btn badge badge-light" 
+onclick="copyToClipboard('#clubhouse')">
+Kopier</button></td>
+      </tr>
+    
       <tr>
         <td>Digipost</td>
-        <td>petter.holstad#0D8M</td>
+        <td><text id="DIGIPOST"><div style="display:none;">petter.holstad#0D8M</div></text>petter.holstad#0D8M <button class="btn badge badge-light" onclick="copyToClipboard('#DIGIPOST')">Kopier</button></td>
       </tr>
       <tr>
         <td>E-post</td>
-        <td><a href="mailto:hei@pdog.no">hei@pdog.no</a></td>
-      </tr>
+<td><text id="EMAIL">
+<div style="display:none;">
+	hei@pdog.no
+</div></text>
+	<a href="mailto:hei@pdog.no">hei@pdog.no</a> 
+<button 
+class="btn badge badge-light" 
+onclick="copyToClipboard('#EMAIL')">
+Kopier</button></td>      </tr>
       <tr>
         <td>Finn.no</td>
         <td><a href="https://www.finn.no/user/profile/profile.html?id-287595302">Petter Holstad</a></td>
@@ -37,21 +70,79 @@
         <td>Facebook Messenger</td>
         <td>Petter Holstad</td>
       </tr>
+      
+      <tr>
+      <td>GitHub</td>
+      <td><text id="github">
+      <div style="display:none;">
+      petterhol
+      </div></div>
+      <a href="https://github.com/petterhol" target="_blank">@petterhol</a>
+      <button
+      class="btn badge badge-light"
+      onclick="copyToClipboard('#github')">
+      Kopier</button></td>
       <tr>
         <td>Google Hangouts</td>
-        <td>petterholstad@gmail.com</td>
-      </tr>
+<td><text id="Google-hangouts">
+<div style="display:none;">
+	google@pdog.no
+</div></text>
+	google@pdog.no 
+<button 
+class="btn badge badge-light" 
+onclick="copyToClipboard('#Google-hangouts')">
+Kopier</button></td>
+     </tr>
       <tr>
         <td>iMessage</td>
-        <td><a href="+4792696496">+47&nbsp;926&nbsp;96&nbsp;496</a></td>
+<td><text id="imessage">
+<div style="display:none;">
+	+4792696496
+</div></text>
+	+47&nbsp;926&nbsp;96&nbsp;496 
+<button 
+class="btn badge badge-light" 
+onclick="copyToClipboard('#imessage')">
+Kopier</button></td>
       </tr>
       <tr>
         <td>Instagram</td>
-        <td>petterhol</td>
+<td><text id="instagram">
+<div style="display:none;">
+	petterhol
+</div></text>
+	@petterhol 
+<button 
+class="btn badge badge-light" 
+onclick="copyToClipboard('#instagram')">
+Kopier</button></td>      </tr>
+      
+<tr>
+        <td>PayPal</td>
+<td><text id="PayPal">
+<div style="display:none;">
+petterhol
+</div></text>
+<a href="https://www.paypal.com/paypalme/petterhol?locale.x=no_NO" target="_blank">@petterhol</a>
+<button 
+class="btn badge badge-light" 
+onclick="copyToClipboard('#PayPal')">
+Kopier</button></td>
       </tr>
+      
+
       <tr>
         <td>Signal</td>
-        <td>+47&nbsp;926&nbsp;96&nbsp;496</td>
+<td><text id="signal">
+<div style="display:none;">
+	+4792696496
+</div></text>
+	+47&nbsp;926&nbsp;96&nbsp;496 
+<button 
+class="btn badge badge-light" 
+onclick="copyToClipboard('#signal')">
+Kopier</button></td>
       </tr>
       <tr>
         <td>Skatteetaten</td>
@@ -59,28 +150,72 @@
       </tr>
       <tr>
         <td>Skype</td>
-        <td>skype@pdog.no</td>
-      </tr>
+<td><text id="skype">
+<div style="display:none;">
+	skype@pdog.no
+</div></text>
+	skype@pdog.no 
+<button 
+class="btn badge badge-light" 
+onclick="copyToClipboard('#skype')">
+Kopier</button></td>      </tr>
       <tr>
         <td>Telefonnummer</td>
-        <td><a href="+4792696496">+47&nbsp;926&nbsp;96&nbsp;496</a></td>
+<td><text id="telefonnummer">
+<div style="display:none;">
+	+4792696496
+</div></text>
+	+47&nbsp;926&nbsp;96&nbsp;496 
+<button 
+class="btn badge badge-light" 
+onclick="copyToClipboard('#telefonnummer')">
+Kopier</button></td>
       </tr>
       <tr>
         <td>Postadresse for fysiske brev</td>
-        <td>Ivan Bjørndals gate 6<br>0472 Oslo</td>
-      </tr>
+<td><text id="adresse">
+<div style="display:none;">
+	Ivan Bjørndals gate 6, 0472 Oslo
+</div></text>
+	Ivan Bjørndals gate 6<br>0472 Oslo 
+<button 
+class="btn badge badge-light" 
+onclick="copyToClipboard('#adresse')">
+Kopier</button></td>      </tr>
       <tr>
         <td>Vipps</td>
-        <td><a href="https://qr.vipps.no/28/2/01/031/4792696496?v=1">+47&nbsp;926&nbsp;96&nbsp;496</a></td>
+<td><text id="vipps">
+<div style="display:none;">
+	+4792696496
+</div></text>
+<a href="https://qr.vipps.no/28/2/01/031/4792696496?v=1">+47&nbsp;926&nbsp;96&nbsp;496</a>
+<button 
+class="btn badge badge-light" 
+onclick="copyToClipboard('#vipps')">
+Kopier</button></td></td>
       </tr>
       <tr>
         <td>WhatsApp</td>
-        <td><a href="https://wa.me/qr/6DGSHLESPCYCB1">+47&nbsp;926&nbsp;96&nbsp;496</a></td>
+<td><text id="WhatsApp">
+<div style="display:none;">
+	+4792696496
+</div></text>
+<a href="https://wa.me/qr/6DGSHLESPCYCB1">+47&nbsp;926&nbsp;96&nbsp;496</a><button 
+class="btn badge badge-light" 
+onclick="copyToClipboard('#WhatsApp')">
+Kopier</button></td></td>
       </tr>
       <tr>
         <td>Xbox Live</td>
-        <td>petterhol3883</td>
-      </tr>
+<td><text id="xboxlive">
+<div style="display:none;">
+	petterhol3883
+</div></text>
+	petterhol3883 
+<button 
+class="btn badge badge-light" 
+onclick="copyToClipboard('#xboxlive')">
+Kopier</button></td>      </tr>
 
     </tbody>
   </table>
