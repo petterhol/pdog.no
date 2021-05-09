@@ -1,128 +1,122 @@
 +++
-title = "Om Catch-all e-postadresser"
+title = "E-posthåndtering med 'catch all'"
 linkTitle = "E-post: Catch-all"
 lastmod = 2020-10-06T22:00:00
 [menu]
 main = { weight = 5, parent = "Teknologi" }
 +++
 
+<!-- markdownlint-disable MD034 -->
+
 {{% ingress %}}
 
-Synes du e-postadressen jeg bruker er litt rar og annerledes enn det du er vant til? På denne
-siden kan du lære mer om "catch-all" e-postadresser, og hvordan jeg bruker det.
+Hvis du eier et e-postdomene, kan du velge å slå på en funksjon som heter *"catch all"*, som lar
+deg motta alle meldinger som sendes til ditt domene, uavhengig av hva som står foran krøllalfa. Jeg
+bruker dette selv på mitt eget domene.
 
 {{% /ingress %}}
 
-Jeg eier følgende domener: pdog.no, petterholstad.no og heltogholdent.no, hhv.
-mitt kallenavn, fulle navn og navn på mitt foretak.
+{{< img-lisens class="img-fluid" src="illustrasjonsbilde.jpg" alt="Illustrasjon. Grønn bakgrunn, to
+tegna hender holder en mobiltelefon. Ikoner som viser konvolutter flyr ut eller inn av
+mobiltelefonen." type="Illustrasjonsbilde"
+artistlink="<https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution>&
+utm_medium=referral&utm_campaign=image&utm_content=3543958" artist="Mohamed Hassan"
+sourcelink="<https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image>
+&utm_content=3543958" source="Pixabay" lisenslink="https://pixabay.com/service/license/"
+lisens="Pixabay Lisence"
+>}}
 
-## Bakgrunn
+## "Normalt" oppsett
 
-Hvis du ikke vet det, pdog.no er et domene. ".no" er toppnivådomenet Kongeriket
-Norge har fått tildelt, mens "pdog" er adressen jeg har registrert selv. Hvem
-som helst kan registrere domener, men noen toppnivådomener har visse
-begrensninger. Tidligere kunne ikke privatpersoner eie ".no"-domener, men det
-kan de nå. Det finnes mange som selger domener på internett, og uten å ha noe
-annet enn god erfaring bruker jeg [Domeneshop {{< external >}}](https://domene.shop) til dette.
+Hvis du ikke har "catch all" påskrudd, vil du måtte definere hvilke gyldige e-postadresser som
+gjelder for ditt domene. Hvis noen prøver å sende en e-post til en utgått eller feilaktig adresse,
+vil ikke denne komme frem.
 
-Når domenet er registrert kan jeg sette opp det til bruk med e-post. Da kan jeg
-opprette adresser som for eksempel petter@pdog.no eller hei@pdog.no, men det går
-også an å skru på noe som heter catch all. Da vil alt man skriver foran
-krøllalfaen (@) komme til en og samme adresse, og det det er heller ingen
-begrensning på hvor mange slike adresser man kan ha. Kanskje viktigst av alt er
-at man ikke trenger å forhåndsregistrere en slik adresse, så en kan i prinsippet
-sette hva som helst foran.
+I en bedrift vil det kanskje være normalt å opprette "post@domene.no" samt en e-postadresse til
+alle ansatte, eksempelvis "navn.navnesen@domene.no". Hvis noe sendes til "posst@domene.no", vil
+dette ikke komme frem.
 
-Personlig videresender jeg all eposten jeg får til en iCloud-epostkonto.
+## Hvis du skrur på "catch all"
 
-## Vanlig bruk av catch-all
+Nå vil alle e-poster, som ikke allerede sendes til et en spesifikk e-postkonto, sendes til en
+angitt e-postadresse. I eksemplet over, vil "postt@domene.no" komme frem til en angitt adresse. Det
+har altså ingenting å si hva du skriver foran krøllalfasymbolet, alt kommer frem.
 
-Jeg tror det vanligste er at man slår på catch-all for at all epost skal komme
-frem til mottakeren, selv om den ble skrevet feil, eller epostkontoen er ute av
-drift. På den forrige arbeidsplassen jeg hadde hvor jeg administrerte
-e-posttjenestene, hadde vi dette påskrudd for å kunne fange opp alle
-feilstavinger av diverse e-postadresser, samt e-poster som blir sendt til gamle
-og utdaterte adresser. Gjennom flere år har vi opprettet og avviklet e-poster
-til prosjekter, underorganisasjoner, ansatte og andre, som vi slipper å
-administrere separat med egne kontoer.
+Også for gamle prosjekter, avdelinger, kampanjer og brukere, vil e-postadressen fortsatt være
+aktiv, men pass på at dette ikke kommer i [konflikt med personvernet][datatilsynet].
 
-## Min bruk av catch-all
+## Hvorfor jeg bruker “catch all”
 
-Siden jeg er en privatperson, har jeg ikke det samme behovet for en
-catch-all-adresse slik som en bedrift eller organisasjon har. Allikevel synes
-jeg det er interessant å bruke. Hovedformålet er at jeg kan oppgi en unik
-e-postadresse til enhver tjeneste/bedrift jeg registrerer meg på.
+Jeg bruker funksjonen for å få økt kontosikkerheten til diverse brukerkontoer jeg har registrert på
+internett, samt muligheten for å kunne avsløre om et firma har hatt datalekkasjer. Her er noen
+eksempler på dette:
 
-### _Registrering på nettsider_
+### Unike brukernavn på brukerkontoer
 
-Eksempel: Facebook  
-E-post: facebook@pdog.no
+Du har sikkert lært at man skal ha et unikt passord på hver enkelt tjeneste man har registrert seg
+på. For å øke kontosikkerheten ytterligere, vil et unikt brukernavn også ha en viss effekt. Jeg vil
+nemlig ikke få en rekke innloggingsforsøk på min *faktiske* brukerkonto andre steder, som i noen
+tilfeller kan låse kontoen.
 
-På samme måte som man skal ha unike passord på alle tjenester, skader det ikke å
-heller ha unike e-postadresser. Hvis en nettsider nå lekker e-postadressen og
-passordet mitt, vil ikke tyvene kunne bruke min e-postadresse andre steder.
+Eksempel: Hos Facebook bruker jeg brukernavnet "facebook@pdog.no".
 
-OBS: Ikke bruk dette på innloggingen e-post/domeneleverandøren din - av åpenbare grunner. Til
-domeneshop har jeg selv bare direkte-adressen til min iCloud-epostkonto.
+### Registrering av e-postadresser til engangsbruk
 
-### _Registrering på nyhetsbrev_
+Hvis jeg trenger en e-postadresse til "engangsbruk", kan jeg bare lage en unik epostadresse til det
+formålet. Hvis jeg senere ikke ønsker å få meldinger tilsendt, kan jeg bare blokkere
+_mottakeradressen_, uavhengig av hva avsender måtte være.
 
-Eksempel: Enkeltregistrering til nyhetsbrevet til Elkjøp for å oppnå en rabatt  
-E-post: elkjop20200721@pdog.no
+Eksempel: Jeg vil melde meg på et nyhetsbrev hos Elkjøp for å oppnå en rabatt. Da kan jeg for
+eksempel skrive "elkjop_nyhetsbrev_20200328@pdog.no". Da vet jeg nøyaktig hvilken avsender jeg skal
+forvente, hva slags innhold jeg skal forvente, og hvilken dato jeg registrerte meg.
 
-Her bruker jeg bare datoen jeg registrerte meg. Hvis jeg får mye reklame eller
-søppelpost jeg ikke kan stoppe, kan jeg enkelt spore dette tilbake til en
-enkeltpåmelding, og da for eksempel blokkere alle eposter som sendes TIL denne
-e-postkontoen.
+### Avsløring av lekkasjer og uautorisert dataoverføring
 
-### _Beskyttelse mot lekkasje eller uautorisert dataoverføring_
+Det skjer fra tid til annen at firmaer jeg har brukerkontoer hos får sine systemer kompromittert,
+som betyr at personlig informasjon som e-postadresser kan komme på avveie. Det kan også hende at
+noen firmaer "selger" opplysningene på en uredelig måte. Ved å alltid kunne vite hvem som var ment
+som avsender, kan jeg enkelt avsløre dette.
 
-Eksempel: Foodora får datainnbrudd ([dette skjedde sommeren 2020 {{< external >}}][vg-foodora]),
-og jeg får søppelpost  
-E-post: foodora@pdog.no blir brukt som mottaker, da vet jeg at kilden er
-Foodora Hvis et selskap enten blir frastjålet kundedata, eller de gjennomfører
-en uautorisert overføring av data til en tredjepart, vil jeg veldig enkelt kunne
-spore kilden.
+Eksempler:
 
-[vg-foodora]: https://www.vg.no/nyheter/innenriks/i/jdoO6A/lekkasje-av-kundedata-hos-foodora
+- Jeg fikk søppelepost tilsendt til en e-postadresse jeg tidligere hadde brukt hos en
+leiebiltjeneste jeg hadde leid bil av for lenge siden. - Datainnbrudd skjer hele tiden. Her er fire
+eksempler fra [Foodora][foodora], [Microsoft][microsoft], [Marriot][marriot], [Rema
+1000][rema1000].
 
-### _Morsomheten i det_
+## Ulemper med "catch all"
 
-Hvis en venn, kollega e.l. spør meg om epostadressen, kan jeg oppgi en hvilken
-som helst epostadresse. Dette skaper latter, men gjør også at den litt spesielle
-adressen fester seg på minnet.
+Selvfølgelig vil en person som målrettet går inn for å prøve mine kontoer, eller vil sende meg
+uønsket e-post, klare å forstå strukturen i mine adresser, men de fleste lekkasjer er nok bare
+situasjoner hvor man kjøper en stor database.
 
-## Ulemper
-
-Selvfølgelig vil en person som målrettet går inn for å prøve mine kontoer,
-eller vil sende meg uønsket e-post, klare å forstå strukturen i mine adresser,
-men de fleste lekkasjer er nok bare situasjoner hvor man kjøper en stor
-database.
-
-En annen ulempe er at man øker kompleksiteten av kontodetaljene, og det kan
-gjøre det vanskelig å få gjenopprettet eller tilbakestilt kontoer hvis man har
-glemt det man opprinnelig skrev inn.
+En annen ulempe er at man øker kompleksiteten av kontodetaljene, og det kan gjøre det vanskelig å
+få gjenopprettet eller tilbakestilt kontoer hvis man har glemt det man opprinnelig skrev inn.
 
 En tredje ulempe er at noen tjenester ikke tillater sitt eget firmanavn brukt i
 brukernavn/e-postadresse.
 
-Til slutt vil det også være hakket mer komplisert å snakke med bedrifter som
-krever at man sender epost fra den adressen man har registrert for å få
-gjennomført endringer på kontoen. Man kan løse det ved å enten endre
-e-postadressen midlertidig, eller få satt opp adressen som en "svar fra"-adresse.
+Til slutt vil det også være hakket mer komplisert å snakke med bedrifter som krever at man sender
+epost fra den adressen man har registrert for å få gjennomført endringer på kontoen. Man kan løse
+det ved å enten endre e-postadressen midlertidig, eller få satt opp adressen som en “svar
+fra”-adresse.
 
 ## Lær mer
 
-Jeg lytter på en podkast som heter Mac Geek Gab, hvor de to programlederene tar
-opp en rekke tekniske spørsmål fra lytterene sine. Sommeren 2017 sendte jeg inn
-et spørsmål hvor jeg forklarte min e-poststrategi som beskrevet ovenfor, og
-spurte om de hadde noen innspill til dette. Du kan lytte til programmet på
-deres nettsider: [Oh…Snap! – Mac Geek Gab 663 {{< external >}}][macobserver]. Mitt spørsmål er
-det første som tas opp, så du trenger ikke spole.
+Jeg lytter på en podkast som heter Mac Geek Gab, hvor de to programlederene tar opp en rekke
+tekniske spørsmål fra lytterene sine. Sommeren 2017 sendte jeg inn et spørsmål hvor jeg forklarte
+min e-poststrategi som beskrevet ovenfor, og spurte om de hadde noen innspill til dette. Du kan
+lytte til programmet på deres nettsider: [Oh…Snap! – Mac Geek Gab 663][mgg] . Mitt spørsmål er det
+første som tas opp, så du trenger ikke spole.
 
-Har du en Gmail-konto kan noenlunde samme triks brukes der ved å legge til +
-etter adressen din. Les mer her: [3 awesome Gmail address tricks to get more
-out of your email ID - TheWindowsCLub {{< external >}}][thewindowsclub].
+Har du en Gmail-konto kan noenlunde samme triks brukes der ved å legge til + etter adressen din.
+Les mer her: [3 awesome Gmail address tricks to get more out of your email ID -
+TheWindowsClub][thewindowsclub].
 
-[macobserver]: https://www.macobserver.com/podcasts/macgeekgab-663/
+[datatilsynet]: https://www.datatilsynet.no/personvern-pa-ulike-omrader/personvern-pa-arbeidsplassen/innsyn-epost-filer/
+[foodora]: https://www.vg.no/nyheter/innenriks/i/jdoO6A/lekkasje-av-kundedata-hos-foodora
+[microsoft]: https://www.tek.no/nyheter/nyhet/i/0nl380/14-aar-av-microsofts-kundedata-laa-aapent-paa-nett
+[marriot]: https://threatpost.com/millions-guests-marriott-data-breach-again/154300/
+[rema1000]: https://norsis.no/kundedata-rema-1000-nye-app-ae-la-apent-tilgjengelig-2-uker/
+[mgg]: https://www.macobserver.com/podcasts/macgeekgab-663/
 [thewindowsclub]: https://www.thewindowsclub.com/gmail-address-tricks
