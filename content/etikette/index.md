@@ -1,7 +1,8 @@
 +++
 title = "Gode råd for å bruke e-post og kalender"
 lastmod = 2020-10-06T22:00:00
-[menu] main = { weight = 5, parent = "Teknologi" }
+[menu] 
+main = { weight = 5, parent = "Teknologi" }
 +++
 
 {{% ingress %}}
@@ -88,7 +89,9 @@ bare føre opp deg selv, eller kanskje en generell e-postadresse.
 Jeg er personlig motstander av signaturer med overflødig mye informasjon. Jobber man i et stort
 selskap er man gjerne tvunget til å bruke en stor signatur med all mulig informasjon.
 
-{{% expand ident="argumenter" bait="Her er mine argumenter mot (trykk for å utvide)"
+{{% expand
+    ident="argumenter"
+    bait="Her er mine argumenter mot (trykk for å utvide)"
 %}}
 
 - Firmalogo i en signatur er kanskje lurt hvis du presenterer deg for første gang til en ny kunde
@@ -109,8 +112,9 @@ Hvis det er noen som ikke kjenner jeg, legger jeg til hele navnet mitt. Hvis sti
 firma er relevant, legger jeg til det, og hvis telefonnummeret mitt også ville vært relevant for
 mottaker, legger jeg ved det. Alt er i ren tekst, uten noen form for innramming eller formatering.
 
-{{% expand ident="utvidelser" bait="Man kan faktisk automatisere jobben med å veksle på signaturer
-(trykk for å utvide)"
+{{% expand
+    ident="utvidelser"
+    bait="Man kan faktisk automatisere jobben med å veksle på signaturer (trykk for å utvide)"
 %}}
 
 - Hvis du bruker en Mac-datamaskin, kan du bruke det innebygde verktøyet for teksterstatning. Du

@@ -12,12 +12,15 @@ strekningen Tromsø-Finnsnes-Brøstadbotn-Engenes-Harstad.
 
 {{% /ingress %}}
 
-{{< img-lisens class="img-fluid" src="fjordkongen.jpg" alt="Fjordkongen tatt venstre side bakfra,
-båten er i bevegelse i vannet" type="Fotografi"
-artistlink="https://commons.wikimedia.org/wiki/User:3s" artist="3s"
-sourcelink="https://no.wikipedia.org/wiki/MS_«Fjordkongen»#/media/Fil:Fjordkongen.JPG"
-source="Wikipedia" lisenslink="https://creativecommons.org/licenses/by-sa/3.0/" lisens="CC BY-SA
-3.0"
+{{< img-lisens
+    class="img-fluid"
+    src="fjordkongen.jpg"
+    alt="Fjordkongen tatt venstre side bakfra, båten er i bevegelse i vannet"
+    type="Fotografi"
+    artistlink="https://commons.wikimedia.org/wiki/User:3s" artist="3s"
+    sourcelink="https://no.wikipedia.org/wiki/MS_«Fjordkongen»#/media/Fil:Fjordkongen.JPG"
+    source="Wikipedia" lisenslink="https://creativecommons.org/licenses/by-sa/3.0/" 
+    lisens="CC BY-SA 3.0"
 >}}
 
 ## Om utrangeringen
@@ -39,12 +42,18 @@ Her kan du lese om Thor-Rune Hansens besøk til Korea for å møte en gammel kje
 Fjordkongen. Etter bruk i Troms mellom Harstad og Tromsø, ble skipet solgt til et sørkoreansk
 rederi og heter nå *Korea King*. Hansen skrev om turen i avisa Nordlys sommeren 2015.
 
-{{< img class="img-fluid" src="faksimile.png" alt=`En faksimile av Nordlys.` width="400"
+{{< img
+    class="img-fluid"
+    src="faksimile.png"
+    alt=`En faksimile av Nordlys.` 
+    width="400"
     >}}
 
 [Se filen som PDF](pdf.pdf)
 
-{{% expand ident="artikkelen" bait="Trykk her for å lese en maskinlesbar tekst"
+{{% expand
+    ident="artikkelen"
+    bait="Trykk her for å lese en maskinlesbar tekst"
 %}}
 
 NORDLYS ONSDAG 29. JULI 2015 SIDE 10.

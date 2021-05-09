@@ -16,14 +16,17 @@ bruker dette selv på mitt eget domene.
 
 {{% /ingress %}}
 
-{{< img-lisens class="img-fluid" src="illustrasjonsbilde.jpg" alt="Illustrasjon. Grønn bakgrunn, to
-tegna hender holder en mobiltelefon. Ikoner som viser konvolutter flyr ut eller inn av
-mobiltelefonen." type="Illustrasjonsbilde"
-artistlink="<https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution>&
-utm_medium=referral&utm_campaign=image&utm_content=3543958" artist="Mohamed Hassan"
-sourcelink="<https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image>
-&utm_content=3543958" source="Pixabay" lisenslink="https://pixabay.com/service/license/"
-lisens="Pixabay Lisence"
+{{< img-lisens
+	class="img-fluid"
+	src="illustrasjonsbilde.jpg"
+	alt="Illustrasjon. Grønn bakgrunn, to tegna hender holder en mobiltelefon. Ikoner som viser konvolutter flyr ut eller inn av mobiltelefonen."
+	type="Illustrasjonsbilde"
+	artistlink="<https://bit.ly/3y6KnMH"
+	artist="Mohamed Hassan"
+	sourcelink="<https://bit.ly/3usohBT"
+    source="Pixabay"
+    lisenslink="https://pixabay.com/service/license/"
+    lisens="Pixabay Lisence"
 >}}
 
 ## "Normalt" oppsett
