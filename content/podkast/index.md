@@ -172,8 +172,7 @@ varighet="En time" offisiell="https://radio.nrk.no/serie/dagsnytt-atten"
 pocket="https://pca.st/RjcG"
  %}}
 
-<span class="badge bg-danger text-white">Nyheter</span> <span class="badge bg-dark
-text-white">Video</span>
+<span class="badge bg-danger text-white">Nyheter</span> <span class="badge bg-dark text-white">Video</span>
 
 Norges mest populære debattprogram. Viktige debatter, aktuelle intervjuer og analyser.
 
