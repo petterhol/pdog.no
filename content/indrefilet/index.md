@@ -36,6 +36,4 @@ nok til å holde det litt fuktig i formen. Det blir ganske forbløffende godt!
 
 Jeg koker ris til, og lager eventuelt en enkel salat til.
 
-Bon Appétit!
-
-_Jeg legger ut et bilde senere._
+Bon appétit!
