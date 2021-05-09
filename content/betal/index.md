@@ -7,6 +7,8 @@ aliases = [
 ]
 +++
 
+<!-- markdownlint-disable MD024 -->
+
 {{% ingress %}}
 
 Hvis du skal overføre penger til meg, finner du alle betalingsmuligheter her.
