@@ -9,13 +9,14 @@ for å gjerde inn koden.
 Formål: Legger til en "Kopier"-knapp til hørye for ønsket tekst.
 
 Variabler:
+
 - hiddentext: den faktiske verdien som skal kopieres til utklippstavlen.
 - ident: en unik identifiseringsverdi, for Javascript-koden til å vite hvilken verdi som skal kopieres.
 
 ```html
 {{% copy
-	hiddentext="xxxxxx"
-	ident="xxxxxx"
+ hiddentext="xxxxxx"
+ ident="xxxxxx"
 %}}
 xxxxxx {{% /copy %}}
 ```
@@ -25,6 +26,7 @@ xxxxxx {{% /copy %}}
 Formål: Legger til et bilde, samt lisensinformasjon under.
 
 Variabler:
+
 - class: img-class, normalt "img-fluid"
 - src: kilde til bildet
 - alt: alternativ tekst
@@ -38,16 +40,16 @@ Variabler:
 
 ```html
 {{< img-lisens
-	class="xxxxx"
-	src="xxxxx"
-	alt="xxxxx"
-	type="xxxxx"
-	artistlink="xxxxx"
-	artist="xxxxx"
-	sourcelink="xxxxx"
-	source="xxxxx"
-	lisenslink="xxxxx"
-	lisens="xxxxx"
+ class="xxxxx"
+ src="xxxxx"
+ alt="xxxxx"
+ type="xxxxx"
+ artistlink="xxxxx"
+ artist="xxxxx"
+ sourcelink="xxxxx"
+ source="xxxxx"
+ lisenslink="xxxxx"
+ lisens="xxxxx"
 >}}
 ```
 
@@ -57,6 +59,7 @@ Formål: Legger til et klikkbart bilde med bildetekst i grå tekst. Kan både br
 og for å åpne større versjon av et bilde.
 
 Variabler:
+
 - src: lenke til bildet
 - alt: alternativ tekst
 - link: hvor man lander hvis man trykker på bilde.t
@@ -78,6 +81,7 @@ Variabler:
 Formål: Lager et "kort" på nettsiden til Silicon Valley.
 
 Variabler:
+
 - src: bildefil
 - fotograf: navn på fotografen til bildet
 - lisenslenke: lenke for å lese mer om lisensen
@@ -96,20 +100,20 @@ Variabler:
 
 ```html
 {{% svkort
-	src="xxxxx"
-	fotograf="xxxxx"
-	lisenslenke="xxxxx"
-	lisens="xxxxx"
-	sourcelenke="xxxxx"
-	source="xxxxx"
-	alt="xxxxx"
-	header="xxxxx"
-	adresse="xxxxx"
-	parkering="xxxxx"
-	betaling="xxxxx"
-	tid="xxxxx"
-	lenke="xxxxx"
-	kartlenke="xxxxx"
+ src="xxxxx"
+ fotograf="xxxxx"
+ lisenslenke="xxxxx"
+ lisens="xxxxx"
+ sourcelenke="xxxxx"
+ source="xxxxx"
+ alt="xxxxx"
+ header="xxxxx"
+ adresse="xxxxx"
+ parkering="xxxxx"
+ betaling="xxxxx"
+ tid="xxxxx"
+ lenke="xxxxx"
+ kartlenke="xxxxx"
 %}}
 
 xxxxxx
