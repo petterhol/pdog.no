@@ -1,9 +1,5 @@
-+++
-title = "Rettigheter ved feil på produkter" 
-lastmod = 2020-10-06T22:00:00
-[menu] 
-main = { weight = 4, parent = "Teknologi" }
-+++
++++ title = "Rettigheter ved feil på produkter" lastmod = 2020-10-06T22:00:00 [menu] main = {
+weight = 4, parent = "Teknologi" } +++
 
 <!-- markdownlint-disable MD033 -->
 
@@ -60,15 +56,17 @@ vanlige garantien. Dette skjer ofte når det er en kjent feil med et produkt.
 Selv om du mener at produktet burde blitt dekket av garanti eller reklamasjon, kan det av og til
 være like greit å sjekke om du har en forsikring på varen. Det finnes flere typer forsikringer:
 
-**Verdigjenstandsforsikring**: Verdigjenstandsforsikringer dekker helt spesifikt verdigjenstander. Her må du ofte ha bestilt denne
-på forhånd for at dette skal gjelde.
+**Verdigjenstandsforsikring**: Verdigjenstandsforsikringer dekker helt spesifikt verdigjenstander.
+Her må du ofte ha bestilt denne på forhånd for at dette skal gjelde.
 
-**Forsikring kjøpt i butikk**: Ulykkesforsikring (uhellforsikring, idiotforsikring) er noe produsenter av og til tilbyr sammen med
-en vare. Den dekker helt spesifikt den varen.
+**Forsikring kjøpt i butikk**: Ulykkesforsikring (uhellforsikring, idiotforsikring) er noe
+produsenter av og til tilbyr sammen med en vare. Den dekker helt spesifikt den varen.
 
-**Forsikring gjennom kredittkort**: I flere tilfeller kan du klage gjennom å kontakte banken du kjøpte produktet med.
+**Forsikring gjennom kredittkort**: I flere tilfeller kan du klage gjennom å kontakte banken du
+kjøpte produktet med.
 
-**Innbo- og reiseforsikring**: Innbo- og reiseforsikring kan ofte dekke skader, også uhell, på produkter.
+**Innbo- og reiseforsikring**: Innbo- og reiseforsikring kan ofte dekke skader, også uhell, på
+produkter.
 
 {{% /card %}}
 
@@ -106,9 +104,10 @@ må skrive ut. Bare kontakt selger for å høre hvordan dette fungerer.
 
 {{% card header="Forbrukerkjøpsloven, kjøpsloven, reklamasjonsrett, heving" %}}
 
-**Forbrukerkjøpsloven**: Hvis du kjøper et produkt som forbruker (privatperson), fra en bedrift, i Norge, gir
-forbrukerkjøpsloven deg rett til å reklamere på varen. Å reklamere betyr å klage. Reklamasjonretten
-gjelder i to år, med mindre varen er ment til å vare vesentlig lengre, da gjelder den i fem år.
+**Forbrukerkjøpsloven**: Hvis du kjøper et produkt som forbruker (privatperson), fra en bedrift, i
+Norge, gir forbrukerkjøpsloven deg rett til å reklamere på varen. Å reklamere betyr å klage.
+Reklamasjonretten gjelder i to år, med mindre varen er ment til å vare vesentlig lengre, da gjelder
+den i fem år.
 
 I følge lovverket har du rett på å klage på samme feil to ganger, hvor selger/importør/produsent
 kan reparere, omlevere (gi deg nytt, tilsvarende produkt) eller heve kjøpet (få pengene tilbake).
@@ -125,9 +124,9 @@ Hvis du har kjøpt produktet i utlandet, er det ikke usannsynlig at det finnes l
 som også gir deg rettigheter, men det kan hende produktet må leveres eller sendes inn i det
 aktuelle landet for at du skal kunne få utøvd dine rettigheter.
 
-**Kjøpsloven**: Hvis du kjøper et produkt i Norge som bedrift, eller mellom to privatpersoner, gjelder kjøpsloven.
-Flere av prinsippene fra forbrukerkjøpsloven gjelder, men ikke alt. Blant annet er det maksimalt to
-år.
+**Kjøpsloven**: Hvis du kjøper et produkt i Norge som bedrift, eller mellom to privatpersoner,
+gjelder kjøpsloven. Flere av prinsippene fra forbrukerkjøpsloven gjelder, men ikke alt. Blant annet
+er det maksimalt to år.
 
 {{% /card %}}
 
