@@ -17,8 +17,7 @@ main = { parent = "Alt annet" }
 
 {{% ingress %}}
 
-Jeg har lyttet på podkast i mange år. Noen podkaster har jeg hørt på i flere år, andre oppdager jeg
-etterhvert. Her har jeg samlet de podkastene jeg lytter på innenfor mine interesseområder <span
+Jeg har lyttet på podkast i mange år. Her har jeg samlet de podkastene jeg lytter på innenfor mine interesseområder <span
 class="badge bg-success text-white">Teknologi</span>, <span class="badge bg-danger
 text-white">Nyheter</span>, <span class="badge bg-primary text-white">Produktivitet</span>, <span
 class="badge bg-info text-white">Gode historier</span> og <span class="badge bg-warning
@@ -30,10 +29,10 @@ og litt om hvordan vi skriver ordet podkast på norsk.
 
 {{< card-deck >}}
 
-{{% horisontalkort
+{{% podkastkort
  header="MacBreak Weekly"
  src="mbw.jpg"
- utgiver="TWITTV"
+ utgiver="twit.tv"
  hyppighet="Hver onsdag"
  varighet="110 min"
  offisiell="https://twit.tv/shows/macbreak-weekly"
@@ -46,9 +45,9 @@ text-white">Video</span>
 Paneldiskusjon med erfarne journalister spesialisert på alt innenfor Apple. Nyheter, analyser,
 språdommer og anmeldelser.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
 
-{{% horisontalkort
+{{% podkastkort
  header="Mac Power Users"
  src="mpu.jpg"
  utgiver="Relay.fm"
@@ -64,12 +63,12 @@ text-white">Produktivitet</span>
 Temapodkast som tar for seg diverse emner innenfor Apple-teknologi, automatisering og produktivitet.
 De har også ofte intervjuer med spennende personligheter i teknologiverdenen.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
 
-{{% horisontalkort
+{{% podkastkort
  header="Mac Geek Gab"
  src="mgg.jpg"
- utgiver="Macobserver"
+ utgiver="The Mac Observer"
  hyppighet="Hver mandag"
  varighet="Rundt 1,5 timer"
  offisiell="https://www.macobserver.com/show/mac-geek-gab/"
@@ -82,16 +81,16 @@ text-white">Video</span>
 Dave Hamilton og John F. Brown snakker ukentlig om diverse teamer teknologi som Apple- og Mac-nerder
 bryr seg om. De mottar spørsmål og tips fra lytterne og kommer med sine kommentarer og forslag.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
 
-{{% horisontalkort
+{{% podkastkort
  header="Wild Wild Tech"
  src="wwt.jpg"
- utgiver="Macobserver"
+ utgiver="Studio 71"
  hyppighet="Hver mandag"
  varighet="Rundt 1,5 timer"
- offisiell="https://www.macobserver.com/show/mac-geek-gab/"
- pocket="https://pca.st/utSmPM"
+ offisiell="https://www.studio71.com/podcasts/"
+ pocket="https://pca.st/e77ee2u3"
  %}}
 
 <span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-info
@@ -99,9 +98,9 @@ text-white">Gode historier</span>
 
 To journalister tar opp interessante og helsprø historier fra teknologiverdenen.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
 
-{{% horisontalkort
+{{% podkastkort
  header="The Omni Show"
  src="tms.jpg"
  utgiver="The Omni Group"
@@ -116,9 +115,9 @@ text-white">Produktivitet</span>
 
 Denne podkasten lages av et selskap som også lager produktivitets-programvare for Apple-plattformer.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
 
-{{% horisontalkort
+{{% podkastkort
  header="Security Now"
  src="sn.jpg"
  utgiver="twit.tv"
@@ -133,12 +132,30 @@ text-white">Video</span>
 
 Leo Laporte og Steve Gibson diskuterer den siste ukas nyheter innen IT-sikkerhet.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
 
-{{% horisontalkort
+{{% podkastkort
+ header="The WAN Show"
+ src="wan.jpg"
+ utgiver="Linus Tech Tips"
+ hyppighet="Hver mandag"
+ varighet="Opp til 1,5 time"
+ offisiell="https://www.youtube.com/playlist?list=PL8mG-RkN2uTw7PhlnAr4pZZz2QubIbujH"
+ pocket="https://play.pocketcasts.com/podcasts/1d433a40-79f6-0133-2d19-6dc413d6d41d"
+ %}}
+
+<span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-dark
+text-white">Video</span>
+
+En av mine favoritt-YouTubere har også en ukentlig podkast med informasjon
+med bakgrunnshistorier fra kanalen, samt interessante teknologinyheter.
+
+{{% /podkastkort %}}
+
+{{% podkastkort
  header="Lørdagsrådet"
  src="lr.jpg"
- utgiver="NRK P3"
+ utgiver="NRK"
  hyppighet="Hver lørdag + ofte bonuspodd hver uke"
  varighet="Litt over 2 timer"
  offisiell="https://radio.nrk.no/podkast/loerdagsraadet"
@@ -150,12 +167,12 @@ Leo Laporte og Steve Gibson diskuterer den siste ukas nyheter innen IT-sikkerhet
 Lørdagsrådets faste programleder Live Nelvik inviterer tre kjente personligheter til å dele
 livserfaringene sine med innsendte spørsmål og dilemmaer.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
 
-{{% horisontalkort
+{{% podkastkort
  header="Filmpolitiet"
  src="fp.jpg"
- utgiver="NRK P3"
+ utgiver="NRK"
  hyppighet="Hver uke eller oftere"
  varighet="30-60 min"
  offisiell="https://radio.nrk.no/podkast/filmpolitiet"
@@ -167,30 +184,12 @@ livserfaringene sine med innsendte spørsmål og dilemmaer.
 Filmpolitiet anmelder filmer og TV-serier, lager lister til diverse anledninger og har
 spesialsendinger for spesielt populære TV-serier.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
 
-{{% horisontalkort
- header="How To F#€k Up An Airport"
- src="htfuaa.jpg"
- utgiver="Radio Spätkauf"
- hyppighet="Engangspodd"
- varighet="Totalt litt over 4 timer"
- offisiell="https://www.radiospaetkauf.com/ber/"
- pocket="https://pca.st/76L8"
- %}}
-
-<span class="badge bg-info text-white">Gode historier</span>
-
-Hvis du er interessert i fly og flyplasser, eller bare synes det er morsomt med byråkrati som ikke
-fungerer, er denne podkasten noe for deg. Den forteller en rekke detaljer fra en svært mislykka
-planleggingen, byggingen og åpningen av nye Brandenburg lufthavn i Berlin.
-
-{{% /horisontalkort %}}
-
-{{% horisontalkort
+{{% podkastkort
  header="Urix på lørdag"
  src="upl.jpg"
- utgiver="NRK P2"
+ utgiver="NRK"
  hyppighet="Hver lørdag"
  varighet="I underkant av en time"
  offisiell="https://radio.nrk.no/serie/urix-paa-loerdag"
@@ -202,27 +201,9 @@ planleggingen, byggingen og åpningen av nye Brandenburg lufthavn i Berlin.
 Urix på lørdag er NRKs utenriksredaksjon oppsummering av det som skjer rundt om i verden. I tillegg
 får vi korrespondentbrevet og podkasten "Krig og fred" inkludert i sendingen.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
 
-{{% horisontalkort
- header="Trump mot verden"
- src="tmv.jpg"
- utgiver="NRK P2"
- hyppighet="Hver fredag"
- varighet="I underkant av en time"
- offisiell="https://radio.nrk.no/podkast/trump_mot_verden"
- pocket="https://pca.st/mtymlehd"
- %}}
-
-<span class="badge bg-danger text-white">Nyheter</span>
-
-Filmskaper Gjermund Eriksen og programleder Shaun Henrik Matheson diskuterer den siste uken innen
-amerikansk politikk, og sammenlikner det hele med grep og dramatikk fra filmer og TV-serier. Med
-gjester og humor.
-
-{{% /horisontalkort %}}
-
-{{% horisontalkort
+{{% podkastkort
  header="USApodden"
  src="up.jpg"
  utgiver="Sveriges Radio"
@@ -237,9 +218,9 @@ gjester og humor.
 Sveriges radio har et program med nyheter, analyser og korrespondentrapporter fra det siste som
 skjer innen amerikansk politikk.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
 
-{{% horisontalkort
+{{% podkastkort
  header="Dagsnytt 18"
  src="d1.jpg"
  utgiver="NRK"
@@ -254,9 +235,9 @@ text-white">Video</span>
 
 Norges mest populære debattprogram. Viktige debatter, aktuelle intervjuer og analyser.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
 
-{{% horisontalkort
+{{% podkastkort
  header="Getting Things Done"
  src="gtdp.jpg"
  utgiver="GTDnordic"
@@ -271,9 +252,9 @@ Norges mest populære debattprogram. Viktige debatter, aktuelle intervjuer og an
 Hvis du er interessert i, eller kanskje ønsker å starte med Getting Things Done-metodikken, er denne
 podkasten produsert av det nordiske GTD-selskapet.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
 
-{{% horisontalkort
+{{% podkastkort
  header="Triangulation"
  src="t.jpg"
  utgiver="twit.tv"
@@ -289,12 +270,12 @@ text-white">Gode historier</span> <span class="badge bg-dark text-white">Video</
 Dette var en ukentlig podkast som dessverre er tatt ut av produksjon, men et arkiv på 427 episoder
 er fortsatt verdifult. En rekke spenennde intervjuer innen teknologi og fremtid.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
 
-{{% horisontalkort
+{{% podkastkort
  header="This American Life"
  src="tal.jpg"
- utgiver="This American Life"
+ utgiver="WBEZ Chicago/PRX"
  hyppighet="Hver uke"
  varighet="Rundt en time"
  offisiell="https://www.thisamericanlife.org"
@@ -304,10 +285,30 @@ er fortsatt verdifult. En rekke spenennde intervjuer innen teknologi og fremtid.
 <span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-info
 text-white">Gode historier</span>
 
-Dette var en ukentlig podkast som dessverre er tatt ut av produksjon, men et arkiv på 427 episoder
-er fortsatt verdifult. En rekke spenennde intervjuer innen teknologi og fremtid.
+Opprinnelig et radioprogram helt tilbake fra 1995 fra WBEZ Chicago og presentert av Ira Glass,
+er dette et svært populært program med rundt 5 millioner lyttere hver uke. Hver uke er det et
+tema med spennende, interessante og engasjerende fortellinger i ulike sjangere. Dette er også
+opphavet til den svært populære Serial-podkasten.
 
-{{% /horisontalkort %}}
+{{% /podkastkort %}}
+
+{{% podkastkort
+ header="How To F#€k Up An Airport"
+ src="htfuaa.jpg"
+ utgiver="Radio Spätkauf"
+ hyppighet="Engangspodd"
+ varighet="Totalt litt over 4 timer"
+ offisiell="https://www.radiospaetkauf.com/ber/"
+ pocket="https://pca.st/76L8"
+ %}}
+
+<span class="badge bg-info text-white">Gode historier</span>
+
+Hvis du er interessert i fly og flyplasser, eller bare synes det er morsomt med byråkrati som ikke
+fungerer, er denne podkasten noe for deg. Den forteller en rekke detaljer fra en svært mislykka
+planleggingen, byggingen og åpningen av nye Brandenburg lufthavn i Berlin.
+
+{{% /podkastkort %}}
 
 {{% sort-boks
  type="text-white bg-primary"
@@ -341,7 +342,7 @@ en del andre valg.
 
 {{% card-deck-end %}}
 
-Hvis du klikker på bildene kommer du til den offisielle nettsiden til podkastene {{< external >}}.
+Hvis du klikker på bildene kommer du til den offisielle nettsiden til podkastene {{< ext >}}.
 
 {{< lisens
   type="Podkastalbumbildene"
