@@ -13,7 +13,7 @@ aliases = [
 main = { parent = "Alt annet" }
 +++
 
-<!-- markdownlint-disable MD033 MD034 -->
+<!-- markdownlint-disable MD033 MD032 MD034 -->
 
 {{% ingress %}}
 
