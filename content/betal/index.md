@@ -7,7 +7,7 @@ aliases = [
 ]
 +++
 
-<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD034 -->
 
 {{% ingress %}}
 
