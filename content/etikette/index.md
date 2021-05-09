@@ -1,5 +1,8 @@
-+++ title = "Gode råd for å bruke e-post og kalender" lastmod = 2020-10-06T22:00:00 [menu] main = {
-weight = 5, parent = "Teknologi" } +++
++++
+title = "Gode råd for å bruke e-post og kalender"
+lastmod = 2020-10-06T22:00:00
+[menu] main = { weight = 5, parent = "Teknologi" }
++++
 
 {{% ingress %}}
 
