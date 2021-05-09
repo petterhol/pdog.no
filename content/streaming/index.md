@@ -1,5 +1,9 @@
-+++ title = "Spar penger på strømmetjenester" lastmod = 2020-10-06T22:00:00 [menu] main = { weight
-= 1, parent = "Teknologi" } +++
++++
+title = "Spar penger på strømmetjenester"
+lastmod = 2020-10-06T22:00:00
+[menu] 
+main = { weight = 1, parent = "Teknologi" }
++++
 
 {{% ingress %}}
 
