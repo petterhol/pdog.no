@@ -1,6 +1,6 @@
 +++
 linktitle = "Norges ambassader"
-title = "Map of Norway's embassies"
+title = "Norges ambassader"
 lastmod = 2020-10-06T22:00:00
 [menu]
 main = { parent = "Kart og reiser", weight = 10 }
@@ -37,12 +37,17 @@ These are: Afghanistan, Algerie, Brazil, Cuba, Egypt, Ethiopia, Ghana, India, Ir
 Kenya, China, Kosovo, Malawi, Mali, Marocco, Mosambik, Myanmar, Nepal, Pakistan, Palestina,
 Saudi-Arabia, Sudan, Syria, South Sudan, Tanzania.
 
+The following delegations are not represented either: Permanent Mission of Norway to
+the African Union, The Permanent Delegation of Norway to NATO. Most of the others are in the same
+building as the embassy and therefore does not have duplicate records.
+
 Recommended game mode: 5 min, everything allowed.
 
 {{< img-caption-link
  figure-class="float"
     class="rounded"
     src="geoguessr.png"
+    float="right"
     alt="Visuell representasjon av GeoGuessr-siden"
     link="https://www.geoguessr.com/maps/60511704b658d80001909f57"
     img-caption="Trykk på bildet eller her for å starte spillet."

@@ -11,6 +11,14 @@ main = { weight = 3, parent = "Petter Holstad" }
 
 <!-- markdownlint-disable MD034 MD010 -->
 
+{{% ingress %}}
+
+Jeg eier et enkeltpersonsforetak som heter **Holstad Helt og Holdent**. Foretaket hadde tidligere
+navnet Holstad Tjenester. Jeg bruker dette foretaket i mitt journalistiske arbeid, og andre
+prosjekter jeg måtte ha. På denne siden finner du kontaktinformasjon og logoen til selskapet.
+
+{{% /ingress %}}
+
 {{< img-caption
 	figure-class="float-right"
     class="rounded"
@@ -19,26 +27,29 @@ main = { weight = 3, parent = "Petter Holstad" }
     width="280"
     img-caption="Logo til Holstad Helt og Holdent"
   >}}
-
-{{% ingress %}}
-
-Jeg eier et enkeltpersonsforetak som heter **Holstad Helt og Holdent**. Foretaket hadde tidligere
-navnet Holstad Tjenester. For øyeblikket driver jeg ingen virksomhet gjennom foretaket. På denne
-siden finner du kontaktinformasjon og logoen til selskapet.
-
-{{% /ingress %}}
-
+  
 ##### Offentlig registrering
 
-Foretaket er registrert i Brønnøysundregistrene med [organisasjonsnummer
- 915&nbsp;283&nbsp;497][brreg].
+Foretaket er registrert i Brønnøysundregistrene.
+
+{{% copy
+	hiddentext="915283497"
+	ident="orgnr"
+%}}
+Organisasjonsnummer:
+[915 283 497](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915283497) {{< ext >}}
+{{% /copy %}}
 
 ##### Postadresse
 
+{{% copy
+	hiddentext="Holstad Helt og Holdent, c/o Petter Holstad, Ivan Bjørndals gate 6, 0472 Oslo"
+	ident="adresse"
+%}}
 Holstad Helt og Holdent  
 c/o Petter Holstad  
 Ivan Bjørndals gate 6  
-0472 Oslo
+0472 Oslo{{% /copy %}}
 
 ##### E-postadresse
 

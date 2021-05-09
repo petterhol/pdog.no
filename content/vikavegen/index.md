@@ -15,9 +15,10 @@ Her finner du en vegbeskrivelse for å komme frem til Vikavegen 61, 2960 Røn.
 ### Med navigasjonstjenester (GPS)
 
 Google Maps viser foreløpig ikke riktig vei hvis man tar en vegbeskrivelse direkte, men
-hvis du har kommet deg til Kiwi Røn kan du [trykke her for en nøyaktig veibeskrivelse][google].
+hvis du har kommet deg til [Kiwi Røn][google] kan du følge tekstveiledningen under.
 
 Apple Maps viser riktig hele veien, så du kan bare [trykke her][apple] for å starte navigeringen.
+(Hvis du ikke har en Apple-enhet, vil du ikke kunne bruke denne.)
 
 ### Med tekstveiledning
 
@@ -34,4 +35,4 @@ uthus.
 
 [apple]: https://maps.apple.com/?address=Vikavegen%2061,%202960%20R%C3%B8n,%20Norge&ll=61.047189,8.907710&q=Vikavegen%2061&_ext=EiYpJPFNH3eFTkAxD/7QQ//LIUA5osZze52GTkBBG/pBi3/VIUBQBA%3D%3D
 
-[google]: https://goo.gl/maps/z2bGH2vnBxHkBjAh9
+[google]: https://goo.gl/maps/PdX8ZkPJrR7gCsLv9

@@ -27,28 +27,28 @@ men også for å kunne forhindre fremtidige svindelforsøk mot andre eller rappo
 myndigheter/banker/andre som er misbrukt. Noen av de som driver med dette lager YouTube-videoer om
 temaet. Her er en liten oversikt over de jeg følger med på:
 
-- [Kitboga {{< external >}}][kitboga] ringer eller blir ringt av telefonsvindlere på direktesendt
+- [Kitboga {{< ext >}}][kitboga] ringer eller blir ringt av telefonsvindlere på direktesendt
 TV. Han spiller
 ulike egenlagde karakterer og drar ut tiden til svindlerene (videoene som ender opp på YouTube er
 som regel 40 minutter eller lengre). Formålet er å lage humoristiske videoer.
 
-- [Pleasant Green {{< external >}}][pg] har mye forskjellig av både svindelagning og liknende tema.
+- [Pleasant Green {{< ext >}}][pg] har mye forskjellig av både svindelagning og liknende tema.
 Noen videoer
 lages bare for å informere andre om mulige svindelforsøk, mens noen videoserier tar for seg forsøk
 på å få svindleren til å tjene penger på legitime måter. Svindelmetodene som vises frem her er både
 telefonsamtaler, epost og sms.
 
-- [Jim Browning {{< external >}}][jb] er den mest "tekniske" på listen, og han har klart å
+- [Jim Browning {{< ext >}}][jb] er den mest "tekniske" på listen, og han har klart å
 uautorisert tilgang til
 flere callcentres datasystemer. Et BBC-program sendt på NRK TV bruker "Jims" materiale: [Jakten på
-telefonsvindlere {{< external >}}][jpt]. I all hovedsak er dette svindlere som driver falske
+telefonsvindlere {{< ext >}}][jpt]. I all hovedsak er dette svindlere som driver falske
 kundesentre fra India.
 
-- [Atomic Shrimp {{< external >}}][as] jobber primært med å agne e-postsvindlere, men publiserer
+- [Atomic Shrimp {{< ext >}}][as] jobber primært med å agne e-postsvindlere, men publiserer
 også innhold om
 falske produkter og uriktige Facebook-annonser.
 
-- [James Veitch {{< external >}}][jv] er en komiker som har gjort noen svindelsamtaler til
+- [James Veitch {{< ext >}}][jv] er en komiker som har gjort noen svindelsamtaler til
 morsomme foredrag og småvideoer på internett. På sin egen YouTube-kanal har han publisert
 _Scamalot_-serien, men hvis du søker på "James Veitch scam" på YouTube finner du også
 foredragene der.
@@ -58,7 +58,7 @@ IP-adresse, dato og tid, brukerens dato og tid samt tidssone, hvilken nettleser 
 brukeren bruker og annen informasjon fra den som klikker. Brukeren blir så sendt videre til en annen
 adresse som du kan bestemme selv.  På mitt nettsted finnes det et par "feller" som alle leder til
 pdog.no/rickroll. Resultatene fra dette kan jeg dermed se på denne sporingssiden:
-[https://grabify.link/track/NR2PYV {{< external >}}](https://grabify.link/track/NR2PYV).
+[https://grabify.link/track/NR2PYV {{< ext >}}](https://grabify.link/track/NR2PYV).
 
 [kitboga]: https://www.youtube.com/channel/UCm22FAXZMw1BaWeFszZxUKw
 [pg]: https://www.youtube.com/channel/UCAPrhJwVweWZA8GEPoClSdw

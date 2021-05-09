@@ -54,7 +54,6 @@ ikke skal stole på én teknologi eller plattform. Det handler ikke om at jeg ha
 selskaper, plattformer, operativsystemer eller personer, men at menneskelige feil kan skje,
 selskaper kan gå konkurs og så videre.
 ***
-{{< egenrisk >}}
 
 ## 1. Start med iCloud
 
@@ -84,7 +83,7 @@ Beste praksis: bruk iCloud til å synkronisere alt du kan, og ha på iCloud-sikk
 
 Får du beskjed om at du ikke har nok plass på iCloud? Man kan kjøpe mer lagringsplass. Det er en
 billig forsikring, og dessuten utrolig praktisk. Les mer om priser på [Lagringsabonnementer og
-priser for iCloud (apple.no) {{< external >}}](https://support.apple.com/no-no/HT201238).
+priser for iCloud (apple.no) {{< ext >}}](https://support.apple.com/no-no/HT201238).
 
 ## 2. iPhone og iPad: Koble til datamaskin
 
@@ -96,7 +95,7 @@ Finder.
 
 Beste praksis: Koble til datamaskinen og ta en sikkerhetskopi jevnlig, minst en gang i uken.
 Denne artikkelen fra beskriver veldig greit hvordan man gjør det: [Slik sikkerhetskopierer du
-iPhone, iPad og iPad touch (apple.no) {{< external >}}](https://support.apple.com/no-no/HT203977#computer).
+iPhone, iPad og iPad touch (apple.no) {{< ext >}}](https://support.apple.com/no-no/HT203977#computer).
 
 ## 3. Sikkerhetskopier innholdet på datamaskinen
 
@@ -114,13 +113,13 @@ hele tiden mens du bruker maskinen.
 Jeg har ikke så mye erfaring med Windows, men det ser ut som at det er en innebygget funksjon på
 Windows 8 og oppover. Les artikkelen [Sikkerhetskopiere og gjenoprette PC-en din på Microsoft
 Kundestøtte
-(microsoft.no) {{< external >}}](https://support.microsoft.com/nb-no/help/17127/windows-back-up-restore).
+(microsoft.no) {{< ext >}}](https://support.microsoft.com/nb-no/help/17127/windows-back-up-restore).
 
 Beste praksis: Ta en sikkerhetskopi av datamaskinen jevnlig, minst hver uke. Slik setter du opp
 Time Machine på Mac:
 
 1. Koble til den eksterne harddisken. Det kan hende den må formateres først, i så fall les [Slik
-   sletter du en disk på Mac (apple.no) {{< external >}}](https://support.apple.com/no-no/HT208496).
+   sletter du en disk på Mac (apple.no) {{< ext >}}](https://support.apple.com/no-no/HT208496).
 
 2. Slå på Time Machine ved å gå til Apple-logoen > Systemvalg > Time Machine > Velg
    sikkerhetskopidisk. Velg den du har koblet til.

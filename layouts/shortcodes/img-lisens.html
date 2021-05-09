@@ -1,0 +1,12 @@
+<img
+    class="{{ .Get "class" }}"
+    src="{{ .Get "src" }}"
+    alt="{{ .Get "alt" }}"
+/>
+<small class="text-muted">
+<i class="fas fa-gavel"></i>
+{{ .Get "type" }} av <a href="{{ .Get "artistlink" }}">{{ .Get "artist" }}<sup><i class="fas fa-external-link-alt"></i></sup></a>, hentet på
+<a href="{{ .Get "sourcelink" }}">{{ .Get "source" }}<sup><i class="fas fa-external-link-alt"></i></sup></a>, lisensiert under
+<a href="{{ .Get "lisenslink" }}">{{ .Get "lisens"}}<sup><i class="fas fa-external-link-alt"></i></sup></a>.
+</small>
+<br><br>
