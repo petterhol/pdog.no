@@ -22,8 +22,8 @@ endre URL-er på internett for å få tilgang til data. Med mindre tjenesten leg
 
 Les mer:
 
-- [Vegvesenet-dommen: - Tydeligvis ulovlig å endre URL-er! {{< external >}}][k24] (kode24.no)
-- [Dom kan endre måten nordmenn har lov til å bruke internett på {{< external >}}][tv2] (tv2.no)
+- [Vegvesenet-dommen: - Tydeligvis ulovlig å endre URL-er! {{< ext >}}][k24] (kode24.no)
+- [Dom kan endre måten nordmenn har lov til å bruke internett på {{< ext >}}][tv2] (tv2.no)
 
 {{< tilbakeknapp >}}
 
