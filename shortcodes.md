@@ -1,6 +1,7 @@
 # Om denne siden
 
-Her legger jeg inn alle Markdown-malene til shortcodes jeg bruker på nettsiden, slik at jeg lett kan finne dem igjen.
+Her legger jeg inn alle Markdown-malene til shortcodes jeg
+bruker på nettsiden, slik at jeg lett kan finne dem igjen.
 Variabler merkes med fem x-sympboler: ```xxxxx``` og vi bruker
 [Code and Syntax Highlighting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code-and-syntax-highlighting)
 for å gjerde inn koden.
