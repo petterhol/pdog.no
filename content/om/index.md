@@ -49,10 +49,11 @@ skrevet om.
 {{% card header="Oversikt over domener" %}}
 
 - pdog.no (tilknyttet webhotell og e-post)  
+- p-dog.no (alternativ staving av hoveddomenet)  
 - petterholstad.no (annet domene brukt til epost)  
 - heltogholdent.no  (lenkes direkte til [siden om enkeltpersonsforetaket](../heltogholdent))
 
-Alle domenene er registert hos [Domeneshop {{< external >}}](https://domene.shop), mens
+Alle domenene er registert hos [Domeneshop {{< ext >}}](https://domene.shop), mens
 e-posttjeneren er iCloud.
 
 {{% /card %}}
@@ -70,13 +71,13 @@ henter også inn eksterne ikoner fra
 [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use).
 
 **Kontaktskjema:** Jeg bruker et kontaktskjema flere steder på nettsiden. Dette skjemaet bruker et
-script fra [Domeneshop {{< external >}}](https://domene.shop/faq?id=61&section=21), og sender
+script fra [Domeneshop {{< ext >}}](https://domene.shop/faq?id=61&section=21), og sender
 e-poster til meg direkte. Innholdet, samt personopplysningene du har valgt å legge ved, blir bare
 brukt til det formålet som var klart da du sendte inn skjemaet. Opplysningene i skjemaet lagres
 ingen andre steder enn i min personlige e-postkasse.
 
 **Eksterne lenker:** Nettsiden lenker til flere eksterne nettsider. Alle eksterne nettsider er
-markert med {{< external>}}-ikonet.
+markert med {{< ext >}}-ikonet.
 
 **Innebygde elementer på nettsiden**:
 
@@ -84,22 +85,22 @@ markert med {{< external>}}-ikonet.
 Traveller](timtraveller) og [Tom Scott](tomscott) bruker alle innbygde elementer fra Google MyMaps.
 Nettsiden [Kart og kompass](visitt/kartogkompass) bruker innebygde elementer fra Google Maps. Alt er
 underlagt
-[Googles personvernserklæring {{< external>}}](https://safety.google/privacy/).
+[Googles personvernserklæring {{< ext >}}](https://safety.google/privacy/).
 
 - Ruters reiseforslag kan være underlagt
-[Personvern i Ruters tjenester {{< external>}}](https://ruter.no/fa-hjelp/vilkar/personvern/).
+[Personvern i Ruters tjenester {{< ext >}}](https://ruter.no/fa-hjelp/vilkar/personvern/).
 Innebygde elementer fra Ruter bruker i følge Ruters personvernsombud januar 2021 ingen
 sporere.
 Ruters sanntidsskjerm (MON) har en egen personvernsside på
-[MON og personvern {{< external>}}][mon]
+[MON og personvern {{< ext >}}][mon]
 
 - Hvis du havner inn på [rickroll.htm](http://pdog.no/rickroll) har du sannsynligvis blitt
-utsatt for et [Grabify {{< external >}}](https://grabify.link)-forsøk.  Dette henter
+utsatt for et [Grabify {{< ext >}}](https://grabify.link)-forsøk.  Dette henter
 informasjon din klient sender fra deg, som IP-adresse, nettleser med mer. Du kan lese mer
 om denne på siden min om [scambaiting](../scambaiting).
 
 - Sider med YouTube-spiller kan være underlagt
-[YouTube API Services Terms of Service {{< external>}}][yt].
+[YouTube API Services Terms of Service {{< ext>}}][yt].
 
 Jeg jobber stadig for å forbedre denne oversikten med mer konkret informasjon.
 
@@ -114,19 +115,19 @@ Jeg jobber stadig for å forbedre denne oversikten med mer konkret informasjon.
 det redaksjonelle innholdet ble i hovedsak utformet av Petter Holstad, med diverse innspill.
 
 **v2:** Den nåværende versjonen av nettsiden er bygget på et
-[Bootstrap-rammenettverk. {{< external >}}](https://getbootstrap.com) Innholdet skrives i
-[Markdown-språket {{< external >}}](https://daringfireball.net/projects/markdown/syntax), og
+[Bootstrap-rammenettverk. {{< ext >}}](https://getbootstrap.com) Innholdet skrives i
+[Markdown-språket {{< ext >}}](https://daringfireball.net/projects/markdown/syntax), og
 konverteres med
-[Hugo {{< external >}}](https://gohugo.io). På min Mac bruker jeg appene
-[BBEdit {{< external>}}](https://www.barebones.com/products/bbedit/) til å redigere
-.md- og .html-filene, [Pixelmator {{< external >}}](https://www.pixelmator.com) til
+[Hugo {{< ext >}}](https://gohugo.io). På min Mac bruker jeg appene
+[BBEdit {{< ext>}}](https://www.barebones.com/products/bbedit/) til å redigere
+.md- og .html-filene, [Pixelmator {{< ext >}}](https://www.pixelmator.com) til
 bildemanipulering og
-[FileZilla {{< external >}}](https://filezilla-project.org) til FTP-overføringer. På GitHub sjekkes
+[FileZilla {{< ext >}}](https://filezilla-project.org) til FTP-overføringer. På GitHub sjekkes
 filene etter markdownlint og hugo før de flettes i main. Nettsiden er utviklet av Stig Johan
 Berggren, innholdet er i hovedsak av Petter Holstad med diverse bidragsytere.
 
 **v2.1**: Denne versjonen skal implementere oversettelser - i første omgang engelsk. Foreløpig er
-dette bare på idéstadiet, og kan følges på [GitHubs prosjektsider {{< external >}}](git2).
+dette bare på idéstadiet, og kan følges på [GitHubs prosjektsider {{< ext >}}](git2).
 
 [git2]: https://github.com/Stigjb/pdog.no/projects/1
 
@@ -134,14 +135,14 @@ dette bare på idéstadiet, og kan følges på [GitHubs prosjektsider {{< extern
 
 {{% card header="Lisens" %}}
 
-Jeg tror på en verden der man kan dele det man lager med andre, og velger derfor å bruke en
-Creative Commons-lisens på det mestre jeg lager. Forutsatt at man krediterer,
-ikke bruker innholdet kommersielt og deler på like vilkår, kan man bruke følgende innhold
-etter [CC-BY-NC-SA 4.0 {{< external >}}][cc]:
+I all hovedsak ønsker jeg å tilby det jeg lager relativt fritt tilgjengelig for ikke-kommersielle
+formål. Jeg har derfor valgt å bruke 
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International CC-BY-NC-SA 4.0 {{< ext >}}][cc]
+til det aller meste av innholdet på nettsiden. Med mindre annet er nevnt, gjelder den følgende:
 
-- Nettsidens kildekode (bortsett fra innebygde elementer fra tredjeparter).
-- Nettsidens tekster.
-- Bilder uten bildekreditering.
+- Nettsidens tekst.
+- Bilder på nettsiden.
+- Kildekoden til nettsiden, med unntak av innebygde tredjepartselementer.
 
 Noen bilder på nettsiden er opphavsrettbeskyttet eller beskyttet av en annen lisens. Dette gjelder
 alle innebygde elementer (Google MyMaps, YouTube m.m).
@@ -153,6 +154,8 @@ I de fleste tilfeller er andre lisenser markert med følgende:
   lisensnavn="Eksempel"
   lisenslink="#"
   >}}
+  
+Alt som ikke faller innunder definisjonen over, vil falle under ordinær opphavsrett.
 
 Hvis du vil bruke noe kommersielt, eller er i tvil på hvordan du kan bruke innholdet,
 er det ikke verre enn at du bare [tar kontakt](../kontaktinfo) med meg.
@@ -180,7 +183,10 @@ er at det må være oppført i en ordbok, brukt av norsk media eller på annen m
 
 Jeg tar hjertelig imot alle bidrag og tilbakemeldinger til nettsiden. Hvis du er kjent med GitHub og
 Markdown, er kodeforbedringer og innholdsbidrag hjertelig velkommen der:
-[petterhol/pdog.no {{< external >}}][git].
+[petterhol/pdog.no {{< ext >}}][git].
+
+Følgende prosjekter har spesifikke instruksjoner for hvordan du best gir tilbakemelding:
+- Tom Scott (nedlastbar, lesbar HTML-fil)
 
 Forøvrig er alle andre tilbakemeldinger best å [kontakte meg](../kontaktinfo) for.
 
