@@ -99,7 +99,9 @@ en liten grusvei innover til noen åkre og en gård, grønne trær står i veien
 *Saken*: En av de mest omtalte drapssakene i Norge, hvor tre familiemedlemmer ble skutt og drept
 22. mai 1999.
 
-*Stedet*: Det er ikke mulig å kjøre inn på [Orderud gård {{< ext >}}](https://goo.gl/maps/JFpcwR7cgnMrMDWy8), men vi ser gården fra veien. Hint om Sørumsand finnes
+*Stedet*: Det er ikke mulig å kjøre inn på
+[Orderud gård {{< ext >}}](https://goo.gl/maps/JFpcwR7cgnMrMDWy8), men vi ser gården
+fra veien. Hint om Sørumsand finnes
 i umiddelbar nærhet.
 
 Lær mer:
@@ -137,7 +139,9 @@ gikk til Frydendal Varehandel for å kjøpe is og godteri, men kom aldri hjem ig
 
 Lær mer:
 
-- [Marianne-saken på TV 2 Sumo {{< ext >}}](https://sumo.tv2.no/programmer/fakta/mysteriet-marianne) - [Marianne-saken på norsk Wikipedia
+- [Marianne-saken på
+TV 2 Sumo {{< ext >}}](https://sumo.tv2.no/programmer/fakta/mysteriet-marianne)
+- [Marianne-saken på norsk Wikipedia
 {{< ext >}}](https://no.wikipedia.org/wiki/Marianne-saken)
 
 {{% /crimescene %}}
