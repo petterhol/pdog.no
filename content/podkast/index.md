@@ -214,7 +214,7 @@ pocket="https://pca.st/tria"
 <span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-info
 text-white">Gode historier</span> <span class="badge bg-dark text-white">Video</span>
 
-Dette var en ukentlig podkast som dessverre er tatt ut av produksjon, men et arkiv på 427 episoder
+Dette var en ukentlig podkast som dessverre er tatt ut av produksjon, men et arkiv på 428 episoder
 er fortsatt verdifult. En rekke spenennde intervjuer innen teknologi og fremtid.
 
 {{% /podkastkort %}}

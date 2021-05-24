@@ -23,21 +23,24 @@ Ved å snu opp-ned på denne tankegangen, kan du få en bedre arbeidsflyt.
 Bildet over viser min foreslåtte arbeidsflyt:
 
 1. Start med vedlegget - fordi dette er veldig enkelt å glemme. Ofte kan man "dele" vedlegget
-direkte fra programmet du skapte det i, det gjør det enda enklere. 2. Skriv brødteksten - før du
-har vurdert hvem som skal være mottakere. 3. Velg avsenderadresse. Hvis du har flere roller, kan du
-ha flere avsenderadresser. Velg dette nå - så blir den ikke sendt fra feil konto. 4. Skriv et godt
-emne. Den bør oppsummere hva som står i e-postmeldingen i én kort setning. 5. Skriv inn mottakere i
-"til", "kopi", og "blindkopi", du har en bedre oversikt over hvem som burde få meldingen nå som du
-har bestemt deg for hva den skal inneholde. 6. Trykk send.
+direkte fra programmet du skapte det i, det gjør det enda enklere.
+2. Skriv brødteksten - før du har vurdert hvem som skal være mottakere.
+3. Velg avsenderadresse. Hvis du har flere roller, kan du ha flere avsenderadresser.
+Velg dette nå - så blir den ikke sendt fra feil konto.
+4. Skriv et godt emne. Den bør oppsummere hva som står i e-postmeldingen i én kort setning.
+5. Skriv inn mottakere i "til", "kopi", og "blindkopi", du har en bedre oversikt over hvem som
+burde få meldingen nå som du har bestemt deg for hva den skal inneholde.
+6. Trykk send.
 
 ## Hva er i et godt emnefelt?
 
 Her er det ikke noe gode fasitsvar, men står du fast kan du bruke disse veiledningene:
 
-- Hva vil skille e-posten fra andre e-poster i innboksen til mottaker? - Bruk ord og uttrykk som er
-lett å søke på hvis man skal lete den frem senere. - Ikke bruk ord som "Viktig", "Haster" o.l. Er
-det viktig nok, kan du varsle på en annen måte. - Har du et referansenummer, bruk det! - Styr unna
-utropstegn, smilefjes og andre tivolieffekter.
+- Hva vil skille e-posten fra andre e-poster i innboksen til mottaker?
+- Bruk ord og uttrykk som er lett å søke på hvis man skal lete den frem senere.
+- Ikke bruk ord som "Viktig", "Haster" o.l. Er det viktig nok, kan du varsle på en annen måte.
+- Har du et referansenummer, bruk det!
+- Styr unna utropstegn, smilefjes og andre tivolieffekter.
 
 ## Forskjell på til, kopi, blindkopi og svar til
 
@@ -96,12 +99,11 @@ selskap er man gjerne tvunget til å bruke en stor signatur med all mulig inform
 
 - Firmalogo i en signatur er kanskje lurt hvis du presenterer deg for første gang til en ny kunde
 eller ekstern kontakt, men å ha det i drøssevis av mailer mellom ansatte i samme firma er bare å
-bruke unødvendig båndbredde og lagringskapasitet. - Å ha e-postadressen sin i en e-postsignatur er
-svært motstridende, denne er jo tilgjengelig når man ser på avsenderinformasjonen, og man trenger
-den ikke for å svare på e-posten. - Lenker til sosiale medier er unødvendig. Jeg tror nok heller at
-de som vil oppsøke firmaet, klarer å søke det opp selv. - Legal disclaimers er sannsynligvis
-unødvendige å bruke innad i firmaet, og forhåpentligvis utenfor også. - Sitater, e-postbannere og
-annet tull tar bare opp plass på skjermen.
+bruke unødvendig båndbredde og lagringskapasitet.
+- Å ha e-postadressen sin i en e-postsignatur er svært motstridende, denne er jo tilgjengelig når man ser på avsenderinformasjonen, og man trenger den ikke for å svare på e-posten.
+- Lenker til sosiale medier er unødvendig. Jeg tror nok heller at de som vil oppsøke firmaet, klarer å søke det opp selv.
+- Legal disclaimers er sannsynligvis unødvendige å bruke innad i firmaet, og forhåpentligvis utenfor også.
+- Sitater, e-postbannere og annet tull tar bare opp plass på skjermen.
 
 {{% /expand %}}
 
@@ -119,8 +121,8 @@ mottaker, legger jeg ved det. Alt er i ren tekst, uten noen form for innramming 
 
 - Hvis du bruker en Mac-datamaskin, kan du bruke det innebygde verktøyet for teksterstatning. Du
 finner det ved å gå på Apple-logoen () -> Systemvalg -> Tastatur -> Tekst. Les mer i
-[bruksanvisningen {{< ext >}}](https://support.apple.com/no-no/guide/mac-help/mh35735/mac). -
-[TextExpander {{< ext >}}](https://textexpander.com) for Mac, iOS, Windows og Chrome er et mye
+[bruksanvisningen {{< ext >}}](https://support.apple.com/no-no/guide/mac-help/mh35735/mac).
+- [TextExpander {{< ext >}}](https://textexpander.com) for Mac, iOS, Windows og Chrome er et mye
 kraftigere verktøy, hvor du også kan legge inn formatering og bilder.
 
 {{% /expand %}}
@@ -130,7 +132,8 @@ kraftigere verktøy, hvor du også kan legge inn formatering og bilder.
 Når du videresender e-post, tenk på følgende:
 
 - **Vedlegg**: Tenk over om det har vært vedlegg i den tråden du videresender, og om det er
-meningen at mottakeren skal motta disse. - **Interne diskusjoner**: Inneholder den videresendte
+meningen at mottakeren skal motta disse.
+- **Interne diskusjoner**: Inneholder den videresendte
 e-posttråden interne diskusjoner før du har bestemt deg for å sende videre meldingen? Fjern dette i
 så fall.
 

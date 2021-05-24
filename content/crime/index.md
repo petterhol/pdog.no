@@ -1,6 +1,5 @@
 +++
-linktitle = "Åsteder i Norge"
-title = "GeoGuessr: Crime Scenes in Norway"
+title = "Åsteder i Norge (med GeoGuessr)"
 lastmod = 2020-10-06T22:00:00
 [menu]
 main = { parent = "Kart og reiser", weight = 10 }
@@ -37,11 +36,13 @@ Du skal finne ut hvor du er på Google Maps, og du får poeng for hvor nærme du
 spillet er å bli sluppet hvor som helst på et forhåndsdefinert område, og da er det opp til deg å
 finne ledetråder som
 
-- geografiske store funksjoner som fjell, vann, hav, landtype - språk på skilt og plakater, for å
-utelukke en rekke land det neppe er - antatt etnesintet på mennesker for å lande verdensdel -
-informasjon om toppnivådomener, internasjonale telefonnumre, forkortelser på selskapstyper -
-veimerking og veiskilt, som ofte er nasjonalt bestemt - veinummer, som ofte kan plassere deg et
-bestemt sted i et land - skilt som rett og slett sier hvor du er
+- geografiske store funksjoner som fjell, vann, hav, landtype
+- språk på skilt og plakater, for å utelukke en rekke land det neppe er
+- antatt etnesintet på mennesker for å lande verdensdel
+- informasjon om toppnivådomener, internasjonale telefonnumre, forkortelser på selskapstyper
+- veimerking og veiskilt, som ofte er nasjonalt bestemt
+- veinummer, som ofte kan plassere deg et bestemt sted i et land
+- skilt som rett og slett sier hvor du er
 
 Brukere kan også lage egne kart. Da kan man enten definere et område, eller velge punkter. Det er
 sistnevnte som er brukt i disse kartene som beskrives på denne siden.
@@ -66,7 +67,10 @@ kunne lære mer om det gjennom dokumentarer og Wikipedia-artikler.
 
 {{< card-deck >}}
 
-{{% crimescene src="S01E0.png" ident="S01E0" header="Start spillet på GeoGuessr" alt=""
+{{% crimescene src="S01E0.png"
+	ident="S01E0"
+	header="Start spillet på GeoGuessr" 
+	alt=""
 %}}
 
 Hvis du vil starte å spille, gå til [GeoGuessr {{< ext
@@ -89,8 +93,9 @@ Anne-Elisabeth Hagen ble angivelig bortført fra sitt hjem i Lørenskog 31. okto
 
 Lær mer:
 
-- [Åsted Norge: Savnet (S1E3) på TV2 Sumo {{< ext >}}](https://sumo.tv2.no/programmer/fakta/aasted-norge-savnet/sesong-1/aasted-norge-savnet-1-
-episode-3-1568652.html?showPlayer=true) - [Lørenskog-forsvinningen på norsk Wikipedia {{< ext
+- [Åsted Norge: Savnet (S1E3) på TV 2 Sumo
+{{< ext >}}](https://bit.ly/3hUqbrt)
+- [Lørenskog-forsvinningen på norsk Wikipedia {{< ext
 >}}](https://no.wikipedia.org/wiki/Lørenskog-forsvinningen)
 
 {{% /crimescene %}}
@@ -112,7 +117,8 @@ i umiddelbar nærhet.
 
 Lær mer:
 
-- [Gåten Orderud på NRK TV {{< ext >}}](https://tv.nrk.no/serie/gaaten-orderud) - [Orderud-saken på
+- [Gåten Orderud på NRK TV {{< ext >}}](https://tv.nrk.no/serie/gaaten-orderud)
+- [Orderud-saken på
 norsk Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Orderud-saken)
 
 {{% /crimescene %}}
@@ -131,7 +137,8 @@ ext >}}](https://goo.gl/maps/Twzfobx35NumiRZx5) er nært nok.
 
 Lær mer:
 
-- [Nokas-filmen på IMDB {{< ext >}}](https://www.imdb.com/title/tt1337366/). - [NOKAS-ranet på
+- [Nokas-filmen på IMDB {{< ext >}}](https://www.imdb.com/title/tt1337366/).
+- [NOKAS-ranet på
 norsk Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/NOKAS-ranet)
 
 {{% /crimescene %}}
@@ -173,10 +180,9 @@ representert med Utøya, som er AUFs sommerleirøy.
 
 Lær mer:
 
-- [22. juli-serien på NRK TV {{< ext >}}](https://tv.nrk.no/serie/22-juli) - [Terrorangrepene i
-Norge 2011 på norsk Wikipedia {{< ext
-
->}}](https://no.wikipedia.org/wiki/Terrorangrepene_i_Norge_2011)
+- [22. juli-serien på NRK TV {{< ext >}}](https://tv.nrk.no/serie/22-juli)
+- [Terrorangrepene i
+Norge 2011 på norsk Wikipedia {{< ext>}}](https://no.wikipedia.org/wiki/Terrorangrepene_i_Norge_2011)
 
 {{% /crimescene %}}
 

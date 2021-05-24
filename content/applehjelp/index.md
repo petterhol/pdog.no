@@ -15,10 +15,16 @@ før jeg begynner:
 
 {{% /ingress %}}
 
+{{< img
+ class="img-fluid"
+ src="bilde.png"
+ alt="Illustrasjon"
+>}}
+
 ## Generelt
 
-- Jeg kan bare snakke på vegne av min selvlærte kompetanse, og all jobb jeg gjør vil være uten noen
-form for garanti for at det vil fungere eller at vi får det til.
+- Jeg kan bare hjelpe deg basert på hva jeg selv kan og vet, og all jobb jeg gjør vil
+være uten noen form for garanti for at det vil fungere eller at vi får det til.
 
 - Hvis det er risiko for å ødelegge noe, vil jeg si ifra om det på forhånd, og risikoen overføres
 til deg.
@@ -45,8 +51,9 @@ for meg at du allerede har en tilfredsstillende sikkerhetskopi, kan dette kravet
     bait="Jeg aksepterer vilkårene på denne siden og vil ha hjelp"
     %}}
 
-Tusen takk - da kan vi sette i gang. Oppgi denne koden til Petter: DOGP42 for å verifisere at du
-godtok vilkårene.
+Tusen takk - da kan vi sette i gang. Oppgi denne unike 
+koden til Petter: DOGP42 for å verifisere at du
+godtok vilkårene. Ikke del koden med noen - den er bare din.
 
 {{% /expand-btn %}}
 
