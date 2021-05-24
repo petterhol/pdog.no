@@ -3,6 +3,8 @@ title = "Got Geo? Special Event May 2021"
 lastmod = 2020-10-06T22:00:00
 +++
 
+<!-- markdownlint-disable MD034 -->
+
 {{% ingress %}}
 
 You're invited to a high level, groundbreaking, healthwarming,
@@ -36,6 +38,7 @@ Petter "Dog" Holstad and crew.
 #### I'm all in - where is it?
 
 Due to the current global health event, this Special Event is held in the cyberspace.
+More specifically, it will be hosted on our Discord channel.
 
 #### Sounds really exclusive - who's invited?
 
@@ -44,7 +47,7 @@ Anyone in the Got Geo? chat with previous guesser experience.
 #### Okay - final very frequently asked question, WHEN?
 
 Due to our shifting time tables, that's up to you. I've created a Doodle to schedule it
-a time before May is over.
+a time before May is over. Page will be updated when the time is decided.
 
 {{% button-large
  color="primary"
