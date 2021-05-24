@@ -18,7 +18,6 @@ main = { weight = 3, parent = "Mat"}
     alt="En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen."
     link="sushi.jpg"
     img-caption="Aktuell sushi ferdig tilbredt. Trykk for å se stort format."
-  >}}
 
 {{% ingress %}}
 
