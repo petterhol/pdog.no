@@ -100,9 +100,13 @@ selskap er man gjerne tvunget til å bruke en stor signatur med all mulig inform
 - Firmalogo i en signatur er kanskje lurt hvis du presenterer deg for første gang til en ny kunde
 eller ekstern kontakt, men å ha det i drøssevis av mailer mellom ansatte i samme firma er bare å
 bruke unødvendig båndbredde og lagringskapasitet.
-- Å ha e-postadressen sin i en e-postsignatur er svært motstridende, denne er jo tilgjengelig når man ser på avsenderinformasjonen, og man trenger den ikke for å svare på e-posten.
-- Lenker til sosiale medier er unødvendig. Jeg tror nok heller at de som vil oppsøke firmaet, klarer å søke det opp selv.
-- Legal disclaimers er sannsynligvis unødvendige å bruke innad i firmaet, og forhåpentligvis utenfor også.
+- Å ha e-postadressen sin i en e-postsignatur er svært
+motstridende, denne er jo tilgjengelig når man ser på avsenderinformasjonen, og man trenger den
+ikke for å svare på e-posten.
+- Lenker til sosiale medier er unødvendig. Jeg tror nok heller at de som vil oppsøke firmaet,
+klarer å søke det opp selv.
+- Legal disclaimers er sannsynligvis unødvendige å bruke innad i firmaet, og forhåpentligvis
+utenfor også.
 - Sitater, e-postbannere og annet tull tar bare opp plass på skjermen.
 
 {{% /expand %}}

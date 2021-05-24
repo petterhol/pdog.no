@@ -68,9 +68,9 @@ kunne lære mer om det gjennom dokumentarer og Wikipedia-artikler.
 {{< card-deck >}}
 
 {{% crimescene src="S01E0.png"
-	ident="S01E0"
-	header="Start spillet på GeoGuessr" 
-	alt=""
+    ident="S01E0"
+    header="Start spillet på GeoGuessr"
+    alt=""
 %}}
 
 Hvis du vil starte å spille, gå til [GeoGuessr {{< ext

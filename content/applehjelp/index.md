@@ -51,7 +51,7 @@ for meg at du allerede har en tilfredsstillende sikkerhetskopi, kan dette kravet
     bait="Jeg aksepterer vilkårene på denne siden og vil ha hjelp"
     %}}
 
-Tusen takk - da kan vi sette i gang. Oppgi denne unike 
+Tusen takk - da kan vi sette i gang. Oppgi denne unike
 koden til Petter: DOGP42 for å verifisere at du
 godtok vilkårene. Ikke del koden med noen - den er bare din.
 

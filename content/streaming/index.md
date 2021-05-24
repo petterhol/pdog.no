@@ -58,7 +58,7 @@ er at du da veldig lett kan løse inn gavekortet, uten å måtte ha et pågåend
 Her er en liste over strømmetjenester med gavekort:
 
 - Netflix tilbyr gavekort på nett eller i butikker (i følge nettsiden kan man kjøpe det på Coop,
-GameStop, Elkjøp, Meny og Kiwi). [netflix.com](https://www.netflix.com/gift-cards) 
+GameStop, Elkjøp, Meny og Kiwi). [netflix.com](https://www.netflix.com/gift-cards).
 - TV 2 Sumo
 tilbyr gavekort gjennom
 [gogift.com](https://giftcard-engine.gogift.com/NO/shop/tvsumo/#/giftcards).

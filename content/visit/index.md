@@ -423,7 +423,7 @@ du finner nr. 6.
 
 Ring på Holstad/Øyen og ta heis/trapp til 4. etasje.
 
-Retur med kollektivtransport? 
+Retur med kollektivtransport?
 Dette er to varianter av _sanntidstavler_ som viser avganger basert på
 Ivan Bjørndals gate 6:
 
