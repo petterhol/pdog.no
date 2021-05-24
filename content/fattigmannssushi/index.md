@@ -11,10 +11,13 @@ main = { weight = 3, parent = "Mat"}
 
 <!-- markdownlint-disable MD010 -->
 
-{{< img-caption figure-class="float" class="rounded" src="sushi liten.jpg" alt="En ferdig servert
-rett av den aktuelle oppskriften som presenteres i denne artikkelen." link="sushi.jpg"
-img-caption="Aktuell sushi ferdig tilbredt. Trykk for å se stort format."
-  >}}
+{{< img-caption
+    figure-class="float"
+    class="rounded"
+    src="sushi liten.jpg"
+    alt="En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen."
+    link="sushi.jpg"
+    img-caption="Aktuell sushi ferdig tilbredt. Trykk for å se stort format."
 
 {{% ingress %}}
 

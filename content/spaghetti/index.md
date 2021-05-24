@@ -8,9 +8,13 @@ main = { weight = 4, parent = "Mat"}
 
 <!-- markdownlint-disable MD010 -->
 
-{{< img-caption figure-class="float" class="rounded" src="kylling liten.jpg" alt="En ferdig servert
-rett av den aktuelle oppskriften som presenteres i denne artikkelen." link="kylling.jpeg"
-img-caption="Aktuell kyllingrett ferdig tilbredt. Trykk for å se stort format."
+{{< img-caption
+    figure-class="float"
+    class="rounded"
+    src="kylling liten.jpg"
+    alt="En ferdig servert rett av den aktuelle oppskriften som presenteres i denne artikkelen."
+    link="kylling.jpeg"
+    img-caption="Aktuell kyllingrett ferdig tilbredt. Trykk for å se stort format."
   >}}
 
 {{% ingress %}}

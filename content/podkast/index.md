@@ -54,9 +54,13 @@ produktivitet. De har også ofte intervjuer med spennende personligheter i tekno
 
 {{% /podkastkort %}}
 
-{{% podkastkort header="Mac Geek Gab" src="mgg.jpg" utgiver="The Mac Observer" hyppighet="Hver
-mandag" varighet="Rundt 1,5 timer" offisiell="https://www.macobserver.com/show/mac-geek-gab/"
-pocket="https://pca.st/utSmPM"
+{{% podkastkort
+    header="Mac Geek Gab"
+    src="mgg.jpg"
+    utgiver="The Mac Observer"
+    hyppighet="Hver mandag" varighet="Rundt 1,5 timer"
+    offisiell="https://www.macobserver.com/show/mac-geek-gab/"
+    pocket="https://pca.st/utSmPM"
  %}}
 
 <span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-dark
@@ -80,9 +84,14 @@ To journalister tar opp interessante og helsprø historier fra teknologiverdenen
 
 {{% /podkastkort %}}
 
-{{% podkastkort header="The Omni Show" src="tms.jpg" utgiver="The Omni Group" hyppighet="Annenhver
-uke" varighet="Mellom 30-45 min" offisiell="https://theomnishow.omnigroup.com"
-pocket="https://pca.st/vSi2"
+{{% podkastkort
+    header="The Omni Show"
+    src="tms.jpg"
+    utgiver="The Omni Group"
+    hyppighet="Annenhver uke"
+    varighet="Mellom 30-45 min"
+    offisiell="https://theomnishow.omnigroup.com"
+    pocket="https://pca.st/vSi2"
  %}}
 
 <span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-primary
@@ -105,10 +114,13 @@ Leo Laporte og Steve Gibson diskuterer den siste ukas nyheter innen IT-sikkerhet
 
 {{% /podkastkort %}}
 
-{{% podkastkort header="The WAN Show" src="wan.jpg" utgiver="Linus Tech Tips" hyppighet="Hver
-mandag" varighet="Opp til 1,5 time"
-offisiell="https://www.youtube.com/playlist?list=PL8mG-RkN2uTw7PhlnAr4pZZz2QubIbujH"
-pocket="https://play.pocketcasts.com/podcasts/1d433a40-79f6-0133-2d19-6dc413d6d41d"
+{{% podkastkort
+    header="The WAN Show"
+    src="wan.jpg"
+    utgiver="Linus Tech Tips"
+    hyppighet="Hver mandag" varighet="Opp til 1,5 time"
+    offisiell="https://www.youtube.com/playlist?list=PL8mG-RkN2uTw7PhlnAr4pZZz2QubIbujH"
+    pocket="https://play.pocketcasts.com/podcasts/1d433a40-79f6-0133-2d19-6dc413d6d41d"
  %}}
 
 <span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-dark
@@ -119,9 +131,13 @@ fra kanalen, samt interessante teknologinyheter.
 
 {{% /podkastkort %}}
 
-{{% podkastkort header="Lørdagsrådet" src="lr.jpg" utgiver="NRK" hyppighet="Hver lørdag + ofte
-bonuspodd hver uke" varighet="Litt over 2 timer"
-offisiell="https://radio.nrk.no/podkast/loerdagsraadet" pocket="https://pca.st/BLAQ"
+{{% podkastkort
+    header="Lørdagsrådet"
+    src="lr.jpg"
+    utgiver="NRK"
+    hyppighet="Hver lørdag + ofte bonuspodd hver uke"
+    varighet="Litt over 2 timer"
+    offisiell="https://radio.nrk.no/podkast/loerdagsraadet" pocket="https://pca.st/BLAQ"
  %}}
 
 <span class="badge bg-warning text-white">Underholdning</span>
