@@ -23,8 +23,6 @@ så du trenger ikke åpne personens visningsside for å se disse opplysningene.
 
 Korrigering, endring og sletting: Ikke mulig med mindre du ikke lengre skatter til Norge.
 
-img: skattelister
-
 [Søk i skattelistene på skatteetaten.no {{< ext >}}
 ](https://www.skatteetaten.no/person/skatt/skatteoppgjor/skattelistene/)
 

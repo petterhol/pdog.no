@@ -18,27 +18,28 @@ Her er en guide til hvordan du kan spare penger på strømmetjenester. på enhet
 
 Noen ting du kanskje allerede abonnerer på, har strømmetjenestene inkludert. For eksempel
 mobilabonnementet ditt, eller det TV-abonnementet som du har inkludert i leiekostnader, men ikke
-bruker.
-
-Noen tilbyr bare prøveperioder.
+bruker. Noen tilbyr bare prøveperioder.
 
 Liste over abonnementer jeg kjenner til er inkludert i ulike former:
 
 - NRK TV betaler alle gjennom skatteseddelen, hvis du har en norsk bostedsadresse, kan man se
 [programmene i hele EØS](https://innlogging.nrk.no/bruker). - Chili Mobil (mobilabonnement) gir deg
 [2 måneder gratis TV 2 Sumo](https://www.chilimobil.no/sporsmal-hjelp/tv2-sumo/#2-mnd-gratis),
-deretter rabattert pris på abonnementet. - Telenor t-we (tv-abonnement) er av og til inkludert i
+deretter rabattert pris på abonnementet.
+- Telenor t-we (tv-abonnement) er av og til inkludert i
 blokker og leiligheter. Hvis du har dette, kan du ha [rett på 100 "poeng" til gode, inkludert i
 leien](https://www.telenor.no/privat/tv/t-we/innholdsoversikt/). Her kan du velge mellom ABC
 Studios, Fox+ HBO Nordic, Natural Geographic Now, Nordisk Film+, Paramount+, TNT, BBC Arkiv, Disney
-Xtra, FOX Arkiv, Nickelodeon+, V Film Arkiv, Viaplay. - Telia sine mobiltelefonabonnement kan
+Xtra, FOX Arkiv, Nickelodeon+, V Film Arkiv, Viaplay.
+- Telia sine mobiltelefonabonnement kan
 [starte abonnement på HBO Nordic og Eurosport Player (og Spotify og
 Storytel)](https://www.telia.no/strommetjenester/). På HBO kan du få en måned gratis. Å betale via
-mobilabonnementet kan være greit forøvrig hvis noen andre betaler regningen og godtar kostnaden. -
-RiksTV gir deg [HBO Nordic kostnadsfritt i 6
+mobilabonnementet kan være greit forøvrig hvis noen andre betaler regningen og godtar kostnaden.
+- RiksTV gir deg [HBO Nordic kostnadsfritt i 6
 måneder](https://www.rikstv.no/film-og-serier/hbo-nordic/). - Er du Viasat-kunde, får du [Viaplay
 inkludert](https://www.viasat.no/viaplay). - Strim gir deg tilgang på [HBO Nordic, Viaplay Film &
-Serier og Paramount+](https://www.strim.no) i tillegg til norske TV-kanaler. - YouTube Premium er
+Serier og Paramount+](https://www.strim.no) i tillegg til norske TV-kanaler.
+- YouTube Premium er
 tilgjengelig for [studenter til halv pris](https://www.youtube.com/premium/student).
 
 ## Ikke start alt samtidig
@@ -57,6 +58,7 @@ er at du da veldig lett kan løse inn gavekortet, uten å måtte ha et pågåend
 Her er en liste over strømmetjenester med gavekort:
 
 - Netflix tilbyr gavekort på nett eller i butikker (i følge nettsiden kan man kjøpe det på Coop,
-GameStop, Elkjøp, Meny og Kiwi). [netflix.com](https://www.netflix.com/gift-cards) - TV 2 Sumo
+GameStop, Elkjøp, Meny og Kiwi). [netflix.com](https://www.netflix.com/gift-cards).
+- TV 2 Sumo
 tilbyr gavekort gjennom
 [gogift.com](https://giftcard-engine.gogift.com/NO/shop/tvsumo/#/giftcards).

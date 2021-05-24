@@ -2,8 +2,6 @@
 title = "Oppskrift på spaghetti med kjøttdeig"
 linktitle = "Spaghetti med kjøttdeig"
 lastmod = 2021-01-11T22:00:00
-[menu]
-main = { weight = 4, parent = "Mat"}
 +++
 
 <!-- markdownlint-disable MD010 -->

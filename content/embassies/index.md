@@ -1,6 +1,5 @@
 +++
-linktitle = "Norges ambassader"
-title = "Norges ambassader"
+title = "Norway's Embassies (with GeoGuessr)"
 lastmod = 2020-10-06T22:00:00
 [menu]
 main = { parent = "Kart og reiser", weight = 10 }

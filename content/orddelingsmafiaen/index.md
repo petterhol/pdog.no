@@ -109,4 +109,3 @@ låta «Ved Rørende Norske Rett Skrivings Regler» som bakgrunnsmusikk.
 [nrk]: https://www.nrk.no/nordland/17-aring-kjemper-mot-orddelingsfeil-1.7825450
 [wb]: http://web.archive.org/web/20080301000000*/https://orddeling.wordpress.com
 [fb]: https://www.facebook.com/orddelingsmafiaen
-1

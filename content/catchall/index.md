@@ -46,7 +46,7 @@ angitt e-postadresse. I eksemplet over, vil "postt@domene.no" komme frem til en 
 har altså ingenting å si hva du skriver foran krøllalfasymbolet, alt kommer frem.
 
 Også for gamle prosjekter, avdelinger, kampanjer og brukere, vil e-postadressen fortsatt være
-aktiv, men pass på at dette ikke kommer i [konflikt med personvernet][datatilsynet].
+aktiv, men pass på at dette ikke kommer i [konflikt med personvernet {{< ext >}}][datatilsynet].
 
 ## Hvorfor jeg bruker “catch all”
 
@@ -83,9 +83,11 @@ som avsender, kan jeg enkelt avsløre dette.
 Eksempler:
 
 - Jeg fikk søppelepost tilsendt til en e-postadresse jeg tidligere hadde brukt hos en
-leiebiltjeneste jeg hadde leid bil av for lenge siden. - Datainnbrudd skjer hele tiden. Her er fire
-eksempler fra [Foodora][foodora], [Microsoft][microsoft], [Marriot][marriot], [Rema
-1000][rema1000].
+leiebiltjeneste jeg hadde leid bil av for lenge siden.
+- Datainnbrudd skjer hele tiden. Her er fire
+eksempler fra [Foodora {{< ext >}}][foodora],
+[Microsoft {{< ext >}}][microsoft], [Marriot {{< ext >}}][marriot], [Rema
+1000 {{< ext >}}][rema1000].
 
 ## Ulemper med "catch all"
 
@@ -109,12 +111,13 @@ fra”-adresse.
 Jeg lytter på en podkast som heter Mac Geek Gab, hvor de to programlederene tar opp en rekke
 tekniske spørsmål fra lytterene sine. Sommeren 2017 sendte jeg inn et spørsmål hvor jeg forklarte
 min e-poststrategi som beskrevet ovenfor, og spurte om de hadde noen innspill til dette. Du kan
-lytte til programmet på deres nettsider: [Oh…Snap! – Mac Geek Gab 663][mgg] . Mitt spørsmål er det
+lytte til programmet på deres nettsider:
+[Oh…Snap! – Mac Geek Gab 663 {{< ext >}}][mgg] . Mitt spørsmål er det
 første som tas opp, så du trenger ikke spole.
 
 Har du en Gmail-konto kan noenlunde samme triks brukes der ved å legge til + etter adressen din.
 Les mer her: [3 awesome Gmail address tricks to get more out of your email ID -
-TheWindowsClub][thewindowsclub].
+TheWindowsClub {{< ext >}}][thewindowsclub].
 
 [datatilsynet]: https://www.datatilsynet.no/personvern-pa-ulike-omrader/personvern-pa-arbeidsplassen/innsyn-epost-filer/
 [foodora]: https://www.vg.no/nyheter/innenriks/i/jdoO6A/lekkasje-av-kundedata-hos-foodora
