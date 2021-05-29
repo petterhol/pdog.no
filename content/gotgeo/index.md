@@ -46,15 +46,4 @@ Anyone in the Got Geo? chat with previous guesser experience.
 
 #### Okay - final very frequently asked question, WHEN?
 
-Due to our shifting time tables, that's up to you. I've created a Doodle to schedule it
-a time before May is over. Page will be updated when the time is decided.
-
-{{% button-large
- color="primary"
- link="https://doodle.com/poll/f6duttmmgtr6qn84?utm_source=poll&utm_medium=link"
-%}}
-Go to the Doodle page to vote for available timeslots {{< ext >}}
-{{% /button-large %}}
-
-*Please vote for all available options. Special Event subject to cancelation if the number
-of participants is unsatisfying.*
+Date: Sunday, May 30, 2021 at 20:00 CEST.
