@@ -15,11 +15,11 @@ annen gang for mer.
 ### Småflaskemuseet
 
 {{< img-caption
-	figure-class="float-right"
-	class="rounded"
-	src="mini.jpg"
-	alt="Logoen til Helt og Holdent" width="280"
-	img-caption="Mini Bottle Gallery"
+ figure-class="float-right"
+ class="rounded"
+ src="mini.jpg"
+ alt="Logoen til Helt og Holdent" width="280"
+ img-caption="Mini Bottle Gallery"
 >}}
 
 Verdens største småflaskemuseum, også kjent for omverdenen som The Mini Bottle Gallery,
@@ -34,12 +34,12 @@ mer](https://www.minibottlegallery.com/?kategori=museum). {{< ext >}}
 ### Skulpturtriennalen 2021
 
 {{< img-caption
-	figure-class="float-right"
-	class="rounded"
-	src="skulptur.jpg"
-	alt="Logoen til Helt og Holdent"
-	width="280"
-	img-caption="En av skulpturene"
+ figure-class="float-right"
+ class="rounded"
+ src="skulptur.jpg"
+ alt="Logoen til Helt og Holdent"
+ width="280"
+ img-caption="En av skulpturene"
 >}}
 
 Hva med en aldri så liten skulpturvandring? Jeg har opplevd deler av denne "festivalen" på
@@ -60,12 +60,12 @@ lørdager kl. 11.30 og kl. 13.00. Begrensa tilgjengelighet på billetter. [Les m
 ### Ekslusiv tilgang på Sporveismuseet
 
 {{< img-caption
-	figure-class="float-right"
-	class="rounded"
-	src="sporvei.jpg" 
-	alt="Logoen til Helt og Holdent"
-	width="280" 
-	img-caption="Bilde fra Sporveismuseet"
+ figure-class="float-right"
+ class="rounded"
+ src="sporvei.jpg"
+ alt="Logoen til Helt og Holdent"
+ width="280"
+ img-caption="Bilde fra Sporveismuseet"
 >}}
 
 Som du kanskje vet, er jeg museumsvakt på ærverdige Sporveismuseet - Vognhall 5 på
@@ -75,6 +75,10 @@ påvirket byutviklingen i Oslo.
 
 Som museumsvakt har jeg fri tilgang med nøkkel til museet, og kan derfor tilby private
 omvisninger når som helst. [Les mer][sporvei]. {{< ext >}}
+
+### Avslutte kvelden?
+
+Hva med Tilt? Eller denne Himkok vi aldri kom oss til? :-)
 
 [nb]: https://www.nasjonalmuseet.no/utstillinger-og-arrangementer/nasjonalmuseet/arrangementer/velkommen-inn/
 [skulptur]: https://www.skulpturtriennalen.no/program
