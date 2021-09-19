@@ -12,9 +12,7 @@ annen gang for mer.
 
 {{% /ingress %}}
 
-# Program
-
-### Småflaskemuseet
+# Småflaskemuseet
 
 {{< img-caption
  figure-class="float-right"
@@ -33,7 +31,7 @@ I tillegg til et flott museum, er det både en ølhall i kjelleren og en bar i 1
 Åpent for publikum lørdager og søndager fra 12:00 til 16:00. Inngangsbillett: 85 kr. [Les
 mer](https://www.minibottlegallery.com/?kategori=museum). {{< ext >}}
 
-### Skulpturtriennalen 2021
+# Skulpturtriennalen 2021
 
 {{< img-caption
  figure-class="float-right"
@@ -48,7 +46,7 @@ Hva med en aldri så liten skulpturvandring? Jeg har opplevd deler av denne "fes
 min deltakelse på fredag, men det er mye mer å utforske. I tillegg til skulpturene er det
 et eget program, men det ser jeg på som mindre viktig. [Les mer][skulptur]. {{< ext >}}
 
-### Omvisning i det nye Nasjonalmuseet
+# Omvisning i det nye Nasjonalmuseet
 
 Hvis vi legger bort arkitekturopprøret for en stund, er det fortsatt lov å glede seg til
 åpningen av det nye Nasjonalmueet på vestbanetomta 11. juni 2022. Men før det er det
@@ -59,7 +57,7 @@ Omvisningene foregår på tirsdager, onsdager og torsdager kl. 16.30 og kl. 18.0
 lørdager kl. 11.30 og kl. 13.00. Begrensa tilgjengelighet på billetter. [Les mer][nb].
 {{< ext >}}
 
-### Ekslusiv tilgang på Sporveismuseet
+# Ekslusiv tilgang på Sporveismuseet
 
 {{< img-caption
  figure-class="float-right"
@@ -78,7 +76,7 @@ påvirket byutviklingen i Oslo.
 Som museumsvakt har jeg fri tilgang med nøkkel til museet, og kan derfor tilby private
 omvisninger når som helst. [Les mer][sporvei]. {{< ext >}}
 
-### Avslutte kvelden?
+# Avslutte kvelden?
 
 Hva med Tilt? Eller denne Himkok vi aldri kom oss til? :-)
 
