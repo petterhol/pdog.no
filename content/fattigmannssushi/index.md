@@ -16,8 +16,8 @@ main = { weight = 3, parent = "Mat"}
     class="rounded"
     src="sushi liten.jpg"
     float="right"
-    alt="QR-liknende kode som peker rett til min Vipps-profil"
-    link="https://qr.vipps.no/28/2/01/031/4792696496?v=1"
+    alt=""
+    link=""
     img-caption=""
   >}}
 

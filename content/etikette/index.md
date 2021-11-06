@@ -16,8 +16,8 @@ Her er noen gode råd og etiketteregler å følge når du skriver e-post og jobb
     class="rounded"
     src="epost.png"
     float="right"
-    alt="QR-liknende kode som peker rett til min Vipps-profil"
-    link="https://qr.vipps.no/28/2/01/031/4792696496?v=1"
+    alt=""
+    link=""
     img-caption=""
   >}}
 

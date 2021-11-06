@@ -92,18 +92,27 @@ bestemt.
       - Nærmiljø, frivillighet
       - Forpliktelser eller løfter til andre
       - Ta kontakt med telefonsamtaler, e-poster, kort, brev eller takkekort
-        - Forestående begivenheter som fødselsdager, jubileer, bryllup, fester, utflukter, helligdager, ferier, måltider ute, selskaper, kulturelle begivenheter
-        - Administrasjon som forbruksmateriell til hjemmekontor, utstyr, telefoner, audiovisuelle medier, telefonsvarer, datamaskiner, Internett, TV, husholdsningsapparater, underholdning, arkivering, oppbevaring, verktøy og sikkerhetskopi
-        - Fritid som bøker, musikk, video, reiser, steder å reise til, folk å besøke, internettsøk, fotografering, hobbyer, matlaging og fritidssysler
+        - Forestående begivenheter som fødselsdager, jubileer, bryllup, fester, utflukter,
+        helligdager, ferier, måltider ute, selskaper, kulturelle begivenheter
+        - Administrasjon som forbruksmateriell til hjemmekontor, utstyr, telefoner, audiovisuelle
+        medier, telefonsvarer, datamaskiner, Internett, TV, husholdsningsapparater, underholdning,
+        arkivering, oppbevaring, verktøy og sikkerhetskopi
+        - Fritid som bøker, musikk, video, reiser, steder å reise til, folk å besøke, internettsøk,
+        fotografering, hobbyer, matlaging og fritidssysler
         - Økonomi som regninger, bank, lån, skatter, budsjett, forsikring
-        - Venter på bestillinger fra nettet, reperasjoner, godtgjørelser, lånte ting, informasjon og bedt om å få svar
+        - Venter på bestillinger fra nettet, reperasjoner, godtgjørelser, lånte ting, informasjon
+        og bedt om å få svar
         - Familie som prosjekter/aktivteter med foreldre og slektninger
-        - Hus og hjem som eiendom, reperasjoner, strøm, garasje, bod, dekorering, møbler, utstyr, apparater, lamper, strømledninger, kjøkkentøy, tøyvask, steder som skal ryddes, rengjøring, organisering og oppbevaring
+        - Hus og hjem som eiendom, reperasjoner, strøm, garasje, bod, dekorering, møbler, utstyr,
+        apparater, lamper, strømledninger, kjøkkentøy, tøyvask, steder som skal ryddes, rengjøring,
+        organisering og oppbevaring
         - Helse som lege, tannlege, optiker, spesialister, legesjekk, diett, kosthold og mosjon
         - Personlig utvikling som kurs, seminarer, utfdanning, karierre og kreative uttrykk
         - Transport som biler, sykler, service, reperasjon, arbeidsreiser
-        - Klær som yrkesplagg, fritidsklær, formelle, sportslige, bagasje, reperasjoner og skredderarbeid
-        - Ærender som jernvare, apotek, handlestentre, bank, renseri, kontormateriell, stormarkeder, gaver og matvarer
+        - Klær som yrkesplagg, fritidsklær, formelle, sportslige, bagasje, reperasjoner og
+        skredderarbeid
+        - Ærender som jernvare, apotek, handlestentre, bank, renseri, kontormateriell,
+        stormarkeder, gaver og matvarer
     - Samle løse ark og spredt materiell
       - Post i postkassen
       - Lommer i bukser, jakker
