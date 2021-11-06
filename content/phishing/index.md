@@ -2,7 +2,7 @@
 title = "Phishing / falske e-poster"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { weight = 2, parent = "Teknologi" }
+main = { weight = 2, parent = "Personvern og sikkerhet" }
 +++
 
 {{% ingress %}}

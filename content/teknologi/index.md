@@ -1,9 +1,9 @@
 +++
-title="Lær mer om datasikkerhet og gode rutiner"
-linktitle = "Teknologi"
+title="Teknologi og produktivitet"
+linktitle = "Teknologi og produktivitet"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { weight = 30 }
+main = { weight = 10 }
 +++
 
 {{% ingress %}}
@@ -13,5 +13,3 @@ og ivareta sine forbrukerrettigheter. På denne siden finner du en del artikler 
 om disse teamene.
 
 {{% /ingress %}}
-
-{{< artikler-teknologi >}}

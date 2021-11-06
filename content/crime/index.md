@@ -1,22 +1,16 @@
 +++
-title = "Åsteder i Norge (med GeoGuessr)"
+title = "Åsteder i Norge"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Kart og reiser", weight = 10 }
+main = { parent = "GeoGuessr", weight = 10 }
 +++
 
 <!-- markdownlint-disable MD013 MD034 MD032 -->
 
 {{% ingress %}}
 
-Hvis du interesserer deg for norske kriminalsaker, så er dette GeoGuesser-kartet kanskje noe for
-deg.
-
-{{% /ingress %}}
-
-## Om kartet
-
-Akkurat som en god sannkrimserie, tar jeg deg gjennom flere sesonger med forskjellige åsteder fra
+Akkurat som en god sannkrimserie, tar dette
+GeoGuessr-kartet deg gjennom flere sesonger med forskjellige åsteder fra
 norske kriminalsaker. Her snakker vi alt fra store og kjente terrorhendelser, til mindre
 småkriminalitet. En fellesnevner for alt er at det må være noenlunde kjent gjennom media.
 
@@ -26,12 +20,12 @@ trykke deg gjennom til du finner ut hvor vi er på vanlig GeoGuessr-vis. For øy
 stedene i kongeriket, men kan i fremtiden inneholde kriminalitet i utlandet enten mot nordmenn
 eller begått av nordmenn.
 
-{{% expand ident="Geoguessr" bait="Vet du ikke hva GeoGuessr er?"
+{{% /ingress %}}
+
+{{% expand ident="Geoguessr" bait="Lær mer om hva GeoGuessr er"
 %}}
 
-## Om GeoGuessr
-
-GeoGuessr er et internettbasert spill hvor du slippes på et punkt ved hjelp av Google Street View.
+**GeoGuessr** er et internettbasert spill hvor du slippes på et punkt ved hjelp av Google Street View.
 Du skal finne ut hvor du er på Google Maps, og du får poeng for hvor nærme du havner. Det "vanlige"
 spillet er å bli sluppet hvor som helst på et forhåndsdefinert område, og da er det opp til deg å
 finne ledetråder som
@@ -54,7 +48,9 @@ Gå til [GeoGuessr {{< ext >}}](https://www.geoguessr.com).
 
 {{% /expand %}}
 
-## Slik spiller du "Crime Scenes in Norway"
+---
+
+#### Slik spiller du "Crime Scenes in Norway"
 
 Start på sesong 1 og jobb deg oppover. Jeg anbefaler maksimalt 5 minutter per runde med alt
 tillatt. Hvis du er en ihuga sannkrimentusiast (true crime), kan du slå av "moving".
@@ -63,7 +59,9 @@ Denne siden inneholder en oversikt over alle stedene med fasit. Trykk på et bil
 fasiten. Formålet med dette er at du skal lære deg i etterkant hvilken kriminalsak det gjelder, og
 kunne lære mer om det gjennom dokumentarer og Wikipedia-artikler.
 
-## Sesong 1
+---
+
+##### Sesong 1
 
 {{< card-deck >}}
 
@@ -188,7 +186,9 @@ Norge 2011 på norsk Wikipedia {{< ext>}}](https://no.wikipedia.org/wiki/Terrora
 
 {{< card-deck-end >}}
 
-## Sesong 2
+---
+
+##### Sesong 2
 
 {{< card-deck >}}
 
@@ -312,7 +312,9 @@ Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Petter_Northug#Privat)
 
 {{< card-deck-end >}}
 
-## Tilbakemeldinger, spørsmål, forslag
+---
+
+##### Tilbakemeldinger, spørsmål, forslag
 
 Jeg er åpen for alle tilbakemeldinger rundt kartene mine. Det er bare å sende meg en epost til
-[crimescenes@pdog.no {{< ext >}}](mailto:crimescenes@pdog.no).
+[crimescenes@pdog.no](mailto:crimescenes@pdog.no).

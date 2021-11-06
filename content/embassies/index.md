@@ -1,8 +1,8 @@
 +++
-title = "Norway's Embassies (with GeoGuessr)"
+title = "Norway's Embassies Abroad"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Kart og reiser", weight = 10 }
+main = { parent = "GeoGuessr", weight = 10 }
 +++
 
 <!-- markdownlint-disable MD034 -->

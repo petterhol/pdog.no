@@ -1,12 +1,11 @@
 +++
 title = "Holstad Helt og Holdent"
-linkTitle = "Helt og Holdent"
 lastmod = 2020-10-06T22:00:00
 aliases = [
     "hhh",
 ]
 [menu]
-main = { weight = 3, parent = "Petter Holstad" }
+main = { weight = 3, parent = "Petter" }
 +++
 
 <!-- markdownlint-disable MD034 MD010 -->

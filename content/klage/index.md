@@ -2,7 +2,7 @@
 title = "Rettigheter ved feil på produkter"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { weight = 4, parent = "Teknologi" }
+main = { weight = 4, parent = "Forbruker og medier" }
 +++
 
 <!-- markdownlint-disable MD033 -->
@@ -26,7 +26,7 @@ href="../kontaktinfo" class="alert-link">kontakte meg</a>.
 
 {{% /alert %}}
 
-## Frivillige løsninger for selger
+### Frivillige løsninger for selger
 
 {{< accordion >}}
 
@@ -84,7 +84,9 @@ det, og selv om det går utover de aktuelle publiserte garantivilkår eller lovv
 
 {{< /accordion >}}
 
-## Lovbestemte rettigheter
+---
+
+### Lovbestemte rettigheter
 
 {{< accordion >}}
 
@@ -136,18 +138,22 @@ er det maksimalt to år.
 
 {{< /accordion >}}
 
-## Gode råd
+---
+
+### Gode råd
 
 {{< accordion >}}
 
 {{% card header="Når du tar kontakt med selger" %}}
 
 - Husk at de du prater med er mennesker, og sjelden skyld i feilen eller problemet ditt. Derfor bør
-du alltid være hyggelig og vennlig når du klager. Du kan være bestemt, men ikke urimelig. - Noen
-saker kan ta lang tid å behandle - og sånn er det bare. Kanskje det finnes en raskere løsning ved å
-velge noe annet. For eksempel: kan du få raskere hjelp av butikken, enn ved å kontakte selger? Er
+du alltid være hyggelig og vennlig når du klager. Du kan være bestemt, men ikke urimelig. 
+- Noen saker kan ta lang tid å behandle - og sånn er det bare.
+Kanskje det finnes en raskere løsning ved å velge noe annet.
+For eksempel: kan du få raskere hjelp av butikken, enn ved å kontakte selger? Er
 det bedre å bare ta en telefon med vannskade på forsikringen i stedet for å vente lenge på
-butikkens reparasjonsverksted? - Ikke vær redd for å foreslå konkrete løsninger på problemet.
+butikkens reparasjonsverksted?
+- Ikke vær redd for å foreslå konkrete løsninger på problemet.
 Misforståelser eller rutiner kan føre til at løsninger ikke alltid blir foreslått av motparten
 selv.
 
@@ -169,8 +175,10 @@ kan være vanskelig å komme noen vei uten dette.
 Har du rota bort kvitteringen, prøv dette:
 
 - Alle nettbutikker, og enkelte fysiske butikker, sender kvittering på epost. Søk i eposten din
-etter navnet på produktet, produsenten, butikken du kjøpte på og så videre. - Noen butikker har
-kundeklubber, hvor kvitteringer kan lagres digitalt på profilen din. - Spør i butikken der du
+etter navnet på produktet, produsenten, butikken du kjøpte på og så videre.
+- Noen butikker har
+kundeklubber, hvor kvitteringer kan lagres digitalt på profilen din. 
+- Spør i butikken der du
 kjøpte produktet, enten fysisk eller ring kundeservice. Ofte hjelper det å ha funnet frem til dato,
 klokkeslett og eksakt beløp før du kontakter butikken - noe du ofte finner i nettbanken.
 

@@ -3,7 +3,7 @@ title = "E-posthåndtering med 'catch all'"
 linkTitle = "E-post: Catch-all"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { weight = 5, parent = "Teknologi" }
+main = { weight = 5, parent = "Teknologi og produktivitet" }
 +++
 
 <!-- markdownlint-disable MD034 -->
