@@ -13,10 +13,10 @@ andre.
 
 {{% /ingress %}}
 
-{{% alert 
-	color="info" 
-	align="center" 
-	header="Innholdet i denne artikkelen krever en viss forkunnskap om GTD"
+{{% alert
+ color="info"
+ align="center"
+ header="Innholdet i denne artikkelen krever en viss forkunnskap om GTD"
 %}}
 
 Hvis du ikke er kjent med det, kan du kan enten
@@ -83,69 +83,70 @@ bestemt.
 {{% card header="Steg 4: Ukentlig revisjon" %}}
 
 - Gjør deg klar
-	- Gå på toalettet
-	- Finn deg noe godt å drikke
-	- Skru på Ukentlig revisjon-fokuset
+  - Gå på toalettet
+    - Finn deg noe godt å drikke
+    - Skru på Ukentlig revisjon-fokuset
 - Tøm alt
-	- Tøm hodet
-		- Prosjekter som er påbegynt, uferdig eller som bør startes opp
-		- Nærmiljø, frivillighet
-		- Forpliktelser eller løfter til andre
-		- Ta kontakt med telefonsamtaler, e-poster, kort, brev eller takkekort
-		- Forestående begivenheter som fødselsdager, jubileer, bryllup, fester, utflukter, helligdager, ferier, måltider ute, selskaper, kulturelle begivenheter
-		- Administrasjon som forbruksmateriell til hjemmekontor, utstyr, telefoner, audiovisuelle medier, telefonsvarer, datamaskiner, Internett, TV, husholdsningsapparater, underholdning, arkivering, oppbevaring, verktøy og sikkerhetskopi
-		- Fritid som bøker, musikk, video, reiser, steder å reise til, folk å besøke, internettsøk, fotografering, hobbyer, matlaging og fritidssysler
-		- Økonomi som regninger, bank, lån, skatter, budsjett, forsikring
-		- Venter på bestillinger fra nettet, reperasjoner, godtgjørelser, lånte ting, informasjon og bedt om å få svar
-		- Familie som prosjekter/aktivteter med foreldre og slektninger
-		- Hus og hjem som eiendom, reperasjoner, strøm, garasje, bod, dekorering, møbler, utstyr, apparater, lamper, strømledninger, kjøkkentøy, tøyvask, steder som skal ryddes, rengjøring, organisering og oppbevaring
-		- Helse som lege, tannlege, optiker, spesialister, legesjekk, diett, kosthold og mosjon
-		- Personlig utvikling som kurs, seminarer, utfdanning, karierre og kreative uttrykk
-		- Transport som biler, sykler, service, reperasjon, arbeidsreiser
-		- Klær som yrkesplagg, fritidsklær, formelle, sportslige, bagasje, reperasjoner og skredderarbeid
-		- Ærender som jernvare, apotek, handlestentre, bank, renseri, kontormateriell, stormarkeder, gaver og matvarer
-	- Samle løse ark og spredt materiell
-		- Post i postkassen
-		- Lommer i bukser, jakker
-		- Sekken og PC-vesken
-		- Kofferter
-		- Fysisk innboks
-		- Gå en runde i boligen for å lete etter flere ting
-	- Digitale innbokser
-		- Mac
-			- Flytt løsfiler fra Nedlastninger og iCloud Drive Skrivebord - og rens skrivebordet
-			- Nye meldinger i Meldinger
-			- Nye meldinger i Facebook Messenger
-			- Nye meldinger i Signal
-			- Nye e-postmeldinger i Mail
-			- Slack saved items
-			- Nye Safari-bokmekrer
-			- Nye dokumenter i Google Disk
-			- Nye kontakter i Kontakter
-			- Påminnelser i Påminnelser
-			- Nye bilder i Bilder
-			- Nye notater i Notater
-			- Nye notater i Drafts
-			- Ubehandlede varsler på Mac
-		- iPhone
-			- Nye kort i Wallet
-			- Ubehandla tråder i Vipps
-			- Nylige telefonsamtaler i Telefon
-			- Nye telefonsvarmeldinger i Telefon
-			- Ubehandlede varsler på iPhone
-	- Kom deg ajour
-		- Sjekk kalender bakover og fremover
-		- Revider Neste handling-listen
-		- Revider "Venter på"
-		- Kjør prosjektrevisjon i OmniFocus
-	- Vær kreativ
-		- Se over listen "Engang/Kanskje"
-	- Avslutning
-		- Sørg for at neste ukentlige revisjon er planlagt
-		- Slå av fokuset
-		- Vurder å fortsette med sjekklisten "Teknisk vedlikehold".
-		
+  - Tøm hodet
+    - Prosjekter som er påbegynt, uferdig eller som bør startes opp
+      - Nærmiljø, frivillighet
+      - Forpliktelser eller løfter til andre
+      - Ta kontakt med telefonsamtaler, e-poster, kort, brev eller takkekort
+        - Forestående begivenheter som fødselsdager, jubileer, bryllup, fester, utflukter, helligdager, ferier, måltider ute, selskaper, kulturelle begivenheter
+        - Administrasjon som forbruksmateriell til hjemmekontor, utstyr, telefoner, audiovisuelle medier, telefonsvarer, datamaskiner, Internett, TV, husholdsningsapparater, underholdning, arkivering, oppbevaring, verktøy og sikkerhetskopi
+        - Fritid som bøker, musikk, video, reiser, steder å reise til, folk å besøke, internettsøk, fotografering, hobbyer, matlaging og fritidssysler
+        - Økonomi som regninger, bank, lån, skatter, budsjett, forsikring
+        - Venter på bestillinger fra nettet, reperasjoner, godtgjørelser, lånte ting, informasjon og bedt om å få svar
+        - Familie som prosjekter/aktivteter med foreldre og slektninger
+        - Hus og hjem som eiendom, reperasjoner, strøm, garasje, bod, dekorering, møbler, utstyr, apparater, lamper, strømledninger, kjøkkentøy, tøyvask, steder som skal ryddes, rengjøring, organisering og oppbevaring
+        - Helse som lege, tannlege, optiker, spesialister, legesjekk, diett, kosthold og mosjon
+        - Personlig utvikling som kurs, seminarer, utfdanning, karierre og kreative uttrykk
+        - Transport som biler, sykler, service, reperasjon, arbeidsreiser
+        - Klær som yrkesplagg, fritidsklær, formelle, sportslige, bagasje, reperasjoner og skredderarbeid
+        - Ærender som jernvare, apotek, handlestentre, bank, renseri, kontormateriell, stormarkeder, gaver og matvarer
+    - Samle løse ark og spredt materiell
+      - Post i postkassen
+      - Lommer i bukser, jakker
+        - Sekken og PC-vesken
+        - Kofferter
+        - Fysisk innboks
+        - Gå en runde i boligen for å lete etter flere ting
+    - Digitale innbokser
+      - Mac
+  - Flytt løsfiler fra Nedlastninger og iCloud Drive Skrivebord - og rens skrivebordet
+  - Nye meldinger i Meldinger
+  - Nye meldinger i Facebook Messenger
+  - Nye meldinger i Signal
+  - Nye e-postmeldinger i Mail
+  - Slack saved items
+  - Nye Safari-bokmekrer
+  - Nye dokumenter i Google Disk
+  - Nye kontakter i Kontakter
+  - Påminnelser i Påminnelser
+  - Nye bilder i Bilder
+  - Nye notater i Notater
+  - Nye notater i Drafts
+  - Ubehandlede varsler på Mac
+  - iPhone
+  - Nye kort i Wallet
+    - Ubehandla tråder i Vipps
+      - Nylige telefonsamtaler i Telefon
+    - Nye telefonsvarmeldinger i Telefon
+    - Ubehandlede varsler på iPhone
+  - Kom deg ajour
+    - Sjekk kalender bakover og fremover
+    - Revider Neste handling-listen
+    - Revider "Venter på"
+    - Kjør prosjektrevisjon i OmniFocus
+  - Vær kreativ
+    - Se over listen "Engang/Kanskje"
+  - Avslutning
+    - Sørg for at neste ukentlige revisjon er planlagt
+    - Slå av fokuset
+    - Vurder å fortsette med sjekklisten "Teknisk vedlikehold".
+  
 Noen kommentarer til listen over:
+
 - Tøm hodet er basert på lokke frem-lister jeg har lest tidligere.
 - Jeg legger opp til å ha ganske mange innbokser, kanskje over det som er anbefalt, men
 gjør jeg dette jevnlig nok får jeg også til å ta denne revisjonen.
@@ -157,6 +158,7 @@ at jeg kan ha det. Derfor må jeg heller planlegge den.
 {{% card header="Oppsett i OmniFocus" %}}
 
 Jeg har lagt hele listen som oppgaver i OmniFocus i et prosjekt
+
 - Mappe: "Rutiner".
 - Navn på prosjekt: "Ukentlig revisjon"
 - Status: Aktivt
@@ -165,13 +167,14 @@ Jeg har lagt hele listen som oppgaver i OmniFocus i et prosjekt
 - Gjenta hver: 1 uke fra elementets gjennomføring
 
 Deretter har jeg laget et skreddersydd perspektiv hvor alle av disse er sann:
+
 - Inneholder i et prosjekt eller mappe: Ukentlig revisjon.
 - Tilgjengelighet: Første tilgjengelig
 - Grupper og sorter: hele prosjekter
 - Grupper prosjekter etter: Ugruppert
 - Sorter prosjekter etter: Prosjektsortering
 
-På den måten vil jeg bare bli presentert ett og ett element på listen. 
+På den måten vil jeg bare bli presentert ett og ett element på listen.
 
 {{% /card %}}
 

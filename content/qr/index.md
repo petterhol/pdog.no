@@ -11,10 +11,10 @@ QR-koder har blitt populært å putte på diverse plakater, menyer, apparater o.
 
 {{% /ingress %}}
 
-{{% alert 
-	color="info" 
-	align="center" 
-	header="Beste praksis"
+{{% alert
+ color="info"
+ align="center"
+ header="Beste praksis"
 %}}
 
 I forbindelse med QR-koden bør du alltid angi en forklaring for hvordan man kan besøke siden du ønsker uten å skanne koden med en mobiltelefon. Dette bør aller helst være en kortlenke som er lett å skrive inn, på et domene du kontrollerer.
@@ -32,11 +32,11 @@ I forbindelse med QR-koden bør du alltid angi en forklaring for hvordan man kan
 
 Ikke bruk kortlenketjenester som bit.ly.
 
-Det beste er om du kan skape kortlenker på ditt eget domene. 
+Det beste er om du kan skape kortlenker på ditt eget domene.
 
 #### Slik følger du beste praksis
 
-###### Den enkle måten: skriv nettadressen under
+##### Den enkle måten: skriv nettadressen under
 
 {{% muted %}}
 

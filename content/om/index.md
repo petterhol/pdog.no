@@ -67,21 +67,21 @@ man kan logge inn.
 
 **Untak**: Se denne oversikten over unntak fra hovedregelen:
 
-* Innhenting av eksterne ressurser: For at nettsiden skal fungere må den hente inn eksterne
+- Innhenting av eksterne ressurser: For at nettsiden skal fungere må den hente inn eksterne
 ressurser fra [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/). Jeg
 henter også inn eksterne ikoner fra
 [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use).
 
-* Kontaktskjema: Jeg bruker et kontaktskjema flere steder på nettsiden. Dette skjemaet bruker et
+- Kontaktskjema: Jeg bruker et kontaktskjema flere steder på nettsiden. Dette skjemaet bruker et
 script fra [Domeneshop {{< ext >}}](https://domene.shop/faq?id=61&section=21), og sender
 e-poster til meg direkte. Innholdet, samt personopplysningene du har valgt å legge ved, blir bare
 brukt til det formålet som var klart da du sendte inn skjemaet. Opplysningene i skjemaet lagres
 ingen andre steder enn i min personlige e-postkasse.
 
-* Eksterne lenker: Nettsiden lenker til flere eksterne nettsider. Alle eksterne nettsider er
+- Eksterne lenker: Nettsiden lenker til flere eksterne nettsider. Alle eksterne nettsider er
 markert med {{< ext >}}-ikonet.
 
-* Innebygde elementer på nettsiden: Nettsidene [Personlig flykart](reisekart),
+- Innebygde elementer på nettsiden: Nettsidene [Personlig flykart](reisekart),
 [Silicon Valley og omegn](sv), [The Tim
 Traveller](timtraveller) og [Tom Scott](tomscott) bruker alle innbygde elementer fra
 Google MyMaps.

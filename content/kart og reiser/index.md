@@ -5,6 +5,8 @@ lastmod = 2020-12-28T22:00:00
 main = { weight = 40 }
 +++
 
+<!-- markdownlint-disable MD041 -->
+
 {{% ingress %}}
 
 Velkommen hit! Det er egentlig ingen lenker som peker denne veien, så hvordan du har resonert

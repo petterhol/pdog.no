@@ -18,7 +18,7 @@ Hvis du skal overføre penger til meg, finner du alle betalingsmuligheter her.
 ##### Vipps
 
   {{< img-caption-link
- 	figure-class="float-right padding"
+  figure-class="float-right padding"
     class="rounded"
     src="vipps.jpg"
     float="right"

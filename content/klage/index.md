@@ -147,7 +147,7 @@ er det maksimalt to år.
 {{% card header="Når du tar kontakt med selger" %}}
 
 - Husk at de du prater med er mennesker, og sjelden skyld i feilen eller problemet ditt. Derfor bør
-du alltid være hyggelig og vennlig når du klager. Du kan være bestemt, men ikke urimelig. 
+du alltid være hyggelig og vennlig når du klager. Du kan være bestemt, men ikke urimelig.
 - Noen saker kan ta lang tid å behandle - og sånn er det bare.
 Kanskje det finnes en raskere løsning ved å velge noe annet.
 For eksempel: kan du få raskere hjelp av butikken, enn ved å kontakte selger? Er
@@ -177,7 +177,7 @@ Har du rota bort kvitteringen, prøv dette:
 - Alle nettbutikker, og enkelte fysiske butikker, sender kvittering på epost. Søk i eposten din
 etter navnet på produktet, produsenten, butikken du kjøpte på og så videre.
 - Noen butikker har
-kundeklubber, hvor kvitteringer kan lagres digitalt på profilen din. 
+kundeklubber, hvor kvitteringer kan lagres digitalt på profilen din.
 - Spør i butikken der du
 kjøpte produktet, enten fysisk eller ring kundeservice. Ofte hjelper det å ha funnet frem til dato,
 klokkeslett og eksakt beløp før du kontakter butikken - noe du ofte finner i nettbanken.

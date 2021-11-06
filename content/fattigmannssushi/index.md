@@ -32,17 +32,17 @@ allerede har, og ikke minst kjøper den viktigste ingrediensen billig.
 
 #### Ingredienser
 
-- **Salma-laks** som du finner i "halv pris fordi det går ut snart"-hylla på butikken. 
+- **Salma-laks** som du finner i "halv pris fordi det går ut snart"-hylla på butikken.
 - **Ris** du allerede har hjemme, jeg bruker jasminris.
 - En pakke **sesamfrø** (når du først har kjøpt det holder den i evigheter).
 - Tilbehør kan være **avokado, mango, rømme, agurk** eller annet du synes
-er digg. 
+er digg.
 - **Soyasaus** må du selvfølgelig ha.
 
 #### Koke ris
 
 1. Bland ris etter forholdet 2 kopper ris - 3 kopper vann.
-2. Salt godt og rør rundt. 
+2. Salt godt og rør rundt.
 3. Legg på lokket.
 4. Hvis du har dårlig tid, setter du på sterk varme med en gang, lar det så vidt koke, og
 skrur ned til laveste temperatur.

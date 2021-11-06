@@ -18,7 +18,7 @@ og nettlesere.
 
 Du må bruke Konsoll for å slå på denne funksjonen, som du kan aktivere på en av tre måter:
 
--  Trykk på Utvikle i menylinjen, og velg Vis JavaScript-konsoll. Hvis du ikke har utvikle
+- Trykk på Utvikle i menylinjen, og velg Vis JavaScript-konsoll. Hvis du ikke har utvikle
 i menylinjen, gå til Safari > Valg > Avansert og skru på "Vis Utvikle-menyen i menylinjen".
 - Bruk tastatursnarveien tilvalg-kontroll-I.
 - Kontroll-klikk hvor som helst på nettsiden, velg Inspiser element og velg Konsoll.

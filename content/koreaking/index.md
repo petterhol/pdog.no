@@ -138,10 +138,10 @@ søpla ved siden av, ler Hansen.
 **Bildetekster**
 
 - Stort bilde av båten: "KJENNING": MS Fjordkongen opererte tidligere ruta Harstad-Tromsø. Nå heter
-den Korea King og går som ferge i Sør-Korea. FOTO: THOR ERIK HANSEN. 
+den Korea King og går som ferge i Sør-Korea. FOTO: THOR ERIK HANSEN.
 - Bilde av skilt: "ULIK: Norsk oppfordring om å ikke kaste annet enn toalettpapir.
 Den koreanske oppfordrer til å ikke kaste noe i toalettet, men bruke søppelbøtten.
-FOTO: THOR-RUNE HANSEN. 
+FOTO: THOR-RUNE HANSEN.
 - Lite bilde av mann: STAS: Thor-Rune Hansen synes det var stat og se en gammel kjenning
 igjen. FOTO: PRIVAT.
 
@@ -157,7 +157,7 @@ Her er noen ytterligere bilder fra Hansens besøk på Korea King.
 
 ### Les mer
 
-- Følg [KOREA KING på MarineTraffic][mt]. 
+- Følg [KOREA KING på MarineTraffic][mt].
 - Les mer om M/S [Fjordkongen på Wikipedia][fwp]
 
 [mt]: https://www.marinetraffic.com/en/ais/details/ships/shipid:668521/mmsi:440020080/imo:9328998/vessel:KOREA_KING/_:3e727a8cd557c12da4017be4edb9573a

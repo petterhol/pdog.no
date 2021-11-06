@@ -11,13 +11,13 @@ Mange spør meg om sykkelen min, så jeg har laget denne siden for å samle all 
 
 {{% /ingress %}}
 
-### Sykkelen og utstyr
+#### Sykkelen og utstyr
 
 Vår/sommer 2021 ønsket jeg etter å kjøpe min første elsykkel. Etter å ha sendt en e-post til
 et utvalg av Oslos
 elsykkelforretninger som jeg anser til å være av en viss kvalitet (utelukker Biltema, XXL
 og liknende),
-endte jeg med tre anbefalinger. Jeg valgte å kjøpe en 
+endte jeg med tre anbefalinger. Jeg valgte å kjøpe en
 [Haibike Sduro Trekking 4.0 2020-modell][haibike]
 av [Felgen Sykkelverksted][felgen] på Sagene i Oslo.
 
@@ -65,7 +65,7 @@ I den ene veska har jeg alltid:
 - ekstra lader for destinasjonslading
 - refleksbånd
 
-### Bruk
+#### Bruk
 
 For meg er sykkelen en erstatning for reiser jeg ellers ville tatt med bil og kollektivtrafikk.
 Det utgjør følgende:
@@ -86,7 +86,7 @@ Jeg må ofte unngå de vanlige parkeringene, og heller sette sykkelen fast til
 andre stolper, gelendre med mer. Å parkere i stativer på bakken er mulig hvis jeg kan kjøre helt
 over den med forhjulet, og helst bør de være fastmontert i bakken.
 
-### Bildekarusell
+#### Bildekarusell
 
 {{< haibike-karusell >}}
 

@@ -23,7 +23,7 @@ Hvis du vil spille selskapsleken 20 spørsmål i et festlig lag og savner origin
 NRK-sendingene, er denne siden for deg.
 
 {{% /ingress %}}
-    
+
 Hvis du ikke kjenner til denne selskapsleken, fungerer den slik: en person er oppgavemester
 og enten mottar ord, eller finner på ord selv. Oppgavemesteren må fortelle om det er ett ord
 eller ett ord sammensatt av to. Videre må det deles om ordet er abstrakt eller konkret, og hvis

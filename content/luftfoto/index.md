@@ -9,6 +9,8 @@ aliases = [
 main = { parent = "Kuriøsiteter", weight = 99 }
 +++
 
+<!-- markdownlint-disable MD033 -->
+
 {{% ingress %}}
 
 Jeg eier en drone, og tar av og til bilder og video med denne. Her publiserer jeg en del av
@@ -32,7 +34,7 @@ Jeg har også publisert [råmaterialet][raw3] fra denne filmen.
 
 Innspilt: Juli 2020  
 Innspillingssted: [Margaretakirken (Google Maps) {{< ext >}}][margaretakirken]  
-Musikk: 
+Musikk:
 Medvirkende: Petter Holstad (foto og redigering)
 
 [margaretakirken]: https://goo.gl/maps/jn4iVpnDmHLbKwgj8
@@ -50,6 +52,7 @@ Innspilt: August 2020
 Innspillingssted: [Breivika, Steigen, Nordland (Google Maps) {{< ext >}}][breivika]  
 Musikk: I'm So av [Andrew Applepie {{< ext >}}][a1]  
 Medvirkende:  
+
 - Thor-Rune Hansen (på sup)
 - Petter Holstad (foto og redigering)
 
@@ -72,6 +75,7 @@ Innspilt: August 2021
 Innspillingssted: [Numedalslågen (Google Maps) {{< ext >}}][numedal]  
 Musikk: Den Gamle Rallarsang av Ivar Simastuen  
 Medvirkende:  
+
 - Cathrine Michelle (dresinfører)
 - Ida (dresinfører)
 - Joakim (dresinfører)

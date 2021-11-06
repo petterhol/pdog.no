@@ -12,7 +12,7 @@ Her er noen gode råd og etiketteregler å følge når du skriver e-post og jobb
 {{% /ingress %}}
 
 {{< img-caption-link
-	figure-class="float-right padding"
+ figure-class="float-right padding"
     class="rounded"
     src="epost.png"
     float="right"
@@ -20,7 +20,6 @@ Her er noen gode råd og etiketteregler å følge når du skriver e-post og jobb
     link="https://qr.vipps.no/28/2/01/031/4792696496?v=1"
     img-caption=""
   >}}
-
 
 #### Bytt rekkefølgen du skriver e-post på
 

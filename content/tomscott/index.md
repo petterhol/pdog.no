@@ -38,4 +38,3 @@ du planlegger å besøke aksepterer besøkende, og respekter lokale lover og reg
 {{% /card %}}
 
 {{< accordion >}}
-
