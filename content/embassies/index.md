@@ -1,5 +1,5 @@
 +++
-title = "Norway's Embassies Abroad"
+title = "Norges ambassader i utlandet"
 lastmod = 2020-10-06T22:00:00
 [menu]
 main = { parent = "GeoGuessr", weight = 10 }

@@ -5,21 +5,53 @@ lastmod = 2021-04-07T22:00:00
 main = { parent = "Kuriøsiteter", weight = 99 }
 +++
 
+<!-- markdownlint-enable -->
+
 {{% ingress %}}
 
-Denne siden prøver å holde oversikt over vignetter og kjenningsmelodier for norske TV- og radio-
-programmer.
+Denne siden prøver å holde oversikt over vignetter og kjenningsmelodier for norske fjernsyns- og
+radioprogrammer.
 
 {{% /ingress %}}
 
-{{< accordion >}}
+#### NRK Nyheter
 
-{{% card header="Dagsnytt 18 Introduksjon, overgang og avslutning" %}}
+<div class="card-columns">
 
+<div class="card">
 {{< youtube ZoONbDLbrwg >}}
+<div class="card-body">
+<h5 class="card-title">
+Dagsnytt 18
+</h5>
+<p class="card-text">
+Intro med programledersupre, overgang mellom sak og avslutning.
+</p>
+</div>
+</div>
 
-Innspilling: 2. august 2021
+<div class="card">
+{{< youtube GmEa3xbnCqk >}}
+<div class="card-body">
+<h5 class="card-title">
+Dagsrevyen
+</h5>
+<p class="card-text">
+Intro med programledersupre, nettsidepromo og avslutning.
+</p>
+</div>
+</div>
 
-{{% /card %}}
+<div class="card">
+{{< youtube MKUipta8DeY >}}
+<div class="card-body">
+<h5 class="card-title">
+Norge i dag
+</h5>
+<p class="card-text">
+Intro med programledersupre.
+</p>
+</div>
+</div>
 
-{{< /accordion >}}
+</div>

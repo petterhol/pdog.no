@@ -15,11 +15,8 @@ main = { parent = "Forbruker og medier" }
 
 Her finner du mine boktips innen kategoriene
 <span class="badge bg-success text-white">Teknologi</span>, <span class="badge
-bg-danger text-white">Biografier</span>, <span class="badge bg-primary
-text-white">Fiksjon</span>, <span class="badge bg-info text-white">Gode historier</span> og
-<span class="badge bg-warning text-white">Underholdning</span>. Noen av podkastene er også <span
-class="badge bg-dark text-white">Video</span>-podkaster. Jeg skriver også om min favorittapp for
-avspilling av podkaster, og litt om hvordan vi skriver ordet podkast på norsk.
+bg-danger text-white">Biografier</span> og <span class="badge bg-primary
+text-white">Fiksjon</span>.
 
 {{% /ingress %}}
 
@@ -106,16 +103,11 @@ Utrolig spennende sci-fi-bok om menneskehetens utslettelse og første kontakt me
  audiobook="https://pca.st/6SWK"
  %}}
 
-<span class="badge bg-primary text-white">Fiksjon</span>
+<span class="badge bg-primary text-white">Produktivitet</span>
 
-Utrolig spennende sci-fi-bok om menneskehetens utslettelse og første kontakt med …
+Om målstyring i bedrifter ved hjelp av "OKR", 
+men skrevet som en engasjerende historie om en oppstartsbedrift.
 
 {{% /bokkort %}}
 
 {{% card-deck-end %}}
-
-Hvis du klikker på bildene kommer du til den offisielle nettsiden til podkastene {{< ext >}}.
-
-{{< lisens type="Podkastalbumbildene" lisensnavn="Copyright"
-lisenslink="https://www.patentstyret.no/tjenester/opphavsrett/"
-  >}}
