@@ -7,7 +7,13 @@ main = { parent = "GeoGuessr", weight = 10 }
 
 <!-- markdownlint-disable MD013 MD034 MD032 -->
 
-{{% ingress %}}
+{{< card-kolonner >}}
+
+{{< card-with-image 
+	src="S01E4.png"
+	alt="Skjermbilde fra Google Street View, viser en lavblokk"
+	header="Om kartet"
+>}}
 
 Akkurat som en god sannkrimserie, tar dette
 GeoGuessr-kartet deg gjennom flere sesonger med forskjellige åsteder fra
@@ -19,6 +25,78 @@ med mer. Hvis du ikke finner ut hva slags sak det gjelder, har du allikevel god 
 trykke deg gjennom til du finner ut hvor vi er på vanlig GeoGuessr-vis. For øyeblikket er alle
 stedene i kongeriket, men kan i fremtiden inneholde kriminalitet i utlandet enten mot nordmenn
 eller begått av nordmenn.
+
+{{< /card-with-image >}}
+
+{{< card-with-header-and-body 
+	header="Kartene har fasit"
+>}}
+
+Jeg har valgt å inkludere en fasit på disse oppgavene, da det ikke er sikkert at alle kjenner
+til hver eneste sak. Hver sesong inneholder fem episoder. Trykk på "Fasit" for å lese mer
+om saken og finne aktuelle sannkrimsdokumentarer å se på.
+
+{{< /card-with-header-and-body >}}
+
+{{< card-with-bg-and-two-links
+	color="primary"
+	header="Sesong 1"
+	link1="https://www.geoguessr.com/maps/6056143ad0aad50001947cd2"
+	button1="Spill"
+	link2="../crimes1"
+	button2="Fasit"
+>}}
+
+Vi starter sesong 1 med noen av landets mest profilerte straffesaker. Dette er en god innføring
+i hvordan kartene fungerer, og gir deg gjensyn med noen av de mest spennende sakene i norsk
+historie.
+
+{{< /card-with-bg-and-two-links >}}
+
+{{< card-with-bg-and-two-links
+	color="info"
+	header="Sesong 2"
+	link1="https://www.geoguessr.com/maps/60637fc5afc6510001489a3c"
+	button1="Spill"
+	link2="../crimes2"
+	button2="Fasit"
+>}}
+
+Ingen sier at det ikke er kjente sker her også, men kanskje litt mer obskure hint? Velkommen
+til sesong 2.
+
+{{< /card-with-bg-and-two-links >}}
+
+{{< card-with-bg-and-two-links
+	color="danger"
+	header="Sesong 3"
+	link1="#"
+	button1="desember"
+	link2="../#"
+	button2="2021"
+>}}
+
+Kommer
+
+{{< /card-with-bg-and-two-links >}}
+
+
+{{< card-with-header-and-image
+	header="Foreslått spillemodus"
+	src="spillemodus.png"
+	alt="5 minutter, alt er lov"
+>}}
+
+Fem minutter burde være nok til å finne ut hvor i Norge du er. Hvis du er en ihuga
+sannkrimsentusiast, kan du slå av bevegelse.
+
+{{< /card-with-header-and-image >}}
+
+{{< geoguessr-end >}}
+
+
+{{% ingress %}}
+
 
 {{% /ingress %}}
 

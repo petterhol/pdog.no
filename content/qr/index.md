@@ -1,8 +1,6 @@
 +++
 title = "Beste praksis for QR-koder"
 lastmod = 2021-04-07T22:00:00
-[menu]
-main = { weight = 10, parent = "Personvern og sikkerhet"}
 +++
 
 {{% ingress %}}

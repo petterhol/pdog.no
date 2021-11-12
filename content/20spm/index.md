@@ -15,8 +15,6 @@ main = { parent = "Kuriøsiteter", weight = 65 }
 
 {{< 20spm >}}
 
----
-
 {{% ingress %}}
 
 Hvis du vil spille selskapsleken 20 spørsmål i et festlig lag og savner originalmusikken fra
