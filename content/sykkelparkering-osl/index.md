@@ -3,7 +3,7 @@ title = "Sykkelparkering på Oslo lufthavn, Gardermoen"
 linktitle = "Sykkelparkering OSL"
 lastmod = 2021-04-07T22:00:00
 [menu]
-main = { weight = 5, parent = "Kart og reiser" }
+main = { weight = 7, parent = "Kart og reiser" }
 +++
 
 <!-- markdownlint-disable MD033 -->

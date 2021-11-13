@@ -2,7 +2,7 @@
 title = "Oslos ringveier"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "GeoGuessr", weight = 65 }
+main = { parent = "GeoGuessr", weight = 6 }
 +++
 
 <!-- markdownlint-disable MD033 MD034 -->

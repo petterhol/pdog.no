@@ -2,7 +2,7 @@
 title = "Offentlige personopplysninger"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Personvern og sikkerhet", weight = 99 }
+main = { parent = "Personvern og sikkerhet", weight = 2 }
 +++
 
 {{% ingress %}}

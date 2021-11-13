@@ -10,7 +10,7 @@ aliases = [
     "netcasts",
 ]
 [menu]
-main = { parent = "Forbruker og medier" }
+main = {weight = 2, parent = "Forbruker og medier" }
 +++
 
 <!-- markdownlint-disable MD033 MD032 MD034 -->

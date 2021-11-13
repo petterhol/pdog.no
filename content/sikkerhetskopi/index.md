@@ -5,7 +5,7 @@ aliases = [
     "backup",
 ]
 [menu]
-main = { weight = 1, parent = "Teknologi og produktivitet" }
+main = { weight = 3, parent = "Teknologi og produktivitet" }
 +++
 
 {{% ingress %}}

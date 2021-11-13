@@ -2,7 +2,7 @@
 title = "Åsteder i Norge"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "GeoGuessr", weight = 10 }
+main = { parent = "GeoGuessr", weight = 1 }
 +++
 
 <!-- markdownlint-disable MD013 MD034 MD032 -->

@@ -2,7 +2,7 @@
 title = "Sillicon Valley og omegn"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Kart og reiser", weight = 2 }
+main = { parent = "Kart og reiser", weight = 3 }
 +++
 
 <!-- markdownlint-disable MD013 MD034 -->

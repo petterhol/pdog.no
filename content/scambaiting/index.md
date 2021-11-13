@@ -8,7 +8,7 @@ aliases = [
     "svindelagn",
 ]
 	[menu]
-	main = { weight = 10, parent = "Personvern og sikkerhet"}
+	main = { weight = 4, parent = "Personvern og sikkerhet"}
 +++
 
 {{% ingress %}}

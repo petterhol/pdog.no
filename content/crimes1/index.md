@@ -3,7 +3,7 @@ title = "Åsteder i Norge: Fasit sesong 1"
 lastmod = 2020-10-06T22:00:00
 +++
 
-<!-- markdownlint-disable MD034 -->
+<!-- markdownlint-disable MD034 MD013 -->
 
 {{< alert-geoguessr-answer >}}
 

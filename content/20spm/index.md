@@ -2,7 +2,7 @@
 title = "20 spørsmål"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Kuriøsiteter", weight = 65 }
+main = { parent = "Kuriøsiteter", weight = 4 }
 +++
 
 <!-- markdownlint-disable MD013 MD034 MD032 -->

@@ -2,7 +2,7 @@
 title = "Verdens sikreste hus"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { weight = 10, parent = "Personvern og sikkerhet"}
+main = { weight = 5, parent = "Personvern og sikkerhet"}
 +++
 
 {{< img-caption

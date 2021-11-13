@@ -2,7 +2,7 @@
 title = "Hvordan jeg gjennomfører Getting Things Done"
 lastmod = 2021-04-07T22:00:00
 [menu]
-main = { parent = "Teknologi og produktivitet", weight = 99 }
+main = { parent = "Teknologi og produktivitet", weight = 1 }
 +++
 
 {{% ingress %}}

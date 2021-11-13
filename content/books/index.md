@@ -6,7 +6,7 @@ aliases = [
 
 ]
 [menu]
-main = { parent = "Forbruker og medier" }
+main = {weight = "4", parent = "Forbruker og medier" }
 +++
 
 <!-- markdownlint-disable MD033 MD032 MD034 -->

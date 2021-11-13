@@ -2,7 +2,7 @@
 title = "Direktemanipulering av tekst"
 lastmod = 2021-04-07T22:00:00
 [menu]
-main = { weight = 5, parent = "Teknologi og produktivitet" }
+main = { weight = 10, parent = "Teknologi og produktivitet" }
 +++
 
 {{% ingress %}}

@@ -2,7 +2,7 @@
 title = "Orddelingsmafiaen"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Kuriøsiteter" }
+main = { parent = "Kuriøsiteter", weight = "2" }
 +++
 
 <!-- markdownlint-disable MD034 -->
