@@ -14,4 +14,5 @@ Trekning 30. juni 2019: Jasmine R. W.
 Trekning 31. desember 2020: Anonym.  
 Trekning 30. juni 2020: Ikke aktiv pga. koronapandemien.  
 Trekning 31. desember 2020: Ikke aktiv pga. koronapandemien.  
-Trekning 30. juni 2021: Datoen har ikke passert.
+Trekning 30. juni 2021: O. H.
+Trekning 31. desember 2021: Annonseres.

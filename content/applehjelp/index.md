@@ -21,7 +21,7 @@ før jeg begynner:
  alt="Illustrasjon"
 >}}
 
-## Generelt
+---
 
 - Jeg kan bare hjelpe deg basert på hva jeg selv kan og vet, og all jobb jeg gjør vil
 være uten noen form for garanti for at det vil fungere eller at vi får det til.
@@ -32,17 +32,13 @@ til deg.
 - Selv om jeg har hjulpet deg med noe tidligere, betyr det ikke at jeg er ansvarlig for problemer
 som oppstår senere. Men jeg kan gjerne hjelpe deg med de også.
 
-## Ved større jobber
-
 Hvis jeg gjennomfører en større jobb for deg, kan det hende at jeg krever at du må gjennomføre
-regelmessige sikkerhetskopier av innholdet ditt.
-
-Hvis det gjelder eller involverer en Mac, vil jeg kreve at du enten har eller vil kjøpe en ekstern
+regelmessige sikkerhetskopier av innholdet ditt. Hvis det gjelder eller
+involverer en Mac, vil jeg kreve at du enten har eller vil kjøpe en ekstern
 harddisk som vi kan bruke til sikkerhetskopi. Dette får man kjøpt "overalt" som [Elkjøp {{< ext
 >}}][ek], [Power {{< ext >}}][pw], [Kjell og Company {{< ext >}}][kc], [Clas Ohlson {{< ext
->}}][co] og så videre. 1 TB lagring holder for de fleste.
-
-Jeg hjelper deg gjerne med å velge ut, og kjøpe en harddisk for deg. Hvis du kan sannsynliggjøre
+>}}][co] og så videre. 1 TB lagring holder for de fleste. Jeg
+hjelper deg gjerne med å velge ut, og kjøpe en harddisk for deg. Hvis du kan sannsynliggjøre
 for meg at du allerede har en tilfredsstillende sikkerhetskopi, kan dette kravet droppes.
 
 {{% expand-btn

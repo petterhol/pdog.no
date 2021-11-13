@@ -1,66 +1,74 @@
 +++
-title = "Norway's Embassies (with GeoGuessr)"
+title = "Norges ambassader i utlandet"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Kart og reiser", weight = 10 }
+main = { parent = "GeoGuessr", weight = 3 }
 +++
 
-<!-- markdownlint-disable MD034 -->
+<!-- markdownlint-disable MD033 MD034 -->
 
-{{% ingress %}}
+{{< card-kolonner >}}
 
-This is a complete map of all embassies, consulate generals
-and permanent delegations of the Norwegian foreign service.
-There is also a playable GeoGuessr map here.
+{{< card-with-image
+ src="image.jpg"
+ alt="Skjermbilde fra Google Street View, viser en lavblokk"
+ header="Om kartet"
+ credits="Foto: Utenriksdepartementet på Flickr, lisensert under CC BY-ND 2.0"
+ credits-link="https://www.flickr.com/photos/utenriksdept/5973107885"
+>}}
 
-{{% /ingress %}}
+Dette kartet er en oversikt over Norges diplomatiske oppdrag rundt om kring i verden,
+som er tilgjengelig via Google Street View. Dette er ambassader, generalkonsulater og andre
+delegasjoner. Noen av stedene er identifisert ved hjelp av et flagg eller emblem, mens noen
+har ikke noe identifisering overhodet.
 
-### Google My Maps
+{{< /card-with-image >}}
+
+{{< card-with-header-and-body
+ header="Kart med fasit"
+>}}
 
 {{< mymaps 1apwKtgl6MpHY-rHjv68AJ6krV-NDXARR >}}
 
-Download raw data as [.kmz file](rawdata.kmz) or [.txt file](rawdatatxt.txt).
+<small>Last ned rådata som
+<a href="rawdata.kmz">.kmz-fil</a> eller <a href="rawdatatxt.txt">.txt-fil</a>.</small>
 
-### GeoGuessr
+{{< /card-with-header-and-body >}}
 
-If you play GeoGuessr, you might enjoy the map of Norway's diplomatic
-missions playable on GeoGuessr.
+{{< card-with-header-and-image
+ header="Foreslått spillemodus"
+ src="spillemodus.png"
+ alt="2 minutter, ingen forflytning (move), ingen zoom (forstørrelse)"
+>}}
 
-Some of the locations is identified with a seal or flag. Some locations does not have any
-"identification", embassies are located in large office buildings or similar. The criteria
-for adding the embassy in the map is simply that the actual building of the
-embassy is possible to view on Street View.
+I et ukjent land kan det være fornuftig å få litt tid å bevege seg på. Ikke bare er landet
+viktig, men å finne ambassadestrøket er ikke bare lett det heller.
 
-Due to some countries and regions lack of Street View, not all locations is represented.
-These are: Afghanistan, Algerie, Brazil, Cuba, Egypt, Ethiopia, Ghana, India, Iran, Jordan,
-Kenya, China, Kosovo, Malawi, Mali, Marocco, Mosambik, Myanmar, Nepal, Pakistan, Palestina,
-Saudi-Arabia, Sudan, Syria, South Sudan, Tanzania.
+{{< /card-with-header-and-image >}}
 
-The following delegations are not represented either: Permanent Mission of Norway to
-the African Union, The Permanent Delegation of Norway to NATO. Most of the others are in the same
-building as the embassy and therefore does not have duplicate records.
+{{< card-with-bg-and-link
+ quote="geoguessr.com"
+ link="https://www.geoguessr.com/maps/60511704b658d80001909f57"
+ color="primary"
+>}}
 
-Recommended game mode: 5 min, everything allowed.
+Vil du bli verdensvant? Trykk her for å spille kartet.
 
-{{< img-caption-link
- figure-class="float"
-    class="rounded"
-    src="geoguessr.png"
-    float="right"
-    alt="Visuell representasjon av GeoGuessr-siden"
-    link="https://www.geoguessr.com/maps/60511704b658d80001909f57"
-    img-caption="Trykk på bildet eller her for å starte spillet."
-  >}}
+{{< /card-with-bg-and-link >}}
 
-### Source information, feedback, contributions and contact information
+{{< card-with-header-and-body
+ header="Begrensninger"
+>}}
 
-Source data found here:
-[Norske utenriksstasjoner](https://www.regjeringen.no/no/dep/ud/org/utenriksstasjoner/id524467/).
-Last refresh: 29.05.2020.
+På grunn av manglende dekning av Google Street View, er følgende land og områder ikke inkludert
+i kartet: Afganistan, Algeria, Brasil, Kuba, Egypt, Etiopia, Ghana, India, Iran, Jordan, Kenya,
+Kina, Kosovo, Malawi, Mali, Marokko, Mosambik, Myanmar, Nepal, Pakistan, Palestina,
+Saudi-Arabia, Suda, Syria, Sør-Sudan og Tanzania. Følgende delegasjoner er heller ikke
+representert: Den afrikanske union, NATO. Noen av delegasjonene er i samme bygning som
+ambassaden og har heller ikke dobbeloppføringer. Min kilde er listen over
+<a href="https://www.regjeringen.no/no/dep/ud/org/utenriksstasjoner/id524467/">Norske
+utenriksstasjoner</a>. Sist oppdatert: 29.05.2020.
 
-If you want to improve a GeoGuessr location's photo, download the
-[Street View app](https://www.google.com/streetview/) and add photos with your phone
-or a 360 camera. Then, contact me to change the GeoGuessr location.
+{{< /card-with-header-and-body >}}
 
-If you have feedback about the maps, want to report an issue, wrong address or something
-else, please contact me trough embassies-feedback@pdog.no.
+{{< geoguessr-end >}}

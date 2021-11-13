@@ -7,8 +7,8 @@ aliases = [
     "scambaiting",
     "svindelagn",
 ]
-[menu]
-main = { weight = 3, parent = "Teknologi" }
+	[menu]
+	main = { weight = 4, parent = "Personvern og sikkerhet"}
 +++
 
 {{% ingress %}}

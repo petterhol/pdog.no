@@ -1,8 +1,8 @@
 +++
-title = "Petter Holstad"
+title = "Petter"
 lastmod = 2020-12-28T22:00:00
 [menu]
-main = { weight = 10 }
+main = { weight = 80 }
 
 +++
 

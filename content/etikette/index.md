@@ -2,7 +2,7 @@
 title = "Gode råd for å bruke e-post og kalender"
 lastmod = 2020-10-06T22:00:00
 [menu] 
-main = { weight = 5, parent = "Teknologi" }
+main = { weight = 6, parent = "Teknologi og produktivitet" }
 +++
 
 {{% ingress %}}
@@ -11,14 +11,21 @@ Her er noen gode råd og etiketteregler å følge når du skriver e-post og jobb
 
 {{% /ingress %}}
 
-## Bytt rekkefølgen du skriver e-post på
+{{< img-caption-link
+ figure-class="float-right padding"
+    class="rounded"
+    src="epost.png"
+    float="right"
+    alt=""
+    link=""
+    img-caption=""
+  >}}
+
+#### Bytt rekkefølgen du skriver e-post på
 
 Av en eller annen grunn legger de fleste e-postklienter opp til at man skal begynne med å legge inn
 mottakere, emnefelt og avsenderadresse _før_ man legger inn selve meldingen og eventuelt vedlegget.
 Ved å snu opp-ned på denne tankegangen, kan du få en bedre arbeidsflyt.
-
-{{< img class="img-fluid" src="epost.png"
->}}
 
 Bildet over viser min foreslåtte arbeidsflyt:
 
@@ -32,7 +39,9 @@ Velg dette nå - så blir den ikke sendt fra feil konto.
 burde få meldingen nå som du har bestemt deg for hva den skal inneholde.
 6. Trykk send.
 
-## Hva er i et godt emnefelt?
+---
+
+#### Hva er i et godt emnefelt?
 
 Her er det ikke noe gode fasitsvar, men står du fast kan du bruke disse veiledningene:
 
@@ -42,38 +51,30 @@ Her er det ikke noe gode fasitsvar, men står du fast kan du bruke disse veiledn
 - Har du et referansenummer, bruk det!
 - Styr unna utropstegn, smilefjes og andre tivolieffekter.
 
-## Forskjell på til, kopi, blindkopi og svar til
+---
 
-{{< card-deck >}}
+#### Forskjell på til, kopi, blindkopi og svar til
 
-{{< ramme header="Til/To"
- >}}
-Den du faktisk har ment meldingen til, som skal gjøre en handling eller faktisk bli informert om
-e-postens innhold. {{< /ramme >}}
+- **Til/to** Den
+du faktisk har ment meldingen til, som skal gjøre en handling eller faktisk bli informert om
+e-postens innhold.
 
-{{< ramme header="Kopi/CC"
- >}}
-En person du vil orientere om e-posten, men som nødvendigvis ikke er den faktiske mottakeren. Alle
+- **Kopi/CC** En person
+du vil orientere om e-posten, men som nødvendigvis ikke er den faktiske mottakeren. Alle
 på "til" og "kopi" kan se hverandre. CC står for "carbon copy".
 
-{{< /ramme >}}
-
-{{< ramme header="Blindkopi/BCC"
- >}}
-En person du vil orientere om e-posten, men du vil ikke at noen verken på "til" eller "kopi" skal
+- **Blindkopi/BCC** En person
+du vil orientere om e-posten, men du vil ikke at noen verken på "til" eller "kopi" skal
 få vite om det. Mottakeren på blindkopi kan se hvem som er på "til og "kopi", men ikke andre
 mottakere på "blindkopi". BCC står for "blind carbon copy".
 
-{{< /ramme >}}
+- **Svar til/reply-to**: En
+e-postadresse hvor du vil at alle mottakere skal svare. E-postprogammet skjønner dette av seg
+selv, og vil adressere svaret korrekt automatisk.
 
-{{< ramme header="Svar til /reply-to"
- >}}
-En e-postadresse hvor du vil at alle mottakere skal svare. E-postprogammet skjønner dette av seg
-selv, og vil adressere svaret korrekt automatisk. {{< /ramme >}}
+---
 
-{{< card-deck-end >}}
-
-## Riktig og viktig bruk av blindkopi
+#### Riktig og viktig bruk av blindkopi
 
 Blindkopi har to gode bruksområder:
 
@@ -87,7 +88,9 @@ Hvis du sender til kunder, medlemmer eller en annen liste med private e-postadre
 godt innenfor personvernlovgivning ved å legge alle mottakere i blindkopi. I "til"-feltet kan du
 bare føre opp deg selv, eller kanskje en generell e-postadresse.
 
-## Tilpass e-postsignaturen til budskapet
+---
+
+#### Tilpass e-postsignaturen til budskapet
 
 Jeg er personlig motstander av signaturer med overflødig mye informasjon. Jobber man i et stort
 selskap er man gjerne tvunget til å bruke en stor signatur med all mulig informasjon.
@@ -131,7 +134,9 @@ kraftigere verktøy, hvor du også kan legge inn formatering og bilder.
 
 {{% /expand %}}
 
-## Videresending av e-post
+---
+
+#### Videresending av e-post
 
 Når du videresender e-post, tenk på følgende:
 
@@ -141,7 +146,9 @@ meningen at mottakeren skal motta disse.
 e-posttråden interne diskusjoner før du har bestemt deg for å sende videre meldingen? Fjern dette i
 så fall.
 
-## Navn på kalenderinvitasjoner
+---
+
+#### Navn på kalenderinvitasjoner
 
 Hvis du sender ut invitasjoner til møter, bruk et navn som er relevant for alle inviterte. Har du
 for eksempel navnet "Intervju Petter" og inviterer Petter, vil ikke Petter ha mulighet til å endre

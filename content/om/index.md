@@ -7,7 +7,7 @@ aliases = [
     "lisens",
 ]
 [menu]
-main = { weight = 1, parent = "Alt annet" }
+main = { weight = 4, parent = "Petter" }
 +++
 
 {{% ingress %}}
@@ -60,47 +60,50 @@ e-posttjeneren er iCloud.
 
 {{% card header="Personvernserklæring" %}}
 
-**Formål:** Jeg har ingen interesse av å spore deg, men andre selskaper kan ha det. Nettsiden
-inneholder ingen lokale elementer, informasjonskapsler, analyseverktøy eller liknende som jeg har
-installert på egen hånd. Det er ingen innloggingsmuligheter. Her deklarerer jeg alle tilfeller av
-potensiell sporing og lagring av personlig data.
+**Hovedregel:** Jeg vil ikke spore din aktivitet på nettsiden. Gjennom min leverandør av
+internetthotell får jeg noe bruksstatistikk på siden, men jeg bruker det ikke. Det er ikke
+installert noe tredjepartsprogramvare som kan spore deg fra min side. Jeg har ingen steder
+man kan logge inn.
 
-**Innhenting av eksterne ressurser:** For at nettsiden skal fungere må den hente inn eksterne
+**Untak**: Se denne oversikten over unntak fra hovedregelen:
+
+- Innhenting av eksterne ressurser: For at nettsiden skal fungere må den hente inn eksterne
 ressurser fra [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/). Jeg
 henter også inn eksterne ikoner fra
 [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use).
 
-**Kontaktskjema:** Jeg bruker et kontaktskjema flere steder på nettsiden. Dette skjemaet bruker et
+- Kontaktskjema: Jeg bruker et kontaktskjema flere steder på nettsiden. Dette skjemaet bruker et
 script fra [Domeneshop {{< ext >}}](https://domene.shop/faq?id=61&section=21), og sender
 e-poster til meg direkte. Innholdet, samt personopplysningene du har valgt å legge ved, blir bare
 brukt til det formålet som var klart da du sendte inn skjemaet. Opplysningene i skjemaet lagres
 ingen andre steder enn i min personlige e-postkasse.
 
-**Eksterne lenker:** Nettsiden lenker til flere eksterne nettsider. Alle eksterne nettsider er
+- Eksterne lenker: Nettsiden lenker til flere eksterne nettsider. Alle eksterne nettsider er
 markert med {{< ext >}}-ikonet.
 
-**Innebygde elementer på nettsiden**:
-
-- Nettsidene [Personlig flykart](reisekart), [Silicon Valley og omegn](sv), [The Tim
-Traveller](timtraveller) og [Tom Scott](tomscott) bruker alle innbygde elementer fra Google MyMaps.
-Nettsiden [Kart og kompass](visitt/kartogkompass) bruker innebygde elementer fra Google Maps. Alt er
-underlagt
-[Googles personvernserklæring {{< ext >}}](https://safety.google/privacy/).
-
-- Ruters reiseforslag kan være underlagt
+- Innebygde elementer på nettsiden: Nettsidene [Personlig flykart](reisekart),
+[Silicon Valley og omegn](sv), [The Tim
+Traveller](timtraveller) og [Tom Scott](tomscott) bruker alle innbygde elementer fra
+Google MyMaps.
+Nettsiden [Kart og kompass](visitt/kartogkompass) bruker innebygde elementer fra Google Maps.
+Alt er underlagt
+[Googles personvernserklæring {{< ext >}}](https://safety.google/privacy/). Ruters reiseforslag kan
+være underlagt
 [Personvern i Ruters tjenester {{< ext >}}](https://ruter.no/fa-hjelp/vilkar/personvern/).
 Innebygde elementer fra Ruter bruker i følge Ruters personvernsombud januar 2021 ingen
 sporere.
 Ruters sanntidsskjerm (MON) har en egen personvernsside på
-[MON og personvern {{< ext >}}][mon]
-
-- Hvis du havner inn på [rickroll.htm](http://pdog.no/rickroll) har du sannsynligvis blitt
+[MON og personvern {{< ext >}}][mon] Hvis du havner inn på [rickroll.htm](http://pdog.no/rickroll)
+har du sannsynligvis blitt
 utsatt for et [Grabify {{< ext >}}](https://grabify.link)-forsøk.  Dette henter
 informasjon din klient sender fra deg, som IP-adresse, nettleser med mer. Du kan lese mer
 om denne på siden min om [scambaiting](../scambaiting).
 
 - Sider med YouTube-spiller kan være underlagt
 [YouTube API Services Terms of Service {{< ext>}}][yt].
+
+- Innsendinger av bidrag i min [gjestetilfredsstillelsesundersøkelse](pdog.no/survey) er underlagt
+egne personvernsregler for innsendinger.
 
 Jeg jobber stadig for å forbedre denne oversikten med mer konkret informasjon.
 

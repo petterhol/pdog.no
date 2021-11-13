@@ -1,0 +1,26 @@
+<div class="w-auto p-3">
+<div class="card" style="width: 18rem;">
+  <img src="{{ .Get "src" }}" class="card-img-top" alt="{{ .Get "alt" }}">
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item"><h4>{{ .Get "header" }}</h4></li>
+    <li class="list-group-item">Forfatter: {{ .Get "author" }}</li>
+    <li class="list-group-item">{{ .Inner }}</li>
+  </ul>
+    <div class="card-footer text-muted">
+    <a href="{{ .Get "ebook" }}" class="card-link" target="_blank"><span class="text-dark">Les som ebok <sup><i class="fas fa-external-link-alt"></i></sup></span></a>
+    </div>
+    <div class="card-footer text-muted">
+    <a href="{{ .Get "audiobook" }}" class="card-link" target="_blank"><span class="text-dark">Les som lydbok <sup><i class="fas fa-external-link-alt"></i></sup></span></a>    
+  </div>  
+</div>
+</div>
+
+
+<!--
+<span class="badge bg-success text-white">Teknologi</span>
+<span class="badge bg-danger text-white">Nyheter</span>
+<span class="badge bg-primary text-white">Produktivitet</span>
+<span class="badge bg-info text-white">Gode historier</span>
+<span class="badge bg-warning text-white">Underholdning</span>
+<span class="badge bg-dark text-white">Video</span>-podkaster
+-->

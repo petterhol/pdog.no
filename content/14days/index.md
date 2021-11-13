@@ -1,6 +1,8 @@
 +++
 title = "Justering av ukevisning i Kalender"
 lastmod = 2021-04-07T22:00:00
+[menu]
+main = { weight = 9, parent = "Teknologi og produktivitet" }
 +++
 
 {{% ingress %}}
@@ -31,5 +33,5 @@ Personlig kjører jeg en 34-tommers bredskjerm med 14 dager i ukevisning.
 
 For å endre tilbake til standardvisningen, gjør en av følgende:
 
-* Kjør samme kommando hvor x er 5 eller 7.
-* Gå til Kalender > Valg > Generelt > Dager per uke og endre dette til enten 5 eller 7.
+* Kjør samme kommando hvor ```x``` er ```5``` eller ```7```.
+* Gå til Kalender > Valg > Generelt > Dager per uke og endre dette til enten ```5``` eller ```7```.

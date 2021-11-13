@@ -4,7 +4,6 @@ linktitle = "Indrefilet i leirgryte"
 lastmod = 2020-12-26T22:00:00
 [menu]
 main = { weight = 2, parent = "Mat"}
-
 +++
 
 {{% ingress %}}
@@ -18,7 +17,7 @@ resturant, hvor vi engang fikk den servert. Notert etter hukommelsen.
 {{% /ingress %}}
 
 Lag noen pannekaker. For oppskrift, se for
-eksempel [MatPrat.no](https://www.matprat.no/oppskrifter/familien/pannekaker/).
+eksempel [MatPrat.no {{< ext >}}](https://www.matprat.no/oppskrifter/familien/pannekaker/).
 
 De fine indrefiletene stekes i smør, saltes og pepres først når de er vel brunet. Tas opp og
 holdes varme. Løken kan forvelles et øyeblikk i vann og has sammen med den finhakkede

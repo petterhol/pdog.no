@@ -2,7 +2,7 @@
 title = "The Tim Traveller"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Kart og reiser", weight = 3 }
+main = { parent = "Kart og reiser", weight = 2 }
 +++
 
 {{% ingress %}}
