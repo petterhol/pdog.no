@@ -5,7 +5,7 @@ lastmod = 2021-04-07T22:00:00
 main = { parent = "Kuriøsiteter", weight = 99 }
 +++
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-disable MD002 MD033 -->
 
 {{% ingress %}}
 

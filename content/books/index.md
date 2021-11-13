@@ -105,7 +105,7 @@ Utrolig spennende sci-fi-bok om menneskehetens utslettelse og første kontakt me
 
 <span class="badge bg-primary text-white">Produktivitet</span>
 
-Om målstyring i bedrifter ved hjelp av "OKR", 
+Om målstyring i bedrifter ved hjelp av "OKR",
 men skrevet som en engasjerende historie om en oppstartsbedrift.
 
 {{% /bokkort %}}

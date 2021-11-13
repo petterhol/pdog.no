@@ -6,6 +6,8 @@ lastmod = 2020-10-06T22:00:00
 main = { parent = "GeoGuessr", weight = 65 }
 +++
 
+<!-- markdownlint-disable MD033 MD034 -->
+
 {{< card-kolonner >}}
 
 {{< card-with-image

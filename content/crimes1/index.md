@@ -3,8 +3,9 @@ title = "Åsteder i Norge: Fasit sesong 1"
 lastmod = 2020-10-06T22:00:00
 +++
 
-{{< alert-geoguessr-answer >}}
+<!-- markdownlint-disable MD034 -->
 
+{{< alert-geoguessr-answer >}}
 
 {{< card-deck >}}
 
@@ -37,6 +38,7 @@ Lær mer:
 - [Åsted Norge: Savnet (S1E3) på TV 2 Sumo
 {{< ext >}}](https://bit.ly/3hUqbrt)
 - [Lørenskog-forsvinningen på norsk Wikipedia {{< ext
+
 >}}](https://no.wikipedia.org/wiki/Lørenskog-forsvinningen)
 
 {{% /crimescene %}}

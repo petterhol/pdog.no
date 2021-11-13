@@ -3,6 +3,8 @@ title = "Åsteder i Norge: Fasit sesong 2"
 lastmod = 2020-10-06T22:00:00
 +++
 
+<!-- markdownlint-disable MD034 -->
+
 {{< alert-geoguessr-answer >}}
 
 ##### Sesong 2
@@ -77,6 +79,7 @@ Lær mer:
 - [Dagsrevyen-sendingen fra den aktuelle dagen på NRK TV {{< ext >}}](https://tv.nrk.no/serie/dagsrevyen/201908/NNFA02081019/avspiller/).
 - [Drapet og moskéangrepet
 i Bærum 10. august 2019 på norsk Wikipedia {{< ext
+
 >}}](https://no.wikipedia.org/wiki/Drapet_og_moskéangrepet_i_Bærum_10._august_2019)
 
 {{% /crimescene %}}
