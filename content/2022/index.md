@@ -5,6 +5,8 @@ lastmod = 2021-04-07T22:00:00
 main = { weight = 9, parent = "Teknologi og produktivitet" }
 +++
 
+<!-- markdownlint-disable -->
+
 {{% ingress %}}
 
 Godt nytt ISO 8601-år! Ved å bruke den internasjonale standarden for datonotering og spesifikt
