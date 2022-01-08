@@ -17,18 +17,19 @@ Vår/sommer 2021 ønsket jeg etter å kjøpe min første elsykkel. Etter å ha s
 et utvalg av Oslos
 elsykkelforretninger som jeg anser til å være av en viss kvalitet (utelukker Biltema, XXL
 og liknende),
-endte jeg med tre anbefalinger. Jeg valgte å kjøpe en
-[Haibike Sduro Trekking 4.0 2020-modell][haibike]
-av [Felgen Sykkelverksted][felgen] på Sagene i Oslo.
+endte jeg med tre anbefalinger. Av disse valgte jeg å kjøpe en
+[Haibike Sduro Trekking 4.0 2020-modell][haibike] {{< ext >}}
+av [Felgen Sykkelverksted][felgen] {{< ext >}} på Sagene i Oslo.
 
 Forutenom at det tilfeldigvis var den billigste, og at jeg fikk den anbefalt av flere, og
-at den har vunnet en ["best i test"-måling på tek.no][tek.no], liker jeg den av følgende årsaker:
+at den har vunnet en ["best i test"-måling på tek.no][tek.no] {{< ext >}}, 
+liker jeg den av følgende årsaker:
 
 - Sykkelen har store og brede dekk. Dette gjør det komfortabelt å kjøre i terreng, over alle slags
 fortauskanter, men ikke minst over Oslos trikkeskinner. Jeg har gjort flere tester over
 skinnegangen uten at sykkelen blir ustabil.
 
-- Tjukk, solid ramme. Den ser og virker stabil og trygg. Rammen har dessuten en fin ramme.
+- Fin, tjukk, solid ramme.
 
 - Solid bagasjebrett med makskapasitet 25 kg, med egen ramme til sykkelvesker, en på hver
 side.
@@ -44,14 +45,14 @@ Det er fortsatt hakket for høyt for meg, men det er levelig.
 
 ##### Sykkelhjelm
 
-Jeg har kjøpt en [Nutcase Vio L/XL-utgave][nutcase] med MIPS-teknologi.
+Jeg har kjøpt en [Nutcase Vio L/XL-utgave][nutcase] {{< ext >}} med MIPS-teknologi.
 Det ser ut som en vanlig sykkelhjelm, men har
 innebygde LED-lys. Hvitt foran, gult på sidene og rødt bak. Den kan lyse enten konstant,
 pulsere eller blinke.
 
 ##### Sykkelvesker
 
-Jeg har kjøpt et par med [Ortlieb Pro Plus sykkelvesker][ortlieb].
+Jeg har kjøpt et par med [Ortlieb Pro Plus sykkelvesker][ortlieb] {{< ext >}}.
 Jeg ville rett og slett bare ha god
 kvalitet, og Ortlieb er et anerkjent merke for vanntette og holdbare vesker. Pro Plus har også
 35 liter kapasitet, reflekser og en ytterlomme. Dessuten liker jeg stoffet.
@@ -65,6 +66,18 @@ I den ene veska har jeg alltid:
 - ekstra lader for destinasjonslading
 - refleksbånd
 
+##### Mobilholder
+
+Min mobiltelefon holdes stødig på plass ved hjelp av en
+[Ram Mounts X-Grip for smarttelefoner med strips][rammount] {{< ext >}}. Se bilde i
+bildekarusellen.
+
+##### Dashboardkamera
+
+Jeg bruker en [GoPro HERO 10 Black][gopro1] {{< ext >}} med en
+[Handlebar / Seatpost / Pole mount][gopro2] {{< ext >}} og
+[Head Strap + QuickClip][gopro3] {{< ext >}}.
+
 #### Bruk
 
 For meg er sykkelen en erstatning for reiser jeg ellers ville tatt med bil og kollektivtrafikk.
@@ -76,7 +89,7 @@ Det utgjør følgende:
 - dra til butikker, spesielt bra til typiske bilsteder som IKEA, Alna senter osv.
 - turer i Marka
 
-Det erstatter også noen turer jeg tidligere tok med [Oslo bysykkel][oslobysykkel],
+Det erstatter også noen turer jeg tidligere tok med [Oslo bysykkel][oslobysykkel] {{< ext >}},
 men ikke alle. Derfor har jeg fortsatt et abonnement.
 
 ##### Sykkelparkering
@@ -96,3 +109,7 @@ over den med forhjulet, og helst bør de være fastmontert i bakken.
 [nutcase]: https://eu.nutcasehelmets.com/collections/vio/products/copy-of-vio-navy-w-mips-matte-light?variant=33104484696173
 [ortlieb]: https://www.ortlieb.com/en_us/back-roller-pro-plus+F5252
 [oslobysykkel]: https://oslobysykkel.no
+[rammount]: https://www.rammount.com/part/RAP-460Z-UN7U
+[gopro1]: https://gopro.com/en/us/shop/cameras/hero10-black/CHDHX-101-master.html?option-id=CHDRB-101-master
+[gopro2]: https://gopro.com/en/us/shop/mounts-accessories/handlebar-seatpost-pole-mount/AGTSM-001.html
+[gopro3]: https://gopro.com/en/us/shop/mounts-accessories/head-strap-plus-quickclip/ACHOM-001.html
