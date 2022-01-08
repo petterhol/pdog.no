@@ -1,4 +1,4 @@
-+++
+a+++
 title = "Om sykkelen min"
 lastmod = 2020-12-28T12:00:00
 [menu]
@@ -22,7 +22,7 @@ endte jeg med tre anbefalinger. Av disse valgte jeg å kjøpe en
 av [Felgen Sykkelverksted][felgen] {{< ext >}} på Sagene i Oslo.
 
 Forutenom at det tilfeldigvis var den billigste, og at jeg fikk den anbefalt av flere, og
-at den har vunnet en ["best i test"-måling på tek.no][tek.no] {{< ext >}}, 
+at den har vunnet en ["best i test"-måling på tek.no][tek.no] {{< ext >}},
 liker jeg den av følgende årsaker:
 
 - Sykkelen har store og brede dekk. Dette gjør det komfortabelt å kjøre i terreng, over alle slags
