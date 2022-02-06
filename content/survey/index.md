@@ -4,7 +4,7 @@ lastmod = 2020-10-06T22:00:00
 +++
 
 Hvis du har problemer med å bruke skjemaet på denne nettsiden, kan du åpne
-den direkte [her {{< ext >}}](https://forms.gle/pe3y4GiMc9Ee9Feb8).
+den direkte [her {{< ext >}}](https://forms.gle/Uw63cY6G88s86UhA6).
 
 {{< survey >}}
 
@@ -15,4 +15,4 @@ Trekning 31. desember 2020: Anonym.
 Trekning 30. juni 2020: Ikke aktiv pga. koronapandemien.  
 Trekning 31. desember 2020: Ikke aktiv pga. koronapandemien.  
 Trekning 30. juni 2021: O. H.
-Trekning 31. desember 2021: Annonseres.
+Trekning 31. desember 2021: T.H.H.H.
