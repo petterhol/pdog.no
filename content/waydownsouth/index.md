@@ -24,15 +24,18 @@ og beliggenhet ved elva gjør opplevelsen perfekt!
   >}}
 
 I år vil jeg gjerne å prøve å samle flere av mine venner, som jeg kjenner fra ulike
-deler av livet mitt, til denne matfesten! Jeg satser på at årets besøk
-skjer uke 19-20 ([når er det?](https://pdog.no/2022)).
+deler av livet mitt, til denne matfesten! Det blir kollegaer, ekskollegaer, venner,
+venners venner og så videre.
+
+Jeg satser på at årets besøk
+skjer en eller annen gang mellom 11. - 22. mai.  Når det nærmer seg, sender jeg ut en Doodle for å bestemme tid!
 Jeg er tidlig ute for å kunne planlegge besøk fra folk som bor utenbys også!
 
 Før du sier ja, bør du:
-- lese på waydownsouth.no for å forstå hva menyen innebærer, samt pris, og
-- forstå at de misliker alt som ikke er delemenyen når man bestiller på forhånd,
+- lese på waydownsouth.no for å forstå hva delefatet innebærer, samt pris, og
+- forstå at de misliker alt som ikke er delemenyen når man bestiller på forhånd, og
 - sjekke allergener osv. selv, og
-- elske kjøtt :-)
+- være glad i kjøtt :-)
 
 {{% expand-btn
     ident="disagree"
