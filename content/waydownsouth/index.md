@@ -32,7 +32,7 @@ skjer en eller annen gang mellom 11. - 22. mai.  Når det nærmer seg, sender je
 Jeg er tidlig ute for å kunne planlegge besøk fra folk som bor utenbys også!
 
 Før du sier ja, bør du:
-- lese på waydownsouth.no for å forstå hva delefatet innebærer, samt pris, og
+- lese på [waydownsouth.no](https://waydownsouth.no/) for å forstå hva delefatet innebærer, samt pris, og
 - forstå at de misliker alt som ikke er delemenyen når man bestiller på forhånd, og
 - sjekke allergener osv. selv, og
 - være glad i kjøtt :-)
