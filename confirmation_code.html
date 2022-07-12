@@ -1,0 +1,34 @@
+<!DOCType HTML>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Confirmation code</title>
+</head>
+
+<body>
+  <center>
+    <h1 id="target">Loading time ...</h1>
+    <h2 id="prev-target"></h2>
+  </center>
+  <script type="text/javascript">
+    const target = document.getElementById("target");
+    const prevTarget = document.getElementById("prev-target");
+    const interval = 60;
+
+    fetch("https://worldtimeapi.org/api/timezone/Etc/UTC")
+      .then(res => res.json())
+      .then(res => {
+        const secondsSinceEpoch = res.unixtime;
+        const code = Math.floor(secondsSinceEpoch / interval) * 7919357;
+        const prevCode = Math.floor(secondsSinceEpoch / interval - 1) * 7919357;
+        target.innerHTML = code.toString().slice(-6);
+        prevTarget.innerHTML = "Previous value: " + prevCode.toString().slice(-6);
+      })
+      .catch(() => target.innerHTML = "ERROR");
+  </script>
+</body>
+
+</html>
