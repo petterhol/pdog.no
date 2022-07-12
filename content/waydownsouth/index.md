@@ -27,10 +27,6 @@ I år vil jeg gjerne å prøve å samle flere av mine venner, som jeg kjenner fr
 deler av livet mitt, til denne matfesten! Det blir kollegaer, ekskollegaer, venner,
 venners venner og så videre.
 
-Jeg satser på at årets besøk
-skjer en eller annen gang mellom 11. - 22. mai.  Når det nærmer seg, sender jeg ut en Doodle for å bestemme tid!
-Jeg er tidlig ute for å kunne planlegge besøk fra folk som bor utenbys også!
-
 Før du sier ja, bør du:
 - lese på [waydownsouth.no](https://waydownsouth.no/) for å forstå hva delefatet innebærer, samt pris, og
 - forstå at de misliker alt som ikke er delemenyen når man bestiller på forhånd, og
@@ -43,8 +39,12 @@ Før du sier ja, bør du:
     bait="Ja, jeg vil delta"
 %}}
 
-Send meg en melding på Signal eller iMessage eller Messenger
-hvor du skriver "Way Down Voff!" {{% /expand-btn %}}
+Flott, følgende må gjøres:
+1. Gå inn på [Doodle](https://doodle.com/meeting/participate/id/dJ6jp42d)
+for å si når det passer best. Bindende påmelding.
+2. Send meg en melding hvor du skriver "Way Down Voff!".
+
+ {{% /expand-btn %}}
 
 ---
 
@@ -55,8 +55,7 @@ hvor du skriver "Way Down Voff!" {{% /expand-btn %}}
 %}}
 
 Det går fint, jeg inviterer til noe annet seinere!
-{{% /expand-btn %}}
 
-*PS: Du kan ombestemme deg altså, vil bare måle interessen!*
+{{% /expand-btn %}}
 
 Hilsen P-Dog!
