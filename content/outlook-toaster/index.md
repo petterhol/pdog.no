@@ -2,7 +2,7 @@
 title = "Få Outlook for brødrister"
 +++
 
-<!-- markdownlint-disable MDMD013 -->
+<!-- markdownlint-disable MD013 -->
 
 {{< img-caption
   figure-class="float"
