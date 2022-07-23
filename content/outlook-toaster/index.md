@@ -2,6 +2,8 @@
 title = "Få Outlook for brødrister"
 +++
 
+<!-- markdownlint-disable MDMD013 -->
+
 {{< img-caption
   figure-class="float"
     class="rounded"
@@ -10,7 +12,7 @@ title = "Få Outlook for brødrister"
     alt="Bilde av en brødrister med et påklistret skjermbilde av Microsoft Outlook-programvaren. Over brødristeren er det et sort merke med ikon av en brødskive og teksten Download on the Crumb Store"
 >}}
 
-Nei da – heldigvis har ikke brødristere blitt så smarte, enda. 
+Nei da – heldigvis har ikke brødristere blitt så smarte, enda.
 Hvis du vil lære hvordan du endrer standardsignaturen på Outlook,
 kan du lese en av følgende guider:
 
