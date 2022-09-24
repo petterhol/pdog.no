@@ -1,10 +1,12 @@
-+++ title = "Fordeler og ulemper med bruk av utenlandsk Apple-ID" lastmod =
-2021-04-07T22:00:00 [menu] main = { weight = 9, parent = "Teknologi og produktivitet" }
++++
+title = "Fordeler og ulemper med bruk av utenlandsk Apple-ID"
+[menu] 
+main = { weight = 9, parent = "Teknologi og produktivitet" }
 +++
 
 {{% ingress %}}
 
-<!-- markdownlint-disable MD001 -->
+<!-- markdownlint-disable MD001 MD034 -->
 
 Hvis du er noenlunde inne i Apples verden, vet du kanskje at noen apper og tjenster bare
 er tilgjengelig med en utenlandsk Apple-ID-konto. Du har kanskje vært fristet til å enten
@@ -202,7 +204,7 @@ du vil få problemer hvis lagringsabonnementet ditt nedgraderes.
 
 Nedgradering kan skje hvis du ikke har nok penger til å betale for abonnementet, noe som
 lett kan skje hvis du har glemt å fylle på med et nytt gavekort. Merk at det riktignok
-ikke skjer med en gang abonnementet ditt "løper ut". Apple tilbyr sine kunder en 
+ikke skjer med en gang abonnementet ditt "løper ut". Apple tilbyr sine kunder en
 amnestiperiode ("grace period") hvor du kan fortsette å bruke abonnementet ditt, men hvor
 lang denne perioden er, vil ikke Apple dokumentere eller si til noen.
 
@@ -266,8 +268,9 @@ Hvis du er klar til å gå videre, les artikkelen [Endre land eller region for A
 (support.apple.com) {{< ext >}}][apple-endre-land] . Husk at Apple ofte mener det de
 skriver helt bokstavelig, så det er best å følge artikkelen til punkt og prikke.
 
-{{% expand ident="historie" bait="Historie om da jeg ble med i et amerikansk
-gruppesøksmål"
+{{% expand 
+	ident="historie"
+	bait="Historie om da jeg ble med i et amerikansk gruppesøksmål"
 %}}
 
 I 2022 fikk jeg en e-post fra administratoren av et amerikansk gruppesøksmål. Saken med
@@ -281,8 +284,11 @@ selvfølgelig ikke så mye, kanskje så mye som rundt ``50 USD``. Men det var g�
 i en ekte amerikansk "class action" …
 
 Les om gruppesøksmålet på [storageclassactionsettlement.com {{< ext
->}}](https://www.storageclassactionsettlement.com). {{% /expand %}}
+>}}](https://www.storageclassactionsettlement.com).
 
-[appletv]: tv.apple.com [apple-endre-land]: https://support.apple.com/no-no/HT201389
-[apple-gift-card]: https://www.apple.com/shop/gift-cards [amazon]:
-https://www.amazon.com/Apple-Gift-Card-accessories-Delivery/dp/B08F3C99KN/
+{{% /expand %}}
+
+[appletv]: tv.apple.com
+[apple-endre-land]: https://support.apple.com/no-no/HT201389
+[apple-gift-card]: https://www.apple.com/shop/gift-cards
+[amazon]: https://www.amazon.com/Apple-Gift-Card-accessories-Delivery/dp/B08F3C99KN/
