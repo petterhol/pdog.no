@@ -1,5 +1,5 @@
 +++
-title = "Veibeskrivelse til Ivan Bjørndals gate 6"
+title = "Veibeskrivelse til Ivan Bjørndals gate 6"
 linktitle = "Ivan Bjørndals gate 6"
 lastmod = 2020-12-28T22:00:00
 aliases = [
@@ -22,15 +22,95 @@ deg til meg.
 
 {{% /ingress %}}
 
-{{< covid type="warning" >}}
+Velg reisemåte:
 
-<b>Viktig om covid-19:</b> Har du luftveisinfeksjoner eller andre symptomer på
-covid-19? Er du i karantene? Da skal du ikke komme på besøk til meg. Les mer om
-<a href="https://www.fhi.no/nettpub/coronavirus/fakta/hvis_du_mistenker_at_du_er_syk_med_covid-19/">
-hva du skal gjøre hvis du mistenker at du er smittet på Folkehelseinstituttets
-sider <sup><i class="fas fa-external-link-alt"></i></sup></a>.
+{{< accordion >}}
 
-{{< /covid >}}
+{{% card header="Kollektivtransport (inkludert fly- og sjøveien)" %}}
+Ønsker du tilpassede reiseforslag, kan du bruke kart- og kollektivselskapers ulike nettbaserte tjenester. Man kan også få sanntidstavler og -informasjon. Forslag:
+
+- [Entur](../besok-kollektivtransport-entur) er Norges nasjonale selskap for salg av billetter, og har en moderne søkemotor.
+- [Ruter](../besok-kollektivtransport-ruter) er Oslo og Akershus' kollektivtransportselskap og har egen søkemotor.
+
+Hvis du derimot ønsker en fullstendig oversikt over alle reisemåter, velg hvordan du ankommer Oslo:
+
+- med fly
+	- til Oslo lufthavn, Gardermoen
+		- hovedterminalen
+		- GA-terminalen
+	- til Sandefjord lufthavn, Torp
+	- til Kjeller flyplass
+	- til Oslo sjøflyplass, Fornebu
+	- til Oslo sjøflyplass, Lilløykilen
+- med helikopter
+	- til Ullevål sykehus
+	- til Rikshospitalet
+- med tog
+	- fra toglinjer vest for Oslo
+	- fra toglinjer øst for Oslo
+	- fra toglinjer nord for Oslo
+- med passasjerbåt
+	- fra Hovedøya, Bleikøya, Lindøya, Gressholmen, Nakkholmen, Langøyene, Fornebu, Vollen, Slemmestad, Nesodden og øyene rundt, Oscarsborg, Drøbak, Filtvet eller Son
+	- fra Bygdøy
+	- fra Kiel med Kiel-ferja (Color Line)
+	- fra København med danskebåten (DFDS)
+	- fra andre steder med ankomst på Oslo Cruiceterminal
+- med ekspressbuss
+	- fra områder vest for Oslo
+	- fra områder nord for Oslo
+	- fra fra områder øst eller sør for Oslo
+
+{{% /card %}}
+
+{{% card header="Gange, sykkel, sparkesykkel eller elvetransport" %}}
+
+**Adressen ligger like ved Akerselva, som er en populær rute for gående, syklende eller elvefarende.**
+
+_Gående_  
+Hvis du bruker gangveien ved elva og kommer sørfra, vil du møte på Myraløkka park før du blir tvunget opp ved Bentsebrua (på grunn av bygging av ny skole). Fortsett bortover Treshows gate og ta første til høyre for å komme inn i Ivan Bjørndals gate.
+
+Hvis du kommer nordfra, skal du ta til venstre som neste etter Jerusalem bru.
+
+_Syklende_  
+Syklende eller sparkesyklene vil sette pris på at Oslos sykkelrute 8 går forbi. Traseen er via Børsen, Youngstorget, Markveien, Grünerløkka, Ringnes park, Torshov til Sinsen. Den korresponderer med rute 9 som går fra Rådhusplassen til Løren.
+
+Å følge vegnettets Ring 2 eller Ring 3 er også en god idé, følg skilt mot Sagene når du nærmer deg.
+
+Sykkelnettet i Oslo er stort sett malte sykkelfelt. Kommunen publiserer sykkelkart i flere varianter på sine nettsider: [Sykkelkart (oslo.kommune.no)][ok] {{< ext >}}.
+
+Sykler kan parkeres på sykkelstativ utenfor inngangsdøren. På forespørsel kan jeg også tilby fortøyning kjetting i parkeringskjelleren.
+
+Hvis du leier sykkel fra Oslo bysykkel, er nærmeste sykkelstativer følgende:
+
+- Myraløkka øst ved Bentsebrua
+- Krebs' gate ved Vogts gate
+- Bjølsen mølle langs Sandakerveien
+- Bjølsendumpa langs Treschows gate
+
+_Padlende_
+Velger du å reise på selve elva med en kajakk, kano eller et padlebrett, anbefaler jeg at du rett etter sørsiden av brua i Ivan Bjørndals gate tar opp fortøyer og kommer deg opp på land.
+
+[ok]: https://www.oslo.kommune.no/gate-transport-og-parkering/sykkel/sykkelkart/
+
+{{% /card %}}
+
+{{% card header="Bil og drosje" %}}
+Tekst.
+{{% /card %}}
+
+{{% card header="Kart og kompass" %}}
+Tekst.
+{{% /card %}}
+
+{{% card header="Koordinater og what3words-adresse" %}}
+Tekst.
+{{% /card %}}
+
+{{< /accordion >}}
+
+---
+
+
 
 ## Kollektivtransport
 
@@ -41,29 +121,6 @@ eller se tekstveiledninger.
 
 {{% card header="Få reiseforslag i hele Norge: Bruk Entur sin søkemotor" %}}
 
-{{< entur >}}
-
-{{< muted >}}
-
-Ved å trykke på lenker i boksen over vil du bli sendt til en ekstern lenke
-{{< ext >}}.
-
-{{< /muted >}}
-
-{{% /card %}}
-
-{{% card header="Få reiseforslag for Oslo og gamle Akershus: Bruk Ruter sin søkemotor" %}}
-
-Skriv inn "Ivan Bjørndals gate 6" i "Fra" eller "Til"-feltet.
-
-{{< ruterreise >}}
-
-{{< muted >}}
-
-Ved å trykke på lenker i boksen over vil du bli sendt til en ekstern lenke
-{{< ext >}}.
-
-{{< /muted >}}
 
 {{% /card %}}
 
@@ -416,12 +473,12 @@ Hvis du er så hardcore at du trenger koordinater, har du dem her.
 Det er to veier inn på området, enten fra Treschows gate eller Sandakerveien.
 
 - Fra Treschows gate, finn inngangen mot skiltet "Det Andre Teateret". Når du har gått
-over brua, ta første trapp til høyre og gå rett frem. Her finner du nr. 6.
+over brua, ta første trapp til høyre og gå rett frem. Her finner du nr. 6.
 
 - Fra Sandakerveien, gå ned bakken og ta første asfalterte vei med bom inn til venstre. Gå til
-du finner nr. 6.
+du finner nr. 6.
 
-Ring på Holstad/Øyen og ta heis/trapp til 4. etasje.
+Ring på Holstad/Øyen og ta heis/trapp til 4. etasje.
 
 Retur med kollektivtransport?
 Dette er to varianter av _sanntidstavler_ som viser avganger basert på

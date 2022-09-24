@@ -1,0 +1,82 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 914px">
+<colgroup>
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 172px">
+<col style="width: 220px">
+<col style="width: 180px">
+<col style="width: 120px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yla0">Fra hvor</th>
+    <th class="tg-yla0">Linjer</th>
+    <th class="tg-yla0">Ved stasjonen</th>
+    <th class="tg-yla0">Holdeplass og plattform</th>
+    <th class="tg-yla0"><span style="font-weight:bold">Videre korrespondanse</span></th>
+    <th class="tg-yla0">Endeholdeplass</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1" rowspan="2"><span style="font-weight:bold">Gjøvikbanen</span><br>Gå av på <br>Grefsen stasjon (tog)</td>
+    <td class="tg-cly1"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "30 Oslo/Gjøvik" "routeType" "train") }}</div></td>
+    <td class="tg-cly1" rowspan="2">Gå under den store<br>veien (Ring 3).</td>
+    <td class="tg-cly1" rowspan="2">Grefsen stasjon (trikk)</td>
+    <td class="tg-cly1" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "18 Rikshospitalet" "routeType" "tram") }}</div></span></td>
+    <td class="tg-cly1" rowspan="2">Sandaker senter</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "L3 Oslo/Jaren" "routeType" "train") }}</div></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" colspan="2" rowspan="2">Hvis toget stopper på <b>Nationaltheateret stasjon</b></td>
+    <td class="tg-cly1" rowspan="2">Følg utgang Karl Johans gate.</td>
+    <td class="tg-cly1">Nationaltheateret <img src = "plattform-c.svg" alt="Plattform C"/><br></td>
+    <td class="tg-cly1"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "11 Kjelsås" "routeType" "tram") }}</div></td>
+    <td class="tg-cly1">Sandaker Senter</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Nationaltheateret<img src = "plattform-d.svg" alt="Plattform D"/></td>
+    <td class="tg-cly1"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "37 Kjelsås stasjon" "routeType" "bybuss") }}</div></td>
+    <td class="tg-cly1">Arendalsgata</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" colspan="2" rowspan="5">Hvis toget ikke stopper<br>på Nationaltheateret, eller<br>det er veldig tidlig <br>eller veldig seint, gå av på <br><b>Oslo senstralstasjon</b></td>
+    <td class="tg-cly1" rowspan="5">Følg utgang mot Jernbanetorget.</td>
+    <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none">Jernbanetorget <img src = "plattform-c.svg" alt="Plattform C"/></span></td>
+    <td class="tg-cly1"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "11 Kjelsås" "routeType" "tram") }}</div></td>
+    <td class="tg-cly1">Sandaker senter</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Jernbanetorget <img src = "plattform-c.svg" alt="Plattform C"/></td>
+    <td class="tg-cly1"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "12 Kjelsås" "routeType" "tram") }}</div></td>
+    <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none">Sandaker senter</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none">Jernbanetorget <img src = "plattform-e.svg" alt="Plattform E"/></span></td>
+    <td class="tg-cly1"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "18 Storo-Grefsen st." "routeType" "tram") }}</div></td>
+    <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none">Sandaker senter</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Jernbanetorget <img src = "plattform-d.svg" alt="Plattform D"/></td>
+    <td class="tg-cly1"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "54 Kjelsås stasjon" "routeType" "bybuss") }}</div></td>
+    <td class="tg-cly1">Arendalsgata</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none">Jernbanetorget <img src = "plattform-d.svg" alt="Plattform D"/></span></td>
+    <td class="tg-cly1"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "34 Tåsen" "routeType" "bybuss") }}</div></td>
+    <td class="tg-cly1">Sagene</td>
+  </tr>
+</tbody>
+</table>
+

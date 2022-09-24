@@ -1,0 +1,61 @@
+<div class="card-columns">
+
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">Flybussen</h5>
+      <p class="card-text"><b>Anbefalt for</b> den enkleste reisen uten å måtte bytte transportmiddel. Hyppighet på en gang i timen.</p>
+<p class="card-text"><b>Billetter</b> kjøpes på flybussen.no, på stasjonen (automat) eller før du stiger på bussen (det kan være et ombordtillegg).</p>
+<p class="card-text"><b>Linjer</b> fra plattform 12:
+<div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "FB1 Majorstuen" "routeType" "flybuss") }}</div><br>
+Gå av på Arendalsgata.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">Lokal- og regionaltog</h5>
+      <p class="card-text"><b>Anbefalt for</b> beste kombinasjon av billigste reise, reisetid og hyppighet. To tog i timen, av og til tre.</p>
+<p class="card-text"><b>Billetter</b> kjøpes på app (Ruter, Entur eller Vy), på stasjonen (automat, betjent utsalg) eller på toget (det kan være et ombordtillegg).
+Billetten skal være fra sone 4N til sone 1, og sone 1-billetten kan brukes på reisen i byen også.</p>
+<p class="card-text"><b>Linjer</b> fra spor 4 på Oslo lufthavn kan du velge første avgang:
+<div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "L12 Kongsberg" "routeType" "train") }}</div>
+<div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "R10 Drammen" "routeType" "train") }}</div>
+<div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "R11 Skien" "routeType" "train") }}</div><br>
+Gå av på Oslo sentralstasjon (Oslo S).
+</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">Flytoget</h5>
+      <p class="card-text"><b>Anbefalt for</b> den hyppigste reisen (opp til seks tog i timen) til byen med veldig tidlige og seine avganger.</p>
+      <p class="card-text"><b>Billetter</b> kjøpes på app (Flytoget), på stasjonen (automat) eller ved sperreportene.</p>
+      <p class="card-text"><b>Linjer</b> fra spor 3:     
+      Opp til seks tog i timen, men også den dyreste vei inn til Oslo. Krever ny billett hos Ruter. Gå av på Oslo sentralstasjon (Oslo S).
+<div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "FLY1 Drammen" "routeType" "train") }}</div>
+<div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "FLY2 Oslo S" "routeType" "train") }}</div><br>
+Gå av på Oslo sentralstasjon (Oslo S).
+</p>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">Regionbuss</h5>
+      <p class="card-text">Regionbuss er den absolutt treigeste måten å reise fra terminalen på. Det koster det samme som lokal-/regionaltog, men fint om du vil se noe av landskapet på turen inn til Oslo. Reisen tar rett over 1 time.
+<div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "400 Oslo bussterminal" "routeType" "regionbuss") }}</div>
+</p>
+    </div>
+  </div>
+  
+    <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">Ankomst GA-terminalen?</h5>
+      <p class="card-text">Hvis du ankommer GA-terminalen med privatfly, kan du 
+<div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "400 Oslo bussterminal" "routeType" "regionbuss") }}</div>
+</p>
+    </div>
+  </div>
+  
+</div>

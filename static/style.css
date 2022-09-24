@@ -20,6 +20,18 @@ iframe {
   background: #f2102d;
 }
 
+.train {
+  background: #01266C;
+}
+
+.flytog {
+	background: #F83708;
+}
+
+.ferry {
+	background: #541975;
+}
+
 .nattbuss {
   background: #000000;
 }

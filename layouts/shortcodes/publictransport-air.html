@@ -1,0 +1,95 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:right;vertical-align:right}
+.tg .tg-g7sd{border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1008px">
+<colgroup>
+<col style="width: 205px">
+<col style="width: 111px">
+<col style="width: 200px">
+<col style="width: 378px">
+<col style="width: 141px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-g7sd">Flyplass</th>
+    <th class="tg-g7sd">Reisemåte og reisetid</th>
+    <th class="tg-g7sd">Rute</th>
+    <th class="tg-g7sd">Holdeplass og videre korrespondanse</th>
+    <th class="tg-g7sd">Notater</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lboi" rowspan="7"><span style="font-weight:bold">Oslo lufthavn, Gardermoen</span><br>IATA: OSL<br>ICAO: ENGM</td>
+    <td class="tg-lboi">Flybuss (52 min + 5 min gange)</td>
+    <td class="tg-lboi"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "FB1 Majorstuen" "routeType" "flybuss") }}</div></td>
+    <td class="tg-lboi">Arendalsgata. Følg vestover, kryss Bentsebrugata og over i Treschows gate. Ta til høyre inn Ivan Bjørndals gate.</td>
+    <td class="tg-lboi">Enkleste reise - ingen korrespondanse.</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi" rowspan="3">Lokal- og regionaltog (40 min + 5 min gange)</td>
+    <td class="tg-lboi"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "L12 Kongsberg" "routeType" "train") }}</div></td>
+    <td class="tg-lboi" rowspan="4">Nationaltheateret (tog) eller Oslo Sentralstasjon. <span style="font-weight:400;font-style:normal;text-decoration:none">Følg "Ankomst med tog".</span></td>
+    <td class="tg-lboi" rowspan="3">Billigste reise.</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "R10 Drammen" "routeType" "train") }}</div></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "R11 mot Skien" "routeType" "train") }}</div></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi" rowspan="2">Ekspresstog (39 min + 5 min gange)</td>
+    <td class="tg-lboi"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "FLY1 Drammen" "routeType" "flytog") }}</div></td>
+    <td class="tg-lboi" rowspan="2">Hyppigere enn lokal- og regiontog.</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "FLY2 Oslo S" "routeType" "flytog") }}</div></td>
+    <td class="tg-lboi">Oslo Sentralstasjon. Følg "Ankomst med tog".</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Rutebuss (101 min + 5 min gange)</td>
+    <td class="tg-lboi"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "400 Oslo bussterminal" "routeType" "regionbuss") }}</div></td>
+    <td class="tg-lboi" rowspan="2">Oslo bussterminal. Følg "Ankomst på Oslo bussterminal".</td>
+    <td class="tg-lboi">Samme pris som lokal- og regiontog, mye treigere og ikke hyppige avganger.</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi" rowspan="2"><span style="font-weight:bold">Sandefjord lufthavn, Torp</span><br>IATA: TRF<br>ICAO: ENTO</td>
+    <td class="tg-lboi">Flybuss (117 min + 5 min gange)</td>
+    <td class="tg-lboi"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "F25 Oslo sentrum" "routeType" "flybuss") }}</div></td>
+    <td class="tg-lboi">Billigere og korresponderer med faktiske flyavganger.</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">Tog (140 min + 5 min gange)</td>
+    <td class="tg-lboi"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "R11 Eidsvoll" "routeType" "train") }}</div></td>
+    <td class="tg-lboi">Nationaltheateret (tog). <span style="font-weight:400;font-style:normal;text-decoration:none">Følg "Ankomst med tog".</span></td>
+    <td class="tg-lboi">Må ta matebuss fra flyplassen.</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"><span style="font-weight:bold">Kjeller flyplass</span><br>IATA: –<br>ICAO: ENKJ</td>
+    <td class="tg-lboi">Rutebuss (36 min + 16 min gange)</td>
+    <td class="tg-lboi"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "340 Olavsgård" "routeType" "regionbuss") }}</div> og bytt på Olavsgård til <div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "380 Oslo bussterminal" "routeType" "regionbuss") }}</div></td>
+    <td class="tg-lboi">Sinsen T-banestasjon. Følg Hans Nielsen Hauges gate, ta til venstre inn Åsengata. Følg til Ivan Bjørndals gate.</td>
+    <td class="tg-lboi">To korrespondanser, men kommer nært Ivan Bjørndals gate&nbsp;6.</td>
+  </tr>
+  <tr>
+  	<td class="tg-lboi" rowspan="2"><span style="font-weight:bold">Oslo sjøflyplass</span><br>IATA: -<br>ICAO: -</td>
+  	<td class="tg-lboi">Rutebuss fra Rolfstangen (31 min + 12 min gange)</td>
+    <td class="tg-lboi"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "31 Grorud T" "routeType" "bybuss") }}</div> og bytt på Skøyen stasjon til <div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "20 Galgeberg" "routeType" "bybuss") }}</div></td>
+	<td class="tg-lboi">Arendalsgata (se gange).</td>
+	<td class="tg-lboi">Raskeste reisemåte</td>
+  </tr>
+  <tr>
+  	<td class="tg-lboi">Passasjerbåt + trikk (32 min + 8 min gange)</td>
+    <td class="tg-lboi"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "B22 Aker brygge" "routeType" "ferry") }}</div> og bytt på Aker Brygge til <div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "12 Kjelsås" "routeType" "tram") }}</div></td>
+    <td class="tg-lboi">Sandaker senter (se gangvei)</td>
+    <td class="tg-lboi">Unik opplevelse med sjøveien - bare lørdager og søndager.</td>
+  </tr>
+</tbody>
+</table>

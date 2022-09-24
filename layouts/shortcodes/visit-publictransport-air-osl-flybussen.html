@@ -1,0 +1,151 @@
+<div class="row">
+  <div class="col-4">
+    <div class="list-group" id="list-tab" role="tablist">
+      <a class="list-group-item list-group-item-action active" id="flybussen" data-toggle="list" href="#list-home" role="tab" aria-controls="home">
+      <b>Flybussen</b> <br>52 minutters reisetid uten overganger. Hyppighet på en gang i timen. 
+      </a>
+      <a class="list-group-item list-group-item-action" id="lokalregionaltog" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">
+      <b>Lokal-/regionaltog</b><br> 
+      Beste kombinasjon av billigste reise, reisetid og hyppighet. Tog to ganger i timen, av og til tre.
+      </a>
+      <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">
+      <b>Flytoget</b><br>
+      Opp til seks tog i timen, men også den dyreste veien inn til Oslo.</a>
+      <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">
+      <b>Regionbuss</b><br>
+      Over en times reisevei for den minst behagelige og lengste turen til Oslo.</a>
+    </div>
+  </div>
+
+  <div class="col-8">
+    <div class="tab-content" id="nav-tabContent">
+      <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">...</div>
+      <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
+<p>Lokal- og regionaltog kan kjøpes i appen for Ruter, Vy og Entur, på automat på flyplassen, eller ombord toget (mot ombordtillegg). Du trenger sone 4N til sone 1.</p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 478px">
+<colgroup>
+<col style="width: 25px">
+<col style="width: 150px">
+<col style="width: 0px">
+<col style="width: 150px">
+<col style="width: 99px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-1wig">#</th>
+    <th class="tg-1wig" colspan="4">Detaljert reisebeskrivelse</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax" colspan="4">Gå til Oslo lufthavn stasjon. Dette er rett frem fra ankomst innenlands, til høyre med en gang fra ankomst utenlands.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax" colspan="4">Gå ned på spor 4 og velg første tog:</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax" colspan="2"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "L12 Kongsberg" "routeType" "train") }}</div></td>
+    <td class="tg-0lax"><span style="font-style:normal;text-decoration:none"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "R10 Drammen" "routeType" "train") }}</div></span></td>
+    <td class="tg-1wig"><span style="font-weight:400;font-style:normal;text-decoration:none"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "R11 Skien" "routeType" "train") }}</div></span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax" colspan="4">Gå av på Nationaltheateret stasjon. Følg skilt mot Karl Johans gate eller Stortingsgata.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax" colspan="4">Gå til holdeplassen Nationaltheateret og velg første avgang.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax" colspan="2"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "11 Kjelsås" "routeType" "tram") }}</div> fra plattform C</td>
+    <td class="tg-0lax" colspan="2"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "54 Kjelsås stasjon" "routeType" "bybuss") }}</div> fra plattform D</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax" colspan="2">Gå av på Sandaker senter.<br>Gå til Ivan Bjørndals gate (kart).</td>
+    <td class="tg-0lax" colspan="2">Gå av på Arendalsgata. <br>Gå til Ivan Bjørndals gate (kart).</td>
+  </tr>
+</tbody>
+</table></div>
+<br></div>
+      <div class="tab-pane fade" id="list-messages" role="tabpanel" aria-labelledby="list-messages-list"><p>Flytoget kan kjøpes i appen for Flytoget, på automat på flyplassen eller ved sperreportene. Velg stasjon Nationaltheateret, så får du riktig pris.
+Du trenger også billett med Ruter når du er i Oslo. Dette kjøpes i appen for Ruter eller Entur, eller på nærmeste Narvesen/7-Eleven/Deli De Luca. Du trenger sone 1.</p>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 478px">
+<colgroup>
+<col style="width: 25px">
+<col style="width: 150px">
+<col style="width: 0px">
+<col style="width: 150px">
+<col style="width: 99px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-1wig">#</th>
+    <th class="tg-1wig" colspan="4">Detaljert reisebeskrivelse</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax" colspan="4">Gå til Oslo lufthavn stasjon. Dette er rett frem fra ankomst innenlands, til høyre med en gang fra ankomst utenlands.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax" colspan="4">Gå ned på spor 4 og velg første tog:</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax" colspan="2"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "L12 Kongsberg" "routeType" "train") }}</div></td>
+    <td class="tg-0lax"><span style="font-style:normal;text-decoration:none"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "R10 Drammen" "routeType" "train") }}</div></span></td>
+    <td class="tg-1wig"><span style="font-weight:400;font-style:normal;text-decoration:none"><div class="d-flex flex-wrap">{{ partial "rute.html" (dict "routeNo" "R11 Skien" "routeType" "train") }}</div></span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax" colspan="4">Gå av på Nationaltheateret stasjon. Følg skilt mot Karl Johans gate eller Stortingsgata.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax" colspan="4">Gå til holdeplassen Nationaltheateret og velg første rute hjem.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6</td>
+    <td class="tg-0lax" colspan="2">11 Kjelsås fra plattform C</td>
+    <td class="tg-0lax" colspan="2">54 Kjelsås stasjon fra plattform D</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax" colspan="2">Gå av på Sandaker senter.<br>Gå til Ivan Bjørndals gate (kart).</td>
+    <td class="tg-0lax" colspan="2">Gå av på Arendalsgata. <br>Gå til Ivan Bjørndals gate (kart).</td>
+  </tr>
+</tbody>
+</table></div>
+<br></div>
+      <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">...</div>
+    </div>
+  </div>
+</div>
