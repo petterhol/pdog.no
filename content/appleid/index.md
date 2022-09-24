@@ -17,12 +17,19 @@ før du bytter.
 
 {{% /ingress %}}
 
+Språkrådets [På godt norsk - avløserord (språkrådet.no) {{< ext >}}](vg.no)
+
+
+
 For ordens skyld kan jeg nevne at denne artikkelen er skrevet med utgangspunkt i en
 person som bor i Norge, som har en Apple-ID registrert i Norge, men som ønsker å kunne
 bruke innhold på en Apple-ID fra Sambandsstatene (USA).
 
-{{< alert color="danger" align="center" header="Du bør grundig tenke igjennom
-konsekvensene av å bytte land/region på din Apple-ID"
+{{< alert
+	color="danger"
+	align="center"
+	header="Du bør grundig tenke igjennom konsekvensene av å bytte land/region på din Apple-ID"
+
 >}}
 
 Apple har ikke designet sine produkter og tjenester, og i alle fall ikke
