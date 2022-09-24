@@ -7,7 +7,8 @@ lastmod = 2020-10-06T22:00:00
 
 {{% ingress %}}
 
-Jeg er en aktiv spiller av GeoGuessr, og jeg vil gjerne fremheve noen andre kart jeg synes
-er interessante, morsomme eller spennende.
+De som vet, de vet.
 
 {{% /ingress %}}
+
+{{< mymaps 1CzofalztGIqDmFq27cBnAUQvQwslcFw >}}
