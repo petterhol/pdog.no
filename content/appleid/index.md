@@ -268,9 +268,9 @@ Hvis du er klar til å gå videre, les artikkelen [Endre land eller region for A
 (support.apple.com) {{< ext >}}][apple-endre-land] . Husk at Apple ofte mener det de
 skriver helt bokstavelig, så det er best å følge artikkelen til punkt og prikke.
 
-{{% expand 
-	ident="historie"
-	bait="Historie om da jeg ble med i et amerikansk gruppesøksmål"
+{{% expand
+ ident="historie"
+ bait="Historie om da jeg ble med i et amerikansk gruppesøksmål"
 %}}
 
 I 2022 fikk jeg en e-post fra administratoren av et amerikansk gruppesøksmål. Saken med
