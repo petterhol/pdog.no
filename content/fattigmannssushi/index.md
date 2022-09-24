@@ -6,7 +6,7 @@ aliases = [
     "sushi",
 ]
 [menu]
-main = { weight = 3, parent = "Mat"}
+main = { weight = 3, parent = "Kokebok"}
 +++
 
 <!-- markdownlint-disable MD010 -->

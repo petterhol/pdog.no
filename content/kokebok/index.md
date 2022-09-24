@@ -1,7 +1,6 @@
 +++
-title="Mat og oppskrifter"
-linktitle = "Mat"
-lastmod = 2020-12-28T22:00:00
+title="Kokebok"
+linktitle = "Kokebok"
 [menu]
 main = { weight = 50 }
 +++

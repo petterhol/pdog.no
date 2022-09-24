@@ -6,7 +6,7 @@ aliases = [
     "tako",
 ]
 [menu]
-main = { weight = 5, parent = "Mat"}
+main = { weight = 5, parent = "Kokebok"}
 +++
 
 {{< img
