@@ -3,7 +3,7 @@ title = "Oppskrift på indrefileter stekt med pannekaker i leirgryte"
 linktitle = "Indrefilet i leirgryte"
 lastmod = 2020-12-26T22:00:00
 [menu]
-main = { weight = 2, parent = "Mat"}
+main = { weight = 2, parent = "Kokebok"}
 +++
 
 {{% ingress %}}

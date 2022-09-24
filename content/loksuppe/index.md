@@ -2,7 +2,7 @@
 title = "To oppskrifter på løksuppe"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Mat", weight = 4 }
+main = { parent = "Kokebok", weight = 4 }
 +++
 
 <!-- markdownlint-disable MD001 MD024 -->

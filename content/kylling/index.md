@@ -3,7 +3,7 @@ title = "Oppskrift kylling stekt i leirgryte"
 linktitle = "Kylling i leirgryte"
 lastmod = 2020-12-26T22:00:00
 [menu]
-main = { weight = 1, parent = "Mat"}
+main = { weight = 1, parent = "Kokebok"}
 +++
 
 <!-- markdownlint-disable MD010 -->
