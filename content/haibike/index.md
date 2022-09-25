@@ -15,7 +15,8 @@ Mange spør meg om sykkelen min, så jeg har laget denne siden for å samle all 
 
 Vår/sommer 2021 ønsket jeg etter å kjøpe min første elsykkel. Etter å ha sendt en e-post til
 et utvalg av Oslos
-elsykkelforretninger som jeg anser til å være av en viss kvalitet (det utelukker butikker som Biltema, XXL
+elsykkelforretninger som jeg anser til å være av en viss kvalitet
+(det utelukker butikker som Biltema, XXL
 og liknende),
 endte jeg med tre anbefalinger. Av disse valgte jeg å kjøpe en
 [Haibike Sduro Trekking 4.0 2020-modell][haibike] {{< ext >}}
