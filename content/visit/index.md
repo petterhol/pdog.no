@@ -282,7 +282,7 @@ Hvis et annet transportmiddel har henvist deg til Oslo sentralstasjon, Jernbanet
 eller Oslo bussterminal:
 
 Flere av disse anbefalingene gjør det også mulig å gå av på
-Nationaltheatret eller Nationaltheatret stasjon. 
+Nationaltheatret eller Nationaltheatret stasjon.
 Det er fullt mulig å reise herfra, men det er færre alternativer og litt mer venting.
 Fordelen med å reise fra Nationaltheatret er at du kommer på transportmiddelet tidligere,
 som ofte betyr at man får sitteplass.
@@ -295,7 +295,7 @@ som ofte betyr at man får sitteplass.
 - Hvis du vil kan du også ta trikk 11 Kjelsås eller 12 Kjelsås til Sandaker senter.
 Denne turen er betydelig lengre, men du får se mer av Oslo.
 
-For begge alternativer: 
+For begge alternativer:
 Følg deretter "Når du har kommet frem" lengre ned på siden.
 Billetter kjøpes i Entur-appen, Ruter-appen eller ombord (mot ombordtillegg).
 
