@@ -46,5 +46,3 @@ du hvordan du gjør dette på Mac og Windows.
 2. I vinduet som åpner seg, skriv ``systeminfo`` og trykk på returknappen
 (enter, linjeskift).
 3. En del informasjon vises om maskinen, herunder "System boot time".
-
-Lykke til
