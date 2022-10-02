@@ -1,16 +1,17 @@
 +++
-title = "E-posthåndtering med 'catch all'"
+title = "Sett opp e-postdomener med altomfavnende innstilling'"
 linkTitle = "E-post: Catch-all"
 lastmod = 2020-10-06T22:00:00
 [menu]
 main = { weight = 7, parent = "Teknologi og produktivitet" }
 +++
 
-<!-- markdownlint-disable MD034 -->
+<!-- markdownlint-disable MD001 MD034 -->
 
 {{% ingress %}}
 
-Hvis du eier et e-postdomene, kan du velge å slå på en funksjon som heter *"catch all"*, som lar
+Hvis du eier et e-postdomene, kan du velge å slå på en "altomfavnende" funksjon
+(på engelsk: _catch all_), som lar
 deg motta alle meldinger som sendes til ditt domene, uavhengig av hva som står foran krøllalfa. Jeg
 bruker dette selv på mitt eget domene.
 
@@ -31,24 +32,29 @@ bruker dette selv på mitt eget domene.
 
 ## "Normalt" oppsett
 
-Hvis du ikke har "catch all" påskrudd, vil du måtte definere hvilke gyldige e-postadresser som
+Hvis du ikke har altomfavnende innstilling, vil du måtte definere hvilke gyldige e-postadresser som
 gjelder for ditt domene. Hvis noen prøver å sende en e-post til en utgått eller feilaktig adresse,
 vil ikke denne komme frem.
 
-I en bedrift vil det kanskje være normalt å opprette "post@domene.no" samt en e-postadresse til
-alle ansatte, eksempelvis "navn.navnesen@domene.no". Hvis noe sendes til "posst@domene.no", vil
-dette ikke komme frem.
+I en bedrift vil det kanskje være normalt å opprette ``post@domene.no`` samt en e-postadresse til
+alle ansatte, eksempelvis ``navn.navnesen@domene.no``.
 
-## Hvis du skrur på "catch all"
+Men hvis noen sender en melding til en adresse som de har en skrivefeil i
+(for eksempel ``posst@domene.no``) eller til en ansatt som ikke lengre jobber der
+(for eksempel ``name.navnesen@domene.no``) vil ikke denne bli levert.
+Avsender vil få en feilmelding om dette.
+
+## Hvis du skrur på altomfavnende innstilling
 
 Nå vil alle e-poster, som ikke allerede sendes til et en spesifikk e-postkonto, sendes til en
-angitt e-postadresse. I eksemplet over, vil "postt@domene.no" komme frem til en angitt adresse. Det
+angitt e-postadresse. I eksemplet over, vil ``postt@domene.no`` komme frem til en angitt adresse. Det
 har altså ingenting å si hva du skriver foran krøllalfasymbolet, alt kommer frem.
 
 Også for gamle prosjekter, avdelinger, kampanjer og brukere, vil e-postadressen fortsatt være
-aktiv, men pass på at dette ikke kommer i [konflikt med personvernet {{< ext >}}][datatilsynet].
+aktiv, men pass på at dette ikke kommer i [konflikt med personvernet (datatilsynet.no)
+{{< ext >}}][datatilsynet].
 
-## Hvorfor jeg bruker “catch all”
+## Hvorfor jeg bruker altomfavnende innstilling
 
 Jeg bruker funksjonen for å få økt kontosikkerheten til diverse brukerkontoer jeg har registrert på
 internett, samt muligheten for å kunne avsløre om et firma har hatt datalekkasjer. Her er noen
@@ -58,10 +64,10 @@ eksempler på dette:
 
 Du har sikkert lært at man skal ha et unikt passord på hver enkelt tjeneste man har registrert seg
 på. For å øke kontosikkerheten ytterligere, vil et unikt brukernavn også ha en viss effekt. Jeg vil
-nemlig ikke få en rekke innloggingsforsøk på min *faktiske* brukerkonto andre steder, som i noen
+nemlig ikke få en rekke innloggingsforsøk på min _faktiske_ brukerkonto andre steder, som i noen
 tilfeller kan låse kontoen.
 
-Eksempel: Hos Facebook bruker jeg brukernavnet "facebook@pdog.no".
+Eksempel: Hos Facebook bruker jeg brukernavnet ``facebook@pdog.no``.
 
 ### Registrering av e-postadresser til engangsbruk
 
@@ -70,7 +76,7 @@ formålet. Hvis jeg senere ikke ønsker å få meldinger tilsendt, kan jeg bare 
 _mottakeradressen_, uavhengig av hva avsender måtte være.
 
 Eksempel: Jeg vil melde meg på et nyhetsbrev hos Elkjøp for å oppnå en rabatt. Da kan jeg for
-eksempel skrive "elkjop_nyhetsbrev_20200328@pdog.no". Da vet jeg nøyaktig hvilken avsender jeg skal
+eksempel skrive ``elkjop_nyhetsbrev_20200328@pdog.no``. Da vet jeg nøyaktig hvilken avsender jeg skal
 forvente, hva slags innhold jeg skal forvente, og hvilken dato jeg registrerte meg.
 
 ### Avsløring av lekkasjer og uautorisert dataoverføring
@@ -80,14 +86,12 @@ som betyr at personlig informasjon som e-postadresser kan komme på avveie. Det 
 noen firmaer "selger" opplysningene på en uredelig måte. Ved å alltid kunne vite hvem som var ment
 som avsender, kan jeg enkelt avsløre dette.
 
-Eksempler:
+Datainnbrudd skjer hele tiden. Her er fire kjente eksempler:
 
-- Jeg fikk søppelepost tilsendt til en e-postadresse jeg tidligere hadde brukt hos en
-leiebiltjeneste jeg hadde leid bil av for lenge siden.
-- Datainnbrudd skjer hele tiden. Her er fire
-eksempler fra [Foodora {{< ext >}}][foodora],
-[Microsoft {{< ext >}}][microsoft], [Marriot {{< ext >}}][marriot], [Rema
-1000 {{< ext >}}][rema1000].
+- [Foodora (vg.no) {{< ext >}}][foodora]
+- [Microsoft (tek.no) {{< ext >}}][microsoft]
+- [Marriot (threatpost.no) {{< ext >}}][marriot]
+- [Rema 1000 (norsis.no) {{< ext >}}][rema1000]
 
 ## Ulemper med "catch all"
 
@@ -108,6 +112,8 @@ fra”-adresse.
 
 ## Lær mer
 
+##### Profilering på Mac Geek Gab
+
 Jeg lytter på en podkast som heter Mac Geek Gab, hvor de to programlederene tar opp en rekke
 tekniske spørsmål fra lytterene sine. Sommeren 2017 sendte jeg inn et spørsmål hvor jeg forklarte
 min e-poststrategi som beskrevet ovenfor, og spurte om de hadde noen innspill til dette. Du kan
@@ -115,9 +121,24 @@ lytte til programmet på deres nettsider:
 [Oh…Snap! – Mac Geek Gab 663 {{< ext >}}][mgg] . Mitt spørsmål er det
 første som tas opp, så du trenger ikke spole.
 
+##### Tilsvarende for Googlemail-/Gmail-adresser
+
 Har du en Gmail-konto kan noenlunde samme triks brukes der ved å legge til + etter adressen din.
 Les mer her: [3 awesome Gmail address tricks to get more out of your email ID -
 TheWindowsClub {{< ext >}}][thewindowsclub].
+
+##### Hvordan sette opp hos Domeneshop
+
+Den norske domeneforhandleren [Domeneshop {{< ext >}}](domene.shop) tilbyr altomfavende
+e-postinnstilling. Her forutsetter jeg at du har kjøpt et domene med
+e-postproduktet. Gjør følgende:
+
+1. Logg inn på din profil via [domene.shop/login {{< ext >}}](domene.shop/login).
+2. Trykk på "Mine domener"-fanen og velg det domenet du vil konfigurere.
+3. Velg "Epost"-fanen.
+4. Trykk på "Opprett en ny e-postadresse".
+5. Skriv inn ``*`` i tekstboksen og trykk "Videre >>".
+6. Velg deretter hvordan e-postadressen skal oppføre seg basert på dine preferanser.
 
 [datatilsynet]: https://www.datatilsynet.no/personvern-pa-ulike-omrader/personvern-pa-arbeidsplassen/innsyn-epost-filer/
 [foodora]: https://www.vg.no/nyheter/innenriks/i/jdoO6A/lekkasje-av-kundedata-hos-foodora
