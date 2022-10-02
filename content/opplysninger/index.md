@@ -15,13 +15,15 @@ og korrigere innholdet.
 
 {{< accordion >}}
 
-{{% card header="Skatteetatene: fullt navn, fødselsår, postnummer, poststed, kommune, økonomiske forhold" %}}
+{{% card header="Skatteetatene: fullt navn, fødselsår, postnummer, poststed, kommune, økonomi" %}}
 
-Alle innbyggere i Norge står i Skatteetatens skattelister som kommer ut hver høst. De fleste kjenner nok
+Alle innbyggere i Norge står i Skatteetatens skattelister som kommer ut hver høst. De
+fleste kjenner nok
 til denne tjenesten for å sjekke opplysninger som inntekt, formue og beregnet skatt, og at slike oppslag
 blir loggført.
 
 Det kanskje ikke mange vet er at man kan gjøre oppslag uten loggføring på disse opplysningene:
+
 - fullt navn
 - fødselsår
 - postnummer/-sted
@@ -71,7 +73,7 @@ trenger registreringsnummer, understellsnummer eller det personlige bilskiltet.
 
 Man kan også få tilgang på navn og sted ved å sende registreringsnummer med kodeord REGNR til 2282.
 
-Hvis man søker om "Sammenstillinger av kjøretøysopplysninger", 
+Hvis man søker om "Sammenstillinger av kjøretøysopplysninger",
 kan man få utlevert komplett eierhistorikk med fullt navn,
 adresse og fødselsdato. Dette får man også ved oppmøte på trafikkstasjon.
 
