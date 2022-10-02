@@ -188,30 +188,6 @@ ta kabelsporvogn til og fra museumsbesøket.
 {{% /svkort %}}
 
 {{% svkort
- src="frys.jpg"
- fotograf="Qygen"
- lisenslenke="https://creativecommons.org/licenses/by-sa/3.0/"
- lisens="CC BY-SA 3.0"
- sourcelenke="https://commons.wikimedia.org/wiki/File:Fry%27s_electronics_phoenix_-_panoramio.jpg"
- source="Commons"
- alt="Bildet deler av inngangspartiet til en tilfeldig Fry's Electronics-butikk"
- header="Fry's Electronics"
- adresse="Fry's San Jose, 550 E Brokaw Rd, San Jose, CA 95112, USA"
- parkering="Parkering på stedet"
- betaling="Gratis inngang"
- tid="Her kan man bruke opp til en time"
- lenke="https://www.frys.com/ac/storeinfo/storelocator"
- kartlenke="https://maps.apple.com/?address=550 E Brokaw Rd, San Jose, CA 95112, United States&auid=13136603096389991405&ll=37.379382,-121.906700&lsp=9902&q=Fry's Electronics&_ext=Ch8KBQgEEOIBCgQIBRADCgQIBhAWCgQIChAACgQIKxABEiYp7P/SSQewQkAx05P6ZF96XsA5atX4pS2xQkBBiaQVLaZ5XsBQBA== "
-%}}
-
-Dette er intet annet enn et stort elektromarked. Og med stort mener jeg at det ikke kan sammenliknes
-en gang med de største Elkjøp- og Power-butikkene vi har i Norge. Her var det uendelig med
-hyllemeter, både med elektronikkprodukter og deler. Kjeden har flere butikker, flest i California og
-Texas. Informasjonen under er for den jeg besøkte.
-
-{{% /svkort %}}
-
-{{% svkort
  src="fb.jpg"
  fotograf="Minette Lontsie"
  lisenslenke="https://creativecommons.org/licenses/by-sa/4.0/"
@@ -308,4 +284,32 @@ blir alt belastet din betalingsmåte i appen. Det er ingen kasse eller kontrollp
 
 {{% /svkort %}}
 
+{{% svkort
+ src="bliss.jpg"
+ fotograf="Simon Goldin"
+ lisenslenke="https://en.wikipedia.org/wiki/GNU_Free_Documentation_License"
+ lisens="GNU Free Documentation License"
+ sourcelenke="https://en.wikipedia.org/wiki/File:Bliss_location,_Sonoma_Valley_in_2006.jpg"
+ source="Commons"
+ alt="Bilde av Sonama Valley i 2006"
+ header="Windows XP Bliss"
+ adresse="3054 Fremont Drive, Sonoma, California 95476, USA"
+ parkering="Ukjent"
+ betaling="Dette er natur, så ingen betaling"
+ tid="Ukjent"
+ lenke="https://en.wikipedia.org/wiki/Bliss_(image)"
+ kartlenke="https://www.google.com/maps/place/Windows+XP+%22Bliss%22+Hill/@38.2485338,-122.4130114,17z/data=!3m1!4b1!4m5!3m4!1s0x8085a92bde9d6871:0x769e7b3055d4551!8m2!3d38.2485296!4d-122.4108174"
+%}}
+
+Dette er det eneste stedet jeg ikke har vært på her, men jeg tar det med for et fremtidig besøk.
+Alle som har brukt Windows XP-operativsystemet har vel gode minner fra standardbakgrunnsbildet som het "Bliss".
+Området er ikke helt det samme i dag, men er man uansett i nærheten er det sikkert hyggelig å dra innom.
+
+{{% /svkort %}}
+
 {{% card-deck-end %}}
+
+---
+
+En tidligere utgave av denne siden profilerte "Fry's Electronics". Butikkene ble
+dessverre lagt ned i 2021.
