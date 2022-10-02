@@ -1,0 +1,41 @@
+<script>
+function copyToClipboard(element) {
+  var $temp = $("<input>");
+  $("body").append($temp);
+  $temp.val($(element).text()).select();
+  document.execCommand("copy");
+  $temp.remove();
+}
+</script>
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+      <p class="lead">E-post er foretrukket for de fleste henvendelser fra denne siden</p>
+    <h1 class="display-4">heisann@pdog.no</h1>
+    <br>
+    <text id="EMAIL"><div style="display:none;">heisann@pdog.no</div></text>
+      <a class="btn btn-dark btn-lg" href="mailto:heisann@pdog.no" role="button">Send e-post</a>
+      <a class="btn btn-dark btn-lg" href="../kontaktskjema" role="button">Bruk kontaktskjema</a>
+      <button class="btn btn-dark btn-lg" onclick="copyToClipboard('#EMAIL')" role="button">Kopier e-postadressen</a>
+  </div>
+</div>
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <p class="lead">Telefonsamtaler, FaceTime-anrop, tekstmeldinger (SMS), iMessage-meldinger eller Signal-meldinger</p>
+    <h1 class="display-4">+47 926 96 496</h1>
+    <text id="phone"><div style="display:none;">+4792696496</div></text>
+      <a class="btn btn-dark btn-lg" href="tel:004792696496" role="button">Ring via mobilnettet</a>
+      <a class="btn btn-dark btn-lg" href="facetime-audio:004792696496" role="button">Ring via Facetime-lydsamtale</a>
+      <a class="btn btn-dark btn-lg" href="facetime:004792696496" role="button">FaceTime-videosamtale</a>
+      <button class="btn btn-dark btn-lg" onclick="copyToClipboard('#EMAIL')" role="button">Kopier telefonnummeret</a>
+  </div>
+</div>
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <p class="lead">Besøk, brevpost, pakker og leveringer</p>
+    <h1 class="display-4">Bolignummer H0401 <br>Ivan Bjørndals gate 6<br>0472 Oslo</h1>
+      <a class="btn btn-dark btn-lg" href="../visit" role="button">Veibeskrivelse</a>
+  </div>
+</div>
