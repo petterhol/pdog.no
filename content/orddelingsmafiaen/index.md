@@ -1,11 +1,10 @@
 +++
 title = "Orddelingsmafiaen"
-lastmod = 2020-10-06T22:00:00
 [menu]
 main = { parent = "Kuriøsiteter", weight = "2" }
 +++
 
-<!-- markdownlint-disable MD034 -->
+<!-- markdownlint-disable MD034 MD052 MD053 -->
 
 {{% ingress %}}
 
@@ -75,6 +74,10 @@ aprilspøker,
 - NRK Nordland skrev om oss 9. oktober 2011, vi var også på forsiden til NRK (se forsiden fra den
   aktuelle dagen på Wayback Machine). Her er artikkelen:
 [– Det norske språk svekkes hvis vi ikke gjør noe](../orddelingsmafiaen-nrk).
+
+- Læreboken Kontakt med undertittel Norsk for yrkesfag VG1-VG2 omtalte artikkelen sammen
+med to oppgaver til elevene. Dette ble lagt ut på bokens nettsider under overskriften
+[Komisk med orddelingsfeil (særskriving)][../orddelingsmafiaen-kontakt].
 
 - Etter NRK-oppslaget valgte NRK P1-programmet Norgesglasset å lage en reportasje om oss.
 Denne har vi dessverre ingen kopi av, og NRK ønsker 850 kr for å lete etter klippet.
