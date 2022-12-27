@@ -1,7 +1,8 @@
 +++
+linktitle="Del opp og slå sammen dokumenter"
 title = "Bruk Forhåndsvisning til å slå sammen og splitte PDF-dokumenter og andre filer"
 [menu]
-main = { weight = 9, parent = "Teknologi og produktivitet" }
+main = { weight = 9, parent = "Apple-tips" }
 +++
 
 {{% ingress %}}

@@ -1,7 +1,7 @@
 +++
 title = "Sjekk av internettforbindelsen"
 [menu]
-main = { weight = 9, parent = "Teknologi og produktivitet" }
+main = { weight = 9, parent = "Feilsøking" }
 +++
 
 {{% ingress %}}

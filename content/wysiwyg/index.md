@@ -1,8 +1,8 @@
 +++
-title = "Direktemanipulering av tekst"
+title = "Direktemanipulering av tekst i Safari"
 lastmod = 2021-04-07T22:00:00
 [menu]
-main = { weight = 10, parent = "Teknologi og produktivitet" }
+main = { weight = 10, parent = "Apple-tips" }
 +++
 
 {{% ingress %}}

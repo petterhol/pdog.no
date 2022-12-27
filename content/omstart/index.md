@@ -1,8 +1,8 @@
 +++
-title = "Kontroller siste omstart av en datamaskin"
+title = "Kontroller siste omstart av Mac"
 lastmod = 2021-04-07T22:00:00
 [menu]
-main = { weight = 9, parent = "Teknologi og produktivitet" }
+main = { weight = 9, parent = "Apple-tips" }
 +++
 
 {{% ingress %}}
