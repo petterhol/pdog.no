@@ -17,4 +17,44 @@ Jeg skriver om ting som interesserer meg, men du finner også ting som min
 
 {{< /ingress >}}
 
-{{< forside >}}
+{{< card-deck >}}
+
+{{% info-card
+ type="text-white bg-info"
+ header="Teknologi"
+ src="/_index/teknologi.jpg"
+ link="teknologi"
+ linkedtext="Les mine artikler"
+ %}}
+
+Les mer om hva jeg mener om
+teknologi og forbrukerteknologi, forbukerrettigheter og digital beredskap.
+{{% /info-card %}}
+
+{{% info-card
+ type="text-white bg-secondary"
+ header="Mat"
+ src="_index/pizza.jpg"
+ link="mat"
+ linkedtext="Prøv mine oppskrifter"
+ %}}
+
+Selv om jeg ikke er noen kokk, har jeg foreviget noen oppskrifter
+på denne nettsiden.
+
+{{% /info-card %}}
+
+{{% info-card
+ type="text-white bg-success"
+ header="Kart og reiser"
+ src="_index/kart.jpg"
+ link="kart-og-reiser"
+ linkedtext="Titt på kartene"
+ %}}
+
+Jeg har laget noen interessante kart, samt at jeg har et par reiseskildringer
+å dele med deg!
+
+{{% /info-card %}}
+
+{{< card-deck-end >}}
