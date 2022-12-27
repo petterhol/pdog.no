@@ -1,6 +1,5 @@
 +++
 title = "Du har hjulpet meg med Skype-kreditten min"
-lastmod = 2021-04-07T22:00:00
 +++
 
 {{< img-caption

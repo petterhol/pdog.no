@@ -1,7 +1,7 @@
 +++
 title = "Fordeler og ulemper med bruk av utenlandsk Apple-ID"
 [menu] 
-main = { weight = 9, parent = "Teknologi og produktivitet" }
+main = { weight = 9, parent = "Apple-tips" }
 +++
 
 {{% ingress %}}
