@@ -1,6 +1,7 @@
 +++
 title = "Beste praksis for QR-koder"
-lastmod = 2021-04-07T22:00:00
+[menu]
+main = {weight = 2, parent = "Personvern og sikkerhet" }
 +++
 
 {{% ingress %}}
@@ -37,20 +38,14 @@ skannes.
 helst ikke trykke på noe som helst, men søke opp den informasjonen man trenger. En QR-kode er enda
 verre enn en ukjent lenke, da man ikke kan se hvor den leder, og QR-kodeskannere ofte leder deg
 rett inn på siden uten å vise deg lenken først.
-
-#### Bruk en trygg kortlenke - eller send brukere til hovedsiden
-
-Ikke bruk kortlenketjenester som bit.ly.
-
-Det beste er om du kan skape kortlenker på ditt eget domene.
-
-#### Slik følger du beste praksis
-
-##### Den enkle måten: skriv nettadressen under
+- Ikke bruk kortlenketjenester som bit.ly. Det beste er om du kan skape kortlenker på ditt eget
+domene.
 
 {{% muted %}}
 
-I mitt daglige yrke jobber jeg med QR-koder og utplassering av disse. I den forbindelse vil jeg
-gjerne presisere at meningene i artikkelen er personlige og skal ikke knyttes til min arbeidsgiver.
+Min arbeidsgiver (Favrit)
+har vært en av de store tilbydere av QR-kodebestilling på restauranter og barer
+under den globale helsehendelsen covid-19. Meningene som kommer til uttrykk her må ikke settes
+i sammenheng med mitt ansettelsesforhold.
 
-{{% /alert %}}
+{{% /muted %}}
