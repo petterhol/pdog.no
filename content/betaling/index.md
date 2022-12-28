@@ -16,7 +16,8 @@ Jeg fant ingen gode artikler som oppsummerte dette på en god måte, så jeg bes
 
 ##### Debitkort – koblet direkte mot en bankkonto
 
-I Norge tilbyr mange banker dagligbanktjenester, som inkluderer en brukskonto og et debitkort. Når du bruker kortet, reserveres et beløp på kontoen din og din disponible saldo minsker med en gang.
+I Norge tilbyr mange banker dagligbanktjenester, som inkluderer en brukskonto og et debitkort. Når
+du bruker kortet, reserveres et beløp på kontoen din og din disponible saldo minsker med en gang.
 
 I Norge tilbys følgende debitkort:
 
@@ -33,7 +34,9 @@ I Norge tilbys følgende debitkort:
 
 ###### BankAxept
 
-Som et samarbeidsprosjekt mellom alle norske banker med dagligbanktjenester finnes BankAxept som tilbys i norske kortterminaler. Hadde et prosjekt med betaling på internett (BankAxess), som ble nedlagt 1. desember 2022.
+Som et samarbeidsprosjekt mellom alle norske banker med dagligbanktjenester finnes BankAxept som
+tilbys i norske kortterminaler. Hadde et prosjekt med betaling på internett (BankAxess), som ble
+nedlagt 1. desember 2022.
 
 ---
 
@@ -48,7 +51,8 @@ Som et samarbeidsprosjekt mellom alle norske banker med dagligbanktjenester finn
 
 ###### VISA Debit
 
-Tilbys av de aller fleste norske banker med dagligbanktjenester. Tilbys i kortterminaler over hele verden, samt betaling på internett.
+Tilbys av de aller fleste norske banker med dagligbanktjenester. Tilbys i kortterminaler over hele
+verden, samt betaling på internett.
 
 ---
 
@@ -62,7 +66,9 @@ Tilbys av de aller fleste norske banker med dagligbanktjenester. Tilbys i kortte
 
 ###### VISA Electron
 
-Tilbys av flere norske banker med dagligbanktjenester. Kan bare brukes i tilfeller hvor det er mulig å sjekke saldo og trekke pengene direkte, det vil si uten fare for å overtrekke kortet. Kan ikke brukes på internett.
+Tilbys av flere norske banker med dagligbanktjenester. Kan bare brukes i tilfeller hvor det er mulig
+å sjekke saldo og trekke pengene direkte, det vil si uten fare for å overtrekke kortet. Kan ikke
+brukes på internett.
 
 ---
 
@@ -76,7 +82,8 @@ Tilbys av flere norske banker med dagligbanktjenester. Kan bare brukes i tilfell
 
 ###### Mastercard debit
 
-Tilbys av noen norske banker med dagligbanktjenester, som Handelsbanken og N26. Tilbys i kortterminaler over hele verden, samt betaling på internett.
+Tilbys av noen norske banker med dagligbanktjenester, som Handelsbanken og N26. Tilbys i
+kortterminaler over hele verden, samt betaling på internett.
 
 ---
 
@@ -86,8 +93,11 @@ Tilbys av noen norske banker med dagligbanktjenester, som Handelsbanken og N26. 
  header="BankAxept og VISA/Mastercard på samme kort?"
 >}}
 
-Det er helt vanlig i Norge å tilby BankAxept og enten VISA Debit/Electron eller MasterCard Debit på samme kort. Butikkene som tar betalt med kort, må betale et gebyr per transaksjon (ofte et fastledd + prosent av summen) til en leverandør av korttjenester.
-BankAxept får man relativt billig sammenliknet med VISA og MasterCard. En norsk betalingsterminal som støtter BankAxept og VISA, vil velge BankAxept.
+Det er helt vanlig i Norge å tilby BankAxept og enten VISA Debit/Electron eller MasterCard Debit på
+samme kort. Butikkene som tar betalt med kort, må betale et gebyr per transaksjon (ofte et fastledd
++ prosent av summen) til en leverandør av korttjenester.
+BankAxept får man relativt billig sammenliknet med VISA og MasterCard. En norsk betalingsterminal
+som støtter BankAxept og VISA, vil velge BankAxept.
 
 {{< /alert >}}
 
@@ -95,7 +105,8 @@ BankAxept får man relativt billig sammenliknet med VISA og MasterCard. En norsk
 
 ##### Kredittkort – betale på kreditt og få faktura i etterkant
 
-Banken vil gjennomføre en kredittvurdering og gi deg en kredittgrense som begrenser hvor mye du kan handle for. Forbruket får du en faktura for i etterkant, gjerne neste kalendermåned.
+Banken vil gjennomføre en kredittvurdering og gi deg en kredittgrense som begrenser hvor mye du kan
+handle for. Forbruket får du en faktura for i etterkant, gjerne neste kalendermåned.
 
 ---
 
@@ -135,11 +146,17 @@ Flere norske banker tilbyr VISA Credit so
 
 ###### American Express
 
-Mange kjenner American Express som AmEx. Kortet ble tilbudt gjennom DNB i lang tid frem til 2017, men deretter gjort om til sin egen, selvstedige enhet. Ved lanseringen ble det tilbudt som et faktureringskort, hvor hele gjelden måtte betales ned når regningen kom (i motsetning til "vanlige" kredittkort).
+Mange kjenner American Express som AmEx. Kortet ble tilbudt gjennom DNB i lang tid frem til 2017,
+men deretter gjort om til sin egen, selvstedige enhet. Ved lanseringen ble det tilbudt som et
+faktureringskort, hvor hele gjelden måtte betales ned når regningen kom (i motsetning til "vanlige"
+kredittkort).
 
 ###### Kredittkort fra energistasjoner
 
-Enkelte energistasjoner tilbyr kredittkort som bare gjelder for tjenester for den energistasjonkjeden. Noen av disse kortene igjen kan være et "vanlig" kredittkort (fra for eksempel VISA eller MasterCard), men det kan også være helt rene kort som bare fungerer til betaling av drivstoff, bilvask, med mer.
+Enkelte energistasjoner tilbyr kredittkort som bare gjelder for tjenester for den
+energistasjonkjeden. Noen av disse kortene igjen kan være et "vanlig" kredittkort (fra for eksempel
+VISA eller MasterCard), men det kan også være helt rene kort som bare fungerer til betaling av
+drivstoff, bilvask, med mer.
 
 ### Betalingsmåter for betalingskort
 
@@ -147,7 +164,8 @@ Det finnes flere måter å belaste et betalingskort på.
 
 #### Betaling ved å oppgi kortinformasjon
 
-Ofte på internett, eller over telefon, og av og til på en fysisk kortterminal, kan man betale ved å oppgi sin kortinformasjon. Denne består av følende:
+Ofte på internett, eller over telefon, og av og til på en fysisk kortterminal, kan man betale ved å
+oppgi sin kortinformasjon. Denne består av følende:
 
 - korttype
 - kortnummer (16 siffer)
@@ -156,19 +174,27 @@ Ofte på internett, eller over telefon, og av og til på en fysisk kortterminal,
 - navn på kortet
 - helt eller delvis adresseinformasjon
 
-Ikke alle utsalgssteder ber om all informasjon. Norske utstedere ber som regel bare om de fire øverste.
+Ikke alle utsalgssteder ber om all informasjon. Norske utstedere ber som regel bare om de fire
+øverste.
 
-Noen ganger blir man sendt videre til et ekstra autentiseringssteg kjent som 3D Secure. Her ber banken deg identifisere at det er du som gjennomfører kjøpet.
+Noen ganger blir man sendt videre til et ekstra autentiseringssteg kjent som 3D Secure. Her ber
+banken deg identifisere at det er du som gjennomfører kjøpet.
 
-BankAxept støtter ikke denne typen betalinger, noe som gjør at hvis man vil betale for fysiske varer i en fysisk butikk via en nettbutikk eller app, vil utsalgsstedet tilby VISA eller MasterCard til en høyere transaksjonspris.
+BankAxept støtter ikke denne typen betalinger, noe som gjør at hvis man vil betale for fysiske varer
+i en fysisk butikk via en nettbutikk eller app, vil utsalgsstedet tilby VISA eller MasterCard til en
+høyere transaksjonspris.
 
 #### Betaling ved å bruke magnetstripe, chip eller kontaktløs betaling på fysiske plastkort
 
-På fysiske utsalgssteder kan man bruke enten magnetstripen, chippen eller kontaktløs betaling ("tæpp") for å autentisere kjøpet. Magnetstripe og chip vil alltid be om at man taster inn PIN-koden. For kontaktløse betalinger er det ofte en grense for hvor stort et kjøp kan være før man ber om PIN, og av og til ber man om PIN uansett som en tilfeldig sjekk.
+På fysiske utsalgssteder kan man bruke enten magnetstripen, chippen eller kontaktløs betaling
+("tæpp") for å autentisere kjøpet. Magnetstripe og chip vil alltid be om at man taster inn
+PIN-koden. For kontaktløse betalinger er det ofte en grense for hvor stort et kjøp kan være før man
+ber om PIN, og av og til ber man om PIN uansett som en tilfeldig sjekk.
 
 #### Betaling med mobil, smartklokke med mer
 
-I Norge er det tilgjengelige tjenester for å betale direkte med mobiltelefoner, smartklokker osv. Dette er tjenestene Apple Pay, Google Pay, Garmin Pay og Fitbit Pay.
+I Norge er det tilgjengelige tjenester for å betale direkte med mobiltelefoner, smartklokker osv.
+Dette er tjenestene Apple Pay, Google Pay, Garmin Pay og Fitbit Pay.
 
 ## Vipps
 
@@ -182,4 +208,6 @@ Vipps tilbyr
 
 ### BankID
 
-BankID er utelukkende en autentiseringsmetode, og har ikke noe med betalingen i seg selv å gjøre. Du blir kanskje bedt å "godkjenne" en betaling med BankID, men det er bare for å vite at det er du som gjør betalingen.
+BankID er utelukkende en autentiseringsmetode, og har ikke noe med betalingen i seg selv å gjøre. Du
+blir kanskje bedt å "godkjenne" en betaling med BankID, men det er bare for å vite at det er du som
+gjør betalingen.
