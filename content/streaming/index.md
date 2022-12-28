@@ -2,7 +2,7 @@
 title = "Spar penger på strømmetjenester"
 lastmod = 2020-10-06T22:00:00
 [menu] 
-main = { weight = 5, parent = "Forbruker" }
+main = { weight = 5, parent = "Forbruker og medier" }
 +++
 
 {{% ingress %}}
