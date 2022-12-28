@@ -41,7 +41,7 @@ eksempler.
 
 ### Oversatt
 
-**Activity**
+**Activity** Mosjon
 
 **Camera** Kamera
 
@@ -53,6 +53,7 @@ eksempler.
 **Messages** Meldinger (men man kan sende en iMessage-melding i Meldinger-appen)
 
 **Photos** Bilder
+
 - **iCloud Photo Library** iCloud-bildebibliotek
 - **iCloud Shared Photo Library** Felles bildebibliotek i iCloud (omtale av funksjon)
 eller fellesbiblioteket (i appen)
@@ -63,7 +64,7 @@ til Systemvalg)
 ### Ikke oversatt
 
 - Game Center
-- Freeform 
+- Freeform
 
 ## Funksjoner i operativsystem(ene)
 
@@ -76,16 +77,14 @@ til Systemvalg)
 **passkeys** passnøkler
 
 **Continuity** Kontinuitet (merk stor forbokstav)
-- **Continuity Camera** Kontinuitet-kamera
 
-**Spotlight**
+- **Continuity Camera** Kontinuitet-kamera
 
 **Live Text** Tekst i objektivet
 
 ## Tastatur
 
 **Option (tastatur)** Tilvalg
-
 
 ## Kundestøtte og service
 
@@ -95,18 +94,5 @@ til Systemvalg)
 (AATL)
 
 **Apple Service Programs** Apple-serviceprogrammer
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [asg]: https://support.apple.com/no-no/guide/applestyleguide/welcome/web
