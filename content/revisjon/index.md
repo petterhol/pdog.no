@@ -4,7 +4,7 @@ title = "Årlig revisjon"
 main = { weight = 9, parent = "Forbruker" } 
 +++
 
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD013 MD033 -->
 
   <div class="lead">
 <!-- markdownlint-disable MD033 -->
