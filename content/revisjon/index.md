@@ -6,8 +6,6 @@ main = { weight = 9, parent = "Forbruker" }
 
 {{% ingress %}}
 
-<!-- markdownlint-disable MD033 -->
-
 Det er ikke bare regnskap og bedriftspraksis som skal revideres. Man kan rett og slett
 kjøre en revisjon på sitt eget liv knyttet til alt det praktiske omkring sitt eget liv.
 Nedenfor finner du en liste jeg kaller for "årlig revisjon", rett og slett en samling av
@@ -18,22 +16,8 @@ men det er selvfølgelig heller ingen forutsetning.
 
 {{% /ingress %}}
 
-{{< alert
- color="info"
- align="center"
- header="Dette er et tidlig utkast på denne artikkelen"
->}}
-
-Jeg blir aldri ferdig med denne artikkelen, så jeg ber om at du som leser den også kommer med
-egne forslag til hvordan jeg skal utvikle den videre. Jeg har mange løse tanker, men gode
-innspill setter alltid fart i skrivingen. Innspill kan sendes til
-<a href="mailto:revisjon-ideer@pdog.no">revisjon-ideer@pdog.no</a>, eller finn andre måter å
-<a href="../kontaktinfo">kontakte meg på</a>.
-
-{{< /alert >}}
-
 {{% jumbotron
- header="Offentlige myndigheter og ærend"
+	header="Offentlige myndigheter og ærend"
 %}}
 
 Selv om vi samhandler med offentlige myndigheters tjenester ofte, kan det allikevel være greit
@@ -43,7 +27,6 @@ Selv om vi samhandler med offentlige myndigheters tjenester ofte, kan det allike
 {{% /jumbotron %}}
 
 ##### ID-portens innloggingsmekanismer
-
 Hvis du skal logge på en offentlig nettside i Norge, blir du som regel alltid sendt til
 [ID-porten {{< ext >}}](https://eid.difi.no).
 Her får du valget mellom fire innloggingsmetoder: MinID, BankID (med kodebrikke eller app),
@@ -91,7 +74,6 @@ nettsider {{< ext >}}](https://brukerprofil.difi.no/minprofil/).
 ---
 
 ##### HelseNorge: sjekk opplysninger og oppdater
-
 Hvis du ikke har vært innom denne siden på lenge, kan du glede deg over en rekke
 funksjoner knyttet til deg som pasient i helsevesenet. Her finner man henvisninger,
 legemidler, prøvesvar, helsekontakter, pasientjournal, koronasertifikat, vasiner,
@@ -106,7 +88,6 @@ eksempel om donortilstand og kjernejournal, kan hjelpe deg seinere.
 ---
 
 ##### NAV: sjekk opplysninger og oppdater
-
 Alle har et eller annet å gjøre med NAV, så da kan det være fint å logge inn for å sjekke
 for eksempel sykemeldinger, utbetainger eller pensjon. Mottar du ytelser fra NAV er du
 kanskje godt kjent her inne, men ta gjerne en ekstra titt for å se at informasjon er
@@ -117,7 +98,6 @@ korrekt.
 ---
 
 ##### Skatteetaten: sjekk opplysninger og oppdater
-
 Nylig har Skatteetaten lansert "Min side", hvor man kan sjekke kontaktinformasjon,
 opplysninger i Folkeregisteret, oversikt over skatt, skattekort, skattemeldinger og
 skatteppgjør, kontonummer, hvilke arbeidsgivere som henter skattekortet ditt og
@@ -132,7 +112,6 @@ og gjøre endringer i henhold til planlagt økonomi i det neste året.
 ---
 
 ##### Reservasjon mot uadressert reklame i postkassa
-
 Får du reklame i postkassa du ikke vil ha? Da kan du merke den med
 "Nei takk til uadressert reklame". Tilsvarende må den merkes hvis du ikke vil ha gratisaviser.
 Har du postboks på postkontor eller Post i butikk, må du si ifra der. Der kan du også hente
@@ -149,7 +128,6 @@ et stort poastkasseskilt med 8 tekstlinjer til under 200 kroner inkludert frakt.
 ---
 
 ##### Brønnøysundregistrene: Reservasjon mot telefonsalg og adressert reklame
-
 Alle som sender ut reklame rettet mot privatpersoner som kunder, plikter å oppdatere
 lisene sine mot Reservasjonsregisteret minst hver måned. Logger man inn kan man legge til
 sin reservasjon i hver kategori, samt registrere telefonnumre og tilleggsadresser.
@@ -160,7 +138,6 @@ sin reservasjon i hver kategori, samt registrere telefonnumre og tilleggsadresse
 ---
 
 ##### Brønnøysundregistrene: Oppdater opplysninger for ditt foretak
-
 Mange av oss har et foretak, som regel enkeltpersonforetak, registrert i
 Brønnøysundsregisterne. Hvis du ikke har et så aktivt forhold til oppføringen i seg selv,
 kan det være lurt å sjekke om opplysningene i den stemmer, som adresser, navn, formål,
@@ -172,7 +149,6 @@ greit å avslutte det?
 ---
 
 ##### Pass og nasjonalt ID-kort: utløpsdato
-
 Bruk anledningen til å sjekke at du har tilgang på og har sjekket utløpsdato på pass og
 nasjonalt ID-kort. Bestill nye timer om nødvendig.
 
@@ -181,7 +157,6 @@ nasjonalt ID-kort. Bestill nye timer om nødvendig.
 ---
 
 ##### Statens vegvesen: kjøretøy og førerkort
-
 Vegvesenet har fått en del digitale tjenester. Her kan du se en oversikt over dine kjøretøy og
 førerkort. Bruk anledningen til å sjekke at alt er riktig her, inkludert neste EU-kontroll.
 
@@ -189,20 +164,7 @@ førerkort. Bruk anledningen til å sjekke at alt er riktig her, inkludert neste
 
 ---
 
-##### Din digitale postkasse: opprydding
-
-Det finnes to digitale postkasseleverandører i Norge: Digipost og eBoks (de aller fleste
-har nok førstnevnte). Ta gjerne en titt i postkassa. Bruker du det som en ekte postkasse, eller
-lar du alt ligge igjen? Kanskje det er lurt å dra ut viktige dokumenter og arkivere de annensteds,
-eller bare i mapper inne på postboksen.
-
-- [Logg inn på Digipost {{< ext >}}](https://digipost.no).
-- [Logg inn på eBoks {{< ext >}}](https://eboks.no).
-
----
-
 ##### Din kommune: Tømmekalender for det nye året
-
 Hvis du har tømming av søppel hjemme hos deg, kan det være lurt å sjekke om det finnes en
 ny kalender for året, eller bare holde deg oppdatert på når søppel tømmes hjemme hos deg.
 
@@ -211,7 +173,6 @@ Sjekk nettsidene til kommunen din.
 ---
 
 ##### Ditt transportselskap: Sjekk nye rutetider
-
 Rutetider oppdateres ofte i forbindelse med helligdager. Overgangen til juleruter brukes
 ofte som en anledning å ha "gyldighet til"-dato på ordinære ruter.
 
@@ -227,7 +188,7 @@ nettsider, og se om det har kommet noen spennende tjenester som kan brukes digit
 i Oslo tilbyr for eksempel ferske aviser og ordbøker som digitale kilder.
 
 {{% jumbotron
- header="Privat økonomi og forsikring"
+	header="Privat økonomi og forsikring"
 %}}
 
 Forbrukerøkonomene vil sikkert at du skal sjekke gebyrer, lånerente og vilkår på diverse
@@ -238,7 +199,6 @@ og bør du gjøre noen endringer?
 {{% /jumbotron %}}
 
 ##### Gjennomgang av kontoer i banker
-
 Din forrige skattemelding burde være et godt utgangspunkt for å finne alle banker hvor du
 har bankkontoer. Logg inn på hver av dem og ta en vurdering på om bankkontostrukturen er
 fornuftig. Burde du stenge noen, eller åpne noen? Endre navn? Endre disponenter? Sjekk
@@ -266,22 +226,15 @@ gjøre noe med det, eller om det er bra slik det er.
 ---
 
 ##### Gjennomgang av gavekort
-
 Det er lett å glemme gavekort, og kanskje fordi du har fått gavekort til jul, er det en
 perfekt anledning til å sjekke gyldigheten og saldoen på gavekort du eventuelt har fått
 tilsendt.
 
-{{% jumbotron
- header="Alt annet"
-%}}
+---
 
-Denne artikkelen blir aldri ferdig, så for å få den ut og få flere ideer fra lesere legger jeg
-resterende tips i "Annet"-kategorien, og kommer opp med en bedre kategorisering seinere.
-
-{{% /jumbotron %}}
+### Deg selv på nett
 
 ##### Sjekk etter datalekkasjer på Have I Been Pwned?
-
 Denne nettsiden lar deg skrive inn en e-postadresse eller telefonnummer - eller et
 passord, for å finne ut om det har vært med i en registrert lekkasje. En god og trygg
 påminnelse for alle at vi burde bruke unike passord på alle tjenester. Hvis du eier et
@@ -292,7 +245,6 @@ domene, kan du til og med sette opp varsling på det domenet.
 ---
 
 ##### Facebook-revisjon
-
 Det kan være lurt å ta en titt på Facebook-profilen din, samt innstillinger. Under er tre
 viktige områder jeg mener man i alle fall bør gå igjen.
 
@@ -315,23 +267,20 @@ er venn med på Facebook.
 ---
 
 ##### Søk på deg selv på internett
-
 Ved å søke på deg selv på diverse søkemotorer, kan du finne ut om det er noen ting ute om
 deg på nett som du ikke var klar over eller som du ønsker å kontrollere. Typisk vil du
 finne oppslag i telefonkatalogen og bedriftsregistre, profiler på sosiale medier,
 profiler på diverse tjenester, artikler du har skrevet, medieoppslag, forumposter. Her
 kan det også være lurt å bla i sidene på søkeresultatene.
 
-Forslag til søkemotorer:
-
+Forslag til søkemotorer: 
 - Google
 - Bing
 - DuckDuckGo
 
----
+### Annet
 
 ##### Mobiloperatørens mine sider
-
 Operatøren din (altså det selskapet du betaler mobilregningen din til) har alltid en
 "mine sider" man kan logge på. Det er ekstra viktig å sjekke at alle innstillinger, all
 kontaktinformasjon og ikke minst at listen over enheter/SIM-kort aktivert på abonnementet
@@ -344,10 +293,7 @@ kontaktinformasjonen din er utdatert og du ikke får regninger, eller at noen ha
 ekstra SIM-kort på dine vegne, kan by på store problemer. Vil du lese mer om dette
 teamet, søk på "mobilkapring" på nett.
 
----
-
 ##### Rydd opp på Finn.no-profilen
-
 Det kan være en god besparelse å passe på å kjøpe ting brukt. Hvis det er noe du vet du
 ønsker deg, kan det være lurt å søke på noe og deretter lagre søket. Da kan du få varsler
 på det på app eller e-post, eller bare ha det på finn.no når du er der inne.
@@ -355,35 +301,29 @@ på det på app eller e-post, eller bare ha det på finn.no når du er der inne.
 Jeg bruker også å rydde opp i gamle lagrede søk, samt rydde i Favoritter-listene. Da
 fjerner jeg ting jeg ikke lengre ser etter.
 
-Dette fikser du på [Finn.no sine nettsider {{< ext >}}](https://finn.no).
-
----
+Dette fikser du på [Finn.no sine nettsider {{< ext >}}][finnno]
 
 ##### Logg inn på NRK-bruker for å bekrefte norsk adresse
-
 Hvis du har en bekreftet norsk adresse og kan logge inn med en digital ID, har du
 anledning til å se på innhold fra NRK TV på reise i EU/EØS. Det kan være lurt å sjekke at
 denne er korrekt stilt inn.
 
 [Gå til NRK-brukeren din {{< ext >}}][nrk-bruker].
 
----
-
 ##### Rydd opp i nøkler
-
 Under revisjon kan det være en god anledning til å passe på at du har de nøklene du
 trenger, flytte over på diverse nøkkelknipper eller nøkkelskap, og tenke gjennom om du
 har tilstrekkelig med kopier av nøklene dine. Hva skjer om du mister nøklene, har du en
 måte å komme deg inn på? Kanskje du burde legge igjen en kopi på arbeidsplassen, hos en
 venn eller i en nøkkelboks.
 
----
 
 ##### Lojalitetsprogrammer
-
 Sjekk lojalitetsprogrammene du er med i, for eksempel for å finne ut om det er noe å
 hente i form av bonuser eller poeng, få tilsendt nye kort eller laste inn kort/strekkoder
 på mobilen, oppdatere kontaktinformasjon, og så videre.
+
+
 
 [nrk-bruker]: https://innlogging.nrk.no
 [brreg-foretak]: https://www.altinn.no/skjemaoversikt/bronnoysundregistrene/registrere-nye-og-endre-eksisterende-foretak-og-enheter---samordnet-registermelding/
