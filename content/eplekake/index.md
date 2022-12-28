@@ -13,7 +13,10 @@ Dette er en oppskrift på en særdeles god eplekake som jeg har fått av min mor
 ## Ingredienser
 
 - 4 gule epler (de må ikke være for syrlige, nemlig!).
-- 150 gram smør eller margarin (hvis du har ny pakning med smør er det gjerne avtegnet mål utenpå papiret hva som er mengden gram smør, så da slipper du å veie smøret) (la det gjenre være romtemperert, kaldt smør går også, men det er tyngre å jobbe med).
+- 150 gram smør eller margarin (hvis du har ny pakning med smør er det gjerne avtegnet mål utenpå
+papiret hva som er mengden gram smør, så da slipper du å veie smøret) (la det gjenre være
+romtemperert, kaldt smør går også, men det er tyngre å jobbe med).
+
 - 3 dl sukker.
 - 3 egg.
 - 4 dl hvetemel.
@@ -27,7 +30,7 @@ Dette er en oppskrift på en særdeles god eplekake som jeg har fått av min mor
 2. Skrell fire epler og fjern kjernen (jeg skjærer i relativt store båter, men slik at
 jeg skjærer utenom kjernen).
 3. Jeg legger eggene i en skål med LUNKENT vann, men ikke strengt nødvendig, altså!
-4. Smør en bakeform. 
+4. Smør en bakeform.
 5. Dryss gjerne et tynt lag med hvetemel i bunnen og langs sidene, bruk fingrene til å drysse med.
 6. Legg smør i en bolle (som også skal ha plass til sukkeret og etterhvert hvetemel, bakepulver og
 vaniljesukker).
