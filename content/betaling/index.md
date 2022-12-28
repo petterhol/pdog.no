@@ -8,7 +8,9 @@ main = { parent = "Forbruker", weight = 1 }
 
 {{% ingress %}}
 
-Jeg fant ingen gode artikler som oppsummerte dette på en god måte, så jeg bestemte meg for å skrive om det på egenhand. Denne artikkelen tar for konsepter og forskjeller på betalingskort, spesielt i det norske markedet.
+Jeg fant ingen gode artikler som oppsummerte dette på en god måte, så jeg bestemte meg for å skrive
+om det på egenhand. Denne artikkelen tar for konsepter og forskjeller på betalingskort, spesielt i
+det norske markedet.
 
 {{% /ingress %}}
 
@@ -95,6 +97,7 @@ kortterminaler over hele verden, samt betaling på internett.
 
 Det er helt vanlig i Norge å tilby BankAxept og enten VISA Debit/Electron eller MasterCard Debit på
 samme kort. Butikkene som tar betalt med kort, må betale et gebyr per transaksjon (ofte et fastledd
+
 + prosent av summen) til en leverandør av korttjenester.
 BankAxept får man relativt billig sammenliknet med VISA og MasterCard. En norsk betalingsterminal
 som støtter BankAxept og VISA, vil velge BankAxept.
@@ -167,12 +170,12 @@ Det finnes flere måter å belaste et betalingskort på.
 Ofte på internett, eller over telefon, og av og til på en fysisk kortterminal, kan man betale ved å
 oppgi sin kortinformasjon. Denne består av følende:
 
-- korttype
-- kortnummer (16 siffer)
-- utløpsmåned og -år (mm/åå)
-- sikkerhetskode (3 eller 4 siffer)
-- navn på kortet
-- helt eller delvis adresseinformasjon
++ korttype
++ kortnummer (16 siffer)
++ utløpsmåned og -år (mm/åå)
++ sikkerhetskode (3 eller 4 siffer)
++ navn på kortet
++ helt eller delvis adresseinformasjon
 
 Ikke alle utsalgssteder ber om all informasjon. Norske utstedere ber som regel bare om de fire
 øverste.
@@ -200,9 +203,9 @@ Dette er tjenestene Apple Pay, Google Pay, Garmin Pay og Fitbit Pay.
 
 Vipps tilbyr
 
-- betaling direkte fra konto for person-til-person-betalinger
-- betaling fra betalingskort for person-til-person-betalinger
-- betaling fra betalingkort for person-til-bedrift-betalinger
++ betaling direkte fra konto for person-til-person-betalinger
++ betaling fra betalingskort for person-til-person-betalinger
++ betaling fra betalingkort for person-til-bedrift-betalinger
 
 ## Andre ting
 
