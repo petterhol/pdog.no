@@ -1,12 +1,10 @@
 +++
-title = "Betalingsmuligheter til Petter"
-linktitle = "Betalingsinformasjon"
+title = "Betalingsmuligheter"
+lastmod = 2020-10-06T22:00:00
 aliases = [
     "pay",
     "betaling",
 ]
-[menu]
-main = { weight = 9, parent = "Petter og annen kuriosa" }
 +++
 
 <!-- markdownlint-disable MD034 -->

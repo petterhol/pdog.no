@@ -2,7 +2,7 @@
 title = "Om sykkelen min"
 lastmod = 2020-12-28T12:00:00
 [menu]
-main = { parent = "Petter og annen kuriosa", weight = 8 }
+main = { parent = "Kuriøsiteter", weight = 8 }
 +++
 
 {{% ingress %}}

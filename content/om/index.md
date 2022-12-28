@@ -7,7 +7,7 @@ aliases = [
     "lisens",
 ]
 [menu]
-main = { weight = 4, parent = "Petter og annen kuriosa" }
+main = { weight = 4, parent = "Petter" }
 +++
 
 {{% ingress %}}

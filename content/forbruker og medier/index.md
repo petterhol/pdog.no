@@ -1,6 +1,6 @@
 +++
-title="Forbruker"
-linktitle = "Forbruker"
+title="Forbruker og medier"
+linktitle = "Forbruker og medier"
 lastmod = 2020-12-28T22:00:00
 [menu]
 main = { weight = 20 }
