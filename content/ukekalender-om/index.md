@@ -100,3 +100,20 @@ viser noe annet. Det er 7 dager i en uke, uansett og alltid!
 Det kan hende folk synes du er rar og ler av deg, men husk at det er de som blir ledd av som ofte
 ender opp som genier! Her er din sjanse til å lede vår verden inn i en mye mer logisk måte å forstå
 datoer på – alt starter med et forhold til ukenummer!
+
+### Hva med tid og klokkeslett?
+
+Nytt av året 2023: Ukedager kan nå gå over midnatt.
+
+I de aller fleste praktiske situasjoner vil man si at en ukedag egentlig slutter seint på natta,
+omtrent klokken 5.
+
+- Har man en hyggelig lørdag kveld, vil man tenke på perioden etter midnatt til man legger seg som
+den samme lørdagskvelden.
+
+- Programoversikten til NRK 1 for en torsdag viser også
+nattfilmene og reprisesendingene på natta som
+en del av torsdagens program. Fredagens program starter rundt kl. 6.
+
+Dette er bare to av mange eksempler på at man i realiteten oppfatter ukedagene til å faktisk slutte
+seinere.
