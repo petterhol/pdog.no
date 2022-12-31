@@ -1,6 +1,7 @@
 +++
-title = "Kalender i ISO 8601-format"
-lastmod = 2021-04-07T22:00:00
+title = "Ukekalender for 2021"
+[menu]
+main = { parent = "Ukekalender", weight = 4 }
 +++
 
 {{% ingress %}}

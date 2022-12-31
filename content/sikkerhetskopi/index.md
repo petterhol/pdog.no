@@ -1,11 +1,11 @@
 +++
-title = "Sikkerhetskopiering"
+title = "Beste praksis for sikkerhetskopi av Apple-enheter"
 lastmod = 2020-10-06T22:00:00
 aliases = [
     "backup",
 ]
 [menu]
-main = { weight = 3, parent = "Teknologi og produktivitet" }
+main = { weight = 3, parent = "Apple-tips" }
 +++
 
 {{% ingress %}}

@@ -2,7 +2,7 @@
 title = "Rettigheter ved feil på produkter"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { weight = 1, parent = "Forbruker og medier" }
+main = { weight = 1, parent = "Forbruker" }
 +++
 
 <!-- markdownlint-disable MD033 -->

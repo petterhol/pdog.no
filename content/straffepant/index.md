@@ -6,7 +6,7 @@ aliases = [
     "strafepant",
 ]
 [menu]
-main = { weight = 5, parent = "Kuriøsiteter"}
+main = { weight = 5, parent = "Andre prosjekter"}
 
 +++
 
