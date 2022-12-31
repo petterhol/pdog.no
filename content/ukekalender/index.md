@@ -1,14 +1,12 @@
 +++
-title="Hva er en ukekalender og hvorfor bør jeg bruke det?"
-linktitle = "Hva er en ukekalender?"
+title="Ukekalender"
+linktitle = "Ukekalender"
 [menu]
-main = { weight = 3 }
+main = { weight = 10 }
 +++
 
 {{% ingress %}}
 
-Voff!
+Tips
 
 {{% /ingress %}}
-
-Heisann!

@@ -2,7 +2,7 @@
 title="Kokebok"
 linktitle = "Kokebok"
 [menu]
-main = { weight = 50 }
+main = { weight = 60 }
 +++
 
 {{% ingress %}}

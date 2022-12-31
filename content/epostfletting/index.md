@@ -2,7 +2,7 @@
 title = "Fletting av dokumenter og e-postmeldinger"
 lastmod = 2021-04-07T22:00:00
 [menu]
-main = { weight = 5, parent = "Teknologi og produktivitet" }
+main = { weight = 5, parent = "Apple-tips" }
 +++
 
 {{% ingress %}}

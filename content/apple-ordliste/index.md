@@ -2,7 +2,7 @@
 title = "Ordliste for Apple mellom norsk og engelsk"
 lastmod = 2021-04-07T22:00:00
 [menu]
-main = { weight = 9, parent = "Andre prosjekter" }
+main = { weight = 9, parent = "Apple-tips" }
 +++
 
 {{% ingress %}}

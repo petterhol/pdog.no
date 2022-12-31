@@ -3,7 +3,7 @@ title = "Sett opp e-postdomener med altomfavnende innstilling'"
 linkTitle = "E-post: Catch-all"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { weight = 7, parent = "Teknologi og produktivitet" }
+main = { weight = 7, parent = "Personvern og sikkerhet" }
 +++
 
 <!-- markdownlint-disable MD001 MD034 -->

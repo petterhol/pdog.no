@@ -2,7 +2,7 @@
 title = "Personlig flykart"
 lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Kart og reiser", weight = 6 }
+main = { parent = "Petter og annen kuriosa", weight = 6 }
 +++
 
 {{% ingress %}}
