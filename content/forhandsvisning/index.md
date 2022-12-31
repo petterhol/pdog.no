@@ -1,5 +1,5 @@
 +++
-title = "Bruk Forhåndsvisning til å slå sammen og splitte PDF-dokumenter og andre filer"
+title = "Del opp og slå sammen dokumenter"
 [menu]
 main = { weight = 9, parent = "Apple-tips" }
 +++
