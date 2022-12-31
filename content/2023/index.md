@@ -4,6 +4,8 @@ title = "Ukekalender for 2023"
 main = { weight = 9, parent = "Ukekalender" }
 +++
 
+<!-- markdownlint-disable MD033 -->
+
 {{% ingress %}}
 
 Har du også irritert deg grønn over den manglende logikken i kalenderen?
@@ -16,9 +18,9 @@ ved å ta utgangspunkt i det vi kjenner aller best: uka.
 {{% /ingress %}}
 
 {{< alert
-	color="dark"
-	align="center"
-	header="Om denne kanelderen"
+ color="dark"
+ align="center"
+ header="Om denne kanelderen"
 >}}
 
 I Norge følger vi den gregorianske kalenderen. Det finnes en internasjonal standard for
