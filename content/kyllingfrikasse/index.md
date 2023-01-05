@@ -61,7 +61,7 @@ vannflaten. Det vil si at du tar en skje og forsøket så godt du kan for å få
 6. Kyllingen er kokt etter omtrent en time. Det går bra om den koer mer enn en time.
 Den skal kokes på laveste varme, men vannet må koke, altså! Dersom du stikker i kyllingen ved
 overgang mellom bryst og lår, skal det ikke være rødt blod. Du vil merke at kyllingen er kokt ved at
-bryst og lår er litt løse i forhold til hverandre. 
+bryst og lår er litt løse i forhold til hverandre.
 
 7. Ta av kjelen og la det hele kjølne. Du kan vente til neste dag med å rense den, eller du kan gjøre
 det når det hele harer blitt lunkent, det er kanskje det beste.
