@@ -11,10 +11,10 @@ Test
 Test
 
 {{< kort-med-bilde
-	header="Test"
-	verification="april 2022"
-	src="bilde.jpg"
-	alt=""
+ header="Test"
+ verification="april 2022"
+ src="bilde.jpg"
+ alt=""
 >}}
 
 Inner
