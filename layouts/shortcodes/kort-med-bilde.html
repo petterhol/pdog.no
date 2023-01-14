@@ -1,0 +1,14 @@
+<div class="card mb-3" style="max-width: 1000px;">
+  <div class="row no-gutters">
+    <div class="col-md-6">
+      <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" class="img-fluid">
+    </div>
+    <div class="col-md-4">
+      <div class="card-body">
+        <h5 class="card-title">{{ .Get "header" }}</h5>
+        <p class="card-text">{{ .Inner}}</p>
+        <p class="card-text"><small class="text-muted">Sist besøkt eller verifisert: {{ .Get "verification"}}</small></p>
+      </div>
+    </div>
+  </div>
+</div>
