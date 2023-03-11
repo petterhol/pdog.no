@@ -4,6 +4,8 @@ title = "Diverse tips om kart"
 main = { weight = 9, parent = "Andre prosjekter" }
 +++
 
+<!-- markdownlint-disable MD013 -->
+
 {{% ingress %}}
 
 Jeg er glad i kart, og samler diverse tips om kart her.
