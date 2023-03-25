@@ -1,7 +1,7 @@
 +++
 title = "Ukekalender for 2021"
 [menu]
-main = { parent = "Ukekalender", weight = 4 }
+main = { parent = "Kalender og tid", weight = 4 }
 +++
 
 {{% ingress %}}
