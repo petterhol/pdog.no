@@ -67,7 +67,7 @@ du kan ha brukt et annet kort eller ha fått byttet kortet siden sist. Min perso
 er at det er mange anerkjenner at dette har skjedd, og insisterer på at det har skjedd noe feil.
 
 Ved å være godt forberedt, slipper du overraskende spørsmål du ikke kan svare på når noen først
-tar seg bryet med å lete opp kvitteringen du burde tatt vare på. 
+tar seg bryet med å lete opp kvitteringen du burde tatt vare på.
 
 #### Kontakt selger for etterlysning
 
@@ -88,7 +88,7 @@ dobbelsjekk. Ikke alle ansatte er fullstendig kompetent på alle prosesser, data
 
 Noen hevder at selger kan ha en plikt til å oppbevare kvitteringer i x antall år og følgelig
 at selger har en *plikt* til å utlevere kvitteringer på forespørsel etter at salget har skjedd.
-
+a
 Det stemmer at bokføringsloven setter krav til oppbevaring. Normalregelen er 5 år for
 primærdokumentasjon, og 3,5 år for sekundærdokumentasjon. I tillegg finnes det særkrav for
 lengre oppbevaringstid.
