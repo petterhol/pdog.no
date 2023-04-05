@@ -91,6 +91,6 @@ Tilberedningstid: omtrent 50 minutter.
 Suppen serveres med det samme.
 
 {{< tilbakemelding
-	header="Ble det nattmat?"
-	id="loksuppe"
+header="Ble det nattmat?"
+id="loksuppe"
 >}}

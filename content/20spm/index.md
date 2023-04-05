@@ -44,8 +44,8 @@ De to øverste klippene er sakset fra [radiosendingen 23. januar 2016][radio],
 mens de to nederste er fra [fjernsynssendingen 7. august 2015][tv].
 
 {{< tilbakemelding
-	header="Har du fått bruk for lydklippene?"
-	id="20-sporsmal"
+header="Har du fått bruk for lydklippene?"
+id="20-sporsmal"
 >}}
 
 [radio]: https://radio.nrk.no/serie/20-spoersmaal-radio/sesong/201601/MUHR19000316

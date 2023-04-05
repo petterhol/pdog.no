@@ -57,6 +57,6 @@ seg, og du ser alle sider her.
 originalfilen, men lager kopier med bare det utvalget du har dratt ut.
 
 {{< tilbakemelding
-	header="Ble du også helt fra deg da du forstod kraften innebygget i Forhåndsvisning?"
-	id="forhandsvisning"
+header="Ble du også helt fra deg da du forstod kraften innebygget i Forhåndsvisning?"
+id="forhandsvisning"
 >}}

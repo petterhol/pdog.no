@@ -204,6 +204,6 @@ er svært god til å gjenkjenne slike forsøk.
 {{< /accordion >}}
 
 {{< tilbakemelding
-	header="Har du noen innspill til denne artikkelen?"
-	id="phishing"
+header="Har du noen innspill til denne artikkelen?"
+id="phishing"
 >}}

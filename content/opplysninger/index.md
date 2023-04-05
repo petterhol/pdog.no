@@ -113,6 +113,6 @@ fødselsdato. Her kan man også se tidligere eiere.
 <br>
 
 {{< tilbakemelding
-	header="Ting endrer seg, har du oppdaget noe som ikke stemmer, eller har du flere tips?"
-	id="opplysninger"
+header="Ting endrer seg, har du oppdaget noe som ikke stemmer, eller har du flere tips?"
+id="opplysninger"
 >}}

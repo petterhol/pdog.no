@@ -56,6 +56,6 @@ Men i sin enkleste form er denne siden tilstrekkelig nå.
 Takk til Eivind Hystad og Stig Johan Berggren for hjelp til utvikling av tjenesten.
 
 {{< tilbakemelding
-	header="Vil du hjelpe meg å utvikle denne tjenesten, eller har du noen tilbakemeldinger?"
-	id="internettsjekk"
+header="Vil du hjelpe meg å utvikle denne tjenesten, eller har du noen tilbakemeldinger?"
+id="internettsjekk"
 >}}

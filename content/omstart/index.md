@@ -47,6 +47,6 @@ du hvordan du gjør dette på Mac og Windows.
 3. En del informasjon vises om maskinen, herunder "System boot time".
 
 {{< tilbakemelding
-	header="Har du fått bruk for dette tipset?"
-	id="omstart"
+header="Har du fått bruk for dette tipset?"
+id="omstart"
 >}}

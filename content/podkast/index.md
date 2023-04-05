@@ -280,6 +280,6 @@ lisenslink="https://www.patentstyret.no/tjenester/opphavsrett/"
 <br>
 
 {{< tilbakemelding
-	header="Har du forslag til andre podkaster jeg vil like?"
-	id="podkaster"
+header="Har du forslag til andre podkaster jeg vil like?"
+id="podkaster"
 >}}

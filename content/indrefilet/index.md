@@ -38,6 +38,6 @@ Jeg koker ris til, og lager eventuelt en enkel salat til.
 Bon appétit!
 
 {{< tilbakemelding
-	header="Lagde du dette?"
-	id="indrefilet"
+header="Lagde du dette?"
+id="indrefilet"
 >}}

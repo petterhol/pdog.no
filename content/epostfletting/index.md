@@ -78,6 +78,6 @@ finne regnearket igjen.
 Husk å endre tilbake til din standard e-postleser etter at du er ferdig med flettingen.
 
 {{< tilbakemelding
-	header="Lærte du noe, eller har du noen tips?"
-	id="epostfletting"
+header="Lærte du noe, eller har du noen tips?"
+id="epostfletting"
 >}}

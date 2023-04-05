@@ -126,6 +126,6 @@ gjennom Game Center)
 - abonnement på Apple One (som inkluderer iCloud+)
 
 {{< tilbakemelding
-	header="Lærte du noe, eller har du behov for å lære meg noe?"
-	id="icloud"
+header="Lærte du noe, eller har du behov for å lære meg noe?"
+id="icloud"
 >}}

@@ -201,6 +201,6 @@ sist oppdatert 2020-W21-3.
 {{< geoguessr >}}
 
 {{< tilbakemelding
-	header="Liker du kartene?"
-	id="geoguessr"
+header="Liker du kartene?"
+id="geoguessr"
 >}}

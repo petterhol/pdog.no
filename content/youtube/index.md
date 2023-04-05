@@ -67,6 +67,6 @@ andre ting om elektronikk, strøm, lyd og bilde, lys, trafikk, med mer.
 [TechnologyConnections]: https://www.youtube.com/@TechnologyConnections
 
 {{< tilbakemelding
-	header="Tror du at du har noen gode tips til meg?"
-	id="youtube"
+header="Tror du at du har noen gode tips til meg?"
+id="youtube"
 >}}

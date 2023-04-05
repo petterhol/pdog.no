@@ -151,6 +151,6 @@ Hvis du ønsker bruk utover disse vilkårene (for eksempel kommersiell bruk),
 [ta kontakt](../kontakt).
 
 {{< tilbakemelding
-	header="Har du hatt glede av mine videoer?"
-	id="luftfoto"
+header="Har du hatt glede av mine videoer?"
+id="luftfoto"
 >}}

@@ -12,6 +12,6 @@ Det korrekte ville vært å si at noe er åpent ```168/7 = 24```
 det vil si nøyaktig 24 timer hver dag, eller 168 dager per uke.
 
 {{< tilbakemelding
-	header="Har du tatt i bruk denne standarden?"
-	id="247-kritikk"
+header="Har du tatt i bruk denne standarden?"
+id="247-kritikk"
 >}}

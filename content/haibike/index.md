@@ -131,8 +131,8 @@ over den med forhjulet, og helst bør de være fastmontert i bakken.
 {{< haibike-karusell >}}
 
 {{< tilbakemelding
-	header="Spørsmål om sykkelen min?"
-	id="haibike"
+header="Spørsmål om sykkelen min?"
+id="haibike"
 >}}
 
 [haibike]: https://www.haibike.com/gb/en/electric-bikes/electric-trekking-bikes/sduro-trekking-40-gb1217?id=45315144

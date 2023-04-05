@@ -6,7 +6,7 @@ main = { weight = 9, parent = "Andre prosjekter" }
 
 {{% ingress %}}
 
-<!-- markdownlint-disable MD001 MD009 -->
+<!-- markdownlint-disable MD001 MD009 MD033 -->
 
 Hvis du også er en forkjemper for å bruke gode norske ord og uttrykk i stedet for låneord
 fra engelsk og andre språk, kjenner du kanskje til Språkrådets liste over avløserord. Du
@@ -24,8 +24,8 @@ Språkrådets [På godt norsk - avløserord (språkrådet.no) {{< ext >}}][sprak
 <br>
 
 {{< tilbakemelding
-	header="Har du flere avløserord, eller tilbakemeldinger på de som er oppført?"
-	id="avloserord"
+header="Har du flere avløserord, eller tilbakemeldinger på de som er oppført?"
+id="avloserord"
 >}}
 
 [sprakradet-avloser]: https://www.sprakradet.no/sprakhjelp/Skriverad/Avloeysarord/

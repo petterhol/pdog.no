@@ -315,6 +315,6 @@ En tidligere utgave av denne siden profilerte "Fry's Electronics". Butikkene ble
 dessverre lagt ned i 2021.
 
 {{< tilbakemelding
-	header="Ting endrer seg, har du oppdaget noe som ikke stemmer, eller har du flere tips?"
-	id="sv"
+header="Ting endrer seg, har du oppdaget noe som ikke stemmer, eller har du flere tips?"
+id="sv"
 >}}

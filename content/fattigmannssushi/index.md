@@ -69,6 +69,6 @@ fisken varmebehandlet, og da er det ikke godt lengre.
 Bon appétit!
 
 {{< tilbakemelding
-	header="Prøvde du å lage denne retten?"
-	id="fattigmannssushi"
+header="Prøvde du å lage denne retten?"
+id="fattigmannssushi"
 >}}

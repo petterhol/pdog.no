@@ -196,6 +196,6 @@ kvitteringer for ting du ikke har lengre, eller som er for gamle til å klages p
 <br>
 
 {{< tilbakemelding
-	header="Fikk du hjelpen du trengte etter å ha lest denne saken?"
-	id="klage"
+header="Fikk du hjelpen du trengte etter å ha lest denne saken?"
+id="klage"
 >}}

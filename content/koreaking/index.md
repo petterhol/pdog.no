@@ -161,8 +161,8 @@ Her er noen ytterligere bilder fra Hansens besøk på Korea King.
 - Les mer om M/S [Fjordkongen på Wikipedia][fwp]
 
 {{< tilbakemelding
-	header="Har du reist med skipet, eller vil gi meg en oppdatering?"
-	id="koreating"
+header="Har du reist med skipet, eller vil gi meg en oppdatering?"
+id="koreating"
 >}}
 
 [mt]: https://www.marinetraffic.com/en/ais/details/ships/shipid:668521/mmsi:440020080/imo:9328998/vessel:KOREA_KING/_:3e727a8cd557c12da4017be4edb9573a

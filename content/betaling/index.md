@@ -216,6 +216,6 @@ blir kanskje bedt å "godkjenne" en betaling med BankID, men det er bare for å 
 gjør betalingen.
 
 {{< tilbakemelding
-	header="Lærte du noe, eller var noe uklart?"
-	id="betalingsmetoder"
+header="Lærte du noe, eller var noe uklart?"
+id="betalingsmetoder"
 >}}

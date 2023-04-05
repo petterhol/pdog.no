@@ -42,6 +42,6 @@ rett inn på siden uten å vise deg lenken først.
 domene.
 
 {{< tilbakemelding
-	header="Har du noen innspill til god QR-kode-etikette?"
-	id="qr"
+header="Har du noen innspill til god QR-kode-etikette?"
+id="qr"
 >}}

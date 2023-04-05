@@ -46,6 +46,6 @@ For mer informasjon, kan du åpne brukermanualen til kommandoen:
 For å avslutte kommandoen, kan man trykke Kontroll + C, eller bare avslutte Terminal-vinduet.
 
 {{< tilbakemelding
-	header="Fikk du bruk for dette?"
-	id="koffein"
+header="Fikk du bruk for dette?"
+id="koffein"
 >}}

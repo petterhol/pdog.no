@@ -31,6 +31,6 @@ Du kan reversere kommandoen ved å endre ```"on"``` til ```"off"```, eller bare
 gå ut av nettsiden.
 
 {{< tilbakemelding
-	header="Har du flere tips i denne kategorien?"
-	id="wysiwyg"
+header="Har du flere tips i denne kategorien?"
+id="wysiwyg"
 >}}

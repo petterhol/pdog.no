@@ -61,8 +61,8 @@ pdog.no/rickroll. Resultatene fra dette kan jeg dermed se på denne sporingsside
 [https://grabify.link/track/NR2PYV {{< ext >}}](https://grabify.link/track/NR2PYV).
 
 {{< tilbakemelding
-	header="Har du tips til flere?"
-	id="svindlerlokking"
+header="Har du tips til flere?"
+id="svindlerlokking"
 >}}
 
 [kitboga]: https://www.youtube.com/channel/UCm22FAXZMw1BaWeFszZxUKw

@@ -140,6 +140,6 @@ har hørt gode ord om [JottaCloud {{< ext >}}](https://www.jottacloud.com/nb/).
 [^icloudbackup]: https://support.apple.com/no-no/HT207428
 
 {{< tilbakemelding
-	header="Ting endrer seg, har du oppdaget noe som ikke stemmer, eller har du flere tips?"
-	id="sikkerhetskopi"
+header="Ting endrer seg, har du oppdaget noe som ikke stemmer, eller har du flere tips?"
+id="sikkerhetskopi"
 >}}

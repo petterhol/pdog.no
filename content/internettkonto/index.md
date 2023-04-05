@@ -28,6 +28,6 @@ sjekke at du ikke lagrer dine kontakter på jobbens konto. Når du slutter i job
 å miste alle kontaktene dine.
 
 {{< tilbakemelding
-	header="Lærte du noe nytt?"
-	id="internettkontoer"
+header="Lærte du noe nytt?"
+id="internettkontoer"
 >}}
