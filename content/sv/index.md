@@ -313,3 +313,8 @@ Området er ikke helt det samme i dag, men er man uansett i nærheten er det sik
 
 En tidligere utgave av denne siden profilerte "Fry's Electronics". Butikkene ble
 dessverre lagt ned i 2021.
+
+{{< tilbakemelding
+	header="Ting endrer seg, har du oppdaget noe som ikke stemmer, eller har du flere tips?"
+	id="sv"
+>}}

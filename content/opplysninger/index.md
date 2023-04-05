@@ -109,3 +109,10 @@ fødselsdato. Her kan man også se tidligere eiere.
 {{% /card %}}
 
 {{< /accordion >}}
+
+<br>
+
+{{< tilbakemelding
+	header="Ting endrer seg, har du oppdaget noe som ikke stemmer, eller har du flere tips?"
+	id="opplysninger"
+>}}

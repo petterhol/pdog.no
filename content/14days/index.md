@@ -35,3 +35,8 @@ For å endre tilbake til standardvisningen, gjør en av følgende:
 
 * Kjør samme kommando hvor ```x``` er ```5``` eller ```7```.
 * Gå til Kalender > Valg > Generelt > Dager per uke og endre dette til enten ```5``` eller ```7```.
+
+{{< tilbakemelding
+	header="Har du fått bruk for dette tipset?"
+	id="kalender-14-days"
+>}}

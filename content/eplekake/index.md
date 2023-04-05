@@ -68,3 +68,8 @@ for mye.
 formens yttersider med en kniv som du fører forsiktig langs kantene.
 
 Voilà – nå kan kaken fortæres!
+
+{{< tilbakemelding
+	header="Ble det en god eplekake?"
+	id="eplekake"
+>}}

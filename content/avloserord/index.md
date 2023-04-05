@@ -21,4 +21,11 @@ Språkrådets [På godt norsk - avløserord (språkrådet.no) {{< ext >}}][sprak
 
 {{< avloserord >}}
 
+<br>
+
+{{< tilbakemelding
+	header="Har du flere avløserord, eller tilbakemeldinger på de som er oppført?"
+	id="avloserord"
+>}}
+
 [sprakradet-avloser]: https://www.sprakradet.no/sprakhjelp/Skriverad/Avloeysarord/

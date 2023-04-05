@@ -89,3 +89,8 @@ Tilberedningstid: omtrent 50 minutter.
 9. Strø ost over og gratiner i 5 minutter, eller til osten er smeltet.
 
 Suppen serveres med det samme.
+
+{{< tilbakemelding
+	header="Ble det nattmat?"
+	id="loksuppe"
+>}}

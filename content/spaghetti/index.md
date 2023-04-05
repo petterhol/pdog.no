@@ -46,5 +46,10 @@ Retten serveres med spaghettien og kjøttdeigretten seperat på bordet.
 
 Bon appétit!
 
+{{< tilbakemelding
+	header="Prøvde du å lage denne retten?"
+	id="spaghetti"
+>}}
+
 [kolonial1]: https://kolonial.no/produkter/8476-rema-1000-hakkede-tomater-med-basilikum/
 [kolonial2]: https://kolonial.no/produkter/693-sopps-spaghetti/

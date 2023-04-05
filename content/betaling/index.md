@@ -214,3 +214,8 @@ Vipps tilbyr
 BankID er utelukkende en autentiseringsmetode, og har ikke noe med betalingen i seg selv å gjøre. Du
 blir kanskje bedt å "godkjenne" en betaling med BankID, men det er bare for å vite at det er du som
 gjør betalingen.
+
+{{< tilbakemelding
+	header="Lærte du noe, eller var noe uklart?"
+	id="betalingsmetoder"
+>}}

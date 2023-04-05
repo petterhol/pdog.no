@@ -26,3 +26,8 @@ bare e-post.
 Det er viktig å ha et klart forhold til hva du lagrer på hvilken konto. For eksempel er det lurt å
 sjekke at du ikke lagrer dine kontakter på jobbens konto. Når du slutter i jobben, risikerer du
 å miste alle kontaktene dine.
+
+{{< tilbakemelding
+	header="Lærte du noe nytt?"
+	id="internettkontoer"
+>}}

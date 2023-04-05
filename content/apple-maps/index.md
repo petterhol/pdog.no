@@ -98,4 +98,9 @@ Det kan også nevnes Apple Maps hadde reiseinformasjon med kollektivtransport i 
 lenge før Google Maps. Jeg har ikke oversikt over de andre fylkene, men det er ingen tvil om
 at Apple Maps ligger langt foran på dette området.
 
+{{< tilbakemelding
+	header="Har du lært noe om Apple Maps, eller har du andre tips?"
+	id="apple-maps-tips@pdog.no"
+>}}
+
 [vagenvg]: https://www.vg.no/forbruker/teknologi/i/Gp1qB/se-vaagen-i-bergen-er-blitt-toerrlagt

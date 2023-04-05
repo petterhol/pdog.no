@@ -1,6 +1,5 @@
 +++ 
 title = "Rettigheter ved feil på produkter"
-lastmod = 2020-10-06T22:00:00
 [menu]
 main = { weight = 1, parent = "Forbruker" }
 +++
@@ -193,3 +192,10 @@ kvitteringer for ting du ikke har lengre, eller som er for gamle til å klages p
 {{% /card %}}
 
 {{< /accordion >}}
+
+<br>
+
+{{< tilbakemelding
+	header="Fikk du hjelpen du trengte etter å ha lest denne saken?"
+	id="klage"
+>}}

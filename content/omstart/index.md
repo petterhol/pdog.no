@@ -1,6 +1,5 @@
 +++
 title = "Kontroller siste omstart av en datamaskin"
-lastmod = 2021-04-07T22:00:00
 [menu]
 main = { weight = 9, parent = "Apple-tips" }
 +++
@@ -46,3 +45,8 @@ du hvordan du gjør dette på Mac og Windows.
 2. I vinduet som åpner seg, skriv ``systeminfo`` og trykk på returknappen
 (enter, linjeskift).
 3. En del informasjon vises om maskinen, herunder "System boot time".
+
+{{< tilbakemelding
+	header="Har du fått bruk for dette tipset?"
+	id="omstart"
+>}}

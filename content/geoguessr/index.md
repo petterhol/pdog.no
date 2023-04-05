@@ -199,3 +199,8 @@ sist oppdatert 2020-W21-3.
 [Spill kartet på geoguessr.com](https://www.geoguessr.com/maps/60511704b658d80001909f57).
 
 {{< geoguessr >}}
+
+{{< tilbakemelding
+	header="Liker du kartene?"
+	id="geoguessr"
+>}}
