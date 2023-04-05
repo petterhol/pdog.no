@@ -41,11 +41,7 @@ rett inn på siden uten å vise deg lenken først.
 - Ikke bruk kortlenketjenester som bit.ly. Det beste er om du kan skape kortlenker på ditt eget
 domene.
 
-{{% muted %}}
-
-Min arbeidsgiver (Favrit)
-har vært en av de store tilbydere av QR-kodebestilling på restauranter og barer
-under den globale helsehendelsen covid-19. Meningene som kommer til uttrykk her må ikke settes
-i sammenheng med mitt ansettelsesforhold.
-
-{{% /muted %}}
+{{< tilbakemelding
+header="Har du noen innspill til god QR-kode-etikette?"
+id="qr"
+>}}
