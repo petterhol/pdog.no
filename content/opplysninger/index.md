@@ -5,6 +5,8 @@ lastmod = 2020-10-06T22:00:00
 main = { parent = "Personvern og sikkerhet", weight = 2 }
 +++
 
+<!-- markdownlint-disable MD033 -->
+
 {{% ingress %}}
 
 Dette er en liste over steder hvor du kan finne offentlige opplysninger om deg selv. Formålet er å

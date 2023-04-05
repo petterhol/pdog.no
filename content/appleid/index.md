@@ -292,8 +292,8 @@ Les om gruppesøksmålet på [storageclassactionsettlement.com {{< ext
 {{% /expand %}}
 
 {{< tilbakemelding
-	header="Lærte du noe om Apple-ID, eller har du andre tips?"
-	id="kalender-14-days"
+header="Lærte du noe om Apple-ID, eller har du andre tips?"
+id="kalender-14-days"
 >}}
 
 [appletv]: tv.apple.com
