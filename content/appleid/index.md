@@ -224,6 +224,18 @@ feil jeg har gjort flere ganger.
 Tenk litt over hva som skjer hvis du ikke får inn nye e-poster en periode, før du
 vurderer utenlandsk Apple-ID.
 
+##### Apple TV-appen klarer ikke å gi riktig informasjon om strømmetjenester
+
+En viktig funksjon i Apple TV-appen er dens mulighet til å identifisere hvilke serier du følger med
+på integrerte strømmetjenester, og tilby å starte episoder direkte fra appen.
+
+Dette fungerer derimot dårlig siden Apple TV-appen ikke tar hensyn til de faktiske appene du har,
+men viser deg appen hvor serien er tilgjengelig i det landet eller regionen du har din Apple-ID.
+
+For eksempel: _Modern Family_ som kan strømmes på Disney+ i Norge, kan strømmes på Hulu i AFS.
+Det betyr at Apple TV-appen vil foreslå Hulu som app for å se neste episode, selv om du ikke
+har installert appen, har en Hulu-konto, og du alltid har sett på serien i Disney+-appen.
+
 ### Fremgangsmåte for å bruke en utenlandsk Apple-ID
 
 Hvis du har et enkelt formål, som å bare laste ned apper fra et annet lands App Store,
@@ -271,10 +283,9 @@ Hvis du er klar til å gå videre, les artikkelen [Endre land eller region for A
 (support.apple.com) {{< ext >}}][apple-endre-land] . Husk at Apple ofte mener det de
 skriver helt bokstavelig, så det er best å følge artikkelen til punkt og prikke.
 
-{{% expand
- ident="historie"
- bait="Historie om da jeg ble med i et amerikansk gruppesøksmål"
-%}}
+##### Bonusinnhold
+
+Det kan komme noen sære og morsomme konsekvenser av å ha en amerikansk Apple-ID.
 
 I 2022 fikk jeg en e-post fra administratoren av et amerikansk gruppesøksmål. Saken med
 tittel "Williams v. Apple Inc." og saksnummer ``19-cv-04700-LB`` ved "United States
@@ -282,14 +293,16 @@ District Court for the Northern District of California" gikk ut på at Apple i e
 i 2015 og 2016 hadde lagret iCloud-data på tredjepartstjenere.
 
 Saken endte med et oppgjør på ``14 800 000 USD``, som ble fordelt på iCloud-brukere ved
-hjelp av butikkreditt, bankoverføring eller sjekk. Summen man fikk til slutt var
-selvfølgelig ikke så mye, kanskje så mye som rundt ``50 USD``. Men det var gøy å være med
-i en ekte amerikansk "class action" …
+hjelp av butikkreditt, bankoverføring eller sjekk. Til slutt fikk jeg utdelt en sjekk på
+``0,16 USD``, men det var gøy å være med i en ekte amerikansk "class action" …
 
 Les om gruppesøksmålet på [storageclassactionsettlement.com {{< ext
 >}}](https://www.storageclassactionsettlement.com).
 
-{{% /expand %}}
+{{< tilbakemelding
+header="Lærte du noe om Apple-ID, eller har du andre tips?"
+id="kalender-14-days"
+>}}
 
 [appletv]: tv.apple.com
 [apple-endre-land]: https://support.apple.com/no-no/HT201389

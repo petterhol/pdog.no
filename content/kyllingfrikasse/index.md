@@ -89,3 +89,8 @@ bare et lite oppkok!
 Da er det hele ferdig! Ikke glem å koke ris og steke rundstykkene!
 
 Bon appetit!
+
+{{< tilbakemelding
+	header="Prøvde du deg på oppskriften?"
+	id="kyllingfrikasse"
+>}}
