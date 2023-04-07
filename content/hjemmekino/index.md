@@ -26,7 +26,8 @@ iTunes Store
 
 Bilde: Samsung The Frame (2022), 65-tommer, QLED-teknologi, HDR 10+
 
-Romlyd: 
+Romlyd:
+
 - Front- og senterkanaler: Sonos Arc med Dolby Atmos
 - Bakkanaler: Sonos One SL med Dolby Atmos
 
