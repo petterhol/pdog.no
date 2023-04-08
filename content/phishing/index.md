@@ -202,3 +202,8 @@ er svært god til å gjenkjenne slike forsøk.
 {{% /card %}}
 
 {{< /accordion >}}
+
+{{< tilbakemelding
+header="Har du noen innspill til denne artikkelen?"
+id="phishing"
+>}}

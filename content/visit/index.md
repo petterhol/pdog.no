@@ -454,7 +454,7 @@ er det mulig å ta opp sitt fartøy og komme seg opp på tørt land.
 
 ---
 
-## Bil og drosje
+## Bil, drosjebil og hestetransport
 
 {{< accordion >}}
 
@@ -555,6 +555,13 @@ Det finnes mange drosjeselskaper i Oslo. Noen tilbyr også apper.
 Hvis du haiker til meg, er det kanskje mest naturlig å bli sluppet av på
 Storo ved Ring 3. Ellers er det å bli sluppet av i sentrale Oslo også en god
 mulighet.
+
+{{% /card %}}
+
+{{% card header="Hest og kjerre" %}}
+
+Hester kan fortøyes utenfor inngangspartiet, i et av sykkelstativene. Kjerreparkering er også
+tilgjengelig på forespørsel.
 
 {{% /card %}}
 

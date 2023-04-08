@@ -276,3 +276,10 @@ Hvis du klikker på bildene kommer du til den offisielle nettsiden til podkasten
 {{< lisens type="Podkastalbumbildene" lisensnavn="Copyright"
 lisenslink="https://www.patentstyret.no/tjenester/opphavsrett/"
   >}}
+  
+<br>
+
+{{< tilbakemelding
+header="Har du forslag til andre podkaster jeg vil like?"
+id="podkaster"
+>}}

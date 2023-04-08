@@ -5,6 +5,8 @@ lastmod = 2020-10-06T22:00:00
 main = { parent = "Personvern og sikkerhet", weight = 2 }
 +++
 
+<!-- markdownlint-disable MD033 -->
+
 {{% ingress %}}
 
 Dette er en liste over steder hvor du kan finne offentlige opplysninger om deg selv. Formålet er å
@@ -109,3 +111,10 @@ fødselsdato. Her kan man også se tidligere eiere.
 {{% /card %}}
 
 {{< /accordion >}}
+
+<br>
+
+{{< tilbakemelding
+header="Ting endrer seg, har du oppdaget noe som ikke stemmer, eller har du flere tips?"
+id="opplysninger"
+>}}
