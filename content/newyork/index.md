@@ -2,6 +2,8 @@
 title = "Tips til New York City"
 +++
 
+<!-- markdownlint-disable MD033 -->
+
 {{% ingress %}}
 
 Jeg er på ingen måte en vagabond eller en overlykkerlig reiseglad person, men jeg setter pris på
@@ -58,10 +60,10 @@ turen innom museet, som har en rekke gjenstander, bilder, video og lyd fra hende
 <!-- High Line Park -->
 
 {{< kort-med-bilde
-	header="High Line Park"
-	verification="september 2022"
-	src="highline.jpeg"
-	alt=""
+ header="High Line Park"
+ verification="september 2022"
+ src="highline.jpeg"
+ alt=""
 >}}
 
 En nedlagt toglinje har blitt til park midt på Manhatten. Dette er en koselig rusletur du kan ta
@@ -78,10 +80,10 @@ i jernbane, er det et togdepot ved Hudson Yards.
 <!-- Roosevelt-øya -->
 
 {{< kort-med-bilde
-	header="Roosevelt-øya"
-	verification="april 2019"
-	src="roosevelt.jpeg"
-	alt=""
+ header="Roosevelt-øya"
+ verification="april 2019"
+ src="roosevelt.jpeg"
+ alt=""
 >}}
 
 På en smal øy i East River, mellom Manhattan og Queens, ligger Roosevelt-øya. En tur på øyas
@@ -99,10 +101,10 @@ det går også en taubane her!
 <!-- Apple Store -->
 
 {{< kort-med-bilde
-	header="Apple Store"
-	verification="januar 2018"
-	src="apple-store.jpeg"
-	alt=""
+ header="Apple Store"
+ verification="januar 2018"
+ src="apple-store.jpeg"
+ alt=""
 >}}
 
 Dette er egentlig et tips for alle steder i verden hvor det finnes en Apple Store, men jeg prøvde
@@ -120,67 +122,13 @@ kameraet på iPhone. Alt er gratis – og det er ofte mange forskjellige kurs �
 <!-- 99c Pizza -->
 
 {{< kort-med-bilde
-	header="Pizza for 99 cent"
-	verification="september 2022"
-	src="99c-pizza.jpeg"
-	alt=""
+ header="Pizza for 99 cent"
+ verification="september 2022"
+ src="99c-pizza.jpeg"
+ alt=""
 >}}
 
 Flere steder i byen finner du pizzasjapper som selger pizzastykker for 99 cent. Det er godt,
 enkelt og billig, og pizzastykkene er klare med en gang. Her finner man også brus.
 
 {{< /kort-med-bilde >}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
