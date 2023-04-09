@@ -4,7 +4,7 @@ title = "Tips til New York City"
 main = { parent = "Andre prosjekter", weight = 10 }
 +++
 
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD013 -->
 
 {{% ingress %}}
 
