@@ -1,9 +1,11 @@
 <div class="card mb-3" style="max-width: 1000px;">
   <div class="row no-gutters">
     <div class="col-md-6">
+      <a href="{{ .Get "src" }}" target="_blank">
       <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" class="img-fluid">
+      </a>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
       <div class="card-body">
         <h5 class="card-title">{{ .Get "header" }}</h5>
         <p class="card-text">{{ .Inner}}</p>
