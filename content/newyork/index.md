@@ -1,5 +1,7 @@
 +++
 title = "Tips til New York City"
+[menu]
+main = { parent = "Andre prosjekter", weight = 10 }
 +++
 
 <!-- markdownlint-disable MD033 -->
