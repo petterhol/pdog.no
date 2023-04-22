@@ -2,6 +2,8 @@
 title = "God morgen, Petter"
 +++
 
+<!-- markdownlint-disable -->
+
 ## Værmeldingen
 
 <img src="https://www.yr.no/nb/innhold/1-72837/meteogram.svg">
