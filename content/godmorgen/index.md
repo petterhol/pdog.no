@@ -8,6 +8,10 @@ title = "God morgen, Petter"
 
 <img src="https://www.yr.no/nb/innhold/1-72837/meteogram.svg">
 
+## @oslopolitiops
+
+<rssapp-wall id="2mB5D462AFdOxoxz"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
+
 ## NRK
 
 <rssapp-wall id="cW6L4LwrCwFRSs4Z"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
