@@ -13,7 +13,7 @@ aliases = [
 main = {weight = 2, parent = "Petter og annen kuriosa" }
 +++
 
-<!-- markdownlint-disable MD033 MD032 MD034 -->
+<!-- markdownlint-disable MD033 MD032 MD034 MD010 -->
 
 {{% ingress %}}
 
@@ -29,8 +29,8 @@ avspilling av podkaster, og litt om hvordan vi skriver ordet podkast på norsk.
 
 {{< card-deck >}}
 
-{{% podkastkort 
-	header="Security Now" 
+{{% podkastkort
+	header="Security Now"
 	src="sn.jpg"
 	utgiver="twit.tv"
 	hyppighet="Hver onsdag"
@@ -46,7 +46,7 @@ Leo Laporte og Steve Gibson diskuterer den siste ukas nyheter innen IT-sikkerhet
 
 {{% /podkastkort %}}
 
-{{% podkastkort 
+{{% podkastkort
 	header="MacBreak Weekly"
 	src="mbw.jpg"
 	utgiver="twit.tv"
@@ -64,7 +64,7 @@ språdommer og anmeldelser.
 
 {{% /podkastkort %}}
 
-{{% podkastkort 
+{{% podkastkort
 	header="This Week in Tech"
 	src="twit.jpg"
 	utgiver="twit.tv"
