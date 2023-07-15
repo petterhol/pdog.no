@@ -145,12 +145,3 @@ meningen at mottakeren skal motta disse.
 - **Interne diskusjoner**: Inneholder den videresendte
 e-posttråden interne diskusjoner før du har bestemt deg for å sende videre meldingen? Fjern dette i
 så fall.
-
----
-
-#### Navn på kalenderinvitasjoner
-
-Hvis du sender ut invitasjoner til møter, bruk et navn som er relevant for alle inviterte. Har du
-for eksempel navnet "Intervju Petter" og inviterer Petter, vil ikke Petter ha mulighet til å endre
-tittelen i egen kalender. Et intervju mellom Petter og Asbjørn bør derfor kanskje hete "Intervju
-Petter/Asbjørn" eller kanskje noe helt annet.
