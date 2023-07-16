@@ -29,7 +29,8 @@ I dagligtale kan du si "uke [tall]", og legge til hvilken ukedag du snakker om.
 For skriftlig datonotering, kan du sette det sammen slik:
 
 - årstallet på fire siffer, for eksempel <code>2023</code>
-- ukenummeret med stor "W" for "week" som prefiks og deretter ukenummeret med ledende null, for eksempel <code>W08</code>
+- ukenummeret med stor "W" for "week" som prefiks og deretter ukenummeret med ledende null, for
+eksempel <code>W08</code>
 - ukedagen oppgis som et tall uten ledende null, hvor uka starter på mandag, for eksempel
 <code>2</code>
 
