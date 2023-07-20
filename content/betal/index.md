@@ -12,7 +12,7 @@ Hvis du skylder meg penger, finner du alle betalingsmuligheter her.
 
 {{% /ingress %}}
 
-Hvis du derimot ønsker å gi et økonomisk bidrag, sjekk ut [denne siden](../finansiering). 
+Hvis du derimot ønsker å gi et økonomisk bidrag, sjekk ut [denne siden](../finansiering).
 
 ##### Vipps
 
