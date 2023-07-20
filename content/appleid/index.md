@@ -8,8 +8,9 @@ main = { weight = 9, parent = "Apple-tips" }
 
 <!-- markdownlint-disable MD001 MD034 -->
 
-Hvis du er noenlunde inne i Apples verden, vet du kanskje at noen apper og tjenster bare
-er tilgjengelig med en utenlandsk Apple-ID-konto. Du har kanskje vært fristet til å enten
+Hvis du er noenlunde inne i Apples økosystem, vet du kanskje at noen apper og tjenster bare
+er tilgjengelig med Apple-ID-konto knyttet til spesifikke
+land. Du har kanskje vært fristet til å enten
 skape en ny Apple-ID-konto, eller bytte din eksisterende Apple-ID-konto til et annet
 land, for å nyte godt av fordelene det kan medføre. Denne artikkelen tar for seg en del
 grunnleggende kunnskap om Apple-ID-kontoer, fordeler du kan oppnå og hva du må tenke på
@@ -157,38 +158,71 @@ Apple tilbyr at man kan logge inn på [tv.apple.com {{< ext >}}][appletv] for å
 _Apple TV+_-innhold, men det er lagt inn en begrensning på at man må ha et aktivt
 betalingskort eller _PayPal_-konto knyttet til sin Apple-ID før man får lov å logge inn.
 
-### Betalingsmåter og betaling for innhold
+#### Apple TV-appen klarer ikke å gi riktig informasjon om strømmetjenester
+
+En viktig funksjon i Apple TV-appen er dens mulighet til å identifisere hvilke serier du følger med
+på integrerte strømmetjenester, og tilby å starte episoder direkte fra appen.
+
+Dette fungerer derimot dårlig siden Apple TV-appen ikke tar hensyn til de faktiske appene du har,
+men viser deg appen hvor serien er tilgjengelig i det landet eller regionen du har din Apple-ID.
+
+For eksempel: _Modern Family_ som kan strømmes på Disney+ i Norge, kan strømmes på Hulu i AFS.
+Det betyr at Apple TV-appen vil foreslå Hulu som app for å se neste episode, selv om du ikke
+har installert appen, har en Hulu-konto, og du alltid har sett på serien i Disney+-appen.
+
+#### Bonusinnhold
+
+Det kan komme noen sære og morsomme konsekvenser av å ha en amerikansk Apple-ID.
+
+I 2022 fikk jeg en e-post fra administratoren av et amerikansk gruppesøksmål. Saken med
+tittel "Williams v. Apple Inc." og saksnummer ``19-cv-04700-LB`` ved "United States
+District Court for the Northern District of California" gikk ut på at Apple i en periode
+i 2015 og 2016 hadde lagret iCloud-data på tredjepartstjenere.
+
+Saken endte med et oppgjør på ``14 800 000 USD``, som ble fordelt på iCloud-brukere ved
+hjelp av butikkreditt, bankoverføring eller sjekk. Til slutt fikk jeg utdelt en sjekk på
+``0,16 USD``, men det var gøy å være med i en ekte amerikansk "class action" …
+
+Les om gruppesøksmålet på [storageclassactionsettlement.com {{< ext
+>}}](https://www.storageclassactionsettlement.com).
+
+### Betalingsmåter og betaling for innhold (Sambandsstatene)
 
 Det er også grunnleggende å ha en forståelse av hvordan Apples betalingssystem for
 tjenester/abonnementer fungerer. Dette er helt seperat fra betalingsmåtene i Apple Store.
 
-Apple lar deg legge til flere betalingsmåter på din Apple-ID-konto. For Sambandsstatene
-(AFS) kan du legge inn betalingskort eller _PayPal_, men du kan ikke legge inn norske
-betalingskort eller en norsk _PayPal_-konto på en amerikansk konto.
+Apple lar deg legge til flere betalingsmåter på din Apple-ID-konto. For Sambandsstatene (USA) er
+følgende betalingsmåter tilgjengelig:
 
-Da sitter vi igjen med tre muligheter:
+1. legge inn et amerikansk betalingskort (VISA, MasterCard, Discover eller American Express)
+2. legge inn en amerikansk PayPal-konto
+3. legge inn Apple-gavekort med amerikanske dollar
 
-- Få tak i et amerikansk betalingskort eller _PayPal_-konto (jeg har enda ikke funnet
-noen mulighet for dette som nordmann bosatt i Norge). - Låne et familiemedlems eller
-venns betalingskort eller _PayPal_-konto (noe som vil medføre at de blir belastet for
-alle dine kjøp, og løper potensielt stor risiko). - Bruke gavekort.
+##### Alternativ 1: Legge til et amerikansk betalingskort
 
-Jeg bruker gavekort, og er derfor avhengig av å jevnlig kjøpe et nytt gavekort for å
-fylle på kontoen min, for å kunne betale for mine abonnementer.
+Det er ikke lett for en nordmann å få tak i et ordinært amerikansk betalingskort, men det er mulig
+å finne forhåndsbetale ("pre-paid") kort. Jeg har personlig sett dette på "apotek" som CVS.
 
-På den ene siden kan man si at gavekort gir en god kostnadskontroll, man kan ikke gjøre
-impulskjøp som er mer enn hva man til en hver tid har på konto. Å kjøpe et nytt gavekort
-krever kontekstendring og ventetid. På en annen side er det også strevsomt å stadig måtte
-fylle på, med et minimumsbeløp hver gang, for å kunne kjøpe innhold i ulike tjenester.
+Jeg har selv et slikt forhåndsbetalt kort inne på kontoen min, men saldoen på kortet er for lengst
+spist opp.
 
-##### Kjøpe gavekort
+Hvis du kjenner en person som har et slikt kort, er det fristende å spørre vedkommende om de vil la
+sitt kort ligge inne. Husk at det kortet da er ansvarlig for alle kjøp, noe som kan bli kostbart.
+
+##### Alternativ 2: legge inn en amerikansk PayPal-konto
+
+Jeg har ikke funnet noen måte å gjøre dette på som en nordmann bosatt i Norge, og mine personlige
+erfaringer med blokkerte kontoer på PayPal, sier meg at dette er noe man bør unngå.
+
+##### Alternativ 3: legge inn et Apple-gavekort med amerikanske dollar
 
 Gavekort selges flere steder, men husk at gavekortet er knyttet til et land eller region.
 Det nytter derfor ikke å kjøpe gavekort hos Apple på norske markedsplasser, de gjelder
 kun for Norge. Sjekk alltid hvilken valuta gavekortet gjelder, hvis du blir usikker.
 
 På nett selges Apple-gavekort på [apple.com {{< ext >}}][apple-gift-card], og på andre
-nettbutikker. Jeg kjøper mine på [amazon.com {{< ext >}}][amazon], fordi amazon.com av og
+nettbutikker. Jeg bytter på å kjøpe på Apples nettsider
+og  [amazon.com {{< ext >}}][amazon], fordi amazon.com av og
 til har kampanjer hvor jeg får rabatt på disse gavekortene, eller fordi jeg av og til
 veksler inn premier eller belønninger i gavekort på amazon.com. Det tar som regel bare 10
 minutter fra jeg gjør kjøpet til jeg får gavekortet. Du er avhengig av prisen for
@@ -224,52 +258,19 @@ feil jeg har gjort flere ganger.
 Tenk litt over hva som skjer hvis du ikke får inn nye e-poster en periode, før du
 vurderer utenlandsk Apple-ID.
 
-##### Apple TV-appen klarer ikke å gi riktig informasjon om strømmetjenester
-
-En viktig funksjon i Apple TV-appen er dens mulighet til å identifisere hvilke serier du følger med
-på integrerte strømmetjenester, og tilby å starte episoder direkte fra appen.
-
-Dette fungerer derimot dårlig siden Apple TV-appen ikke tar hensyn til de faktiske appene du har,
-men viser deg appen hvor serien er tilgjengelig i det landet eller regionen du har din Apple-ID.
-
-For eksempel: _Modern Family_ som kan strømmes på Disney+ i Norge, kan strømmes på Hulu i AFS.
-Det betyr at Apple TV-appen vil foreslå Hulu som app for å se neste episode, selv om du ikke
-har installert appen, har en Hulu-konto, og du alltid har sett på serien i Disney+-appen.
-
 ### Fremgangsmåte for å bruke en utenlandsk Apple-ID
 
-Hvis du har et enkelt formål, som å bare laste ned apper fra et annet lands App Store,
-burde du bare skape en Apple-ID i det landet. Hvis du derimot ønsker å ta i bruk
-funksjoner og tjenester som Apple News+, Apple Fitness+ og så videre, burde du vurdere å
-endre land/region din Apple-ID-konto.
+Du bør ikke endre land/region på din eksisterende Apple-ID, med mindre du faktisk flytter.
+Du bør heller skape en ekstra.
 
-#### Endre av land og region på eksisterende Apple-ID
+Hvis du allikevel ønsker å bytte, må du følge artikkelen
+Hvis du er klar til å gå videre, les artikkelen [Endre land eller region for Apple-ID-en
+(support.apple.com) {{< ext >}}][apple-endre-land] . Husk at Apple ofte mener det de
+skriver helt bokstavelig, så det er best å følge artikkelen til punkt og prikke.
 
-##### Om butikkreditt før du bytter
-
-Apple har en fin kundestøtteartikkel på Apple-kundstøtte, men før vi går dit, vil jeg
-utheve viktigheten av et spesielt punkt. Før du kan bytte land/region, må du bruke opp
-hele beløpet som står på din Apple-ID-konto (hvis du har noe på kontoen din etter et
-gavekort). Å bruke opp betyr å kjøpe innhold, som apper, musikk, filmer, bøker og så
-videre.
-
-Du kan, og må sannsynligvis, handle for mer enn verdien på kontoen din, og det går nok
-fint fordi du helt sikkert har et betalingskort knyttet til din konto. Men tenk på
-hvordan dette fungerer den andre veien - hvis du noen gang skulle bestemme deg for å
-bytte tilbake.
-
-Hvis du _bare_ kan basere deg på gavekort, kan du ikke gå under verdien på det
-gavekortet. Det betyr at du må kjøpe innhold slik at du havner på verdien til under en
-enkeltvare (sang i iTunes Store), og deretter kontakte Apple-kundestøtte for å få
-"nullstilt" kontoen din. Om dette medfører en økonomisk eller juridisk risiko, må du
-vurdere selv.
-
-##### Adresse i utlandet
-
-Du vil i denne prosessen også bli spurt om å oppgi en gyldig faktureringsadresse i det
-landet du bytter til. For å omgå dette har jeg funnet et tilfeldig hotell på internett,
-og brukt deres adresse. Da får du en gyldig kombinasjon av gate-/veinavn, postnummer,
-poststed og stat.
+Hvis du skal registrere en Apple-ID i utlandet, vil du bli spurt om om en lokal adresse.
+For å omgå dette har jeg funnet en tilfeldig adresse på internett (for eksempel et hotell).
+Da får du en gyldig kombinasjon av gate-/veinavn, postnummer, poststed og stat.
 
 I Sambandsstatene (USA) har hver stat og område ulike skatteregler, og priser på
 produkter du kjøper vil være oppgitt uten skatt. Jeg har valgt en adresse i Florida, hvor
@@ -277,31 +278,9 @@ jeg på et kjøp med veiledende pris ``19,95 USD``, måtte betale ``1,79 USD`` i
 tillegg. Vær obs på dette hvis du prøver å gjøre kjøp du i utgangspunktet har råd til på
 kontoen din, men som du ikke får gjennomført med en feilmelding om manglende dekning.
 
-##### Guide for å bytte land
-
-Hvis du er klar til å gå videre, les artikkelen [Endre land eller region for Apple-ID-en
-(support.apple.com) {{< ext >}}][apple-endre-land] . Husk at Apple ofte mener det de
-skriver helt bokstavelig, så det er best å følge artikkelen til punkt og prikke.
-
-##### Bonusinnhold
-
-Det kan komme noen sære og morsomme konsekvenser av å ha en amerikansk Apple-ID.
-
-I 2022 fikk jeg en e-post fra administratoren av et amerikansk gruppesøksmål. Saken med
-tittel "Williams v. Apple Inc." og saksnummer ``19-cv-04700-LB`` ved "United States
-District Court for the Northern District of California" gikk ut på at Apple i en periode
-i 2015 og 2016 hadde lagret iCloud-data på tredjepartstjenere.
-
-Saken endte med et oppgjør på ``14 800 000 USD``, som ble fordelt på iCloud-brukere ved
-hjelp av butikkreditt, bankoverføring eller sjekk. Til slutt fikk jeg utdelt en sjekk på
-``0,16 USD``, men det var gøy å være med i en ekte amerikansk "class action" …
-
-Les om gruppesøksmålet på [storageclassactionsettlement.com {{< ext
->}}](https://www.storageclassactionsettlement.com).
-
 {{< tilbakemelding
 header="Lærte du noe om Apple-ID, eller har du andre tips?"
-id="kalender-14-days"
+id="appleidbytte"
 >}}
 
 [appletv]: tv.apple.com
