@@ -8,9 +8,11 @@ main = { weight = 9, parent = "Petter og annen kuriosa" }
 
 {{% ingress %}}
 
-Hvis du skal overføre penger til meg, finner du alle betalingsmuligheter her.
+Hvis du skylder meg penger, finner du alle betalingsmuligheter her.
 
 {{% /ingress %}}
+
+Hvis du derimot ønsker å gi et økonomisk bidrag, sjekk ut [denne siden](../finansiering). 
 
 ##### Vipps
 
@@ -35,60 +37,38 @@ Vipps-telefonnummer: ```926 96 496``` {{% /copy %}}
 ##### Kontooverføring fra norsk konto
 
 {{% copy
- hiddentext="98021631043"
+ hiddentext="36107084732"
  ident="kontonummer"
 %}}
-Kontonummer: ```9802 16 31043``` {{% /copy %}}
+Kontonummer: ```3610 70 84732``` {{% /copy %}}
 
 {{% copy
- hiddentext="Petter Holstad, Ivan Bjørndals gate 6, 0472 Oslo"
+ hiddentext="Petter Holstad, Herslebs gate 19, 0561 Oslo"
  ident="NOADDRESS"
 %}}
-Adresse: ```Petter Holstad, Ivan Bjørndals gate 6, 0472 Oslo``` {{% /copy %}}
+Adresse: ```Petter Holstad, Herslebs gate 19, 0561 Oslo``` {{% /copy %}}
 
 ---
 
-##### SEPA-betalinger i Euro innen EU/EØS
+##### Kontooverføring fra utlandet
 
 {{% copy
- hiddentext="NO2398021668907"
+ hiddentext="NO0836107084732"
  ident="iban"
 %}}
-IBAN: ```NO23 9802 1668 907``` {{% /copy %}}
+IBAN: ```NO0836107084732``` {{% /copy %}}
 
 {{% copy
- hiddentext="SBAKNOBB"
+ hiddentext="SPAVNOBB"
  ident="SEPASWIFT"
 %}}
-SWIFT/BIC: ```SBAKNOBB``` {{% /copy %}}
+SWIFT/BIC: ```SPAVNOBB``` {{% /copy %}}
 
 {{% copy
- hiddentext="Sbanken, 5020 Bergen, Norway"
+ hiddentext="Sparebanken Vest, Jonsvollsgaten 2, 5011 Bergen"
  ident="SEPAADDRESS"
 %}}
-Adresse: ```Sbanken, 5020 Bergen, Norway``` {{% /copy %}}
-
----
-
-##### Andre betalinger fra utlandet
-
-{{% copy
- hiddentext="NO2398021668907"
- ident="iban"
-%}}
-IBAN: ```NO23 9802 1668 907``` {{% /copy %}}
-
-{{% copy
- hiddentext="DNBANOKK"
- ident="OTHERSWIFT"
-%}}
-SWIFT/BIC: ```DNBANOKK``` {{% /copy %}}
-
-{{% copy
- hiddentext="DNB, 0021 Oslo, Norway"
- ident="OTHERADDRESS"
-%}}
-Adresse: ```DNB, 0021 Oslo, Norway``` {{% /copy %}}
+Adresse: ```Sparebanken Vest, Jonsvollsgaten 2, 5011 Bergen``` {{% /copy %}}
 
 ---
 
@@ -98,19 +78,23 @@ Jeg heter [@petterhol](https://paypal.me/petterhol) på Paypal.
 
 ---
 
-##### Kontanter
+##### BitCoin
 
-[Besøk meg](../visitt). Ingen veksling.
+{{% copy
+ hiddentext="bc1qvvyr50zk0sywsscf4sk90xy5h0usathz029wvw"
+ ident="bitcoin"
+%}}
+Lommebok: ```bc1qvvyr50zk0sywsscf4sk90xy5h0usathz029wvw```
+{{% /copy %}}
 
 ---
 
 ##### Eurobonus-poeng
 
-Utveksling av bonuspoeng i SAS Eurobonus er en mulighet, men du må kontakte meg for en avtale.
+Kontakt meg for avtale.
 
 ---
 
-##### Cola Zero
+##### Cola-Cola uten sukker
 
-Jeg kan akseptere betaling i Coca-Cola Uten Sukker (Coca-Cola Zero), med en vekslingskurs på
-omtrent 6,00 NOK / liter + pant.
+Kontakt meg for avtale.
