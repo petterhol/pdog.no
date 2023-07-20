@@ -1,7 +1,7 @@
 +++
 title = "Ukekalender for 2023"
 [menu]
-main = { weight = 9, parent = "Kalender og tid" }
+main = { weight = 1, parent = "Kalender og tid" }
 +++
 
 <!-- markdownlint-disable MD033 -->
