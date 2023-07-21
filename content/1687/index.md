@@ -1,7 +1,7 @@
 +++
 title = "24/7 gir ingen mening!"
 [menu]
-main = { weight = 9, parent = "Kalender og tid" }
+main = { weight = 9, parent = "Tid, kalender og produktivitet" }
 +++
 
 Når man vil angi at noe er åpent eller tilgjengelig til en hver tid, er det noen som skriver eller
