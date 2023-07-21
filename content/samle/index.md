@@ -1,7 +1,7 @@
 +++
 title = "Bruk kamera og skjermbilder for å fange det som har din oppmerksomhet"
 [menu]
-main = { weight = 9, parent = "Produktivitet" } 
+main = { weight = 9, parent = "Tid, kalender og produktivitet" } 
 +++
 
 {{< gtd >}}

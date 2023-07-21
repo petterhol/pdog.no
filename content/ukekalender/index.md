@@ -2,7 +2,7 @@
 title="Hva er en ukekalender og hvorfor bør jeg bruke det?"
 linktitle = "Hva er en ukekalender?"
 [menu]
-main = { weight = 2, parent = "Kalender og tid" }
+main = { weight = 2, parent = "Tid, kalender og produktivitet" }
 +++
 
 <!-- markdownlint-disable MD033 -->

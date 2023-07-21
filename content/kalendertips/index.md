@@ -1,7 +1,7 @@
 +++
 title = "Organiser livet ditt med en digital kalender"
 [menu]
-main = { weight = 9, parent = "Kalender og tid" }
+main = { weight = 9, parent = "Tid, kalender og produktivitet" }
 +++
 
 <!-- markdownlint-disable -->
