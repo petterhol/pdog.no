@@ -1,6 +1,5 @@
 +++
-title = "Beste praksis for sikkerhetskopi av Apple-enheter"
-linktitle = "Beste praksis for sikkerhetskopi"
+title = "Sikkerhetskopier dine Apple-enheter"
 aliases = [
     "backup",
 ]
