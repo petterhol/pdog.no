@@ -21,8 +21,13 @@ Språkrådets [På godt norsk - avløserord (språkrådet.no) {{< ext >}}][sprak
 
 **booty trap** siklefelle
 
-**car port** bilbås  
+**car port** bilbås
 [Fra norsk Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Bilbås).
+
+**catwalk** motemolo  
+Fra Olga Tokarczuk *Bisarre fortellinger*.
+
+**croissant** smørdeigshorn
 
 **(drink) coaster** flaskebrikke/glassbrikke/drikkebrikke  
 [Fra norsk Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Flaskebrikke).
@@ -31,6 +36,10 @@ Språkrådets [På godt norsk - avløserord (språkrådet.no) {{< ext >}}][sprak
 Fra Coop Obs! "Shop Express"-selvbetjeningskasseløsning, hvor skanneren legges i krybben
 etter bruk.
 
+**fun fact** artigfakta  
+I Språkrådets liste allerede foreslått som "morofakta", men "artigfakta" er fra Marit Kolbys
+*HVA og NÅR skal vi spise?*
+
 **green screen** farge-/farvenøkling  
 Fra Apples [omtale av videoredigeringsprogramvaren Final Cut Pro X {{< ext >}}][farvenøkling].
 
@@ -38,8 +47,14 @@ Fra Apples [omtale av videoredigeringsprogramvaren Final Cut Pro X {{< ext >}}][
 Fra [Språkrådets eget forslag {{< ext >}}][sprakradet-onboarding],
 men ikke implementert i listen over avløserord.
 
+**one night stand (ONS)** engangsligg
+
+**overnight (oats)** overnatta (havregryn)
+
+**trailer** forhåndsvisning (av en film, spill, serie)
+
 **USA** Sambandsstatene eller De forente stater eller Amerikas forente stater (AFS) eller
-De forente etater (etter fransk _Etats-Unis_)  
+De forente etater (etter fransk *Etats-Unis_)  
 Landets norske ambassade er skiltet med "Amerikas forente stater" langs vegen, mens De forente
 stater og Sambandsstatene er [offisielle navn på norsk {{< ext >}}][usa].
 
