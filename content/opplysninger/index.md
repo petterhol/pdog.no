@@ -4,7 +4,7 @@ title = "Offentlige personopplysninger"
 main = { parent = "Personvern og sikkerhet", weight = 2 }
 +++
 
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD013 -->
 
 {{% ingress %}}
 
@@ -17,121 +17,79 @@ andre kan finne om deg, og som du bare delvis kan gjøre noe med.
 
 {{% /ingress %}}
 
-{{< lead
-  heading1="Skatteetaten"
-  heading2="Fullt navn, fødselsår, postnummer, poststed, skattekommune og økonomiske opplysninger"
-  >}}
+<table class="table table-bordered">
+<thead>
+  <tr>
+    <th scope="col">Kilde</th>
+    <th scope="col">Hvilken informasjon må du ha?</th>
+    <th scope="col">Hvilken informasjon får du ut?</th>
+    <th scope="col">Kommentar</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2">Skatteetaten</td>
+    <td rowspan="2">For- og etternavn<br>kan suppleres med sted og omtrentlig fødselsdato</td>
+    <td>Uten at søket er synlig for den du søker på:<br>- fullt navn<br>- fødselsår<br>- postnummer/-sted<br>- skattekommune<br><br></td>
+    <td rowspan="2">Ikke mulig å søke på personer som ikke lengre skatter til Norge, har hemmelig adresse, personer som har avgått med døden, personer uten fast bopel, mv.</td>
+  </tr>
+  <tr>
+    <td>Søket blir synlig om du trykker deg videre:<br>- inntekt<br>- formue<br>- skatt</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Digipost</td>
+    <td>Navn</td>
+    <td>- Fullt navn<br>- adresse(r)<br>- tre siste siffer i telefonnummer</td>
+    <td rowspan="2">Mange har dette på uten å vite det, kan skrus av ved å gå inn på Digiposts innstillinger og skru av "Synlighet ved søk" under "Personlige innstillinger".</td>
+  </tr>
+  <tr>
+    <td>Postadresse</td>
+    <td>Alle adressater på en adresse.</td>
+  </tr>
+  <tr>
+    <td>Vipps</td>
+    <td>Telefonnummer</td>
+    <td>- fullt navn<br>- ofte et profilbilde</td>
+    <td>Kan ikke fjernes med mindre Vipps-avtalen sies opp.</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Statens vegvesen</td>
+    <td rowspan="3">Enten kjennemerke (bilskilt), understellsnummer eller personlig bilskilt.</td>
+    <td>Ved å sende sms REGNR (kjennemerke) til 2282:<br>- fullt navn<br>- sted</td>
+    <td rowspan="4">Å eie motorvogner er et offentlig ærend i Norge.</td>
+  </tr>
+  <tr>
+    <td>Ved å logge inn på nettsidene med en digital ID:<br>- navn på eier<br>- eiers adresse<br>- navn på tidligere eiere</td>
+  </tr>
+  <tr>
+    <td>Ved å søke om "Sammenstilling av kjøretøysopplysninger" eller møte opp på en trafikkstasjon.</td>
+  </tr>
+  <tr>
+    <td>Fødsels- og personnummer og etternavn</td>
+    <td>Liste over alle biler som vedkommende eier, har eid eller er leasingtaker på, og følgelig informasjon om adresser hvis det er vedkommende du søker opp som er nåværende eier eller leasingtaker, eller eier da motorvognen ble vraket.</td>
+  </tr>
+  <tr>
+    <td>Kartverket</td>
+    <td>Eiendomsinformasjon (adresse, gårds- og bruksnummer, seksjonsnummer)</td>
+    <td>Gir tilgang på grunnboken som igjen gir<br>- navn på eier<br>- fødselsdato<br>- vederlag<br>- dato for eiendomsrett (kjøp)<br>- hvor eiendommen er pantsatt</td>
+    <td>Å eie eiendom er et offentlig ærend i Norge.</td>
+  </tr>
+  <tr>
+    <td>Dagens næringsliv "Boligbasen"</td>
+    <td>Eiendomsinformasjon (adresse og ev. seksjonsnummer)</td>
+    <td>Slår opp transaksjoner på eiendommer/seksjoner, slik at man kan se kjøper og selger, kjøpesum og omsetningstype.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Klarna</td>
+    <td>Postnummer og e-postadresse.</td>
+    <td>Informasjon fra Klarnas database fra tidligere kjøp, inkludert<br>- navn<br>- adresse<br>- telefonnnummer<br>- tre første og tre siste sifrene i telefonnummer<br>- fødselsdato</td>
+    <td>Du må bruke kasseløsningen til en hvilken som helst nettbutikk som bruker Klarna. Eksempel: Barnas hus.</td>
+  </tr>
+</tbody>
+</table>
 
-Alle innbyggere i Norge står i Skatteetatens skattelister som kommer ut hver høst. De
-fleste kjenner nok
-til denne tjenesten for å sjekke opplysninger som inntekt, formue og beregnet skatt, og at slike oppslag
-blir loggført.
-
-Det kanskje ikke mange vet er at man kan gjøre oppslag uten loggføring på disse opplysningene:
-
-- fullt navn
-- fødselsår
-- postnummer/-sted
-- skattekommune
-
-Søk blir bare loggført hvis du klikker deg inn på en person. Å se en oversikt over søkeresultatene
-logges ikke.
-
-Det er ikke mulig å endre eller slette opplysningene med mindre du ikke lengre skatter til Norge,
-man får hemmelig adresse, personer som er avgått med døden, personer uten fast bopel, o.l.
-
-- [Søk i skattelistene (skatteetaten.no) {{< ext >}}
-](https://www.skatteetaten.no/person/skatt/skatteoppgjor/skattelistene/)
-
-{{< lead
-  heading1="Digipost"
-  heading2="Fullt navn, postadresse, maskert telefonnummer"
-  >}}
-  
-Digipost: fullt navn og postadresse
-
-Digipost brukes for de fleste for å motta brev fra det offentlige og noen private bedrifter, men
-det er også mulig for privatpersoner sende digitale brev til andre privatpersoner.
-
-Hvis man logger inn, trykker på "Ny melding", og søker på et navn, får man opp en rekke resultater.
-Her kan man se personlig navn, adresse(r) og de tre siste sifrene i telefonnummeret. Man kan også
-søke på en gate- eller vei- adresse for å finne adressater på den aktuelle adressen.
-
-Man kan skru av dette hvis man slår av "Synlighet ved søk" under
-"Personlige innstillinger".
-
-- [Søk i adressene (digipost.no) {{< ext >}}
-](https://www.digipost.no/)
-
-{{< lead
-  heading1="Vipps"
-  heading2="Fullt navn"
-  >}}
-  
-Hvis man har et telefonnummer, kan man søke på det i Vipps (ved å gå til Sende penger). Man får da
-opp fullt navn og ev. profilbildet vedkommende har satt på Vipps.
-
-Hvis du vil fjernes fra søket, må du avslutte avtalen om Vipps.
-
-{{< lead
-  heading1="Statens Vegvesen"
-  heading2="Fullt navn, adresse og fødseldato på motorvogneiere"
-  >}}
-
-Hos Statens vegvesen kan du finne eier og adresse av et kjøretøy ved å logge inn på "Din side". Du
-trenger registreringsnummer, understellsnummer eller det personlige bilskiltet.
-
-Man kan også få tilgang på navn og sted ved å sende registreringsnummer med kodeord REGNR til 2282.
-
-Hvis man søker om "Sammenstillinger av kjøretøysopplysninger",
-kan man få utlevert komplett eierhistorikk med fullt navn,
-adresse og fødselsdato. Dette får man også ved oppmøte på trafikkstasjon.
-
-Inne på "Din side" kan man også, forutsatt at man har en persons fødsels- og personnummer og
-etternavn, søke etter alle kjøretøy. som vedkommende eier.
-
-- [Søk i kjøretøysopplysninger (vegvesen.no)
-{{< ext >}}](https://www.vegvesen.no/kjoretoy/Kjop+og+salg/Kjøretøyopplysninger/finn-kjoretoyets-eier)
-
-- [Søk om Sammenstillinger av kjøretøysopplysninger (vegvesen.no) {{< ext >}}
-](https://www.vegvesen.no/kjoretoy/kjop-og-salg/kjoretoyopplysninger/sammenstillinger-av-kjoretoyopplysninger/)
-
-{{< lead
-  heading1="Kartverket"
-  heading2="Fullt navn og fødselsnummer på eiere av fast eiendom"
-  >}}
-  
-Grunnbøkene fra Kartverket er offentlig tilgjengelig bak innlogging til ID-porten. Forutenom
-allslags opplysninger om selve eiendommen, kan man laste ned "grunnboken" som gir tilgang på fullt
-navn på eier og fødselsnummer.
-
-- [Søk i opplysningene på (seeiendom.kartverket.no) {{< ext >}}
-](https://seeiendom.kartverket.no)
-
-{{< lead
-  heading1="Dagens Næringsliv Boligbasen"
-  heading2="Navn på eiere av fast eiendom"
-  >}}
-
-Nesten det samme som grunnbøkene til Kartverket (se over), men med et praktisk kart og uten
-fødselsdato. Her kan man også se tidligere eiere.
-
-- [Søk i opplysningene (dn.no) {{< ext >}}](https://www.dn.no/boligpriser)
-
-{{< lead
-  heading1="Klarna"
-  heading2="Navn, adresse, fødselsdato og maskert telefonnummer"
-  >}}
-
-Hvis du har handlet på en nettbutikk som har brukt Klarnas betalingsløsning, har du kanskje
-lagret informasjon om deg selv i Klarnas database som enkelt kan hentes frem igjen når du
-skal handle på den samme eller en annen Klarna-nettside.
-
-For å søke opp i databasen trenger man riktig kombinasjon av postnummer og e-postadresse.
-Du kan gjøre dette på en hvilken-som-helst nettbutikk som bruker Klarna. Et tilfeldig eksempel
-er Barnas Hus.
-
-- [Gjør et oppslag (barnashus.no) {{< ext >}}](https://www.barnashus.no/barneklar/yttertoy/parkdress/clover-2l-dress-purplep)
+<br>
 
 {{< tilbakemelding
 header="Ting endrer seg, har du oppdaget noe som ikke stemmer, eller har du flere tips?"
