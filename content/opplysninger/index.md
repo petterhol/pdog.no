@@ -4,7 +4,7 @@ title = "Offentlige personopplysninger"
 main = { parent = "Personvern og sikkerhet", weight = 2 }
 +++
 
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD013 -->
 
 {{% ingress %}}
 
