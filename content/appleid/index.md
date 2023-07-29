@@ -188,35 +188,21 @@ Les om gruppesøksmålet på [storageclassactionsettlement.com {{< ext
 
 ### Betalingsmåter og betaling for innhold (Sambandsstatene)
 
-Det er også grunnleggende å ha en forståelse av hvordan Apples betalingssystem for
-tjenester/abonnementer fungerer. Dette er helt seperat fra betalingsmåtene i Apple Store.
+På en Apple-ID kan man legge til en eller flere betalingsmåter. Dette bruker Apple for å trekke
+penger for kjøp og abonnement, for alt fra sanger, filmer, fjernsynsserier, bøker og Apples egne
+abonnement.
 
-Apple lar deg legge til flere betalingsmåter på din Apple-ID-konto. For Sambandsstatene (USA) er
-følgende betalingsmåter tilgjengelig:
+Apple lar deg legge til flere betalingsmåter på din Apple-ID-konto:
 
-1. legge inn et amerikansk betalingskort (VISA, MasterCard, Discover eller American Express)
-2. legge inn en amerikansk PayPal-konto
-3. legge inn Apple-gavekort med amerikanske dollar
+1. Apple-gavekort (i amerikanske dollar)
+2. amerikanske betalingskort
+3. amerikanske PayPal-kontoer
 
-##### Alternativ 1: Legge til et amerikansk betalingskort
+##### 1: Apple-gavekort
 
-Det er ikke lett for en nordmann å få tak i et ordinært amerikansk betalingskort, men det er mulig
-å finne forhåndsbetale ("pre-paid") kort. Jeg har personlig sett dette på "apotek" som CVS.
-
-Jeg har selv et slikt forhåndsbetalt kort inne på kontoen min, men saldoen på kortet er for lengst
-spist opp.
-
-Hvis du kjenner en person som har et slikt kort, er det fristende å spørre vedkommende om de vil la
-sitt kort ligge inne. Husk at det kortet da er ansvarlig for alle kjøp, noe som kan bli kostbart.
-
-##### Alternativ 2: legge inn en amerikansk PayPal-konto
-
-Jeg har ikke funnet noen måte å gjøre dette på som en nordmann bosatt i Norge, og mine personlige
-erfaringer med blokkerte kontoer på PayPal, sier meg at dette er noe man bør unngå.
-
-##### Alternativ 3: legge inn et Apple-gavekort med amerikanske dollar
-
-Gavekort selges flere steder, men husk at gavekortet er knyttet til et land eller region.
+Skal du som nordmann ha en amerikansk Apple-ID-konto, anbefaler jeg på det sterkeste at du bare
+oppretter en hvor du legger inn Apple-gavekort. Gavekort selges flere steder, men husk at gavekortet
+er knyttet til et land eller region.
 Det nytter derfor ikke å kjøpe gavekort hos Apple på norske markedsplasser, de gjelder
 kun for Norge. Sjekk alltid hvilken valuta gavekortet gjelder, hvis du blir usikker.
 
@@ -231,6 +217,26 @@ valutaen du kjøper, samt gebyrer.
 Noen nettbutikker kan selge gavekort til et beløp høyere enn pålydende verdi. Det er ikke
 verdt det. Vær også forsiktig med kjøp av gavekort på private salg, som eBay eller
 craigslist.
+
+##### 2: Bruk amerikanske betalingskort
+
+Det er ikke lett for en nordmann å få tak i et ordinært amerikansk betalingskort, men det er mulig
+å finne forhåndsbetale ("pre-paid") kort. Jeg har personlig sett dette på "apotek" som CVS, og
+det finnes muligheter for å kjøpe kort på internett med kryptovaluta.
+
+I mange år holdt jeg på min gavekortstrategi, men for litt siden la jeg til et amerikansk
+betalingskort som nevnt over. Det var en stor tabbe. Med en gang saldoen på det kortet ble spist opp, begynner systemet å klage på at betalingsmetoden må "oppdateres", det vil si at du må legge
+til et kort som det er penger på. Nå er min eneste mulighet til å holde dette i sjakk å alltid
+ha nok gavekort-saldo til en hver tid til at alle mine abonnementer holdes oppdatert, uten at det
+trekker fra betalingskortet. Hvis betalingskortet mister dekning, må du i realiteten skaffe et nytt.
+
+Hvis du kjenner en person som har et slikt kort, er det fristende å spørre vedkommende om de vil la
+sitt kort ligge inne. Husk at det kortet da er ansvarlig for alle kjøp, noe som kan bli kostbart.
+
+##### 3: Bruk amerikanske PayPal-kontoer
+
+Jeg har ikke funnet noen måte å gjøre dette på som en nordmann bosatt i Norge, og mine personlige
+erfaringer med blokkerte kontoer på PayPal, sier meg at dette er noe man bør unngå.
 
 ##### Hvis du bruker Mail i iCloud og iCloud-lagringsplass
 
