@@ -19,7 +19,29 @@ Språkrådet skal ta de med på listen.
 
 Språkrådets [På godt norsk - avløserord (språkrådet.no) {{< ext >}}][sprakradet-avloser].
 
-{{< avloserord >}}
+**booty trap** siklefelle
+
+**car port** bilbås  
+[Fra norsk Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Bilbås).
+
+**(drink) coaster** flaskebrikke/glassbrikke/drikkebrikke  
+[Fra norsk Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Flaskebrikke).
+
+**docking(-stasjon)** (lade-)krybbe  
+Fra Coop Obs! "Shop Express"-selvbetjeningskasseløsning, hvor skanneren legges i krybben
+etter bruk.
+
+**green screen** farge-/farvenøkling  
+Fra Apples [omtale av videoredigeringsprogramvaren Final Cut Pro X {{< ext >}}][farvenøkling].
+
+**onboarding** introduksjonsprogram
+Fra [Språkrådets eget forslag {{< ext >}}][sprakradet-onboarding],
+men ikke implementert i listen over avløserord.
+
+**USA** Sambandsstatene eller De forente stater eller Amerikas forente stater (AFS) eller
+De forente etater (etter fransk _Etats-Unis_)  
+Landets norske ambassade er skiltet med "Amerikas forente stater" langs vegen, mens De forente
+stater og Sambandsstatene er [offisielle navn på norsk {{< ext >}}][usa].
 
 <br>
 
@@ -29,3 +51,6 @@ id="avloserord"
 >}}
 
 [sprakradet-avloser]: https://www.sprakradet.no/sprakhjelp/Skriverad/Avloeysarord/
+[farvenøkling]: https://www.apple.com/no/newsroom/2021/10/final-cut-pro-and-logic-pro-updated-on-the-new-macbook-pro-with-m1-pro-m1-max/
+[sprakradet-onboarding]: https://www.sprakradet.no/svardatabase/sporsmal-og-svar/onboarding/
+[usa]: https://www.regjeringen.no/no/dokumenter/statsnavn_u/id87859/#usa
