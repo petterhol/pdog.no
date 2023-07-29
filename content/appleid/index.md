@@ -225,7 +225,8 @@ Det er ikke lett for en nordmann å få tak i et ordinært amerikansk betalingsk
 det finnes muligheter for å kjøpe kort på internett med kryptovaluta.
 
 I mange år holdt jeg på min gavekortstrategi, men for litt siden la jeg til et amerikansk
-betalingskort som nevnt over. Det var en stor tabbe. Med en gang saldoen på det kortet ble spist opp, begynner systemet å klage på at betalingsmetoden må "oppdateres", det vil si at du må legge
+betalingskort som nevnt over. Det var en stor tabbe. Med en gang saldoen på det kortet ble spist
+opp, begynner systemet å klage på at betalingsmetoden må "oppdateres", det vil si at du må legge
 til et kort som det er penger på. Nå er min eneste mulighet til å holde dette i sjakk å alltid
 ha nok gavekort-saldo til en hver tid til at alle mine abonnementer holdes oppdatert, uten at det
 trekker fra betalingskortet. Hvis betalingskortet mister dekning, må du i realiteten skaffe et nytt.
