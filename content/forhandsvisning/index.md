@@ -1,5 +1,5 @@
 +++
-title = "Del opp og slå sammen dokumenter"
+title = "Del opp og slå sammen dokumenter med Forhåndsvisning"
 [menu]
 main = { weight = 9, parent = "Apple-tips" }
 +++
