@@ -17,7 +17,6 @@ andre kan finne om deg, og som du bare delvis kan gjøre noe med.
 
 {{% /ingress %}}
 
-
 <table class="table table-bordered">
 <thead>
   <tr>
