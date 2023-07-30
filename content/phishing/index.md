@@ -5,13 +5,15 @@ lastmod = 2020-10-06T22:00:00
 main = { weight = 1, parent = "Personvern og sikkerhet" }
 +++
 
+<!-- markdownlint-disable MD033 -->
+
 <img
  src="illustrasjon.png"
  align="right"
  class="responsive"
  alt="..."
  style="padding: 20px">
- 
+
 {{% ingress %}}
 
 Av og til mottar vi falske e-poster som har til hensikt å enten lure til seg informasjon, svindle
@@ -46,7 +48,7 @@ noe er falsk eller ikke, man bør vurdere alle aspektene med e-posten.
 {{% card header="E-postadressen den er sendt fra" %}}
 
 Sjekk e-postadressen den er sendt fra. For eksempel bør en e-post fra Bedriften AS komme fra
-"post@bedriften.no", og ikke "newsletteryohoho@uninmailer.co.yk". Hvis e-posten er sendt fra en
+"<post@bedriften.no>", og ikke "<newsletteryohoho@uninmailer.co.yk>". Hvis e-posten er sendt fra en
 e-postadresse som ikke gir mening, er den som regel ofte falsk.
 
 Obs: Hvis e-postadressen ser ekte ut, betyr det ikke at den er legitim. Det *er* mulig å forfalske
