@@ -5,6 +5,13 @@ lastmod = 2020-10-06T22:00:00
 main = { weight = 1, parent = "Personvern og sikkerhet" }
 +++
 
+<img
+ src="illustrasjon.png"
+ align="right"
+ class="responsive"
+ alt="..."
+ style="padding: 20px">
+ 
 {{% ingress %}}
 
 Av og til mottar vi falske e-poster som har til hensikt å enten lure til seg informasjon, svindle
@@ -202,6 +209,8 @@ er svært god til å gjenkjenne slike forsøk.
 {{% /card %}}
 
 {{< /accordion >}}
+
+<br>
 
 {{< tilbakemelding
 header="Har du noen innspill til denne artikkelen?"
