@@ -1,8 +1,7 @@
 +++
 title = "Gode råd for å bruke e-post og kalender"
-lastmod = 2020-10-06T22:00:00
 [menu] 
-main = { weight = 6, parent = "Produktivitet" }
+main = { weight = 6, parent = "Tid, kalender og produktivitet" }
 +++
 
 {{% ingress %}}
@@ -145,12 +144,3 @@ meningen at mottakeren skal motta disse.
 - **Interne diskusjoner**: Inneholder den videresendte
 e-posttråden interne diskusjoner før du har bestemt deg for å sende videre meldingen? Fjern dette i
 så fall.
-
----
-
-#### Navn på kalenderinvitasjoner
-
-Hvis du sender ut invitasjoner til møter, bruk et navn som er relevant for alle inviterte. Har du
-for eksempel navnet "Intervju Petter" og inviterer Petter, vil ikke Petter ha mulighet til å endre
-tittelen i egen kalender. Et intervju mellom Petter og Asbjørn bør derfor kanskje hete "Intervju
-Petter/Asbjørn" eller kanskje noe helt annet.

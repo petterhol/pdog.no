@@ -191,3 +191,8 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+
+.responsive {
+  max-width: 60%;
+  height: auto;
+}

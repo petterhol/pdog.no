@@ -13,14 +13,14 @@ aliases = [
 main = {weight = 2, parent = "Petter og annen kuriosa" }
 +++
 
-<!-- markdownlint-disable MD033 MD032 MD034 -->
+<!-- markdownlint-disable MD033 MD032 MD034 MD010 -->
 
 {{% ingress %}}
 
 Jeg har lyttet på podkast i mange år. Her har jeg samlet de podkastene jeg lytter på innenfor mine
-interesseområder <span class="badge bg-success text-white">Teknologi</span>, <span class="badge
-bg-danger text-white">Nyheter</span>, <span class="badge bg-primary
-text-white">Produktivitet</span>, <span class="badge bg-info text-white">Gode historier</span> og
+interesseområder <span class="badge bg-success text-white">Teknologi</span> <span class="badge
+bg-danger text-white">Nyheter</span> <span class="badge bg-primary
+text-white">Produktivitet</span> <span class="badge bg-info text-white">Gode historier</span> og
 <span class="badge bg-warning text-white">Underholdning</span>. Noen av podkastene er også <span
 class="badge bg-dark text-white">Video</span>-podkaster. Jeg skriver også om min favorittapp for
 avspilling av podkaster, og litt om hvordan vi skriver ordet podkast på norsk.
@@ -29,8 +29,31 @@ avspilling av podkaster, og litt om hvordan vi skriver ordet podkast på norsk.
 
 {{< card-deck >}}
 
-{{% podkastkort header="MacBreak Weekly" src="mbw.jpg" utgiver="twit.tv" hyppighet="Hver onsdag"
-varighet="110 min" offisiell="https://twit.tv/shows/macbreak-weekly" pocket="https://pca.st/6SWK"
+{{% podkastkort
+	header="Security Now"
+	src="sn.jpg"
+	utgiver="twit.tv"
+	hyppighet="Hver onsdag"
+	varighet="Opp til 2 timer"
+	offisiell="https://twit.tv/shows/security-now"
+	pocket="https://pca.st/securitynow"
+%}}
+
+<span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-dark
+text-white">Video</span>
+
+Leo Laporte og Steve Gibson diskuterer den siste ukas nyheter innen IT-sikkerhet.
+
+{{% /podkastkort %}}
+
+{{% podkastkort
+	header="MacBreak Weekly"
+	src="mbw.jpg"
+	utgiver="twit.tv"
+	hyppighet="Hver onsdag"
+	varighet="110 min"
+	offisiell="https://twit.tv/shows/macbreak-weekly"
+	pocket="https://pca.st/6SWK"
  %}}
 
 <span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-dark
@@ -41,9 +64,32 @@ språdommer og anmeldelser.
 
 {{% /podkastkort %}}
 
-{{% podkastkort header="Mac Power Users" src="mpu.jpg" utgiver="Relay.fm" hyppighet="Hver mandag"
-varighet="I underkant av 2 timer" offisiell="https://www.relay.fm/mpu"
-pocket="https://pca.st/macpowerusers"
+{{% podkastkort
+	header="This Week in Tech"
+	src="twit.jpg"
+	utgiver="twit.tv"
+	hyppighet="Hver mandag"
+	varighet="2,5-3 timer"
+	offisiell="https://twit.tv/shows/https://twit.tv/shows/this-week-in-tech"
+	pocket="https://play.pocketcasts.com/podcasts/a805ee10-8ac5-012f-2eb2-525400c11844"
+ %}}
+
+<span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-dark
+text-white">Video</span>
+
+Paneldiskusjon med erfarne teknologijournalister og -forfattere om teknologi, politikk og
+fremtiden.
+
+{{% /podkastkort %}}
+
+{{% podkastkort
+	header="Mac Power Users"
+	src="mpu.jpg"
+	utgiver="Relay.fm"
+	hyppighet="Hver mandag"
+	varighet="I underkant av 2 timer"
+	offisiell="https://www.relay.fm/mpu"
+	pocket="https://pca.st/macpowerusers"
  %}}
 
 <span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-primary
@@ -72,18 +118,6 @@ forslag.
 
 {{% /podkastkort %}}
 
-{{% podkastkort header="Wild Wild Tech" src="wwt.jpg" utgiver="Studio 71" hyppighet="Hver mandag"
-varighet="Rundt 1,5 timer" offisiell="https://www.studio71.com/podcasts/"
-pocket="https://pca.st/e77ee2u3"
- %}}
-
-<span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-info
-text-white">Gode historier</span>
-
-To journalister tar opp interessante og helsprø historier fra teknologiverdenen.
-
-{{% /podkastkort %}}
-
 {{% podkastkort
     header="The Omni Show"
     src="tms.jpg"
@@ -99,18 +133,6 @@ text-white">Produktivitet</span>
 
 Denne podkasten lages av et selskap som også lager produktivitets-programvare for
 Apple-plattformer.
-
-{{% /podkastkort %}}
-
-{{% podkastkort header="Security Now" src="sn.jpg" utgiver="twit.tv" hyppighet="Hver onsdag"
-varighet="Opp til 2 timer" offisiell="https://twit.tv/shows/security-now"
-pocket="https://pca.st/securitynow"
- %}}
-
-<span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-dark
-text-white">Video</span>
-
-Leo Laporte og Steve Gibson diskuterer den siste ukas nyheter innen IT-sikkerhet.
 
 {{% /podkastkort %}}
 
@@ -147,9 +169,14 @@ livserfaringene sine med innsendte spørsmål og dilemmaer.
 
 {{% /podkastkort %}}
 
-{{% podkastkort header="Filmpolitiet" src="fp.jpg" utgiver="NRK" hyppighet="Hver uke eller oftere"
-varighet="30-60 min" offisiell="https://radio.nrk.no/podkast/filmpolitiet"
-pocket="https://pca.st/6SWK"
+{{% podkastkort
+	header="Filmpolitiet"
+	src="fp.jpg"
+	utgiver="NRK"
+	hyppighet="Hver uke eller oftere"
+	varighet="30-60 min"
+	offisiell="https://radio.nrk.no/podkast/filmpolitiet"
+	pocket="https://pca.st/6SWK"
  %}}
 
 <span class="badge bg-warning text-white">Underholdning</span>
@@ -159,9 +186,31 @@ spesialsendinger for spesielt populære TV-serier.
 
 {{% /podkastkort %}}
 
-{{% podkastkort header="Urix på lørdag" src="upl.jpg" utgiver="NRK" hyppighet="Hver lørdag"
-varighet="I underkant av en time" offisiell="https://radio.nrk.no/serie/urix-paa-loerdag"
-pocket="https://pca.st/fgxb"
+{{% podkastkort
+	header="Berrum & Beyer snakker om greier"
+	src="bobsog.jpg"
+	utgiver="NRK"
+	hyppighet="To ganger i uka"
+	varighet="Omtrent en time"
+	offisiell="https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier"
+	pocket="https://play.pocketcasts.com/podcasts/f8cf5930-a185-013b-f36d-0acc26574db2"
+ %}}
+
+<span class="badge bg-warning text-white">Underholdning</span>
+
+To humorister tjater om livet, underholdningsbransjen og med gjester om deres virke.
+Anbefaler å høre hele katalogen.
+
+{{% /podkastkort %}}
+
+{{% podkastkort
+	header="Urix på lørdag"
+	src="upl.jpg"
+	utgiver="NRK"
+	hyppighet="Hver lørdag"
+	varighet="I underkant av en time"
+	offisiell="https://radio.nrk.no/serie/urix-paa-loerdag"
+	pocket="https://pca.st/fgxb"
  %}}
 
 <span class="badge bg-danger text-white">Nyheter</span>
@@ -171,21 +220,14 @@ får vi korrespondentbrevet og podkasten "Krig og fred" inkludert i sendingen.
 
 {{% /podkastkort %}}
 
-{{% podkastkort header="USApodden" src="up.jpg" utgiver="Sveriges Radio" hyppighet="Hver onsdag"
-varighet="I underkant av en time" offisiell="https://sverigesradio.se/usapodden"
-pocket="https://pca.st/sPLN"
- %}}
-
-<span class="badge bg-danger text-white">Nyheter</span>
-
-Sveriges radio har et program med nyheter, analyser og korrespondentrapporter fra det siste som
-skjer innen amerikansk politikk.
-
-{{% /podkastkort %}}
-
-{{% podkastkort header="Dagsnytt 18" src="d1.jpg" utgiver="NRK" hyppighet="Hver ukedag"
-varighet="En time" offisiell="https://radio.nrk.no/serie/dagsnytt-atten"
-pocket="https://pca.st/RjcG"
+{{% podkastkort
+	header="Dagsnytt 18"
+	src="d1.jpg"
+	utgiver="NRK"
+	hyppighet="Hver ukedag"
+	varighet="En time"
+	offisiell="https://radio.nrk.no/serie/dagsnytt-atten"
+	pocket="https://pca.st/RjcG"
  %}}
 
 <span class="badge bg-danger text-white">Nyheter</span> <span class="badge bg-dark text-white">Video</span>
@@ -206,22 +248,32 @@ denne podkasten produsert av det nordiske GTD-selskapet.
 
 {{% /podkastkort %}}
 
-{{% podkastkort header="Triangulation" src="t.jpg" utgiver="twit.tv" hyppighet="Avsluttet"
-varighet="Mellom 1 til 1,5 time" offisiell="https://twit.tv/shows/triangulation"
-pocket="https://pca.st/tria"
+{{% podkastkort
+	header="Triangulation"
+	src="t.jpg"
+	utgiver="twit.tv"
+	hyppighet="Av og til"
+	varighet="Mellom 1 til 1,5 time"
+	offisiell="https://twit.tv/shows/triangulation"
+	pocket="https://pca.st/tria"
  %}}
 
 <span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-info
 text-white">Gode historier</span> <span class="badge bg-dark text-white">Video</span>
 
-Dette var en ukentlig podkast som dessverre er tatt ut av produksjon, men et arkiv på 428 episoder
-er fortsatt verdifult. En rekke spenennde intervjuer innen teknologi og fremtid.
+Dette var en ukentlig podkast, men den ble lagt ned etter 428 episoder, som utgjør et fint
+og rikholdig arkiv med spennende intervjuer. Noen ganger publiseres nye episoder.
 
 {{% /podkastkort %}}
 
-{{% podkastkort header="This American Life" src="tal.jpg" utgiver="WBEZ Chicago/PRX"
-hyppighet="Hver uke" varighet="Rundt en time" offisiell="https://www.thisamericanlife.org"
-pocket="https://pca.st/americanlife"
+{{% podkastkort
+	header="This American Life"
+	src="tal.jpg"
+	utgiver="WBEZ Chicago/PRX"
+	hyppighet="Hver uke"
+	varighet="Rundt en time"
+	offisiell="https://www.thisamericanlife.org"
+	pocket="https://pca.st/americanlife"
  %}}
 
 <span class="badge bg-success text-white">Teknologi</span> <span class="badge bg-info
@@ -234,9 +286,14 @@ den svært populære Serial-podkasten.
 
 {{% /podkastkort %}}
 
-{{% podkastkort header="How To F#€k Up An Airport" src="htfuaa.jpg" utgiver="Radio Spätkauf"
-hyppighet="Engangspodd" varighet="Totalt litt over 4 timer"
-offisiell="https://www.radiospaetkauf.com/ber/" pocket="https://pca.st/76L8"
+{{% podkastkort
+	header="How To F#€k Up An Airport"
+	src="htfuaa.jpg"
+	utgiver="Radio Spätkauf"
+	hyppighet="Engangspodd"
+	varighet="Totalt litt over 4 timer"
+	offisiell="https://www.radiospaetkauf.com/ber/"
+	pocket="https://pca.st/76L8"
  %}}
 
 <span class="badge bg-info text-white">Gode historier</span>
@@ -247,8 +304,12 @@ planleggingen, byggingen og åpningen av nye Brandenburg lufthavn i Berlin.
 
 {{% /podkastkort %}}
 
-{{% sort-boks type="text-white bg-primary" header="Hvor kommer ordet podkast fra?"
-src="netcasts.png" link="https://www.pocketcasts.com" linkedtext="Mer informasjon"
+{{% sort-boks
+	type="text-white bg-primary"
+	header="Hvor kommer ordet podkast fra?"
+	src="netcasts.png"
+	link="https://www.pocketcasts.com"
+	linkedtext="Mer informasjon"
  %}}
 
 Ordet "podkast" eller "poddkast" er en fornorsket variant av "podcast". "Pod" kommer fra Apple
@@ -259,13 +320,17 @@ De har nå gått tilbake til "podcast".
 
 {{% /sort-boks %}}
 
-{{% sort-boks type="text-white bg-dark" header="Min anbefaling på podkastspiller" src="pc.png"
-link="https://www.pocketcasts.com" linkedtext="Gå til nettsiden"
+{{% sort-boks
+	type="text-white bg-dark"
+	header="Min anbefaling på podkastspiller"
+	src="pc.png"
+	link="https://www.pocketcasts.com"
+	linkedtext="Gå til nettsiden"
  %}}
 
 Jeg bruker Pocket Casts som min foretrukne podkastspiller. Utgangspunktet er at du abonnerer på
 podkastene dine i ett stort bibliotek, og deretter kan du skape filtre med de podkastene du vil ha
-+ en del andre valg.
+og en del andre valg.
 
 {{% /sort-boks %}}
 
@@ -273,13 +338,15 @@ podkastene dine i ett stort bibliotek, og deretter kan du skape filtre med de po
 
 Hvis du klikker på bildene kommer du til den offisielle nettsiden til podkastene {{< ext >}}.
 
-{{< lisens type="Podkastalbumbildene" lisensnavn="Copyright"
-lisenslink="https://www.patentstyret.no/tjenester/opphavsrett/"
-  >}}
+{{< lisens
+	type="Podkastalbumbildene"
+	lisensnavn="Copyright"
+	lisenslink="https://www.patentstyret.no/tjenester/opphavsrett/"
+>}}
   
 <br>
 
 {{< tilbakemelding
-header="Har du forslag til andre podkaster jeg vil like?"
-id="podkaster"
+	header="Har du forslag til andre podkaster jeg vil like?"
+	id="podkaster"
 >}}
