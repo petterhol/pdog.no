@@ -2,7 +2,7 @@
 title = ""
 +++
 
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD013 -->
 
 {{< lead
   heading1="Velkommen til pdog.no!"
