@@ -1,5 +1,5 @@
 +++
-title = "Organiser livet ditt med en digital kalender"
+title = "Gode tips for digitale kalendere"
 [menu]
 main = { weight = 9, parent = "Tid, kalender og produktivitet" }
 +++
@@ -36,6 +36,14 @@ etterkant for å se når man sist var sammen, eller finne datoen eller andre det
 hendelse dere var på sammen.
 
 Eksempel: "Middag med Maria og Siri"
+
+---
+
+#### Behold avslåtte invitasjoner
+
+Av og til blir man invitert til ting man må si nei til, enten med en gang når du får invitasjonen,
+eller seinere, når andre avtaler blir planlagt. Jeg beholder allikevel alle invitasjoner jeg får
+i kalenderen, slik at jeg allikevel kan ta stilling til det om det jeg egentlig skulle bli avlyst.
 
 ---
 
