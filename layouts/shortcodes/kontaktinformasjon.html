@@ -9,26 +9,52 @@ function copyToClipboard(element) {
 </script>
 
 <div class="jumbotron jumbotron-fluid">
+
   <div class="container">
-      <p class="lead">E-post er foretrukket for de fleste henvendelser fra denne siden</p>
+      <p class="lead"><b>E-post</b> er foretrukket for de fleste henvendelser fra denne siden.</p>
     <h1 class="display-4">heisann@pdog.no</h1>
     <br>
     <text id="EMAIL"><div style="display:none;">heisann@pdog.no</div></text>
       <a class="btn btn-dark btn-lg" href="mailto:heisann@pdog.no" role="button">Send e-post</a>
-      <a class="btn btn-dark btn-lg" href="../kontaktskjema" role="button">Bruk kontaktskjema</a>
-      <button class="btn btn-dark btn-lg" onclick="copyToClipboard('#EMAIL')" role="button">Kopier e-postadressen</a>
+      <button class="btn btn-dark btn-lg" onclick="copyToClipboard('#EMAIL')" role="button">Kopier e-postadressen</a></button>
   </div>
 </div>
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
-    <p class="lead">Telefonsamtaler, FaceTime-anrop, tekstmeldinger (SMS), iMessage-meldinger eller Signal-meldinger</p>
+    <p class="lead"><b>Telefonnummer</b> kan brukes hvis det passer bedre.</p>
     <h1 class="display-4">+47 926 96 496</h1>
     <text id="phone"><div style="display:none;">+4792696496</div></text>
       <a class="btn btn-dark btn-lg" href="tel:004792696496" role="button">Ring via mobilnettet</a>
       <a class="btn btn-dark btn-lg" href="facetime-audio:004792696496" role="button">Ring via Facetime-lydsamtale</a>
       <a class="btn btn-dark btn-lg" href="facetime:004792696496" role="button">FaceTime-videosamtale</a>
-      <button class="btn btn-dark btn-lg" onclick="copyToClipboard('#EMAIL')" role="button">Kopier telefonnummeret</a>
+      <button class="btn btn-dark btn-lg" onclick="copyToClipboard('#phone')" role="button">Kopier telefonnummeret</a></button>
   </div>
 </div>
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <p class="lead"><b>Postadresse</b> for brev og pakker sendt med Posten</p>
+    <h1 class="display-4">Nordbergbakken 11<br> 0875 Oslo</h1>
+    <text id="postalroad"><div style="display:none;">Nordbergbakken 11</div></text>
+	<text id="postalcode"><div style="display:none;">0875</div></text>
+	<text id="postalcity"><div style="display:none;">Oslo</div></text>
+    <text id="wholething"><div style="display:none;">Nordbergbakken 11, 0875 Oslo</div></text>
+      <button class="btn btn-dark btn-lg" onclick="copyToClipboard('#postalroad')" role="button">Kopier gatenavn og husnummer</button>
+      <button class="btn btn-dark btn-lg" onclick="copyToClipboard('#postalcode')" role="button">Kopier postnummer</button>
+      <button class="btn btn-dark btn-lg" onclick="copyToClipboard('#postalcity')" role="button">Kopier poststed</button>
+      <button class="btn btn-dark btn-lg" onclick="copyToClipboard('#wholething')" role="button">Kopier alt</buton>
+  </div>
+</div>
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <p class="lead"><b>Besøksadresse</b> for personlige besøk samt kurertjenester</p>
+    <h1 class="display-4">Tirilveien 29, Oslo</h1>
+    <text id="visit"><div style="display:none;">Tirilveien 29, Oslo</div></text>
+          <a class="btn btn-dark btn-lg" href="../visit" role="button">Få veibeskrivelse</a>
+      <button class="btn btn-dark btn-lg" onclick="copyToClipboard('#visit')" role="button">Kopier besøksadresse</a>
+  </div>
+</div>
+
 </div>
