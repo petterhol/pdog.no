@@ -4,15 +4,33 @@ aliases = [
     "personsvern",
     "privacy"
 ]
+[menu]
+main = { weight = 9, parent = "Personvern og sikkerhet" }
 +++
+
+<!-- markdownlint-disable MD042 -->
 
 {{% ingress %}}
 
-Som aktiv personvernaktivist har jeg et aktivt mål om å ikke samle inn noe mer informasjon fra
-besøkende til pdog.no enn absolutt nødvendig. Jeg ønsker å være fullstendig åpen om hvilken
-informasjon jeg må samle inn, og hvordan det behandles.
+Personvern er en grunnleggende rettighet, også når du besøker nettsider. Jeg ønsker ikke å samle
+inn informasjon om deg utover det som er strengt nødvendig for at du skal kunne bruke nettsiden.
+I denne artikkelen har jeg dokumentert alle de tilfeller jeg vet at denne nettsiden samler inn
+informasjon om deg, og jeg prøver å oppdatere den fortløpende når jeg får ny informasjon,
+eller når jeg involverer flere prosjekter.
 
 {{% /ingress %}}
+
+##### Eksterne lenker
+
+Så langt det lar seg gjøre, prøver jeg å markere alle eksterne lenker på pdog.no. Jeg gjør dette
+på tre forskjellige måter:
+
+- [farve lenken blå og understreke den når musepekeren beveger seg over lenken](#)
+- oppgi rotadressen i parentes, eksempel: [Les mer (pdog.no)](#)
+- bruke {{< ext >}}-symbolet, eksempel: [Les mer (pdog.no) {{< ext >}}](#)
+
+Noen sider er fulle av lenker. Da vil det være synlig høyt i artikkelen at siden inneholder
+mange eksterne lenker.
 
 ##### Kontakt på forskjellige kanaler
 
@@ -23,20 +41,10 @@ jeg abonnerer på.
 
 ##### Eksterne ressurser
 
-For at nettsiden skal fungere må den hente inn eksterne ressurser fra [Bootstrap (getbootstrap.com)
-{{< ext >}}][bootstrap]. Jeg henter også inn eksterne ikoner fra [Font Awesome (fontawesome.com)
+- Nettsiden er bygget på et rammeverk som henter eksterne ressurser: [Bootstrap (getbootstrap.com)
+{{< ext >}}][bootstrap].
+- Jeg henter også inn eksterne ikoner fra [Font Awesome (fontawesome.com)
 {{< ext >}}][fontawesome].
-
-##### Eksterne lenker
-
-Jeg forsøker så langt det lar seg gjøre å markere visuelt når det er en klikkbar lenke som går
-ut av pdog.no og inn på en ekstern nettside. Dette gjør jeg ved å:
-
-- farve teksten blå
-- oppgi rotadressen i parentes
-- bruke {{< ext >}}-symbolet
-
-Eksempel: "du kan lese nyheter på [NRK Nyheter (nrk.no) {{< ext >}}](https://nrk.no)".
 
 ##### Netthotellets statistikkfunksjon
 
@@ -54,7 +62,8 @@ ved hjelp av innloggingsdetaljene til FTP-tjeneren min, og se informasjon om for
 - opprinnelig kilde for besøket
 
 Selv om jeg har tilgang på dette, betyr det ikke at jeg er interessert i informasjonen jeg får
-presentert, og bruker den ikke i utviklingen av siden.
+presentert, og bruker den ikke i utviklingen av siden. Jeg kan så vidt jeg vet ikke skru dette
+av.
 
 ##### Innebygde elementer fra Google Maps og YouTube
 
@@ -75,10 +84,19 @@ ikke installerer noen sporere på brukerens enhet.
 Ruters sanntidsskjerm (MON) har en egen personvernsside på
 [MON og personvern (ruter.no) {{< ext >}}][mon].
 
+##### Hvordan finansieres pdog.no uten å samle inn brukerdata og selge annonser?
+
+Jeg tjener ikke en krone på pdog.no, og alt jeg har brukt på siden er egne oppsparte midler. Jeg
+selger ikke data eller annonser. Hvis du vil, kan du støtte prosjektet økonomisk:
+[Gi et økonomisk bidrag](../finansiering).
+
 ##### Kontaktinformasjon
 
 Hvis du har spørsmål om personvernhåndteringen på pdog.no eller tilstøtende prosjekter,
 ta gjerne kontakt med meg på [personvern@pdog.no](mailto:personvern@pdog.no).
+
+Du må gjerne stjele hele eller deler av denne personvernerklæringen for å bruke i dine egne
+prosjekter.
 
 [bootstrap]: https://getbootstrap.com/docs/4.6/getting-started/introduction/
 [google]: https://safety.google/privacy/
