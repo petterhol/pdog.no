@@ -69,6 +69,13 @@ andre kan finne om deg, og som du bare delvis kan gjøre noe med.
     <td>Liste over alle biler som vedkommende eier, har eid eller er leasingtaker på, og følgelig informasjon om adresser hvis det er vedkommende du søker opp som er nåværende eier eller leasingtaker, eller eier da motorvognen ble vraket.</td>
   </tr>
   <tr>
+    <td>Trafikkforsikringsforeningen</td>
+    <td>Forsikringsselskap til norske motorvogner</td>
+    <td>Her kan du skrive inn et kjennemerke og dato, så får man forsikringsselskap i retur.</td>
+    <td></td>
+  </tr>
+
+  <tr>
     <td>Kartverket</td>
     <td>Eiendomsinformasjon (adresse, gårds- og bruksnummer, seksjonsnummer)</td>
     <td>Gir tilgang på grunnboken som igjen gir<br>- navn på eier<br>- fødselsdato<br>- vederlag<br>- dato for eiendomsrett (kjøp)<br>- hvor eiendommen er pantsatt</td>
