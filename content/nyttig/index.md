@@ -14,6 +14,7 @@ title = "Nyttige steder på internett"
 
 - [Lynkartet til MET](https://lyn.met.no)
 - [VetDuAt](https://vetduat.no)
+- [TFFAuto Hvem forsikrer bilen](https://tffauto.no/minside/ansvarligSelskap)
 
 ## Morsomme sider
 
