@@ -53,6 +53,8 @@ men ikke implementert i listen over avløserord.
 
 **overnight (oats)** overnatta (havregryn)
 
+**popcorn** sprettmais
+
 **rush(tid)** myldretid
 
 **trailer** forhåndsvisning (av en film, spill, serie)
