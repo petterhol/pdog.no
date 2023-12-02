@@ -19,9 +19,11 @@ Språkrådet skal ta de med på listen.
 
 Språkrådets [På godt norsk - avløserord (språkrådet.no) {{< ext >}}][sprakradet-avloser].
 
+**binge/binging (av filmer eller fjernsynsserier)** jafetitting
+
 **booty trap** siklefelle
 
-**car port** bilbås
+**car port** bilbås  
 [Fra norsk Wikipedia {{< ext >}}](https://no.wikipedia.org/wiki/Bilbås).
 
 **catwalk** motemolo  
@@ -43,7 +45,7 @@ I Språkrådets liste allerede foreslått som "morofakta", men "artigfakta" er f
 **green screen** farge-/farvenøkling  
 Fra Apples [omtale av videoredigeringsprogramvaren Final Cut Pro X {{< ext >}}][farvenøkling].
 
-**onboarding** introduksjonsprogram
+**onboarding** introduksjonsprogram  
 Fra [Språkrådets eget forslag {{< ext >}}][sprakradet-onboarding],
 men ikke implementert i listen over avløserord.
 
@@ -54,7 +56,7 @@ men ikke implementert i listen over avløserord.
 **trailer** forhåndsvisning (av en film, spill, serie)
 
 **USA** Sambandsstatene eller De forente stater eller Amerikas forente stater (AFS) eller
-De forente etater (etter fransk *Etats-Unis_)  
+De forente etater (etter fransk *Etats-Unis*)  
 Landets norske ambassade er skiltet med "Amerikas forente stater" langs vegen, mens De forente
 stater og Sambandsstatene er [offisielle navn på norsk {{< ext >}}][usa].
 
