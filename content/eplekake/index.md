@@ -54,7 +54,7 @@ eplebåt. Legg de første eplebåtene som tallene på klokka: kl. 12, kl. 6, kl.
 putter du de resterende båtene mellom disse punktene, temmelig tett. De du ikke får plass
 til i sirkelen, legger du i midten (systemet er ikke så viktig, jeg legger de på tvers ved
 siden eller under hverandre).
-13. Kanel strøs over hele kaken (eventuelt blandes inn). 
+13. Kanel strøs over hele kaken (eventuelt blandes inn).
 Ta skjeen med kanel i hånden og spre det med fingrene.
 14. Sett inn kaken i varmet ovn (200 grader celsius). Stekes omtrent 1 time (du kan sjekke
 kaken før 1 time har gått, når du tror den er ferdig, f.eks. med en strikkepinne (hvis du
