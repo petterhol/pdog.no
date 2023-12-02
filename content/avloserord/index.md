@@ -53,6 +53,8 @@ men ikke implementert i listen over avløserord.
 
 **overnight (oats)** overnatta (havregryn)
 
+**rush(tid)** myldretid
+
 **trailer** forhåndsvisning (av en film, spill, serie)
 
 **USA** Sambandsstatene eller De forente stater eller Amerikas forente stater (AFS) eller
