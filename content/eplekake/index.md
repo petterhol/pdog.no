@@ -18,11 +18,12 @@ papiret hva som er mengden gram smør, så da slipper du å veie smøret) (la de
 romtemperert, kaldt smør går også, men det er tyngre å jobbe med).
 
 - 3 dl sukker.
-- 3 egg.
+- 4 egg.
 - 4 dl hvetemel.
 - 1 teskje bakepulver.
 - Gjerne 1-2 teskjeer med vaniljesukker.
 - 1 spiseskje kanel.
+- Litt salt.
 
 ## Framgangsmåte
 
@@ -53,7 +54,8 @@ eplebåt. Legg de første eplebåtene som tallene på klokka: kl. 12, kl. 6, kl.
 putter du de resterende båtene mellom disse punktene, temmelig tett. De du ikke får plass
 til i sirkelen, legger du i midten (systemet er ikke så viktig, jeg legger de på tvers ved
 siden eller under hverandre).
-13. Kanel strøs over hele kaken. Ta skjeen med kanel i hånden og spre det med fingrene.
+13. Kanel strøs over hele kaken (eventuelt blandes inn).
+Ta skjeen med kanel i hånden og spre det med fingrene.
 14. Sett inn kaken i varmet ovn (200 grader celsius). Stekes omtrent 1 time (du kan sjekke
 kaken før 1 time har gått, når du tror den er ferdig, f.eks. med en strikkepinne (hvis du
 har det det, da eller noe annet spisst). Kaken er gjerne ikke ferdig hvis du ser deigen
