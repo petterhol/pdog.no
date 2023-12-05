@@ -288,3 +288,9 @@ venn eller i en nøkkelboks.</p>
 <p>Sjekk lojalitetsprogrammene du er med i, for eksempel for å finne ut om det er noe å
 hente i form av bonuser eller poeng, få tilsendt nye kort eller laste inn kort/strekkoder
 på mobilen, oppdatere kontaktinformasjon, og så videre.</p>
+<hr>
+<h5 id="kontakter">Gå gjennom kontaktlista</h5>
+<p>Å ha en ryddig kontaktliste kan gjøre deg godt seinere. Pass på at personnavn, stilling- og
+selskapsinformasjon, telefonnumre, e-postadresser, fysiske adresser og merkedager slik som
+fødselsdatoer.</p>
+
