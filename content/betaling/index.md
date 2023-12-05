@@ -42,7 +42,7 @@ Deretter finnes det flere regionale, for eksempel:
 - JCB
 - UnionPay
 
-I Norge har vi vår helt egen BankAxept.
+I Norge har vi vår helt egen BankAxept, mer om det lengre ned.
 
 #### Betalingskort i Norge
 
@@ -50,16 +50,16 @@ I norske banker får man tak i følgene kort:
 
 - debitkort
   - BankAxept
-    - VISA Debit
-    - VISA Electron
-    - MasterCard debit
+  - VISA Debit
+  - VISA Electron
+  - MasterCard debit
 - kredittkort
   - VISA Credit
-    - MasterCard Credit
-    - American Express
+  - MasterCard Credit
+  - American Express
 - forhåndsbetalte kort
   - VISA Prepaid
-    - MasterCard Prepaid
+  - MasterCard Prepaid
 
 Noen energistasjoner tilbyr også kredittkort, som i noen tilfeller er fullverdige VISA- eller
 MasterCard-kort, og i andre tilfeller er bare et kort som kan brukes på energistasjonen.
@@ -71,14 +71,10 @@ debitkort. Det stemmer ikke, som vi kan se over.
 
 #### Banker utsteder kort
 
-Man får ikke tilgang på kort direkte fra kortnettverket (med unntak av American Express i Norge).
+Man får ikke tilgang på kort direkte fra kortnettverket (med unntak av American Express,
+som er sin egen bank).
 Kort må man få av en bank som utsteder det. Det kan enten være en "dagligbank" hvor man får
 en rekke normale banktjenester, mens andre banker bare utsteder kredittkort.
-
-#### Betalingsmåter
-
-Alle kort kan brukes fysisk i betalingsterminaler, men ikke alle støtter betalinger over internett.
-I Norge gjelder det stort sett BankAxept og VISA Electron.
 
 #### BankAxept er en standard for norske debitkort
 
@@ -91,6 +87,15 @@ er langt lavere enn VISA eller MasterCard.
 Noen betalingsterminaler er satt opp til å utelukkende akseptere BankAxept, som for eksempel
 Norsk Tippings betalingsterminaler. Dette er en enkel "løsning" for å unngå spill på kreditt.
 
+#### Betaling på internett
+
+Du har kanskje ikke lagt merke til det, men man bruker ikke BankAxept-kortet sitt for å betale
+på internett, da bruker man de internasjonale kortnettverkene (VISA, MasterCard, osv).
+
+BankAxept har hatt forsøk på betaling på internett tidligere som har blitt avsluttet, men
+i november 2023 annonserte selskapet at BankAxept skal inn i dagligvarekjedenes egne apper
+(Æ, Coopay) med produktet "eBetaling".
+
 #### Apple Pay, Google Pay, Fitbit Pay, Samsung Pay og liknende
 
 "Mobilbetalingstjenestene" er en digital representasjon av et betalingskort, og er ofte knyttet
@@ -100,7 +105,7 @@ og at du derfor betaler med VISA Debit eller MasterCard Debit, hvis du bruker di
 #### Vipps
 
 Når du bruker Vipps-appen til å sende penger til privatpersoner, kan du velge å sende det med
-et betalingskort i appen *eller_ direkte fra en konto. Når du betaler bedrifter, blir du tvunget
+et betalingskort i appen *eller* direkte fra en konto. Når du betaler bedrifter, blir du tvunget
 til å bruke et betalingskort til dette.
 
 {{< tilbakemelding
