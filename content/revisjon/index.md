@@ -293,4 +293,3 @@ på mobilen, oppdatere kontaktinformasjon, og så videre.</p>
 <p>Å ha en ryddig kontaktliste kan gjøre deg godt seinere. Pass på at personnavn, stilling- og
 selskapsinformasjon, telefonnumre, e-postadresser, fysiske adresser og merkedager slik som
 fødselsdatoer.</p>
-
