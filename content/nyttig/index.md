@@ -21,3 +21,7 @@ title = "Nyttige steder på internett"
 - [Drive and listen](https://driveandlisten.herokuapp.com)
 - [Wiki Game](https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game)
 - [CraftCloud](https://craftcloud3d.com)
+
+## Kart
+
+- [Pinball Map](https://pinballmap.com/map)
