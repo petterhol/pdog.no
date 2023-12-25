@@ -1,7 +1,7 @@
 +++
 title = "Mine YouTube-favoritter"
 [menu]
-main = { weight = 9, parent = "Petter og annen kuriosa" }
+main = { weight = 9, parent = "Petter" }
 +++
 
 {{% ingress %}}
@@ -65,3 +65,8 @@ andre ting om elektronikk, strøm, lyd og bilde, lys, trafikk, med mer.
 [SimoneGiertz]: https://www.youtube.com/@simonegiertz
 [SpaghettiRoad]: https://www.youtube.com/@SpaghettiRoad
 [TechnologyConnections]: https://www.youtube.com/@TechnologyConnections
+
+{{< tilbakemelding
+header="Tror du at du har noen gode tips til meg?"
+id="youtube"
+>}}

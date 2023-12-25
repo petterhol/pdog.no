@@ -18,18 +18,6 @@ hvis du fjerner enten den ene eller den andre knappenålen så vil bildet falle 
 
 ---
 
-Har du forsøkt å løse oppgaven?
-
-{{< accordion >}}
-
-{{% card header="Nei" %}}
-
-Da anbefaler jeg på det sterkeste at du prøver å løse oppgaven først.
-
-{{% /card %}}
-
-{{% card header="Ja" %}}
-
 Jo mer kreativ du er, jo flere muligheter finnes det nok for å løse denne oppgaven, men den
 løsningen jeg tenker på er en matematisk variant. Du trenger faktisk ikke røre bildet eller tavlen -
 da det finnes en teoretisk løsning på problemet.
@@ -38,11 +26,12 @@ Oppgaven er nemlig gjenskapt etter denne YouTube-videoen, til og med bildet er d
 
 {{< youtube "-eVd2Ugk9BU" >}}
 
-{{% /card %}}
-
-{{< /accordion >}}
-
 ---
 
-Hvis du lurer på det fantastiske bildet av Cherry the Chicken, så er det fra den australske artisten
-Mulga, [bestilt som digitaltrykk](https://mulgatheartist.com.au/products/cherry-the-chicken-print).
+Forresten, bildet av Cherry the Chicken er tegnet av den australske kunsteren
+[Mulga the Artist (mulgatheartist.co.au) {{< ext >}}](https://mulgatheartist.com.au).
+
+Bildet er ikke lengre tilgjengelig på hans internasjonale nettbutikk, men finnes av en eller
+annen grunn på hans nettbutikk for det asiatiske markedet:
+[Cherry the Chicken -
+Art Paper (mulgatheartist.net) {{< ext >}}](https://mulgatheartist.net/en/shop/?post=264).

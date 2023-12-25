@@ -29,3 +29,8 @@ Når du er i Konsoll, kan du skrive inn følgende kommando nederst på siden:
 
 Du kan reversere kommandoen ved å endre ```"on"``` til ```"off"```, eller bare
 gå ut av nettsiden.
+
+{{< tilbakemelding
+header="Har du flere tips i denne kategorien?"
+id="wysiwyg"
+>}}
