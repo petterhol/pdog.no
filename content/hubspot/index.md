@@ -1,7 +1,5 @@
 +++
 title = "Få hjelp og veiledning med HubSpot"
-[menu]
-main = { weight = 9, parent = "Petter og annen kuriosa" }
 +++
 
 {{% ingress %}}
