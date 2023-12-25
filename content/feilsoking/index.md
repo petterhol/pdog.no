@@ -114,56 +114,18 @@ det er gjennomført.
 - Be brukeren følge med og se om problemet fremdeles er der etter omstart, og om det kommer tilbake.
 Nå har du mer å gå på for å feilsøke problemet videre.
 
+Husk at mange ting har datamaskiner i seg nå, for eksempel biler!
+
+#### Slå innstillinger av og på eller på og av
+
+Har du opplevd at en funksjon skal være på (eller av), og innstillingene viser riktig, men
+allikevel oppfører maskinen seg motsatt? Prøv å slå av og på (eller på og av), og se om det løser
+problemet. Selv om brukergrensesnittet viser at noe er satt til en gitt innstilling, kan det hende
+at noe har hengt seg og at den egentlig ikke allikevel har denne innstillingen.
+
+#### Enheter bør oppdateres
+
+Alltid søk å oppdatere enheter du feilsøker for ukjente problemer. Dette er ofte første tips i
+produsentenes feilsøkingsguider.
+
 *Denne artikkelen vil etterhvert oppdateres med flere strategier og metoder.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
