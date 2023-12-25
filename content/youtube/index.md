@@ -1,7 +1,7 @@
 +++
 title = "Mine YouTube-favoritter"
 [menu]
-main = { weight = 9, parent = "Petter og annen kuriosa" }
+main = { weight = 9, parent = "Petter" }
 +++
 
 {{% ingress %}}
