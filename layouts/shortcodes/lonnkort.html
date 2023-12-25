@@ -1,0 +1,21 @@
+<div class="container mt-5">
+  <div class="card position-relative">
+    <div class="badge badge-{{ .Get "badgeType" }} position-absolute" style="top: 10px; right: 10px;">{{ .Get "badgeText" }}</div>
+    <div class="card-body">
+      <h5 class="card-title">{{ .Get "title" }}</h5>
+      <p class="card-text">{{ .Inner | markdownify }}</p>
+    </div>
+  </div>
+</div>
+
+<script>
+// Script to change arrow direction on collapse
+$(document).ready(function(){
+  $('#collapseContent').on('show.bs.collapse', function () {
+    $('#collapseIcon').removeClass('fa-arrow-right').addClass('fa-arrow-down');
+  });
+  $('#collapseContent').on('hide.bs.collapse', function () {
+    $('#collapseIcon').removeClass('fa-arrow-down').addClass('fa-arrow-right');
+  });
+});
+</script>
