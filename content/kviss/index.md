@@ -4,6 +4,8 @@ title = "Gjør kvisser lærerike og engasjerende"
 main = { weight = 9, parent = "Andre prosjekter" }
 +++
 
+<!-- markdownlint-disable -->
+
 {{% ingress %}}
 
 Skal du arrangere en allmennkviss? Gjør kvissen mer interessant og lærerik, enn bare en liste
