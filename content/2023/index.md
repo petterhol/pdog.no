@@ -1,36 +1,27 @@
 +++
 title = "Ukekalender for 2023"
 [menu]
-main = { weight = 9, parent = "Ukekalender" }
+main = { weight = 1, parent = "Tid, kalender og produktivitet" }
 +++
 
 <!-- markdownlint-disable MD033 -->
 
 {{% ingress %}}
 
-Har du også irritert deg grønn over den manglende logikken i kalenderen?
-Har jeg tid 15. april? Jeg vet ikke – er det en mandag?
-Har vi god tid mellom 19. februar og 7. mars? En uke? To?
-Lei av å telle på knoklene hvor mange dager det er igjen i denne måneden? Det er jeg også.
-I den forbindelse foreslår jeg en endring i hvordan vi alle leser den gregorianske kalenderen,
-ved å ta utgangspunkt i det vi kjenner aller best: uka.
+Dette er ukekalenderen til året 2023, som viser årets ukenumre og dato og måned det korresponderer
+til. Kalenderen er ment som et oppslagsverk. Det finnes også en PDF-versjon til deg som ønsker det.
+Hvis du er ukjent med konseptet ukedatoer og ukekalendere, besøk
+<a href="../ukekalender">Hva er en ukekalender og hvorfor bør jeg bruke det?</a>
 
 {{% /ingress %}}
 
-{{< alert
- color="dark"
- align="center"
- header="Om denne kanelderen"
->}}
+{{% alert color="info" align="center" header="Nedlastbare dokumenter"
+%}}
 
-I Norge følger vi den gregorianske kalenderen. Det finnes en internasjonal standard for
-datonotering og tid som heter ISO 8601. Norge har akseptert standarden og innlemmet den
-i Norsk Standard som NS-ISO 8601:2019. I standarde er det lagt opp til at man kan omtale
-datoer i såkalt “ukedato”, det vil si at man uttrykker årstallet, ukenummeret og ukedag
-i et tallformat. Det er med andre ord en allerede velbrukt og etablert standard, bare
-at vi normalt ikke bruker delen med ukedato.<br> <a href="../ukekalender-om">Les mer om
-kalenderen og bakgrunnen for den.</a>
+<a href="a4.pdf">A4-versjon til utskrift</a><br>
+<a href="a3.pdf">A3-versjon til utskrift</a><br>
+<a href="numbers.numbers">Fil i Numbers med oppbygging slik at du kan lage din egen kalender</a>
 
-{{< /alert >}}
+{{% /alert %}}
 
 {{< 2023 >}}

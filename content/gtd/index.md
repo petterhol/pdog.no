@@ -1,8 +1,5 @@
 +++
 title = "Hvordan jeg gjennomfører Getting Things Done"
-lastmod = 2021-04-07T22:00:00
-[menu]
-main = { parent = "Produktivitet", weight = 1 }
 +++
 
 {{% ingress %}}

@@ -1,48 +1,61 @@
 +++
-title = "Facebook Messenger trappes ned i 2023"
+title = "Jeg ser meg nødt å finne alternative kontaktmetoder"
 +++
 
 {{% ingress %}}
 
-I løpet av det gregorianske kalenderåret 2023 vil jeg gradvis trappe ned og avvikle min
-bruk av meldingstjenesten Facebook Messenger for et stort flertall av mine kontakter.
+I 2023 har Facebook hatt en eller annen feil som har gjort at jeg ved fire anledninger har blitt
+stengt ute av min egen Facebook-profil, og dermed også Facebook Messenger.
 
 {{% /ingress %}}
 
-#### Bakgrunn
+#### Hva skjer med Facebook-profilen min?
 
-Jeg blir stadig med misfornøyd med hvordan enkelte teknologigiganter jobber med
-personvern og sikkerhet. For Facebooks og Googles del, er det heller ingen hemmelighet
-at det er jeg og mine data som er produktet som selges. Persondata blir stadig mer verdt,
-og mener derfor at jeg ikke har råd til å fortsette min avhengighet av teknologigigantene.
+Jeg har hatt Facebook-profil siden 2007, men først nå i 2023 har Facebook begynt å stenge meg ute.
 
-Jeg starter med det jeg mener er enklest, som er Facebook Messenger. Her finnes det
-mange og velprøvde alternativer over tid.
+Det har startet med at jeg fikk en e-post om at noen kanskje har kommet seg inn på kontoen min,
+og jeg har blitt bedt om å endre passord. Det har jeg gjort (ved å gå inn på facebook.com, ikke
+lenke fra e-post). Kort tid etter ble jeg informert om at kontoen min var suspandert.
+Jeg fikk ingen begrunnelse.
 
-#### Når skjer endringene
+Jeg anket avgjørelsen, hvor jeg blant annet ble bedt om å laste opp et bilde av meg selv. Åpenbart
+stoler ikke Facebook at jeg er den jeg er lengre. Kontoen har blitt åpnet etter noen dager.
 
-Innen utgangen av 2023-W05 (29. januar 2022)
-vil berørte kontakter få informasjon om overgangen. Her legges det opp til
-at brukere kan finne en annen plattform i løpet av en periode på 13 uker, det vil
-si innen utgangen av 2023-W18 (30. april 2022). Resten av året brukes til å
-fange opp avvik og lede de riktig vei.
+Uten at jeg har fått beskjed om at noen har prøvd å komme seg inn på kontoen min, har jeg blitt
+utestengt ytterligere to ganger. Disse gangene også uten begrunnelse, og med ankemulighet.
 
-#### Hva betyr dette for deg?
+Jeg har selvfølgelig vurdert om jeg har brutt Facebooks retningslinjer på noe tidspunkt, men jeg
+klarer ikke å finne noe som skulle gjelde for meg.
 
-Hvis du leser denne meldingen er du rammet av nedtrappingsplanen i overskuelig framtid.
-Det er derfor på tide å forberede overgangen slik at du er klar til dagen Facebook
-Messenger er ute av funksjon.
+Men med disse hyppige utestengingene, har jeg intet annet valg enn å slutte å stole på Facebook,
+og be mine venner kontakte meg på andre måter. Jeg har hatt flere situasjoner hvor venner har prøvd
+å kontakte meg på Facebook, og jeg ikke har kunnet verken motta meldingen eller svare.
 
-Hvis du primært kommuniserer med meg på en Apple-enhet:
+#### Er dette hell i uhell?
 
-- til meldinger anbefaler jeg å bruke iMessage i Meldinger-appen
-- til lyd- og videosamtaler anbefaler jeg å bruke FaceTime-appen
+Ja, det er det kanskje. Jeg har lenge tenkt at jeg vil prøve å distansere meg fra Facebook og andre
+selskaper som selger informasjonen min.
 
-Hvis du primært kommuniserer med meg på en ikke-Apple-enhet:
-jeg anbefaler [Signal](https://signal.org/), en tjeneste som er ende-til-ende-kryptert,
-drevet av en ikke-kommersiell organisasjon med fokus på personvern og sikkerhet
+#### Hvordan kan du kontakte meg?
 
-Du kan selvfølgelig også sende meg e-post og eller sende meg brev i Posten eller på
-Digipost.
+Hvis du bruker Apple-produkter, foreslår jeg at vi fortsetter tekstkommunikasjon på iMessage.
 
-{{< knapp-kontaktinfo >}}
+Hvis du ikke bruker Apple-produkter, liker jeg
+[Signal (signal.org) {{< ext >}}](https://signal.org/).
+
+Du kan også bruke tekstmeldinger til mitt telefonnummer: +47 926 96 496, eller e-post til
+petter@pdog.no.
+
+{{% copy
+ hiddentext="petter.holstad#0D8M"
+ ident="digipost"
+%}}
+Du kan selvfølgelig også sende meg brev på Digipost: ```petter.holstad#0D8M``` {{% /copy %}}
+
+For fysiske brev, bruk
+
+Petter Holstad  
+Ivan Bjørndals gate 6  
+0472 Oslo  
+
+Takk for forståelsen!
