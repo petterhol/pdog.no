@@ -1,5 +1,5 @@
 +++
-title = "Del opp og slå sammen dokumenter"
+title = "Del opp og slå sammen dokumenter med Forhåndsvisning"
 [menu]
 main = { weight = 9, parent = "Apple-tips" }
 +++
@@ -55,3 +55,8 @@ seg, og du ser alle sider her.
 
 4. Dra sidene ut av sidepanelet, og inn i Finder. Dette fjerner ikke sidene fra
 originalfilen, men lager kopier med bare det utvalget du har dratt ut.
+
+{{< tilbakemelding
+header="Ble du også helt fra deg da du forstod kraften innebygget i Forhåndsvisning?"
+id="forhandsvisning"
+>}}

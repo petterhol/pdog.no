@@ -114,5 +114,10 @@ igjen.
 Andre ganger river jeg bare opp kyllingen i småbiter med hendene for å bruke det som en annen type
 rett dagen etter.
 
+{{< tilbakemelding
+	header="Ble det god kylling?"
+	id="kylling"
+>}}
+
 [finn]: https://www.finn.no/bap/forsale/search.html?search_type=SEARCH_ID_BAP_ALL&q=leirgryte
 [solvinge]: https://kolonial.no/produkter/4150-solvinge-hel-kylling-ra/

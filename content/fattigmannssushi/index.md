@@ -67,3 +67,8 @@ frukt. Du kan også blande ris, fisk og frukt på samme tallerken, men hvis rise
 fisken varmebehandlet, og da er det ikke godt lengre.
 
 Bon appétit!
+
+{{< tilbakemelding
+header="Prøvde du å lage denne retten?"
+id="fattigmannssushi"
+>}}
