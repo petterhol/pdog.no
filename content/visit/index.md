@@ -5,6 +5,8 @@ aliases = [
     "ibg6",
     "visitt",
 ]
+[menu]
+main = { parent = "Petter", weight = 8 }
 +++
 
 <!-- markdownlint-disable MD033 -->
