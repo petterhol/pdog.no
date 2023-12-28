@@ -1,9 +1,6 @@
 +++
 title = "Sykkelparkering på Oslo lufthavn, Gardermoen"
 linktitle = "Sykkelparkering OSL"
-lastmod = 2021-04-07T22:00:00
-[menu]
-main = { weight = 7, parent = "Petter og annen kuriosa" }
 +++
 
 <!-- markdownlint-disable MD033 -->
