@@ -1,7 +1,5 @@
 +++
 title = "Betalingsmuligheter"
-[menu]
-main = { weight = 9, parent = "Petter og annen kuriosa" }
 +++
 
 <!-- markdownlint-disable MD034 -->

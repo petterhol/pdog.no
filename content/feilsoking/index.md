@@ -96,4 +96,36 @@ lader. Ingen respons? Da er det kanskje noe feil med telefonen.
 Og slik fortsetter man til man har funnet ut hvor feilen kan ligge. Ved å bytte ut de fysiske
 komponentene, utelukker vi de enkleste «selvfølgeligheter».
 
+En annen måte å gjøre dette på er selvfølgelig å ta ut og isolere komponenter utenfor det miljøet
+det normalt er i.
+
+#### Den magiske omstarten
+
+Hvorfor rådes vi til å ta en omstart av en datamaskin, mobiltelefon, nettverksruter? Det er jo ikke
+slik at produktet er designet på en slik måte at omstart er nødvendig for å bruke produktet.
+
+- En omstart løser opp ting som har hengt seg opp. Husk at operativsystemet ikke opererer på egen
+hånd, den skal også håndtere apper med hver sin kodebase som skal jobbe sammen. Noen ganger går
+ting i kluss.
+
+- En omstart hjelper ofte nok til at det som regel ikke er et poeng å feilsøke mer før man vet at
+det er gjennomført.
+
+- Be brukeren følge med og se om problemet fremdeles er der etter omstart, og om det kommer tilbake.
+Nå har du mer å gå på for å feilsøke problemet videre.
+
+Husk at mange ting har datamaskiner i seg nå, for eksempel biler!
+
+#### Slå innstillinger av og på eller på og av
+
+Har du opplevd at en funksjon skal være på (eller av), og innstillingene viser riktig, men
+allikevel oppfører maskinen seg motsatt? Prøv å slå av og på (eller på og av), og se om det løser
+problemet. Selv om brukergrensesnittet viser at noe er satt til en gitt innstilling, kan det hende
+at noe har hengt seg og at den egentlig ikke allikevel har denne innstillingen.
+
+#### Enheter bør oppdateres
+
+Alltid søk å oppdatere enheter du feilsøker for ukjente problemer. Dette er ofte første tips i
+produsentenes feilsøkingsguider.
+
 *Denne artikkelen vil etterhvert oppdateres med flere strategier og metoder.*
