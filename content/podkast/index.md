@@ -13,7 +13,7 @@ aliases = [
 main = {weight = 2, parent = "Petter og annen kuriosa" }
 +++
 
-<!-- markdownlint-disable MD033 MD032 MD034 MD010 -->
+<!-- markdownlint-disable MD033 MD032 MD034 MD010 MD013 -->
 
 {{% ingress %}}
 
