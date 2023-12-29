@@ -174,3 +174,17 @@ Man kan ikke søke opp personer hos Brønnøysundsregisteret, men for eksempel p
 eller forvalt.no (betaltjeneste).
 
 {{< /opplysninger >}}
+
+{{< opplysninger
+  header="Informasjon om hvem som deler postkasse på Posten"
+  src="posten.png"
+  knapp-tekst="Logg inn på min side"
+  knapp-lenke="https://w2.brreg.no/eHandelPortal/ecomsys/"
+>}}
+
+Posten har sitt eget "adresseregister" for å ha oversikt over hvem som kan motta post på hvilke
+adresser. Ved å logge seg inn på min side, får man opplysninger om
+
+- fullt navn
+
+{{< /opplysninger >}}
