@@ -1,5 +1,7 @@
 +++
 title = "Bruk Skype som reservetelefon"
+[menu]
+main = { weight = 5, parent = "Personvern og sikkerhet"}
 +++
 
 {{% ingress %}}
