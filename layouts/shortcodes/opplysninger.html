@@ -1,0 +1,25 @@
+<div class="container mt-5">
+  <!-- Card start -->
+  <div class="card">
+    <!-- Row for two columns -->
+    <div class="row no-gutters">
+      <div class="col-md-8">
+        <div class="card-body">
+          <h5 class="card-title">{{ .Get "header" }}</h5>
+          <p class="card-text">{{ .Inner|markdownify }}</p>
+        </div>
+      </div>
+      <div class="col-md-3 ">
+        <div class="card-body">
+    <img src="{{ .Get "src" }}" class="card-img-top" alt="...">
+        </div>
+        <div class="row no-gutters">
+      <div class="col-12">
+<center>      <a href="{{ .Get "knapp-lenke" }}" class="card-link">{{ .Get "knapp-tekst"|markdownify }}&nbsp;<sup><i class="fas fa-external-link-alt"></i></sup></a></center>
+      </div>
+    </div>
+      </div>
+    </div>
+  </div>
+  <!-- Card end -->
+</div>
