@@ -1,7 +1,7 @@
 +++
-title = "Offentlige personopplysninger"
+title ="Offentlige personopplysninger"
 [menu]
-main = { parent = "Personvern og sikkerhet", weight = 2 }
+main = { parent ="Personvern og sikkerhet", weight = 2 }
 +++
 
 <!-- markdownlint-disable MD033 MD013 -->
@@ -17,88 +17,134 @@ andre kan finne om deg, og som du bare delvis kan gjøre noe med.
 
 {{% /ingress %}}
 
-<table class="table table-bordered">
-<thead>
-  <tr>
-    <th scope="col">Kilde</th>
-    <th scope="col">Hvilken informasjon må du ha?</th>
-    <th scope="col">Hvilken informasjon får du ut?</th>
-    <th scope="col">Kommentar</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td rowspan="2">Skatteetaten</td>
-    <td rowspan="2">For- og etternavn<br>kan suppleres med sted og omtrentlig fødselsdato</td>
-    <td>Uten at søket er synlig for den du søker på:<br>- fullt navn<br>- fødselsår<br>- postnummer/-sted<br>- skattekommune<br><br></td>
-    <td rowspan="2">Ikke mulig å søke på personer som ikke lengre skatter til Norge, har hemmelig adresse, personer som har avgått med døden, personer uten fast bopel, mv.</td>
-  </tr>
-  <tr>
-    <td>Søket blir synlig om du trykker deg videre:<br>- inntekt<br>- formue<br>- skatt</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Digipost</td>
-    <td>Navn</td>
-    <td>- Fullt navn<br>- adresse(r)<br>- tre siste siffer i telefonnummer</td>
-    <td rowspan="2">Mange har dette på uten å vite det, kan skrus av ved å gå inn på Digiposts innstillinger og skru av "Synlighet ved søk" under "Personlige innstillinger".</td>
-  </tr>
-  <tr>
-    <td>Postadresse</td>
-    <td>Alle adressater på en adresse.</td>
-  </tr>
-  <tr>
-    <td>Vipps</td>
-    <td>Telefonnummer</td>
-    <td>- fullt navn<br>- ofte et profilbilde</td>
-    <td>Kan ikke fjernes med mindre Vipps-avtalen sies opp.</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Statens vegvesen</td>
-    <td rowspan="3">Enten kjennemerke (bilskilt), understellsnummer eller personlig bilskilt.</td>
-    <td>Ved å sende sms REGNR (kjennemerke) til 2282:<br>- fullt navn<br>- sted</td>
-    <td rowspan="4">Å eie motorvogner er et offentlig ærend i Norge.</td>
-  </tr>
-  <tr>
-    <td>Ved å logge inn på nettsidene med en digital ID:<br>- navn på eier<br>- eiers adresse<br>- navn på tidligere eiere</td>
-  </tr>
-  <tr>
-    <td>Ved å søke om "Sammenstilling av kjøretøysopplysninger" eller møte opp på en trafikkstasjon.</td>
-  </tr>
-  <tr>
-    <td>Fødsels- og personnummer og etternavn</td>
-    <td>Liste over alle biler som vedkommende eier, har eid eller er leasingtaker på, og følgelig informasjon om adresser hvis det er vedkommende du søker opp som er nåværende eier eller leasingtaker, eller eier da motorvognen ble vraket.</td>
-  </tr>
-  <tr>
-    <td>Trafikkforsikringsforeningen</td>
-    <td>Forsikringsselskap til norske motorvogner</td>
-    <td>Her kan du skrive inn et kjennemerke og dato, så får man forsikringsselskap i retur.</td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td>Kartverket</td>
-    <td>Eiendomsinformasjon (adresse, gårds- og bruksnummer, seksjonsnummer)</td>
-    <td>Gir tilgang på grunnboken som igjen gir<br>- navn på eier<br>- fødselsdato<br>- vederlag<br>- dato for eiendomsrett (kjøp)<br>- hvor eiendommen er pantsatt</td>
-    <td>Å eie eiendom er et offentlig ærend i Norge.</td>
-  </tr>
-  <tr>
-    <td>Dagens næringsliv "Boligbasen"</td>
-    <td>Eiendomsinformasjon (adresse og ev. seksjonsnummer)</td>
-    <td>Slår opp transaksjoner på eiendommer/seksjoner, slik at man kan se kjøper og selger, kjøpesum og omsetningstype.</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Klarna</td>
-    <td>Postnummer og e-postadresse.</td>
-    <td>Informasjon fra Klarnas database fra tidligere kjøp, inkludert<br>- navn<br>- adresse<br>- telefonnnummer<br>- tre første og tre siste sifrene i telefonnummer<br>- fødselsdato</td>
-    <td>Du må bruke kasseløsningen til en hvilken som helst nettbutikk som bruker Klarna. Eksempel: Barnas hus.</td>
-  </tr>
-</tbody>
-</table>
-
-<br>
-
-{{< tilbakemelding
-header="Ting endrer seg, har du oppdaget noe som ikke stemmer, eller har du flere tips?"
-id="opplysninger"
+{{< opplysninger 
+  header="Skattelistene hos Skatteetaten"
+  src="skatteetaten.jpg"
+  knapp-tekst="Søk i skattelistene"
+  knapp-lenke="https://www.skatteetaten.no/person/skatt/skatteoppgjor/skattelistene/"
 >}}
+
+Hvis du har opplysninger om en persons for- og etternavn, og eventuelt med supplerende opplysninger
+om sted og omtrentlig fødselsdato, kan etatens skattelister gi tilbake informasjon om:
+
+- fullt navn
+- fødselsår
+- postnummer/-sted
+- skattekommune
+
+Søk som bare vises i søkeresultatene logges _ikke_ og er dermed ikke synlig for den du søker på.
+Men hvis du trykker deg videre, logges søket og følgende informasjon blir tilgjengelig: 
+
+- inntekt
+- formue
+- skatt
+
+Ikke mulig å søke på personer som ikke lengre skatter til Norge, har hemmelig adresse,
+personer som har avgått med døden, personer uten fast bopel, mv.
+
+{{< /opplysninger >}}
+
+{{< opplysninger 
+  header="Personsøk på Digipost"
+  src="digipost.png"
+  knapp-tekst="Gå til Digipost"
+  knapp-lenke="https://www.digipost.no/app/post#/send/"
+>}}
+
+De fleste har Digipost, og følgelig på en innstilling som standard som heter"Synlighet ved søk".
+Dette gjør at man kan søke opp en persons navn eller postadresse, og få opplysninger:
+
+- fullt navn
+- registrerte postadresser (men avkuttet)
+- tre siste siffer i telefonnummer
+
+Man kan skru av innstillingen når man er logget inn.
+
+{{< /opplysninger >}}
+
+{{< opplysninger 
+  header="Personsøk på Vipps"
+  src="vipps.png"
+  knapp-tekst="Åpne Vipps"
+  knapp-lenke="https://apps.apple.com/no/app/vipps/id984380185/"
+>}}
+
+Hvis du har telefonnummeret til noen, kan du få opp fullt navn og ev. bildet de har lagt inn i
+Vipps-profilen sin. Det er ikke mulig å fjerne dette uten å si opp sin egen Vipps-avtale.
+
+{{< /opplysninger >}}
+
+{{< opplysninger 
+  header="Eierinformasjon hos Statens Vegvesen"
+  src="sv.png"
+  knapp-tekst="Åpne Statens Vegvesens Min side"
+  knapp-lenke="https://www.vegvesen.no/dinside/"
+>}}
+
+Eierskap av motorvogner er offentlig informasjon i Norge. Man kan søke på et kjennemerke (bilskilt),
+og få opp følgende opplysninger:
+
+- fullt navn på eier
+- eiers adresse (der de er registrert per nå)
+- navn på tidligere eiere
+
+Vil man ha adresse på tidligere eiere kan man søke etaten om"Sammenstilling av
+kjøretøysopplysninger" på en trafikkstasjon eller på internett.
+
+Man kan også søke på fødsels- og personnummer og etternavn til noen, og få opp en liste over alle
+biler som vedkommende eier, og følgelig adresse.
+
+{{< /opplysninger >}}
+
+{{< opplysninger 
+  header="Grunnboka hos Kartverket"
+  src="kartverket.png"
+  knapp-tekst="Åpne Se eiendom"
+  knapp-lenke="https://seeiendom.kartverket.no"
+>}}
+
+Søker man på en adresse, får man opp grunnboka/grunnbøkene som hjelper deg å finne
+
+- navn på eier
+- fødselsdato
+- vederlag
+- dato for eiendomsrett (kjøp)
+- hvor eiendommen er pantsatt
+
+{{< /opplysninger >}}
+
+{{< opplysninger 
+  header="Boligbasen til Dagens Næringsliv"
+  src="dn.png"
+  knapp-tekst="Åpne Boligbasen"
+  knapp-lenke="https://www.dn.no/boligpriser/"
+>}}
+
+Søker man på en adresse, får man opp opplysninger om omsetninger på eiendom. Får man treff,
+kan man se:
+
+- navn på kjøper
+- navn på selger
+- omsetningsdato
+- vederlag
+
+Noen ganger kan man også se historiske omsetninger.
+
+{{< /opplysninger >}}
+
+{{< opplysninger 
+  header="Personopplysninger i Klarnas handlekurv"
+  src="klarna.png"
+  knapp-tekst="Åpne en eksempelbutikk"
+  knapp-lenke="https://www.dn.no/boligpriser/"
+>}}
+
+Hvis man går inn på en nettbutikk som bruker Klarna, og søker opp opplysninger postnummer og
+e-postadresse, får man opp følgende:
+
+- navn
+- adresse
+- de tre første og tre siste sifrene i telefonnummeret
+- fødselsdato
+
+{{< /opplysninger >}}
