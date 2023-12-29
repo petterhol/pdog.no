@@ -4,7 +4,7 @@ title ="Offentlige personopplysninger"
 main = { parent ="Personvern og sikkerhet", weight = 2 }
 +++
 
-<!-- markdownlint-disable MD033 MD013 -->
+<!-- markdownlint-disable MD033 MD013 MD034 -->
 
 {{% ingress %}}
 
@@ -17,7 +17,7 @@ andre kan finne om deg, og som du bare delvis kan gjøre noe med.
 
 {{% /ingress %}}
 
-{{< opplysninger 
+{{< opplysninger
   header="Skattelistene hos Skatteetaten"
   src="skatteetaten.jpg"
   knapp-tekst="Søk i skattelistene"
@@ -33,7 +33,7 @@ om sted og omtrentlig fødselsdato, kan etatens skattelister gi tilbake informas
 - skattekommune
 
 Søk som bare vises i søkeresultatene logges _ikke_ og er dermed ikke synlig for den du søker på.
-Men hvis du trykker deg videre, logges søket og følgende informasjon blir tilgjengelig: 
+Men hvis du trykker deg videre, logges søket og følgende informasjon blir tilgjengelig:
 
 - inntekt
 - formue
@@ -44,7 +44,7 @@ personer som har avgått med døden, personer uten fast bopel, mv.
 
 {{< /opplysninger >}}
 
-{{< opplysninger 
+{{< opplysninger
   header="Personsøk på Digipost"
   src="digipost.png"
   knapp-tekst="Gå til Digipost"
@@ -62,7 +62,7 @@ Man kan skru av innstillingen når man er logget inn.
 
 {{< /opplysninger >}}
 
-{{< opplysninger 
+{{< opplysninger
   header="Personsøk på Vipps"
   src="vipps.png"
   knapp-tekst="Åpne Vipps"
@@ -74,7 +74,7 @@ Vipps-profilen sin. Det er ikke mulig å fjerne dette uten å si opp sin egen Vi
 
 {{< /opplysninger >}}
 
-{{< opplysninger 
+{{< opplysninger
   header="Eierinformasjon hos Statens Vegvesen"
   src="sv.png"
   knapp-tekst="Åpne Statens Vegvesens Min side"
@@ -96,7 +96,7 @@ biler som vedkommende eier, og følgelig adresse.
 
 {{< /opplysninger >}}
 
-{{< opplysninger 
+{{< opplysninger
   header="Grunnboka hos Kartverket"
   src="kartverket.png"
   knapp-tekst="Åpne Se eiendom"
@@ -113,7 +113,7 @@ Søker man på en adresse, får man opp grunnboka/grunnbøkene som hjelper deg �
 
 {{< /opplysninger >}}
 
-{{< opplysninger 
+{{< opplysninger
   header="Boligbasen til Dagens Næringsliv"
   src="dn.png"
   knapp-tekst="Åpne Boligbasen"
@@ -132,7 +132,7 @@ Noen ganger kan man også se historiske omsetninger.
 
 {{< /opplysninger >}}
 
-{{< opplysninger 
+{{< opplysninger
   header="Personopplysninger i Klarnas handlekurv"
   src="klarna.png"
   knapp-tekst="Åpne en eksempelbutikk"
