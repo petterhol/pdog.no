@@ -148,3 +148,29 @@ e-postadresse, får man opp følgende:
 - fødselsdato
 
 {{< /opplysninger >}}
+
+{{< opplysninger
+  header="Informasjon om styremedlemmer hos Brønnøysundsregisteret"
+  src="brreg.png"
+  knapp-tekst="Bestill registerutskrift"
+  knapp-lenke="https://w2.brreg.no/eHandelPortal/ecomsys/"
+>}}
+
+Personer som er valgt inn i styret eller som kontaktperson (for eksempel daglig leder)
+i en bedrift, organisasjon og liknende, får registert
+følgende opplysninger i registeret:
+
+- fullt navn
+- adresse
+- fødselsdato
+
+Opplysningene oppdateres mot folkeregisteret, slik at man kan sjekke nye navn og adresser.
+
+For å gjøre dette må du "bestille" en registerutskrift gjennom nettbutikken til
+Brønnøysundsregisteret. Det er gratis å motta denne oversikten, og den sendes nærmest
+omgående på e-post.
+
+Man kan ikke søke opp personer hos Brønnøysundsregisteret, men for eksempel på proff.no
+eller forvalt.no (betaltjeneste).
+
+{{< /opplysninger >}}
