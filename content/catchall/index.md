@@ -34,7 +34,7 @@ En **fast** e-postadresse for de fleste privatpersoner vil være en sammensetnin
 flere hele eller forkortede navn og muligens blandet med noen tall. Eksempel:
 ``fornavn.etternavn@domene.no``.
 
-En **unik** e-postadresse vil variere hva som står foran krøllalfa. Det finnes to varianter av
+En **unik** e-postadresse vil variere hva som står foran krøllalfa. Det finnes tre varianter av
 dette.
 
 - Det kan enten være noe
@@ -42,8 +42,7 @@ helt **tilfeldig** som ``dhfdf762@domene.no``, litt som et tilfeldig generert pa
 - Det kan også være **tilpasset** det formålet den tjener.
 Hvis man skulle registrere en bruker på leveringstjenesten Foodora, kunne man brukt noe som
 ``foodora@domene.no``. E-postmeldingen kommer fremdeles fram til mottakeren.
-
-Det finnes også en **kombinasjon** av disse variantene, hvor man kan legge til noe på slutten av
+- Det finnes også en **kombinasjon** av disse variantene, hvor man kan legge til noe på slutten av
 navnet sitt, og e-posten kommer fremdeles frem.
 Et eksempel på dette er ``fornavn.etternavn+foodora@domene.no``.
 
@@ -88,7 +87,8 @@ Disse vil så bruke informasjonen de finner på andre sider.
 
 Og det er ikke teori – dette er realiteten. Nettsiden "Have I been pwned?" publiserer jevnlig
 informasjon om slike lekkasjer, og her kan man søke på sin egen e-postadresse eller passord, for
-å se om den dukker opp noen steder.
+å se om den dukker opp noen steder. Jeg har sjekket noen av mine gamle e-postadresser, og funnet
+lekkasje for en e-postadresse hos et flertall tjenester jeg har brukt tidligere.
 
 Men i tillegg til å bruke et unikt passord, kan du da også velge å bruke unike brukernavn.
 Da slipper du at noen i det hele tatt _prøver_ seg på å logge inn på kontoen din. Mislykkede
@@ -118,13 +118,13 @@ epost fra den adressen man har registrert for å få gjennomført endringer på 
 det ved å enten endre e-postadressen midlertidig, eller få satt opp adressen som en “svar
 fra”-adresse. Noen e-postklienter, som Fastmail, løser derimot dette elegant.
 
-#### Advarsel for e-postdomener som mottar e-postmeldinger på vegne av falere personer
+#### Advarsel for e-postdomener som mottar e-postmeldinger på vegne av ansatte
 
 Hvis du har en bedrift eller organisasjon hvor flere personer (ansatte, frivillige) mottar
 e-postmeldinger, vil "altomfattende e-postadresse" komme i [konflikt med personvernet
 (datatilsynet.no) {{< ext >}}][datatilsynet].
 
-##### Profilering på Mac Geek Gab
+#### Profilering på Mac Geek Gab
 
 Jeg lytter på en podkast som heter Mac Geek Gab, hvor de to programlederene tar opp en rekke
 tekniske spørsmål fra lytterene sine. Sommeren 2017 sendte jeg inn et spørsmål hvor jeg forklarte
