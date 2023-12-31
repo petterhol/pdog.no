@@ -1,7 +1,5 @@
 +++
-title = "Sett opp e-postdomener med altomfavnende innstilling'"
-linkTitle = "E-post: Catch-all"
-lastmod = 2020-10-06T22:00:00
+title = "Fordeler og ulemper med unike e-postadresser"
 [menu]
 main = { weight = 7, parent = "Personvern og sikkerhet" }
 +++
@@ -10,10 +8,10 @@ main = { weight = 7, parent = "Personvern og sikkerhet" }
 
 {{% ingress %}}
 
-Hvis du eier et e-postdomene, kan du velge å slå på en "altomfavnende" funksjon
-(på engelsk: _catch all_), som lar
-deg motta alle meldinger som sendes til ditt domene, uavhengig av hva som står foran krøllalfa. Jeg
-bruker dette selv på mitt eget domene.
+Vi blir stadig bedt om å dele ut vår e-postadresse til ulike formål, slik som innmelding,
+brukerregistrering, kjøp på internett med mer. De fleste bruker en fast e-postadresse, men det kan
+være mange fordeler med å gå over til unike e-postadresser. Her redegjør jeg noen fordeler
+og hvilken metode jeg velger.
 
 {{% /ingress %}}
 
@@ -30,70 +28,80 @@ bruker dette selv på mitt eget domene.
     lisens="Pixabay Lisence"
 >}}
 
-## "Normalt" oppsett
+#### Hva er forskjellen på en fast og unik e-postadresse?
 
-Hvis du ikke har altomfavnende innstilling, vil du måtte definere hvilke gyldige e-postadresser som
-gjelder for ditt domene. Hvis noen prøver å sende en e-post til en utgått eller feilaktig adresse,
-vil ikke denne komme frem.
+En **fast** e-postadresse for de fleste privatpersoner vil være en sammensetning av en eller
+flere hele eller forkortede navn og muligens blandet med noen tall. Eksempel:
+``fornavn.etternavn@domene.no``.
 
-I en bedrift vil det kanskje være normalt å opprette ``post@domene.no`` samt en e-postadresse til
-alle ansatte, eksempelvis ``navn.navnesen@domene.no``.
+En **unik** e-postadresse vil variere hva som står foran krøllalfa. Det finnes to varianter av
+dette.
 
-Men hvis noen sender en melding til en adresse som de har en skrivefeil i
-(for eksempel ``posst@domene.no``) eller til en ansatt som ikke lengre jobber der
-(for eksempel ``name.navnesen@domene.no``) vil ikke denne bli levert.
-Avsender vil få en feilmelding om dette.
+- Det kan enten være noe
+helt **tilfeldig** som ``dhfdf762@domene.no``, litt som et tilfeldig generert passord.
+- Det kan også være **tilpasset** det formålet den tjener.
+Hvis man skulle registrere en bruker på leveringstjenesten Foodora, kunne man brukt noe som
+``foodora@domene.no``. E-postmeldingen kommer fremdeles fram til mottakeren.
 
-## Hvis du skrur på altomfavnende innstilling
+Det finnes også en **kombinasjon** av disse variantene, hvor man kan legge til noe på slutten av
+navnet sitt, og e-posten kommer fremdeles frem.
+Et eksempel på dette er ``fornavn.etternavn+foodora@domene.no``.
 
-Nå vil alle e-poster, som ikke allerede sendes til et en spesifikk e-postkonto, sendes til en
-angitt e-postadresse. I eksemplet over, vil ``postt@domene.no`` komme frem til en angitt adresse. Det
-har altså ingenting å si hva du skriver foran krøllalfasymbolet, alt kommer frem.
+#### Unike og tilfeldige e-postadresser
 
-Også for gamle prosjekter, avdelinger, kampanjer og brukere, vil e-postadressen fortsatt være
-aktiv, men pass på at dette ikke kommer i [konflikt med personvernet (datatilsynet.no)
-{{< ext >}}][datatilsynet].
+Det kommer stadig tjenster som hjelper deg å generere unike e-postadresser. Her er tre eksempler
+på tre forskjellige måter det er implementert i forskjellige systemer.
 
-## Hvorfor jeg bruker altomfavnende innstilling
+- Apple har lansert "Hide My Email?", godt koblet sammen med funksjonaliteten for å skape en
+konto på tjenester/apper/nettsider med Apple-innlogging. Som iCloud+-kunde, kan man også generere
+unike adresser i ethvert e-postfelt. Les mer om tjenesten i
+[Hva er Hide My Email? (apple.no) {{< ext >}}](https://support.apple.com/no-no/HT210425).
 
-Jeg bruker funksjonen for å få økt kontosikkerheten til diverse brukerkontoer jeg har registrert på
-internett, samt muligheten for å kunne avsløre om et firma har hatt datalekkasjer. Her er noen
-eksempler på dette:
+- DuckDuckGo sin nettleser tilbyr tilfeldige e-postadresser. Les mer her:
+[Protect Your Inbox: DuckDuckGo Email Protection Beta Now Open to All!
+spreadprivacy.com)
+{{< ext >}}](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/).
 
-### Unike brukernavn på brukerkontoer
+- Fastmail tilbyr som e-postleverandør og e-postklient en tilsvarende tjeneste hvor man både
+kan bruke @fastmail.com eller sitt eget domene til å generere unike e-postadresser å sende fra,
+eller opprette til bruk på innloggingssider. Dette er også koblet sammen med integrasjoner mot
+passordhåndterere. Les mer her: [Masked Email (fastmail.help)
+{{< ext >}}](https://www.fastmail.help/hc/en-us/articles/4406536368911-Masked-Email).
 
-Du har sikkert lært at man skal ha et unikt passord på hver enkelt tjeneste man har registrert seg
-på. For å øke kontosikkerheten ytterligere, vil et unikt brukernavn også ha en viss effekt. Jeg vil
-nemlig ikke få en rekke innloggingsforsøk på min _faktiske_ brukerkonto andre steder, som i noen
-tilfeller kan låse kontoen.
+En klar ulempe med å bruke denne typen tjenester er at det vil alltid være en risiko for at
+tilbyderen på et eller annet tidspunkt stopper å tilby tjenesten, og følgelig må du enten
+logge inn og forandre alle e-postadressene dine, eller risikere å miste tilgang til en bråte
+med kontoer.
 
-Eksempel: Hos Facebook bruker jeg brukernavnet ``facebook@pdog.no``.
+#### Unike og tilpassa e-postadresser
 
-### Registrering av e-postadresser til engangsbruk
+Hvis man eier sitt eget domene og har tilgang på e-post gjennom domenet, kan man som regel
+skru på funksjonen som tilbyr "altomfavende e-postadresse" eller "catch all" på engelsk. Det betyr
+at alt en skriver før krøllalfa (@), allikevel blir levert til mottakerens e-postkasse.
 
-Hvis jeg trenger en e-postadresse til "engangsbruk", kan jeg bare lage en unik epostadresse til det
-formålet. Hvis jeg senere ikke ønsker å få meldinger tilsendt, kan jeg bare blokkere
-_mottakeradressen_, uavhengig av hva avsender måtte være.
+#### Fordeler med å bruke unike e-postadresser
 
-Eksempel: Jeg vil melde meg på et nyhetsbrev hos Elkjøp for å oppnå en rabatt. Da kan jeg for
-eksempel skrive ``elkjop_nyhetsbrev_20200328@pdog.no``. Da vet jeg nøyaktig hvilken avsender jeg skal
-forvente, hva slags innhold jeg skal forvente, og hvilken dato jeg registrerte meg.
+Et viktig råd innen grunnleggende datasikkerhet, er at man ikke skal bruke det samme passordet
+på flere forskjellige tjenester. Årsaken? Hvis det skjer et datainnbrudd, kan tyvene stjele med
+seg en liste over brukernavn og passord, og publisere eller selge dette til andre kriminelle.
+Disse vil så bruke informasjonen de finner på andre sider.
 
-### Avsløring av lekkasjer og uautorisert dataoverføring
+Og det er ikke teori – dette er realiteten. Nettsiden "Have I been pwned?" publiserer jevnlig
+informasjon om slike lekkasjer, og her kan man søke på sin egen e-postadresse eller passord, for
+å se om den dukker opp noen steder.
 
-Det skjer fra tid til annen at firmaer jeg har brukerkontoer hos får sine systemer kompromittert,
-som betyr at personlig informasjon som e-postadresser kan komme på avveie. Det kan også hende at
-noen firmaer "selger" opplysningene på en uredelig måte. Ved å alltid kunne vite hvem som var ment
-som avsender, kan jeg enkelt avsløre dette.
+Men i tillegg til å bruke et unikt passord, kan du da også velge å bruke unike brukernavn.
+Da slipper du at noen i det hele tatt _prøver_ seg på å logge inn på kontoen din. Mislykkede
+forsøk på å logge inn, eller bruke "glemt passord"-funksjonen, kan skape innloggingsproblemer også
+for ens egne, legitime forsøk.
 
-Datainnbrudd skjer hele tiden. Her er fire kjente eksempler:
+Langt oftere enn at både brukernavn og passord stjeles, vil brukernavn eller registrete
+e-postadresser dukke opp i lekkasjer. Dette selges også blant kriminelle, og brukes for eksempel
+til å sende deg søppelpost eler svindelforsøk. Hvis man bruker unike epostadresser på en slik måte
+at man vet hvilken tjeneste/app/nettside
+som var det stedet du først bruke adressen på, vil du enkelt kunne se hvem som er "synderen".
 
-- [Foodora (vg.no) {{< ext >}}][foodora]
-- [Microsoft (tek.no) {{< ext >}}][microsoft]
-- [Marriot (threatpost.no) {{< ext >}}][marriot]
-- [Rema 1000 (norsis.no) {{< ext >}}][rema1000]
-
-## Ulemper med "catch all"
+#### Ulemper med unike e-postadresser
 
 Selvfølgelig vil en person som målrettet går inn for å prøve mine kontoer, eller vil sende meg
 uønsket e-post, klare å forstå strukturen i mine adresser, men de fleste lekkasjer er nok bare
@@ -102,15 +110,19 @@ situasjoner hvor man kjøper en stor database.
 En annen ulempe er at man øker kompleksiteten av kontodetaljene, og det kan gjøre det vanskelig å
 få gjenopprettet eller tilbakestilt kontoer hvis man har glemt det man opprinnelig skrev inn.
 
-En tredje ulempe er at noen tjenester ikke tillater sitt eget firmanavn brukt i
-brukernavn/e-postadresse.
+Hvis man bruker tilpassa unike e-postaresser, kan det hende at noen tjenester ikke tillater sitt
+eget firmanavn brukt i brukernavn/e-postadresse.
 
 Til slutt vil det også være hakket mer komplisert å snakke med bedrifter som krever at man sender
 epost fra den adressen man har registrert for å få gjennomført endringer på kontoen. Man kan løse
 det ved å enten endre e-postadressen midlertidig, eller få satt opp adressen som en “svar
-fra”-adresse.
+fra”-adresse. Noen e-postklienter, som Fastmail, løser derimot dette elegant.
 
-## Lær mer
+#### Advarsel for e-postdomener som mottar e-postmeldinger på vegne av falere personer
+
+Hvis du har en bedrift eller organisasjon hvor flere personer (ansatte, frivillige) mottar
+e-postmeldinger, vil "altomfattende e-postadresse" komme i [konflikt med personvernet
+(datatilsynet.no) {{< ext >}}][datatilsynet].
 
 ##### Profilering på Mac Geek Gab
 
@@ -121,29 +133,5 @@ lytte til programmet på deres nettsider:
 [Oh…Snap! – Mac Geek Gab 663 {{< ext >}}][mgg] . Mitt spørsmål er det
 første som tas opp, så du trenger ikke spole.
 
-##### Tilsvarende for Googlemail-/Gmail-adresser
-
-Har du en Gmail-konto kan noenlunde samme triks brukes der ved å legge til + etter adressen din.
-Les mer her: [3 awesome Gmail address tricks to get more out of your email ID -
-TheWindowsClub {{< ext >}}][thewindowsclub].
-
-##### Hvordan sette opp hos Domeneshop
-
-Den norske domeneforhandleren [Domeneshop {{< ext >}}](domene.shop) tilbyr altomfavende
-e-postinnstilling. Her forutsetter jeg at du har kjøpt et domene med
-e-postproduktet. Gjør følgende:
-
-1. Logg inn på din profil via [domene.shop/login {{< ext >}}](domene.shop/login).
-2. Trykk på "Mine domener"-fanen og velg det domenet du vil konfigurere.
-3. Velg "Epost"-fanen.
-4. Trykk på "Opprett en ny e-postadresse".
-5. Skriv inn ``*`` i tekstboksen og trykk "Videre >>".
-6. Velg deretter hvordan e-postadressen skal oppføre seg basert på dine preferanser.
-
 [datatilsynet]: https://www.datatilsynet.no/personvern-pa-ulike-omrader/personvern-pa-arbeidsplassen/innsyn-epost-filer/
-[foodora]: https://www.vg.no/nyheter/innenriks/i/jdoO6A/lekkasje-av-kundedata-hos-foodora
-[microsoft]: https://www.tek.no/nyheter/nyhet/i/0nl380/14-aar-av-microsofts-kundedata-laa-aapent-paa-nett
-[marriot]: https://threatpost.com/millions-guests-marriott-data-breach-again/154300/
-[rema1000]: https://norsis.no/kundedata-rema-1000-nye-app-ae-la-apent-tilgjengelig-2-uker/
 [mgg]: https://www.macobserver.com/podcasts/macgeekgab-663/
-[thewindowsclub]: https://www.thewindowsclub.com/gmail-address-tricks

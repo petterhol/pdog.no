@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.6.0/css/bootstrap.min.css">
+<!-- FontAwesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<title>Simple Text Collapsible with Arrow</title>
+</head>
+<body>
+
+<div class="container mt-3">
+  <!-- Text trigger with arrow -->
+  <p>
+    <a href="#collapseContent" class="text-primary" data-toggle="collapse" aria-expanded="false" aria-controls="collapseContent">
+      <i class="fas fa-arrow-right" id="collapseIcon"></i> Click here to expand/collapse content
+    </a>
+  </p>
+
+  <!-- Collapsible content -->
+  <div class="collapse" id="collapseContent">
+    <div class="card card-body">
+      This is some collapsible content. Simple and easy to click!
+    </div>
+  </div>
+</div>
+
+<!-- Bootstrap and necessary dependencies -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.7.0/dist/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.6.0/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
+<script>
+// Script to change arrow direction on collapse
+$(document).ready(function(){
+  $('#collapseContent').on('show.bs.collapse', function () {
+    $('#collapseIcon').removeClass('fa-arrow-right').addClass('fa-arrow-down');
+  });
+  $('#collapseContent').on('hide.bs.collapse', function () {
+    $('#collapseIcon').removeClass('fa-arrow-down').addClass('fa-arrow-right');
+  });
+});
+</script>
+</body>
+</html>
