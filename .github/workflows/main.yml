@@ -25,33 +25,3 @@ jobs:
       with:
         files: .
         config_file: ".markdownlint.json"
-
-  hugo:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: '0.68.3'
-
-    - name: Build
-      run: hugo --minify
-
-    - name: HTML5 Validator (all warnings)
-      uses: Cyb3r-Jak3/html5validator-action@master
-      with:
-        root: public/
-        extra: --show-warnings
-      continue-on-error: true
-
-    - name: HTML5 Validator
-      uses: Cyb3r-Jak3/html5validator-action@master
-      with:
-        root: public/
-        extra: --ignore allow-storage-access-by-user-activation doc-endnote

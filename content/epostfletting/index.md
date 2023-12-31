@@ -1,6 +1,5 @@
 +++
-title = "Fletting av dokumenter og e-postmeldinger med Microsoft 365"
-lastmod = 2021-04-07T22:00:00
+title = "Fletting av dokumenter og e-postmeldinger"
 [menu]
 main = { weight = 5, parent = "Apple-tips" }
 +++
@@ -76,3 +75,8 @@ bruke listene eller dokumentet på nytt. Når du åpner Word-filen, kan du bli b
 finne regnearket igjen.
 
 Husk å endre tilbake til din standard e-postleser etter at du er ferdig med flettingen.
+
+{{< tilbakemelding
+header="Lærte du noe, eller har du noen tips?"
+id="epostfletting"
+>}}

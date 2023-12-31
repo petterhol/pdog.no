@@ -60,6 +60,11 @@ adresse som du kan bestemme selv.  På mitt nettsted finnes det et par "feller" 
 pdog.no/rickroll. Resultatene fra dette kan jeg dermed se på denne sporingssiden:
 [https://grabify.link/track/NR2PYV {{< ext >}}](https://grabify.link/track/NR2PYV).
 
+{{< tilbakemelding
+header="Har du tips til flere?"
+id="svindlerlokking"
+>}}
+
 [kitboga]: https://www.youtube.com/channel/UCm22FAXZMw1BaWeFszZxUKw
 [pg]: https://www.youtube.com/channel/UCAPrhJwVweWZA8GEPoClSdw
 [jb]: https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw

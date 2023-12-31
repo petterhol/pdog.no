@@ -1,111 +1,190 @@
 +++
-title = "Offentlige personopplysninger"
-lastmod = 2020-10-06T22:00:00
+title ="Offentlige personopplysninger"
 [menu]
-main = { parent = "Personvern og sikkerhet", weight = 2 }
+main = { parent ="Personvern og sikkerhet", weight = 2 }
 +++
+
+<!-- markdownlint-disable MD033 MD013 MD034 -->
 
 {{% ingress %}}
 
-Dette er en liste over steder hvor du kan finne offentlige opplysninger om deg selv. Formålet er å
-gjøre deg oppmerksom på hvor slike opplysninger finnes, slik at du til en viss grad kan kontrollere
-og korrigere innholdet.
+Denne artikkelen inneholder en liste over hvilke personopplysninger som publiseres av
+offentlige myndigheter, tjenester fra det offentlige
+og private og tjenester som bruker informasjon som er offentlig tilgjengelig.
+
+Formålet med listen er å gi deg som borger og forbruker full kontroll på hvilke opplysninger
+andre kan finne om deg, og som du bare delvis kan gjøre noe med.
 
 {{% /ingress %}}
 
-{{< accordion >}}
+{{< opplysninger
+  header="Skattelistene hos Skatteetaten"
+  src="skatteetaten.jpg"
+  knapp-tekst="Søk i skattelistene"
+  knapp-lenke="https://www.skatteetaten.no/person/skatt/skatteoppgjor/skattelistene/"
+>}}
 
-{{% card header="Skatteetatene: fullt navn, fødselsår, postnummer, poststed, kommune, økonomi" %}}
-
-Alle innbyggere i Norge står i Skatteetatens skattelister som kommer ut hver høst. De
-fleste kjenner nok
-til denne tjenesten for å sjekke opplysninger som inntekt, formue og beregnet skatt, og at slike oppslag
-blir loggført.
-
-Det kanskje ikke mange vet er at man kan gjøre oppslag uten loggføring på disse opplysningene:
+Hvis du har opplysninger om en persons for- og etternavn, og eventuelt med supplerende opplysninger
+om sted og omtrentlig fødselsdato, kan etatens skattelister gi tilbake informasjon om:
 
 - fullt navn
 - fødselsår
 - postnummer/-sted
 - skattekommune
 
-Søk blir bare loggført hvis du klikker deg inn på en person. Å se en oversikt over søkeresultatene
-logges ikke.
+Søk som bare vises i søkeresultatene logges _ikke_ og er dermed ikke synlig for den du søker på.
+Men hvis du trykker deg videre, logges søket og følgende informasjon blir tilgjengelig:
 
-Det er ikke mulig å endre eller slette opplysningene med mindre du ikke lengre skatter til Norge,
-man får hemmelig adresse, personer som er avgått med døden, personer uten fast bopel, o.l.
+- inntekt
+- formue
+- skatt
 
-[Søk i skattelistene (skatteetaten.no) {{< ext >}}
-](https://www.skatteetaten.no/person/skatt/skatteoppgjor/skattelistene/)
+Ikke mulig å søke på personer som ikke lengre skatter til Norge, har hemmelig adresse,
+personer som har avgått med døden, personer uten fast bopel, mv.
 
-{{% /card %}}
+{{< /opplysninger >}}
 
-{{% card header="Digipost: fullt navn og postadresse" %}}
+{{< opplysninger
+  header="Personsøk på Digipost"
+  src="digipost.png"
+  knapp-tekst="Gå til Digipost"
+  knapp-lenke="https://www.digipost.no/app/post#/send/"
+>}}
 
-Digipost brukes for de fleste for å motta brev fra det offentlige og noen private bedrifter, men
-det er også mulig for privatpersoner sende digitale brev til andre privatpersoner.
+De fleste har Digipost, og følgelig på en innstilling som standard som heter"Synlighet ved søk".
+Dette gjør at man kan søke opp en persons navn eller postadresse, og få opplysninger:
 
-Hvis man logger inn, trykker på "Ny melding", og søker på et navn, får man opp en rekke resultater.
-Her kan man se personlig navn, adresse(r) og de tre siste sifrene i telefonnummeret. Man kan også
-søke på en gate- eller vei- adresse for å finne adressater på den aktuelle adressen.
+- fullt navn
+- registrerte postadresser (men avkuttet)
+- tre siste siffer i telefonnummer
 
-Man kan skru av dette hvis man slår av "Synlighet ved søk" under
-"Personlige innstillinger".
+Man kan skru av innstillingen når man er logget inn.
 
-[Søk i adressene (digipost.no) {{< ext >}}
-](https://www.digipost.no/)
+{{< /opplysninger >}}
 
-{{% /card %}}
+{{< opplysninger
+  header="Personsøk på Vipps"
+  src="vipps.png"
+  knapp-tekst="Åpne Vipps"
+  knapp-lenke="https://apps.apple.com/no/app/vipps/id984380185/"
+>}}
 
-{{% card header="Vipps: fullt navn og verifisering av telefonnummer" %}}
+Hvis du har telefonnummeret til noen, kan du få opp fullt navn og ev. bildet de har lagt inn i
+Vipps-profilen sin. Det er ikke mulig å fjerne dette uten å si opp sin egen Vipps-avtale.
 
-Hvis man har et telefonnummer, kan man søke på det i Vipps (ved å gå til Sende penger). Man får da
-opp fullt navn og ev. profilbildet vedkommende har satt på Vipps.
+{{< /opplysninger >}}
 
-Hvis du vil fjernes fra søket, må du avslutte avtalen om Vipps.
+{{< opplysninger
+  header="Eierinformasjon hos Statens Vegvesen"
+  src="sv.png"
+  knapp-tekst="Åpne Statens Vegvesens Min side"
+  knapp-lenke="https://www.vegvesen.no/dinside/"
+>}}
 
-{{% /card %}}
+Eierskap av motorvogner er offentlig informasjon i Norge. Man kan søke på et kjennemerke (bilskilt),
+og få opp følgende opplysninger:
 
-{{% card header="Statens Vegvesen: fullt navn, adresse og fødseldato på motorvogneiere" %}}
+- fullt navn på eier
+- eiers adresse (der de er registrert per nå)
+- navn på tidligere eiere
 
-Hos Statens vegvesen kan du finne eier og adresse av et kjøretøy ved å logge inn på "Din side". Du
-trenger registreringsnummer, understellsnummer eller det personlige bilskiltet.
+Vil man ha adresse på tidligere eiere kan man søke etaten om"Sammenstilling av
+kjøretøysopplysninger" på en trafikkstasjon eller på internett.
 
-Man kan også få tilgang på navn og sted ved å sende registreringsnummer med kodeord REGNR til 2282.
+Man kan også søke på fødsels- og personnummer og etternavn til noen, og få opp en liste over alle
+biler som vedkommende eier, og følgelig adresse.
 
-Hvis man søker om "Sammenstillinger av kjøretøysopplysninger",
-kan man få utlevert komplett eierhistorikk med fullt navn,
-adresse og fødselsdato. Dette får man også ved oppmøte på trafikkstasjon.
+{{< /opplysninger >}}
 
-Inne på "Din side" kan man også, forutsatt at man har en persons fødsels- og personnummer og
-etternavn, søke etter alle kjøretøy. som vedkommende eier.
+{{< opplysninger
+  header="Grunnboka hos Kartverket"
+  src="kartverket.png"
+  knapp-tekst="Åpne Se eiendom"
+  knapp-lenke="https://seeiendom.kartverket.no"
+>}}
 
-[Søk i kjøretøysopplysninger (vegvesen.no)
-{{< ext >}}](https://www.vegvesen.no/kjoretoy/Kjop+og+salg/Kjøretøyopplysninger/finn-kjoretoyets-eier)
+Søker man på en adresse, får man opp grunnboka/grunnbøkene som hjelper deg å finne
 
-[Søk om Sammenstillinger av kjøretøysopplysninger (vegvesen.no) {{< ext >}}
-](https://www.vegvesen.no/kjoretoy/kjop-og-salg/kjoretoyopplysninger/sammenstillinger-av-kjoretoyopplysninger/)
+- navn på eier
+- fødselsdato
+- vederlag
+- dato for eiendomsrett (kjøp)
+- hvor eiendommen er pantsatt
 
-{{% /card %}}
+{{< /opplysninger >}}
 
-{{% card header="Kartverket: fullt navn og fødselsnummer på eiere av fast eiendom" %}}
+{{< opplysninger
+  header="Boligbasen til Dagens Næringsliv"
+  src="dn.png"
+  knapp-tekst="Åpne Boligbasen"
+  knapp-lenke="https://www.dn.no/boligpriser/"
+>}}
 
-Grunnbøkene fra Kartverket er offentlig tilgjengelig bak innlogging til ID-porten. Forutenom
-allslags opplysninger om selve eiendommen, kan man laste ned "grunnboken" som gir tilgang på fullt
-navn på eier og fødselsnummer.
+Søker man på en adresse, får man opp opplysninger om omsetninger på eiendom. Får man treff,
+kan man se:
 
-[Søk i opplysningene på (seeiendom.kartverket.no) {{< ext >}}
-](https://seeiendom.kartverket.no)
+- navn på kjøper
+- navn på selger
+- omsetningsdato
+- vederlag
 
-{{% /card %}}
+Noen ganger kan man også se historiske omsetninger.
 
-{{% card header="Dagens Næringsliv Boligbasen: navn på eiere av fast eiendom" %}}
+{{< /opplysninger >}}
 
-Nesten det samme som grunnbøkene til Kartverket (se over), men med et praktisk kart og uten
-fødselsdato. Her kan man også se tidligere eiere.
+{{< opplysninger
+  header="Personopplysninger i Klarnas handlekurv"
+  src="klarna.png"
+  knapp-tekst="Åpne en eksempelbutikk"
+  knapp-lenke="https://www.dn.no/boligpriser/"
+>}}
 
-[Søk i opplysningene (dn.no) {{< ext >}}](https://www.dn.no/boligpriser)
+Hvis man går inn på en nettbutikk som bruker Klarna, og søker opp opplysninger postnummer og
+e-postadresse, får man opp følgende:
 
-{{% /card %}}
+- navn
+- adresse
+- de tre første og tre siste sifrene i telefonnummeret
+- fødselsdato
 
-{{< /accordion >}}
+{{< /opplysninger >}}
+
+{{< opplysninger
+  header="Informasjon om styremedlemmer hos Brønnøysundsregisteret"
+  src="brreg.png"
+  knapp-tekst="Bestill registerutskrift"
+  knapp-lenke="https://w2.brreg.no/eHandelPortal/ecomsys/"
+>}}
+
+Personer som er valgt inn i styret eller som kontaktperson (for eksempel daglig leder)
+i en bedrift, organisasjon og liknende, får registert
+følgende opplysninger i registeret:
+
+- fullt navn
+- adresse
+- fødselsdato
+
+Opplysningene oppdateres mot folkeregisteret, slik at man kan sjekke nye navn og adresser.
+
+For å gjøre dette må du "bestille" en registerutskrift gjennom nettbutikken til
+Brønnøysundsregisteret. Det er gratis å motta denne oversikten, og den sendes nærmest
+omgående på e-post.
+
+Man kan ikke søke opp personer hos Brønnøysundsregisteret, men for eksempel på proff.no
+eller forvalt.no (betaltjeneste).
+
+{{< /opplysninger >}}
+
+{{< opplysninger
+  header="Informasjon om hvem som deler postkasse på Posten"
+  src="posten.png"
+  knapp-tekst="Logg inn på min side"
+  knapp-lenke="https://w2.brreg.no/eHandelPortal/ecomsys/"
+>}}
+
+Posten har sitt eget "adresseregister" for å ha oversikt over hvem som kan motta post på hvilke
+adresser. Ved å logge seg inn på min side, får man opplysninger om
+
+- fullt navn
+
+{{< /opplysninger >}}
