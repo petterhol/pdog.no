@@ -30,7 +30,9 @@ Det er kjekt å bruke QR-koder, men det skaper også bekymringer i retning av si
     <div class="card-header bg-primary text-white">Beste praksis</div>
     <div class="card-body text-primary">
       <h5 class="card-title">Ikke tving brukeren til å bruke QR-koder</h5>
-      <p class="card-text">I forbindelse med QR-koden bør du alltid angi en forklaring for hvordan man kan besøke siden du ønsker uten å skanne koden med en mobiltelefon. Dette bør aller helst være en kortlenke som er lett å skrive inn, på et domene du kontrollerer.</p>
+      <p class="card-text">I forbindelse med QR-koden bør du alltid angi en forklaring for hvordan
+      man kan besøke siden du ønsker uten å skanne koden med en mobiltelefon. Dette bør aller helst
+      være en kortlenke som er lett å skrive inn, på et domene du kontrollerer.</p>
     </div>
   </div>
 </div>
