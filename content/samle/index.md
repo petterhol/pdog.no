@@ -43,11 +43,21 @@ det. Hvor var du og tankene dine da? Er det såpass lenge siden, at det ikke er 
 - **Sted**: Stedet bildet ble tatt på er også verdifull informasjon for meg. Kanskje du tok et
 bilde på et spesielt sted, som gir deg verdifull innsikt i hvorfor du samlet det inn.
 
-- **Live Photos**: Dette gjelder bare for iPhone-brukere, men det kan hende at andre telefoners
-operativsystem har liknende funksjoner eller tredjepartsapper. Å høre litt lyder i bakgrunnen,
+- **(For iPhone-brukere) Live Photos**: Å høre litt lyder i bakgrunnen,
 enten det er stillheten av skogen, en overfylt buss eller musikken fra anlegget, blandet med
 noen få rammer før og etter selve skuddet, hjelper! Les mer om funksjonen for iPhone her:
-[Ta og rediger bilder med Live Photos. {{< ext >}}](https://support.apple.com/no-no/HT207310)
+[Ta og rediger bilder med Live Photos (apple.com).
+{{< ext >}}](https://support.apple.com/no-no/HT207310)
+
+#### Men ikke glem David Allens innboksreglel
+
+I boken foreslås følgende regel: "Ha så mange innbokser som du trenger, men så få du kan komme
+unna med". Å bruke kamera og skjermbilder kan redusere antall innbokser du kanskje tenkte at du
+trengte.
+
+Mitt eksempel i denne sammenheng er diverse apper og innloggede meldingstjenester. Noe så enkelt
+som meldinger fra venner og familie, behandler jeg ikke som en egen innboks, men jeg tar et bilde
+av det.
 
 #### Tømme innboksen
 
