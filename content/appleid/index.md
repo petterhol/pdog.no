@@ -170,7 +170,12 @@ For eksempel: _Modern Family_ som kan strømmes på Disney+ i Norge, kan strømm
 Det betyr at Apple TV-appen vil foreslå Hulu som app for å se neste episode, selv om du ikke
 har installert appen, har en Hulu-konto, og du alltid har sett på serien i Disney+-appen.
 
-#### Bonusinnhold
+#### Aldersgrenser i Apple TV-appen
+
+Ulike land og regioner har ulike klassifiseringer og regler for aldersgrenser og
+seeranmodninger. Dette kobles til det landet eller regionen din Apple-ID er koblet til.
+
+#### Invitasjoner og deltakelser til massesøksmål
 
 Det kan komme noen sære og morsomme konsekvenser av å ha en amerikansk Apple-ID.
 
