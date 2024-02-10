@@ -9,7 +9,16 @@ main = { weight = 9, parent = "Petter" }
 Jeg har laget denne siden for å samle de YouTube-kanalene som jeg liker å følge med på, eller som
 jeg en gang i tiden har likt å følge med på, men som ikke lengre legger ut nytt innhold. Formålet
 er å kunne dele med andre som også ser på YouTube, og utveksle nye kanalideer med hverandre.
+
 {{% /ingress %}}
+
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <img src="bilde.png" class="img-fluid" alt="YouTube-favoritter kollasj">
+    </div>
+  </div>
+</div><br>
 
 Listen under kommer alfabetisk, da jeg synes det var vanskelig å finne en måte å kategorisere alt
 på som ga mening, nok kanaler i hver kategori og ikke minst de kanalene som omtaler flere av dem
@@ -65,8 +74,3 @@ andre ting om elektronikk, strøm, lyd og bilde, lys, trafikk, med mer.
 [SimoneGiertz]: https://www.youtube.com/@simonegiertz
 [SpaghettiRoad]: https://www.youtube.com/@SpaghettiRoad
 [TechnologyConnections]: https://www.youtube.com/@TechnologyConnections
-
-{{< tilbakemelding
-header="Tror du at du har noen gode tips til meg?"
-id="youtube"
->}}
