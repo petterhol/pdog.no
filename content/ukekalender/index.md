@@ -14,9 +14,20 @@ Her publiserer jeg min _ukekalender_, og argumenter for hvorfor dette er en god 
 
 {{% /ingress %}}
 
-<a href="../2023">
+{{% alert color="info" align="center" header="Last ned eller abonner på kalenderen"
+%}}
+
+<a href="a4.pdf">A4-versjon av 2024 til utskrift</a><br>
+<a href="a3.pdf">A3-versjon av 2024 til utskrift</a><br>
+<a href="numbers.numbers">Fil i Numbers med oppbygging slik at du kan lage din egen kalender</a><br>
+<a href="kalenderfil.ics">.ics-fil med alle datoer fra 1994 til 2094</a><br>
+<a href="script.py">Python-skript for å lage dine egne .ics-filer</a>
+
+{{% /alert %}}
+
+<a href="../2024">
 <img
- src="2023.png"
+ src="2024.png"
  align="right"
  class="responsive"
  alt="...">
@@ -81,5 +92,3 @@ tenkt på**
 Derfor har jeg heller ikke gjort det. Alt er basert på den gregorianske kalender, og mer konkret,
 internasjonal standard <code>ISO 8601</code>, og i Norge er denne akseptert og innlemmet i
 Norsk Standard som <code>NS-ISO 8601:2019</code>. Jeg bare bruker en del av denne standarden.
-
-<a href="../2023">Se 2023 i ukekalenderformat</a>.
