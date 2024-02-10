@@ -40,40 +40,44 @@
     {{ block "main" . }}
     {{ end }}
   </main>
-<div class="container">
-  <footer class="row row-cols-3 py-3 my-5">
-    <div class="col">
-      <a href="/" class="mb-3 link-dark text-decoration-none">
-  <a class="navbar-brand" href="../..">
-    <img src="https://pdog.no/favicon.png" width="30" height="30" class="d-inline-block align-top mr-1" alt="">
-    pdog.no
-  </a>
-      </a>
-      <br>
-      Hei! Jeg skriver om produktivitet, datatips, regneark, digitale borgere og mye mer.
-      Her finner du også noen utvalgte oppskrifter og en samling av andre prosjekter jeg jobber med.
-    </div>
-
-    <div class="col">
-<center>      <h5></h5>
-      <ul class="nav flex-column">
-        <li class="nav-item mb-2"><a href="../tilbakemeldinger" class="nav-link p-0 text-dark">Gi en tilbakemelding</a></li>
-        <li class="nav-item mb-2"><a href="../finansiering" class="nav-link p-0 text-dark">Støtt nettsiden</a></li>
-        <li class="nav-item mb-2"><a href="../personvern" class="nav-link p-0 text-dark">Personvernerklæring</a></li>
-        <li class="nav-item mb-2"><a href="../lisens" class="nav-link p-0 text-dark">Lisensier innhold</a></li>
-      </ul></center>
-    </div>
-
-    <div class="col" align="right">
-      <h5></h5>
-      <right>
-Publiseres av: Holstad Helt og Holdent<br>
-Organisasjonsnummer: 915 283 497<br>
-Redaktør: Petter Dog Holstad<br>
-Kontakt: <a href="mailto:hei@pdog.no">hei@pdog.no</a><br>
-Utviklet av: <a href="https://stigjohan.no/">Stig Johan Berggren</a>
-</div>
-</footer>
 </div></body>
+
+<footer class="bg-light text-center text-lg-start">
+<hr>
+  <div class="container p-4">
+    <div class="row">
+      <!-- About text -->
+      <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
+        <p>
+pdog.no er den personlige nettsiden til Petter Dog Holstad, som samler prosjekter, tanker, ideer
+konsepter, innhold og liknende jeg skaper, publiserer og vil dele med verden.</p>
+      </div>
+
+      <!-- Links -->
+      <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
+
+            <a href="../tilbakemeldinger" class="text-dark">Tilbakemeldinger</a><br>
+            <a href="../finansiering" class="text-dark">Støtt nettsiden</a><br>
+            <a href="../personvern" class="text-dark">Personvernerklæring</a><br>
+            <a href="../lisens" class="text-dark">Lisensier innhold</a>
+      </div>
+
+      <!-- Company Information -->
+      <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+        <p>
+          Nettsiden utgis av <a href="../hhh">Holstad Helt og Holdent</a> med 
+          organisasjonsnummer: 915 283 497. Redaktør er Petter Dog Holstad. E-post:
+          <a href="mailto:hei@pdog.no">hei@pdog.no</a>.<br>
+Nettsiden er utviklet av: <a href="https://stigjohan.no">Stig Johan Berggren</a>
+</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+<img src="/favicon.png" height="30">  </div>
+</footer>
+
 
 </html>
