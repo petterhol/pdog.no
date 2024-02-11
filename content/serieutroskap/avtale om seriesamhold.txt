@@ -16,9 +16,9 @@ AVTALE OM SERIESAMHOLD
 2.2 NAVN PÅ serie: xxx
 2.3 SESONG: xxx
 
-2.3 plikten omfatter ALLE EPISODER I SESONGEN, INKLUDERT SPEISALEPISOER SOM LEGGES TIL SENERE.
+2.3 plikten omfatter ALLE EPISODER I SESONGEN, INKLUDERT SPEISALEPISOER SOM LEGGES TIL SENERE, heretter kalt «episodene».
 
-2.4 heretter kalt «EPISODENE».
+2.4 plikten omfatter hele episoden, inkludert introduksjonen og rulleteksten for originalspråket.
 
 2.5 Avtalen omfatter at partene ikke kan se episodene uten at alle partene er til stede. Ingen av partene kan heller se serien sammen med noen andre.
 
@@ -32,24 +32,22 @@ AVTALE OM SERIESAMHOLD
 
 3.4 Avtalen baserer seg på en gjensidig vennskapelig eller romantisk interesse mellom partene. Hvis den vennskapelige eller romantiske interessen bortfaller på noe tidspunkt, opphører også plikten.
 
-5. signaturer og dato
+4. signaturer og dato
 
-5.1 AVTALEN INNGÅS FØLGENDE DATO OG GJELDER OGSÅ FRA FØLGENDE DATO
+4.1 AVTALEN INNGÅS FØLGENDE DATO OG GJELDER OGSÅ FRA FØLGENDE
 
-5.2 DATO I FORMAT ÅÅÅÅ-MM-DD: 
+4.2 DATO I FORMAT ÅÅÅÅ-MM-DD: 
 XXXX-XX-XX
 
-5.3 partene kan underskrive kontrakten her, eller velge å sende inn kontrakten til en digital signeringstjeneste.
+4.3 partene kan underskrive kontrakten her, eller velge å sende inn kontrakten til en digital signeringstjeneste.
 
-5.4 signaturfelt for part 1.2:
-
-
-
- ________________________________________
-
-5.5 signaturfelt for part 1.3:
+4.4 signaturfelt for part 1.2:
 
 
+________________________________________
 
- 
+4.5 signaturfelt for part 1.3:
+
+
+
 ________________________________________
