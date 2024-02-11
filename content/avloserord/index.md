@@ -6,7 +6,7 @@ main = { weight = 9, parent = "Andre prosjekter" }
 
 {{% ingress %}}
 
-<!-- markdownlint-disable MD001 MD009 MD033 -->
+<!-- markdownlint-disable MD001 MD009 MD033 MD013 -->
 
 Hvis du også er en forkjemper for å bruke gode norske ord og uttrykk i stedet for låneord
 fra engelsk og andre språk, kjenner du kanskje til Språkrådets liste over avløserord. Du
