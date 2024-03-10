@@ -1,45 +1,74 @@
 +++
 title = "Standardkontrakt for seriesamhold"
 [menu]
-main = { weight = 9, parent = "Forbruker" }
+main = { weight = 9 }
 +++
 
 <!-- markdownlint-disable -->
 
 {{% ingress %}}
 
-Serieutroskap er når du og en annen person ser på en tv-serie sammen, og en av partene velger
-å se en eller flere episoder uten at den andre parten er til stede.
+Har du noen gang hørt om serieutroskap? Det er når du og en annen person ser på en fjernsynsserie
+sammen, og en av partene velger å se en eller flere episoder uten at den andre parten er til stede.
+La oss heller gå for god kommunikasjon i forkant, og skriv en kontrakt for serie*samhold*.
 
 {{% /ingress %}}
 
-I 2017 skrev NRK Nyheter følgende: "Norske par ligger på Europatoppen når det kommer til
-serieutroskap og det er bare Spania som ligger over oss på listen. Det viser en ny
-brukerundersøkelse fra strømmetjenesten Netflix".
-[Nordmenn på Europa-toppen i «TV-serieutroskap» (nrk.no) {{< ext >}}][nrk].
+Her er litt bakgrunnsinformasjon om konseptet "serieutroskap":
+
+{{< artikkel
+	header="Nordmenn på Europa-toppen i «TV-serieutroskap»"
+	favicon="nrk-favicon.png"
+	publication="nrk.no"
+	image="https://gfx.nrk.no/PEiKjK27L5_JNO_UulhcwgG5q1SsteWEx2auF1jVwxYQ.jpg"
+	alt="Illustrasjonsbilde fra en kjent fjernsynsserie (Narcos)"
+	link="https://www.nrk.no/kultur/nordmenn-pa-europa-toppen-i-_tv-serieutroskap_-1.13377602"
+>}}
+
+Norske par ligger på Europa-toppen når det gjelder å sniktitte på neste episode av favorittserien
+sin uten at partneren vet det. Og det kommer de til å fortsette med...
+
+{{< /artikkel >}}
+
+
+##### Hvordan bruke kontrakten
 
 Hvis du ikke stoler på at partneren din kommer til å holde seg til en inneforstått eller muntlig
 avtale om seriesamhold, kan du bruke det skriftlige kontraktsforslaget på denne siden til å
 binde partneren din til seriesamhold.
 
-Hvis du vil få kontrakten signert digitalt med BankID, kan du bruke tjenester som
-Posten Signering (20 kroner per signatur). Les mer på
-[signering.posten.no {{< ext >}}](https://signering.posten.no).
+Du må spesifisere sesong i kontrakten. Dette er for å unngå at du bindes til
+å se alle sesonger i all fremtid, om serien ikke faller i smak hos den ene parten.
 
-- last ned malen i [Microsoft Word-format (.docx)](word.docx)
-- last ned malen i [Apple Pages-format (.pages)](pages.pages)
-- last ned malen i [ren tekst-format (.txt)](txt.txt)
-- last ned malen i [rik tekst-format (.rtf)](rtf.rtf)
-- last ned malen i [pdf-format (.pdf)](pdf.pdf)
-- eller bruk teksten under …
+##### Signering
 
-### AVTALE OM SERIESAMHOLD
+Kontraktene kan skrives under på papir eller digitalt. Hvis du vil ha en signatur gjennom BankID,
+kan du for eksempel bruke tjenesten [Posten Signering
+(posten.no) {{< ext >}}](https://signering.posten.no) (20 kroner per signatur).
 
+##### Nedlasting
 
+Du kan laste ned malen, eller så kan du bare bruke teksten under.
+
+<p>
+  <div class="btn-group" role="group" aria-label="Document Formats">
+    <a href="word.docx" class="btn btn-outline-primary"><i class="fas fa-file-word"></i> Word (.docx)</a>
+    <a href="pages.pages" class="btn btn-outline-primary"><i class="fas fa-file"></i> Pages (.pages)</a>
+    <a href="txt.txt" class="btn btn-outline-primary"><i class="fas fa-file-alt"></i> Ren tekst (.txt)</a>
+    <a href="rtf.rft" class="btn btn-outline-primary"><i class="fas fa-file-alt"></i> Rikt tekstformat (.rtf)</a>
+    <a href="pdf.pdf" class="btn btn-outline-primary"><i class="fas fa-file-pdf"></i> PDF for utskrift (.pdf)</a>
+    <a href="pdf.pdf" class="btn btn-outline-primary"><i class="fas fa-file-image"></i> Bildefil for utskrift (.jpeg)</a>
+  </div>
+</p>
+
+<div class="p-3 border border-dark">
+
+<h2>AVTALE OM SERIESAMHOLD</h2>
 
 **1 PARTER**
 
 1.1 DETTE ER EN AVTALE INNGÅTT MELLOM FØLGENDE: 
+
 1.2 NAVN: NAVN NAVNESEN (FØDSELSDATO ÅÅÅÅ-MM-DD)
 
 1.3 NAVN: NAVN NAVNESEN (FØDSELSDATO ÅÅÅÅ-MM-DD)
@@ -55,9 +84,10 @@ NÆRVÆR (HERETTER KALT «PLIKTEN»):
 
 2.3 SESONG: XXX
 
-2.3 PLIKTEN OMFATTER ALLE EPISODER I SESONGEN, INKLUDERT SPEISALEPISOER SOM LEGGES TIL SENERE.
+2.3 plikten omfatter ALLE EPISODER I SESONGEN, INKLUDERT SPEISALEPISOER SOM LEGGES TIL SENERE, 
+HERETTER KALT «EPISODENE»
 
-2.4 HERETTER KALT «EPISODENE».
+2.4 PLIKTEN OMFATTER HELE EPISODEN, INKLUDERT INTRODUKSJONEN OG RULLETEKSTEN FOR ORIGINALSPÅRKET.
 
 2.5 AVTALEN OMFATTER AT PARTENE IKKE KAN SE EPISODENE UTEN AT ALLE PARTENE ER TIL STEDE. INGEN AV
 PARTENE KAN HELLER SE SERIEN SAMMEN MED NOEN ANDRE.
@@ -101,5 +131,4 @@ SIGNERINGSTJENESTE.
 
  
  ________________________________________
-
-[nrk]: https://www.nrk.no/kultur/nordmenn-pa-europa-toppen-i-_tv-serieutroskap_-1.13377602
+</div>

@@ -1,7 +1,7 @@
 +++
 title = "Årlig revisjon"
 [menu]
-main = { weight = 9, parent = "Forbruker" } 
+main = { weight = 9 } 
 +++
 
 <!-- markdownlint-disable MD013 MD033 -->
