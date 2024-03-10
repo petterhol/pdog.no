@@ -1,0 +1,55 @@
+<div
+	class="card mb-3"
+	style="max-width: 800px;">
+
+<div
+	class="row no-gutters">
+
+<div
+	class="col-md-6 d-flex">
+
+<div
+	class="card-body d-flex flex-column">
+
+<h5
+	class="card-title">
+{{ .Get "header" }}
+</h5>
+
+<p 
+	class="card-text">
+{{ .Inner }}
+</p>
+
+<div
+	class="btn-group"
+	role="group"
+	aria-label="Document Formats">
+
+<a
+	href="{{ .Get "link" }}" class="btn btn-outline-primary">
+	<img src="{{ .Get "favicon" }}" alt="Logo til {{ .Get "publication" }}" style="width: 25px; height: 25px; margin-right: 5px;">
+	Les artikkelen på {{ .Get "publication" }}
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div
+	class="col-md-6 overflow-hidden"
+	style="height: 250px;">
+
+<img
+	src="{{ .Get "image" }}"
+	class="card-img h-100"
+	alt="{{ .Get "alt" }}"
+	style="object-fit: cover;">
+
+</div>
+
+</div>
+
+</div>

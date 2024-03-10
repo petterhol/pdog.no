@@ -1,6 +1,5 @@
 +++
-title="GeoGuessr"
-linktitle = "GeoGuessr"
+title="GeoGuessr-kart"
 [menu]
 main = { weight = 45, parent = "Andre prosjekter" }
 +++
@@ -13,7 +12,24 @@ et utvalg av mine venners kart.
 
 {{% /ingress %}}
 
-## Kart for hele Norge eller landsdeler
+<img
+ src="bilde.png"
+ align="right"
+ class="responsive"
+ alt="..."
+ style="padding: 20px">
+
+### Hva er GeoGuessr?
+
+Geoguessr er et spill man kan spille på internett i en nettleser, og går ut på utforske verdenen
+ved hjelp av landbaserte fotografier tatt av Google Gateblikk (Google Street View). Man blir
+plassert et tilfeldig sted (i verden, eller i et mindre avgrenset område), og skal prøve å finne ut
+hvor man er ved å plassere en nål på et kart.
+
+Man må bruke ledetråder slik som topografi, naturelementer, vegmarkeringer, kjøretøy, mennesker,
+skilt og liknende. Man kan bli god på å identifisere ulike land og verdensdeler. Spillet kan
+tilpasses for å gjøre det vanskeligere, for eksempel ved å begrense bevegelse, eller sette på en
+nedtelling.
 
 ### Joker og Nærbutikken - et variert Norge
 
@@ -31,23 +47,6 @@ geoguessr.com](https://www.geoguessr.com/maps/602c631b7b49c10001cf331c).
 
 [Spill kartet Nærbutikken - A somewhat varied Norway på
 geoguessr.com](https://www.geoguessr.com/maps/606b70ed9fde7600011d1f2a).
-
-### Åsteder i Norge
-
-Akkurat som en god sannkrimserie, tar dette GeoGuessr-kartet deg gjennom flere sesonger med
-forskjellige åsteder fra norske kriminalsaker. Her snakker vi alt fra store og kjente
-terrorhendelser, til mindre småkriminalitet. En fellesnevner for alt er at det må være
-noenlunde kjent gjennom media. Du vil kunne finne både de *faktiske* åstedene, *antatte*
-åsteder for uoppklarte saker, minnesteder med mer. Hvis du ikke finner ut hva slags sak
-det gjelder, har du allikevel god anledning til å trykke deg gjennom til du finner ut
-hvor vi er på vanlig GeoGuessr-vis. For øyeblikket er alle stedene i kongeriket, men kan
-i fremtiden inneholde kriminalitet i utlandet enten mot nordmenn eller begått av nordmenn.
-
-Oppgavene inneholder også en fasit du kan lese her på pdog.no
-
-- Kartograf: Petter Holstad.
-- Kilde: Diverse sannkrimsserier.
-- Anbefalt spillemodus: 5 minutter per runde, alt er tillatt.
 
 ### Stoppskilt i Norge
 
@@ -94,26 +93,18 @@ drone- og landbaserte bildebobler. Inneholder både åpne og stenge fergeleier.
 
 [Spill kartet på geoguessr.com](https://www.geoguessr.com/maps/6021cd9b6630570001aa141d).
 
-#### Sesong 1
+### Åsteder i Norge
 
-Vi starter sesong 1 med noen av landets mest profilerte straffesaker.
-Dette er en god innføring i hvordan kartene fungerer, og gir deg gjensyn med
-noen av de mest spennende sakene i norsk historie.
+Her følger vi landets profilerte åsteder for straffesaker. Kartene er delt i sesonger, og hvert
+kart har bare fem steder. Det gjør at alle spiller alle oppgaver hver gang de spiller kartet.
 
-[Spill kartet på geogussr.com](https://www.geoguessr.com/maps/6056143ad0aad50001947cd2).
+[Spill sesong 1 på geogussr.com](https://www.geoguessr.com/maps/6056143ad0aad50001947cd2).
 
-[Se fasit](../crimes1).
+[Se fasit for sesong 1](../crimes1).
 
-#### Sesong 2
+[Spill sesong 2 på geoguessr.com](https://www.geoguessr.com/maps/60637fc5afc6510001489a3c).
 
-Ingen sier at det ikke er kjente saker her også, men kanskje litt mer obskure hint?
-Velkommen til sesong 2.
-
-[Spill kartet på geoguessr.com](https://www.geoguessr.com/maps/60637fc5afc6510001489a3c).
-
-[Se fasit](../crimes2).
-
-## Kart for Oslo
+[Se fasit for sesong 2](../crimes2).
 
 ### Bruer i Oslo
 
@@ -174,8 +165,6 @@ en mesternavigatør på null komma niks!
 [Spill kartet for ring 1 på geoguessr.com](https://www.geoguessr.com/maps/6186e99337be530001bae49b).
 [Spill kartet for ring 1 på geoguessr.com](https://www.geoguessr.com/maps/6187b2694993490001948564).
 
-## Kart for utlandet
-
 ### Norges ambassader og generalkonsulater
 
 Dette kartet er en oversikt over Norges diplomatiske oppdrag rundt om kring i verden,
@@ -197,10 +186,3 @@ sist oppdatert 2020-W21-3.
 - Anbefalt spillemodus: 5 minutter per runde, alt tillatt.
 
 [Spill kartet på geoguessr.com](https://www.geoguessr.com/maps/60511704b658d80001909f57).
-
-{{< geoguessr >}}
-
-{{< tilbakemelding
-header="Liker du kartene?"
-id="geoguessr"
->}}

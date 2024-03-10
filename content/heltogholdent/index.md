@@ -1,6 +1,5 @@
 +++
 title = "Holstad Helt og Holdent"
-lastmod = 2020-10-06T22:00:00
 aliases = [
     "hhh",
 ]
@@ -12,9 +11,8 @@ main = { weight = 3, parent = "Petter" }
 
 {{% ingress %}}
 
-Jeg eier et enkeltpersonsforetak som heter **Holstad Helt og Holdent**. Foretaket hadde tidligere
-navnet Holstad Tjenester. Jeg bruker dette foretaket i mitt journalistiske arbeid, og andre
-prosjekter jeg måtte ha. På denne siden finner du kontaktinformasjon og logoen til selskapet.
+Holstad Helt og Holdent er mitt enkeltpersonforetak.
+Selskapet publiserer denne siden (pdog.no) og andre relevante prosjekter jeg driver med.
 
 {{% /ingress %}}
 
@@ -42,13 +40,12 @@ Organisasjonsnummer:
 ##### Postadresse
 
 {{% copy
-	hiddentext="Holstad Helt og Holdent, c/o Petter Holstad, Ivan Bjørndals gate 6, 0472 Oslo"
+	hiddentext="Holstad Helt og Holdent, Nordbergbakken 11, 0875 Oslo"
 	ident="adresse"
 %}}
 Holstad Helt og Holdent  
-c/o Petter Holstad  
-Ivan Bjørndals gate 6  
-0472 Oslo{{% /copy %}}
+Nordbergbakken 11  
+0875 Oslo{{% /copy %}}
 
 ##### E-postadresse
 
@@ -58,20 +55,10 @@ Ivan Bjørndals gate 6
 
 [+47&nbsp;926&nbsp;96&nbsp;496](tel:+4792696496)
 
-##### Facebook
-
-Foretaket har en inaktiv [Facebook-profil][facebook].
-
 #### Logo
 
 Logoen til Helt og Holdent er utformet av Øyvind Kind Robertsen. Trykk
 [her](hhh-stor.png) for å se den i stort format.
-
-{{< lisens
-  type="Logoen"
-  lisensnavn="Copyright"
-  lisenslink="https://www.patentstyret.no/tjenester/opphavsrett/"
-  >}}
 
 [brreg]: https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915283497
 [facebook]: https://www.facebook.com/holstadheltogholdent/
