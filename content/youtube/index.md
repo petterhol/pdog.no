@@ -4,6 +4,8 @@ title = "Mine YouTube-favoritter"
 main = { weight = 9, parent = "Petter" }
 +++
 
+<!-- markdownlint-disable MD033 -->
+
 {{% ingress %}}
 
 Jeg har laget denne siden for å samle de YouTube-kanalene som jeg liker å følge med på, eller som

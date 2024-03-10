@@ -48,23 +48,6 @@ geoguessr.com](https://www.geoguessr.com/maps/602c631b7b49c10001cf331c).
 [Spill kartet Nærbutikken - A somewhat varied Norway på
 geoguessr.com](https://www.geoguessr.com/maps/606b70ed9fde7600011d1f2a).
 
-### Åsteder i Norge
-
-Akkurat som en god sannkrimserie, tar dette GeoGuessr-kartet deg gjennom flere sesonger med
-forskjellige åsteder fra norske kriminalsaker. Her snakker vi alt fra store og kjente
-terrorhendelser, til mindre småkriminalitet. En fellesnevner for alt er at det må være
-noenlunde kjent gjennom media. Du vil kunne finne både de *faktiske* åstedene, *antatte*
-åsteder for uoppklarte saker, minnesteder med mer. Hvis du ikke finner ut hva slags sak
-det gjelder, har du allikevel god anledning til å trykke deg gjennom til du finner ut
-hvor vi er på vanlig GeoGuessr-vis. For øyeblikket er alle stedene i kongeriket, men kan
-i fremtiden inneholde kriminalitet i utlandet enten mot nordmenn eller begått av nordmenn.
-
-Oppgavene inneholder også en fasit du kan lese her på pdog.no
-
-- Kartograf: Petter Holstad.
-- Kilde: Diverse sannkrimsserier.
-- Anbefalt spillemodus: 5 minutter per runde, alt er tillatt.
-
 ### Stoppskilt i Norge
 
 Ifølge Statens Vegvesen sine offentlig data, finnes det 285 stoppskilt i Norge.
