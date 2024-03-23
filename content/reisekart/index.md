@@ -1,8 +1,7 @@
 +++
 title = "Personlig flykart"
-lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Andre prosjekter", weight = 6 }
+main = { parent = "Innhold", weight = 6 }
 +++
 
 {{% ingress %}}

@@ -1,7 +1,7 @@
 +++
 title = "Tjuefire-sju gir ingen mening!"
 [menu]
-main = { weight = 9, parent = "Tid, kalender og produktivitet" }
+main = { weight = 9, parent = "Ideer" }
 +++
 
 I dagligtale bruker man ofte begrepet "tjuefire-sju" for å angi at noe er kontinuerlig (for

@@ -1,7 +1,7 @@
 +++
 title = "Hva er en fastlandsøy?"
 [menu]
-main = { weight = 9, parent = "Andre prosjekter" }
+main = { weight = 9, parent = "Ideer" }
 +++
 
 <!-- markdownlint-disable MD033 -->

@@ -1,7 +1,7 @@
 +++
 title = "Standardkontrakt for seriesamhold"
 [menu]
-main = { weight = 9 }
+main = { weight = 9, parent = "Prosjekter" }
 +++
 
 <!-- markdownlint-disable -->
