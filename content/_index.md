@@ -5,46 +5,42 @@ title = ""
 <!-- markdownlint-disable MD033 MD013 -->
 
 {{< lead
-  heading1="Velkommen til pdog.no!"
+  heading1="Velkommen til petter.dog!"
   >}}
 
 {{< ingress >}}
 
-På denne nettsiden publiserer jeg en rekke artikler og verktøy innen forskjellige temaer som jeg er
-interessert i og kan noe om. Du finner lesestoff innen temaer som produktivitet, datatips, regneark,
-forbrukerstoff – og jeg publiserer også (stort sett min mors) oppskrifter. Jeg legger også ut
-informasjon om andre interesser og hobbyer.
+Hei! Jeg heter Petter Dog Holstad, og velkommen til min personlige nettside på internett. Jeg
+driver med flere ting her i livet, og her på disse sidene finner du en rekke av mine prosjekter,
+tanker, ideer, tekster, samlinger og rariteter. Her på forsiden finner du dessuten min
+kontaktinformasjon og lenker til mine andre steder på nett.
 
 {{< /ingress >}}
 
 <br>
 
-{{< lead
-  heading2="Siste artikler og populære sider"
-  >}}
-
 <div class="card-columns">
 
 <div class="card">
-<img src="../_index/samle.png" class="card-img-top" alt="...">
+<img src="../_index/petter.jpg" class="card-img-top" alt="...">
 <div class="card-body">
-<h5 class="card-title">Bli mer produktiv med kameraet på mobilen din</h5>
-<p class="card-text">Visste du at det å knipse bilder og skjermbilder av ting du kommer over, kan være et nyttig verktøy for produktivitet?</p>
+<h5 class="card-title">Kontaktinformasjon</h5>
+<p class="card-text">Trenger du å komme i kontakt med meg? Jeg anbefaler at du kontakter meg på e-post!</p>
 </div>
 <div class="card-footer">
-<a href="../samle" class="card-link">Les artikkelen</a>
+<a href="mailto:heisann@petter.dog" class="card-link">Send meg en e-post</a>
 </div>
 <div class="card-footer">
-<a href="../samle" class="card-link">Gå til artikkelserien</a>
+<a href="tel:004792696496" class="card-link">Telefon: +47 926 96 496</a>
 </div>
 </div>
 
 <a href="../epostadressen-min">
   <div class="card border-primary mb-3";">
   <div class="card-body text-primary">
-    <h5 class="card-title">Har du mottatt en e-post som slutter på @pdog.no?</h5>
+    <h5 class="card-title">Har du mottatt en e-post som slutter på @petter.dog?</h5>
     <p class="card-text">Foran krøllalfa (@) står det nok navnet på
-    firmaet du jobber i, eller noe annet du synes var merkelig eller rart. Ingen fare, det er bare meg! Trykk her for å lese mer.</p>
+    firmaet du jobber i, samt noe om hvor jeg brukte e-posten, og en ukedato. Ingen fare, det er bare meg! Trykk her for å lese mer.</p>
   </div>
   </a>
 </div>
@@ -64,13 +60,13 @@ informasjon om andre interesser og hobbyer.
 </div>
 
 <div class="card">
-<img src="../_index/betaling.png" class="card-img-top" alt="...">
+<img src="../_index/kvitteringer.png" class="card-img-top" alt="...">
 <div class="card-body">
-<h5 class="card-title">Forstå forskjellen på betalingskort</h5>
-<p class="card-text">Hva er egentlig forskjellen på VISA og MasterCard? Hva er BankAxept-merket på kortet mitt? Hvorfor kan jeg ikke betale med Apple Pay overalt? Jeg har samlet sammen informasjon om dette temaet.</p>
+<h5 class="card-title">pdog.no</h5>
+<p class="card-text">På pdog.no skriver jeg om forbrukerteknologi, produktivitet, personvern og datasikkerhet, forbrukerstoff og digitalt borgerskap og en rekke andre interesseområder.</p>
 </div>
 <div class="card-footer">
-<a href="../samle" class="card-link">Les artikkelen</a>
+<a href="https://pdog.no" class="card-link">Gå til nettsiden</a>
 </div>
 </div>
 
@@ -88,11 +84,11 @@ informasjon om andre interesser og hobbyer.
 <div class="card">
 <img src="../_index/internett.png" class="card-img-top" alt="...">
 <div class="card-body">
-<h5 class="card-title">Test internettforbindelsen</h5>
-<p class="card-text">Under feilsøking av internettforbindelse kan du ha glede av å verifisere helt sikkert at internettforbindelsen er tilstede.</p>
+<h5 class="card-title">Ukedato</h5>
+<p class="card-text">Gjennom nettstedet ukedato.no foreslår jeg at vi tenker nytt på hvordan vi oppgir datoer.</p>
 </div>
 <div class="card-footer">
-<a href="../internett" class="card-link">Gå til verktøyet og les mer</a>
+<a href="https://ukedato.no" class="card-link">Besøk ukedato.no</a>
 </div>
 </div>
 
