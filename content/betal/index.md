@@ -1,5 +1,7 @@
 +++
 title = "Betalingsmuligheter"
+[menu]
+main = { weight = 9, parent = "Petter" }
 +++
 
 <!-- markdownlint-disable MD034 -->

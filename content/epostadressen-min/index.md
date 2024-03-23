@@ -1,5 +1,7 @@
 +++
-title = "Har du mottatt en e-post med en e-postadresse som slutter på pdog.no?"
+title = "Mottatt epost som slutter på @petter.dog?"
+[menu]
+main = { weight = 9, parent = "Petter" }
 +++
 
 {{% ingress %}}

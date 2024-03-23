@@ -1,8 +1,7 @@
 +++
 title = "Sillicon Valley og omegn"
-lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Andre prosjekter", weight = 3 }
+main = { parent = "Prosjekter", weight = 3 }
 +++
 
 <!-- markdownlint-disable MD013 MD034 -->

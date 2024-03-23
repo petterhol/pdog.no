@@ -1,5 +1,7 @@
 +++
 title = "Lisensiering av innholdet på pdog.no"
+[menu]
+main = { weight = 9, parent = "Petter" }
 +++
 
 {{% ingress %}}

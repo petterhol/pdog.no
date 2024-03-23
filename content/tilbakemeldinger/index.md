@@ -1,5 +1,7 @@
 +++
 title = "Tilbakemeldinger på pdog.no"
+[menu]
+main = { weight = 9, parent = "Petter" }
 +++
 
 {{% ingress %}}
