@@ -1,7 +1,5 @@
 +++
-title = "Petters podkasttips"
-linktitle = "Podkasttips"
-lastmod = 2020-12-24T22:00:00
+title = "Mine podkasttips"
 aliases = [
     "podcast",
     "podcasttips",
@@ -10,7 +8,7 @@ aliases = [
     "netcasts",
 ]
 [menu]
-main = {weight = 2, parent = "Petter" }
+main = {weight = 2, parent = "Innhold" }
 +++
 
 <!-- markdownlint-disable MD033 MD032 MD034 MD010 MD013 -->
