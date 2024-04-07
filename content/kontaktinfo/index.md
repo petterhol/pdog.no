@@ -5,8 +5,7 @@ lastmod = 2020-10-06T22:00:00
 main = { weight = 1, parent = "Petter"}
 +++
 
-<!-- markdownlint-disable MD033 -->
-
+<!-- markdownlint-disable MD033 MD013 -->
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
