@@ -2,7 +2,7 @@
 title = "Vignetter og kjenningsmelodier"
 lastmod = 2021-04-07T22:00:00
 [menu]
-main = { parent = "Andre prosjekter", weight = 3 }
+main = { parent = "Prosjekter", weight = 3 }
 +++
 
 <!-- markdownlint-disable MD002 MD033 -->

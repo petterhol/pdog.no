@@ -1,10 +1,10 @@
 +++
-title = "Holstad Helt og Holdent"
+title = "Helt og Holdent"
 aliases = [
     "hhh",
 ]
 [menu]
-main = { weight = 3, parent = "Petter" }
+main = { weight = 6 }
 +++
 
 <!-- markdownlint-disable MD034 MD010 -->

@@ -1,5 +1,7 @@
 +++
 title = "Poteten kan brukes til alt"
+[menu]
+main = { weight = 9, parent = "Ideer" }
 +++
 
 «Poteten kan brukes til alt.» Nei.

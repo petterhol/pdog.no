@@ -1,7 +1,7 @@
 +++
 title = "Få Outlook for brødrister"
 [menu]
-main = { weight = 5, parent = "Andre prosjekter"}
+main = { weight = 5, parent = "Ideer"}
 +++
 
 <!-- markdownlint-disable MD013 -->
