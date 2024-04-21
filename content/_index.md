@@ -60,7 +60,7 @@ kontaktinformasjon og lenker til mine andre steder på nett.
 </div>
 
 <div class="card">
-<img src="../_index/kvitteringer.png" class="card-img-top" alt="...">
+<img src="../_index/pdogno.png" class="card-img-top" alt="...">
 <div class="card-body">
 <h5 class="card-title">pdog.no</h5>
 <p class="card-text">På pdog.no skriver jeg om forbrukerteknologi, produktivitet, personvern og datasikkerhet, forbrukerstoff og digitalt borgerskap og en rekke andre interesseområder.</p>
@@ -93,13 +93,13 @@ kontaktinformasjon og lenker til mine andre steder på nett.
 </div>
 
 <div class="card">
-<img src="../_index/kyllingfrikasse.jpeg" class="card-img-top" alt="...">
+<img src="../_index/ukedato.png" class="card-img-top" alt="...">
 <div class="card-body">
-<h5 class="card-title">Oppskrift på kyllingfrikasse</h5>
-<p class="card-text">Dette er en av mine livretter, og ble først utviklet som en hønsefrikassé, men hønsebestanden i norsk dagligvarebransje gikk ned. Kylling ble derfor en verdig erstatter, og siden har det vært slik.</p>
+<h5 class="card-title">Ukedato – en ny kalender</h5>
+<p class="card-text">Ukene er mer regulære og enklere å forholde seg til enn måneder. På denne nettsiden beskriver jeg mitt konsept og selger kalendre med det nye paradigmet innen kalenderføring.</p>
 </div>
 <div class="card-footer">
-<a href="../kyllingfrikasse" class="card-link">Les oppskriften</a>
+<a href="../kyllingfrikasse" class="card-link">Besøk nettsiden</a>
 </div>
 </div>
 
