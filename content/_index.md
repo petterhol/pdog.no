@@ -6,14 +6,14 @@ title = ""
 
 {{< lead
   heading1="Velkommen til petter.dog!"
+  heading2="Personlig nettsted for Petter Dog Holstad"
   >}}
 
 {{< ingress >}}
 
-Hei! Jeg heter Petter Dog Holstad, og velkommen til min personlige nettside på internett. Jeg
-driver med flere ting her i livet, og her på disse sidene finner du en rekke av mine prosjekter,
-tanker, ideer, tekster, samlinger og rariteter. Her på forsiden finner du dessuten min
-kontaktinformasjon og lenker til mine andre steder på nett.
+Her finner du oversikt over mine pågående og avsluttede prosjekter på internett,
+engasjementer i det virkelige liv, alt jeg lager, innhold jeg anbefaler og kuriositeter. Du
+finner også kontaktinformasjon om du skulle trenge det.
 
 {{< /ingress >}}
 
@@ -61,7 +61,7 @@ selv. Jeg deler også noen andre tanker om hvordan livet på kjøkkenet kan gjø
 <div class="card">
 <img src="../_index/veterantrikk.jpg" class="card-img-top" alt="..."></a>
 <div class="card-body">
-<h5 class="card-title">Engasjement innen kollektivtrafikk-histore</h5>
+<h5 class="card-title">Kollektivtransporthistorie</h5>
 <p class="card-text">
 Jeg er med i Lokaltrafikkhistorisk forening (LTF), en medlemsorganisasjon som bevarer, dokumenterer
 og formidler kollektivtrafikkhistorien i Oslo og Akerhus. I foreningen sitter jeg i
@@ -119,16 +119,26 @@ e-posten, og en ukedato. Ingen fare, det er bare meg! Trykk her for å lese mer.
 <p><strong>Les mer om hvorfor →</strong></p>
 </div></a></div>
 
+<a href="../luftfoto" style="color: black;">
+<div class="card">
+<img src="../_index/luftfoto.png" class="card-img-top" alt="..."></a>
+<div class="card-body">
+<h5 class="card-title">Luftfotografering</h5>
+<p class="card-text">
+Jeg eier et luftfotografiapparat som jeg av og til bruker for å lage fine filmer av natur og
+struktur.
+</p>
+<p><b><a href="../luftfoto">Se filmene → </a></b></p>
+</div></div>
+
 <a href="../kontaktinfo" style="color: black;">
 <div class="card">
 <img src="../_index/petter.jpg" class="card-img-top" alt="..."></a>
 <div class="card-body">
 <h5 class="card-title">Kontaktinformasjon</h5>
 <p class="card-text">
-Trenger du å komme i kontakt med meg? Jeg anbefaler at du kontakter meg på e-post!
-</p>
+Her finner du kontaktinformasjon til meg hvis du trenger å snakke med meg.</p>
 <p><b><a href="../kontaktinfo">Finn kontaktinformasjon → </a></b></p>
 </div></div>
-
 
 </div>
