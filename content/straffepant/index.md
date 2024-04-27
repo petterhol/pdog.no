@@ -1,13 +1,9 @@
 +++
 title = "Straffepant"
-lastmod = 2021-04-07T22:00:00
 aliases = [
     "pant",
     "strafepant",
 ]
-[menu]
-main = { weight = 5, parent = "Ideer"}
-
 +++
 
 Straffepant er et gebyr du kan ilegge personer som mot bedre viten legger pantbare plastflasker-
