@@ -1,7 +1,7 @@
 +++
 title = "Gjør kvisser lærerike og engasjerende"
 [menu]
-main = { weight = 9, parent = "Ideer" }
+main = { weight = 9, parent = "Prosjekter" }
 +++
 
 <!-- markdownlint-disable -->
