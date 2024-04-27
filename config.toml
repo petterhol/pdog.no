@@ -1,7 +1,7 @@
-baseURL = "https://pdog.no"
+baseURL = "https://petter.dog"
 languageCode = "nb"
 defaultContentLanguage = "nb"
-title = "Petter Holstad"
+title = "Petter Dog Holstad"
 
 [markup.goldmark.renderer]
 unsafe = true
