@@ -1,7 +1,7 @@
 +++
 title = "Nyttige nettsteder"
 [menu]
-main = { weight = 9, parent = "Innhold" }
+main = { weight = 9, parent = "Mine anbefalinger" }
 +++
 
 ## Språk

@@ -1,7 +1,7 @@
 +++
 title = "Personlig flykart"
 [menu]
-main = { parent = "Innhold", weight = 6 }
+main = { parent = "Ting jeg har laget", weight = 6 }
 +++
 
 {{% ingress %}}

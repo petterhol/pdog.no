@@ -6,7 +6,7 @@ aliases = [
     "drone",
 ]
 [menu]
-main = { parent = "Innhold", weight = 1 }
+main = { parent = "Ting jeg har laget", weight = 1 }
 +++
 
 <!-- markdownlint-disable MD033 -->

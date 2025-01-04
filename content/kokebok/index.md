@@ -1,7 +1,7 @@
 +++
 title = "Kokebok"
 [menu]
-main = { weight = 5 }
+main = { weight = 3 }
 +++
 
 Her kan du lese mine oppskrifter:

@@ -1,8 +1,7 @@
 +++
 title = "The Tim Traveller"
-lastmod = 2020-10-06T22:00:00
 [menu]
-main = { parent = "Prosjekter", weight = 2 }
+main = { parent = "Ting jeg har laget", weight = 2 }
 +++
 
 {{% ingress %}}

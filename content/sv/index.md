@@ -1,7 +1,7 @@
 +++
-title = "Sillicon Valley og omegn"
+title = "Teknologisafari i Sillicon Valley og omegn"
 [menu]
-main = { parent = "Prosjekter", weight = 3 }
+main = { parent = "Mine anbefalinger", weight = 3 }
 +++
 
 <!-- markdownlint-disable MD013 MD034 -->

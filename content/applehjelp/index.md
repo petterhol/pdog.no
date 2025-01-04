@@ -1,6 +1,5 @@
 +++
 title = "Hjelp med Apple-produkter"
-lastmod = 2021-04-07T22:00:00
 aliases = [
     "datahjelp",
     "apple",

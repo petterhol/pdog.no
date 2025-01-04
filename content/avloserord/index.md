@@ -1,7 +1,7 @@
 +++
 title = "Norske progressive avløserord"
 [menu]
-main = { weight = 9, parent = "Prosjekter" }
+main = { weight = 9, parent = "Redet" }
 +++
 
 {{% ingress %}}
