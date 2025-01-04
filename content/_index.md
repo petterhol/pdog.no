@@ -5,21 +5,58 @@ title = ""
 <!-- markdownlint-disable MD033 MD013 -->
 
 {{< lead
-  heading1="Velkommen til petter.dog!"
+  heading1="Velkommen til petter.dog"
   heading2="Personlig nettsted for Petter Dog Holstad"
   >}}
-
-{{< ingress >}}
-
-Her finner du oversikt over mine pågående og avsluttede prosjekter på internett,
-engasjementer i det virkelige liv, alt jeg lager, innhold jeg anbefaler og kuriositeter. Du
-finner også kontaktinformasjon om du skulle trenge det.
-
-{{< /ingress >}}
 
 <br>
 
 <div class="card-columns">
+
+<a href="../kontaktinfo" style="color: black;">
+<div class="card">
+<img src="../_index/petter.jpg" class="card-img-top" alt="..."></a>
+<div class="card-body">
+<h5 class="card-title">Hei!</h5>
+<p class="card-text">
+Jeg heter Petter, og er et menneske.
+På denne nettsiden finner du mine anbefalinger, en del ting jeg har laget, en samling av
+oppskrifter og andre tilfeldige ting.</p>
+<p>På forsiden finner du også lenker til andre deler av min tilstedeværelse på internett. Ønsker du kontakt med meg, kontakt meg da vel!</p>
+<p><b><a href="../kontaktinfo">Kontaktinformasjon → </a></b></p>
+</div></div>
+
+<a href="https://heltogholdent.no" style="color: black;">
+<div class="card">
+<img src="https://heltogholdent.no/wp-content/uploads/2024/12/hhh-stor-2-1024x529.png" class="card-img-top" alt="..."></a>
+<div class="card-body">
+<h5 class="card-title">Holstad Helt og Holdent</h5>
+<p class="card-text">
+Dette er enkeltpersonforetaket mitt.
+</p>
+<p><b><a href="https://heltogholdent.no">Besøk nettsiden <sup><i class="fas fa-external-link-alt"></i></sup> </a></b></p>
+</div></div>
+
+<a href="https://rakkel.no" style="color: black;">
+<div class="card">
+<img src="../_index/rakkel.png" class="card-img-top" alt="..."></a>
+<div class="card-body">
+<h5 class="card-title">Rakkel</h5>
+<p class="card-text">
+Rakkel gjør middels gode og dårlige ideer om til nettsider, konsepter og folkebevegelser.
+</p>
+<p><b><a href="https://rakkel.no">Besøk Rakkel <sup><i class="fas fa-external-link-alt"></i></sup> </a></b></p>
+</div></div>
+
+<a href="https://tkbussreiser.no" style="color: black;">
+<div class="card">
+<img src="https://ny.tkbussreiser.no/wp-content/uploads/2024/07/logo-fra-pds-768x256.png" class="card-img-top" alt="..."></a>
+<div class="card-body">
+<h5 class="card-title">TK Bussreiser</h5>
+<p class="card-text">
+Jeg jobber i administrasjonen til TK Bussreiser. Vi er et hyggelig og fleksibelt turbusselskap.</p>
+<p><b><a href="https://tkbussreiser.no">Besøk TK Bussreiser <sup><i class="fas fa-external-link-alt"></i></sup> </a></b></p>
+</div></div>
 
 <a href="../kokebok" style="color: black;">
 <div class="card">
@@ -81,16 +118,6 @@ Jeg eier et luftfotografiapparat som jeg av og til bruker for å lage fine filme
 struktur.
 </p>
 <p><b><a href="../luftfoto">Se filmene → </a></b></p>
-</div></div>
-
-<a href="../kontaktinfo" style="color: black;">
-<div class="card">
-<img src="../_index/petter.jpg" class="card-img-top" alt="..."></a>
-<div class="card-body">
-<h5 class="card-title">Kontaktinformasjon</h5>
-<p class="card-text">
-Her finner du kontaktinformasjon til meg hvis du trenger å snakke med meg.</p>
-<p><b><a href="../kontaktinfo">Finn kontaktinformasjon → </a></b></p>
 </div></div>
 
 </div>
