@@ -21,30 +21,6 @@ finner også kontaktinformasjon om du skulle trenge det.
 
 <div class="card-columns">
 
-<a href="https://pdog.no" style="color: black;">
-<div class="card">
-<img src="../_index/pdogno.png" class="card-img-top" alt="..."></a>
-<div class="card-body">
-<h5 class="card-title">Blogg og guider</h5>
-<p class="card-text">
-På pdog.no skriver jeg om forbrukerteknologi, produktivitet, personvern og datasikkerhet,
-forbrukerstoff og digitalt borgerskap og andre interesseområder.
-</p>
-<p><strong><a href="https://pdog.no">Besøk nettstedet <sup><i class="fas fa-external-link-alt"></i></sup></a></strong>
-</div></div>
-
-<a href="https://ukedato.no" style="color: black;">
-<div class="card">
-<img src="../_index/ukedato.png" class="card-img-top" alt="..."></a>
-<div class="card-body">
-<h5 class="card-title">Uker er bedre enn måneder</h5>
-<p class="card-text">
-Ukene er mer regulære og enklere å forholde seg til enn måneder. På denne nettsiden beskriver
-jeg mitt konsept og selger kalendre med det nye paradigmet innen kalenderføring.
-</p>
-<p><strong><a href="https://ukedato.no">Besøk nettstedet <sup><i class="fas fa-external-link-alt"></i></sup></a></strong>
-</div></div>
-
 <a href="../kokebok" style="color: black;">
 <div class="card">
 <img src="../_index/hundemat-forside.png" class="card-img-top" alt="..."></a>
@@ -82,30 +58,6 @@ For å kunne besøke noen av de samme stedene som Tim har gjort, har jeg laget e
 My Maps-kart, som stadig oppdateres med kartpunkter fra videoene hans.
 </p>
 <p><strong><a href="../timtraveller">Se kartet →</a></strong></p>
-</div></div>
-
-<a href="../avloserord" style="color: black;">
-<div class="card">
-<img src="../_index/avloser.png" class="card-img-top" alt="..."></a>
-<div class="card-body">
-<h5 class="card-title">Ordbok for progressive avløserord</h5>
-<p class="card-text">
-I ergrelse over økende bruk av engelske låneord, publiserer jeg en liste over mulige avløserord
-som Språkrådet ikke anerkjenner.
-</p>
-<p><strong><a href="../avloserord">Se ordboken →</a></strong></p>
-</div></div>
-
-<a href="../serieutroskap" style="color: black;">
-<div class="card">
-<img src="../_index/seriesamhold.png" class="card-img-top" alt="..."></a>
-<div class="card-body">
-<h5 class="card-title">Standardkontrakt for seriesamhold</h5>
-<p class="card-text">
-Jeg har laget en enkel kontraktsmal for venner eller partnere som ønsker å se på en serie sammen
-uten risikoen for at motparten er serieutro.
-</p>
-<p><strong><a href="../serieutroskap">Last ned kontrakten →</a></strong></p>
 </div></div>
 
 <a href="../epostadressen-min">
