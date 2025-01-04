@@ -120,5 +120,4 @@ struktur.
 <p><b><a href="../luftfoto">Se filmene → </a></b></p>
 </div></div>
 
-
 </div>
