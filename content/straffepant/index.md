@@ -4,6 +4,8 @@ aliases = [
     "pant",
     "strafepant",
 ]
+[menu]
+main = { weight = 5, parent = "Andre tilfeldige ting"}
 +++
 
 Straffepant er et gebyr du kan ilegge personer som mot bedre viten legger pantbare plastflasker-

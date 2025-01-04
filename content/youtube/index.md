@@ -1,7 +1,7 @@
 +++
 title = "Mine YouTube-favoritter"
 [menu]
-main = { weight = 9, parent = "Innhold" }
+main = { weight = 9, parent = "Mine anbefalinger" }
 +++
 
 <!-- markdownlint-disable MD033 -->

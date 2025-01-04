@@ -2,7 +2,7 @@
 title = "Minneside: M/S Fjordkongen"
 lastmod = 2020-12-26T22:00:00
 [menu]
-main = { parent = "Prosjekter", weight = 6 }
+main = { parent = "Andre tilfeldige ting", weight = 6 }
 +++
 
 <!-- markdownlint-disable MD001 MD026 MD036 MD034 -->

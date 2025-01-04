@@ -8,7 +8,7 @@ aliases = [
     "netcasts",
 ]
 [menu]
-main = {weight = 2, parent = "Innhold" }
+main = {weight = 2, parent = "Mine anbefalinger" }
 +++
 
 <!-- markdownlint-disable MD033 MD032 MD034 MD010 MD013 -->

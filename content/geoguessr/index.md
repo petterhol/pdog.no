@@ -1,7 +1,7 @@
 +++
 title="GeoGuessr-kart"
 [menu]
-main = { weight = 45, parent = "Innhold" }
+main = { weight = 45, parent = "Ting jeg har laget" }
 +++
 
 {{% ingress %}}
