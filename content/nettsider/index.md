@@ -4,6 +4,18 @@ title = "Nyttige nettsteder"
 main = { weight = 9, parent = "Mine anbefalinger" }
 +++
 
+## Data
+
+- [An A-Z Index of Apple macOS (bash) commands](https://ss64.com/mac/)
+
+## Drone
+
+- [Markmaster klistrelapper](https://markmaster.com/no)
+
+## Personopplysninger
+
+- [FreeCarrierLookup.com](https://freecarrierlookup.com)
+
 ## Språk
 
 ### Ordbøker
