@@ -1,5 +1,5 @@
 +++
-title = "Betalingsmuligheter"
+title = "Betaling til Petter"
 +++
 
 <!-- markdownlint-disable MD034 -->
@@ -9,8 +9,6 @@ title = "Betalingsmuligheter"
 Hvis du skylder meg penger, finner du alle betalingsmuligheter her.
 
 {{% /ingress %}}
-
-Hvis du derimot ønsker å gi et økonomisk bidrag, sjekk ut [denne siden](../finansiering).
 
 ##### Vipps
 
@@ -30,49 +28,58 @@ Hvis du derimot ønsker å gi et økonomisk bidrag, sjekk ut [denne siden](../fi
 %}}
 Vipps-telefonnummer: ```926 96 496``` {{% /copy %}}
 
+Du kan verifisere at det er riktig profil ved å se på:
+
+- Navn: Petter Dog Holstad
+- Bilde: Tegnet bilde av en hund
+
 ---
 
-##### Kontooverføring fra norsk konto
+##### Bankkonto
 
 {{% copy
- hiddentext="36107084732"
+ hiddentext="12014750485"
  ident="kontonummer"
 %}}
-Kontonummer: ```3610 70 84732``` {{% /copy %}}
+Kontonummer: ```1201 47 50485``` {{% /copy %}}
 
 {{% copy
- hiddentext="Petter Holstad, Herslebs gate 19, 0561 Oslo"
+ hiddentext="Petter Dog Holstad, Nordbergbakken 11, 0875 Oslo"
  ident="NOADDRESS"
 %}}
-Adresse: ```Petter Holstad, Herslebs gate 19, 0561 Oslo``` {{% /copy %}}
+Min adresse: ```Petter Dog Holstad, Nordbergbakken 11, 0875 Oslo``` {{% /copy %}}
 
----
-
-##### Kontooverføring fra utlandet
+Ved betaling fra utenlandske kontoer, kan det hende at du behøver følgende informasjon:
 
 {{% copy
- hiddentext="NO0836107084732"
+ hiddentext="NO4512014750485"
  ident="iban"
 %}}
-IBAN: ```NO0836107084732``` {{% /copy %}}
+IBAN: ```NO45 1201 4750 485``` {{% /copy %}}
 
 {{% copy
- hiddentext="SPAVNOBB"
+ hiddentext="DNBANOKKXXX"
  ident="SEPASWIFT"
 %}}
-SWIFT/BIC: ```SPAVNOBB``` {{% /copy %}}
+SWIFT/BIC: ```DNBANOKKXXX``` {{% /copy %}}
 
 {{% copy
- hiddentext="Sparebanken Vest, Jonsvollsgaten 2, 5011 Bergen"
+ hiddentext="DNB, Postboks 1600 Sentrum, 0021 Oslo"
  ident="SEPAADDRESS"
 %}}
-Adresse: ```Sparebanken Vest, Jonsvollsgaten 2, 5011 Bergen``` {{% /copy %}}
+Bankens adresse: ```DNB, Postboks 1600 Sentrum, 0021 Oslo``` {{% /copy %}}
 
 ---
 
 ##### PayPal
 
 Jeg heter [@petterhol](https://paypal.me/petterhol) på Paypal.
+
+---
+
+##### Revolut
+
+Jeg heter [@petterhol](https://revolut.me/petterhol) på Revolut.
 
 ---
 
@@ -84,15 +91,3 @@ Jeg heter [@petterhol](https://paypal.me/petterhol) på Paypal.
 %}}
 Lommebok: ```bc1qvvyr50zk0sywsscf4sk90xy5h0usathz029wvw```
 {{% /copy %}}
-
----
-
-##### Eurobonus-poeng
-
-Kontakt meg for avtale.
-
----
-
-##### Cola-Cola uten sukker
-
-Kontakt meg for avtale.
