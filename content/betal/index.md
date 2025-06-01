@@ -29,6 +29,7 @@ Hvis du skylder meg penger, finner du alle betalingsmuligheter her.
 Vipps-telefonnummer: ```926 96 496``` {{% /copy %}}
 
 Du kan verifisere at det er riktig profil ved å se på:
+
 - Navn: Petter Dog Holstad
 - Bilde: Tegnet bilde av en hund
 
@@ -90,4 +91,3 @@ Jeg heter [@petterhol](https://revolut.me/petterhol) på Revolut.
 %}}
 Lommebok: ```bc1qvvyr50zk0sywsscf4sk90xy5h0usathz029wvw```
 {{% /copy %}}
-
