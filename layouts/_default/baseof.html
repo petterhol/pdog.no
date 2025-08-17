@@ -33,19 +33,18 @@
   </header>
   <br><br><br><br>
   <main class="col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content">
-</nav>
     {{ with .Title }}
       <h1>{{ . }}</h1>
     {{ end }}
     {{ block "main" . }}
     {{ end }}
   </main>
-</div></body>
-
   <footer class="text-muted small text-center p-3">
 <hr>
 <img src="../favicon.png" height="20"> Nettsiden er utviklet av <a href="https://petter.dog/">Petter Dog Holstad</a> og <a href="https://stigjohan.no/">Stig Johan Berggren</a>.
 <a href="../kontaktinfo">Kontakt meg.</a>
 </footer>
+
+</body>
 
 </html>
