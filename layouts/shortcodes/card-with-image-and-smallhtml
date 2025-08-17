@@ -1,8 +1,0 @@
-  <div class="card">
-    <img src="{{ .Get "header" }}" class="card-img-top" alt="{{ .Get "alt" }}">
-    <div class="card-body">
-      <h5 class="card-title">{{ .Get "header" }}</h5>
-      <p class="card-text">{{ .Inner }}</p>
-      <p class="card-text"><small class="text-muted">{{ .Get "small" }}</small></p>
-    </div>
-  </div>
