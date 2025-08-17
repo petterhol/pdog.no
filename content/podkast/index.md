@@ -223,7 +223,6 @@ De forente stater og resten av verden. Gode gjester.
 
 {{% /podkastkort %}}
 
-
 {{% podkastkort
 	header="This American Life"
 	src="tal.jpg"
