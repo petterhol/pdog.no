@@ -1,5 +1,5 @@
-<text id="{{ .Get "ident" }}">
-<div style="display:none;">{{ .Get "hiddentext" }}</div></text>
+<span id="{{ .Get "ident" }}">
+<span style="display:none;">{{ .Get "hiddentext" }}</span></span>
 
 {{ .Inner }} <button class="btn badge badge-light" onclick="copyToClipboard('#{{ .Get "ident" }}')">Kopier</button>
 
@@ -8,7 +8,7 @@ function copyToClipboard(element) {
   var $temp = $("<input>");
   $("body").append($temp);
   $temp.val($(element).text()).select();
-  document.execCommand("copy");
+  navigator.clipboard.writeText($temp.val());
   $temp.remove();
 }
 </script>
