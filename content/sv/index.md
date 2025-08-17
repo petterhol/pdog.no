@@ -1,5 +1,5 @@
 +++
-title = "Teknologisafari i Sillicon Valley og omegn"
+title = "Teknologisafari i San Francisco-bukta"
 [menu]
 main = { parent = "Mine anbefalinger", weight = 3 }
 +++
@@ -8,15 +8,15 @@ main = { parent = "Mine anbefalinger", weight = 3 }
 
 {{% ingress %}}
 
-For den som er noenlunde er interessert i datamaskiner og teknologi vet at Silicon Valley er
-fødested for de største teknologiselskapene. Mens oss vanlige dødelige selvfølgelig ikke kommer
-innenfor dørene, kan en liten dagstur til ulike hovedkontor, monumenter og museer være veldig
-interessant. Under finner du et kart og en liste over alle stedene jeg besøkte på en tur i april
-2019. Jeg har også tatt med andre steder i San Francisco-bukta som kan være av interesse.
+For den som er noenlunde er interessert i datamaskiner og teknologi vet
+at Silicon Valley er
+fødested for dagens store teknologibedrifter. Her har jeg satt sammen
+ulike hovedkontor, monumenter og museer være veldig
+interessant. Under finner du et kart og en liste over alle stedene jeg
+besøkte på en tur i april
+2019, samt noen endringer etterpå.
 
 {{% /ingress %}}
-
-{{< mymaps 1-WAw9ucizpfmtaVIrsWYqx3A5AdRGvos >}}
 
 {{< card-deck >}}
 
@@ -140,30 +140,6 @@ samfunnet.
 {{% /svkort %}}
 
 {{% svkort
- src="iostoday.jpg"
- fotograf="twit.tv"
- lisenslenke="https://creativecommons.org/licenses/by-nc-nd/4.0/"
- lisens="CC BY-NC-ND 4"
- sourcelenke="https://twit.tv"
- source="twit.tv"
- alt="Podkastinnspilling av iOS Today"
- header="TWIT Eastside Studios"
- adresse="1351-B Redwood Way, Petaluma, CA 94954, USA"
- parkering="Gratis parkering på stedet"
- betaling="Billetter er gratis"
- tid="Sett av 3 timer basert på hvilket program du er publikum på"
- lenke="https://twit.tv/about/tickets"
- kartlenke="https://maps.apple.com/?address=1351-B Redwood Way, Petaluma, CA 94954, United States&auid=441283434007362108&ll=38.276580,-122.666919&lsp=9902&q=TWiT Eastside Studio&_ext=ChkKBQgEEOIBCgQIBRADCgQIBhB1CgQIChAAEiYpYR19c9AiQ0AxBmG48wyrXsA53/Kiz/YjQ0BBssANeFGqXsBQAw== "
-%}}
-
-Dette egner seg nok best for de som kjenner til podkastnettverket TWIT sin produksjon av lyd- og
-videopodkaster for et teknologiinteressert publikum. Det er mulig å besøke TWIT-nettverkets studioer
-og være publikum på sendingene. Man får en bitteliten omvisning, får hilse på vertene og sitte
-stille i studioet under opptak.
-
-{{% /svkort %}}
-
-{{% svkort
  src="cablecar.jpg"
  fotograf="Frank Schulenburg"
  lisenslenke="https://creativecommons.org/licenses/by-sa/4.0/"
@@ -279,6 +255,8 @@ komme inn i butikken. Alt du foretar deg i butikken blir nå overvåket av kamer
 som med høy presisjon kan finne ut hvilke produkter du tar ut av hyllene. Når du forlater butikken,
 blir alt belastet din betalingsmåte i appen. Det er ingen kasse eller kontrollpunkt på vei ut.
 
+YouTube-kanalen "Linus Tech Tips" testet dette stedet, se video under:
+
 {{< youtube vorkmWa7He8 >}}
 
 {{% /svkort %}}
@@ -311,9 +289,5 @@ Området er ikke helt det samme i dag, men er man uansett i nærheten er det sik
 ---
 
 En tidligere utgave av denne siden profilerte "Fry's Electronics". Butikkene ble
-dessverre lagt ned i 2021.
-
-{{< tilbakemelding
-header="Ting endrer seg, har du oppdaget noe som ikke stemmer, eller har du flere tips?"
-id="sv"
->}}
+dessverre lagt ned i 2021. Jeg har også fjernet TWiT Eastside Studios,
+som dessverre også er lagt ned til fordel for hjemmekontor.
