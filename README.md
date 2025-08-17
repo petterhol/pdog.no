@@ -33,4 +33,4 @@ som genereres. For å unngå for mange hugo-commits, bruker vi
 før vi commiter.
 
 *Hugo validator er foreløpig deaktivert grunnet en uløselig konflikt i pull
-request #44. Denne aktivseres på et senere tidspunkt*.
+request #44. Denne aktiveres på et senere tidspunkt*.
