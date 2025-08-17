@@ -175,77 +175,6 @@ livserfaringene sine med innsendte spørsmål og dilemmaer.
 
 {{% /podkastkort %}}
 
-{{% podkastkort
-	header="Filmpolitiet"
-	src="fp.jpg"
-	utgiver="NRK"
-	hyppighet="Hver uke eller oftere"
-	varighet="30-60 min"
-	offisiell="https://radio.nrk.no/podkast/filmpolitiet"
-	pocket="https://pca.st/6SWK"
-	merkelapp="Underholdning"
- %}}
-
-<span class="badge bg-warning text-white">Underholdning</span>
-
-Filmpolitiet anmelder filmer og TV-serier, lager lister til diverse anledninger og har
-spesialsendinger for spesielt populære TV-serier.
-
-{{% /podkastkort %}}
-
-{{% podkastkort
-	header="Berrum & Beyer snakker om greier"
-	src="bobsog.jpg"
-	utgiver="NRK"
-	hyppighet="To ganger i uka"
-	varighet="Omtrent en time"
-	offisiell="https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier"
-	pocket="https://play.pocketcasts.com/podcasts/f8cf5930-a185-013b-f36d-0acc26574db2"
-	merkelapp="Underholdning"
- %}}
-
-<span class="badge bg-warning text-white">Underholdning</span>
-
-To humorister tjater om livet, underholdningsbransjen og med gjester om deres virke.
-Anbefaler å høre hele katalogen.
-
-{{% /podkastkort %}}
-
-{{% podkastkort
-	header="Urix på lørdag"
-	src="upl.jpg"
-	utgiver="NRK"
-	hyppighet="Hver lørdag"
-	varighet="I underkant av en time"
-	offisiell="https://radio.nrk.no/serie/urix-paa-loerdag"
-	pocket="https://pca.st/fgxb"
-	merkelapp="Nyheter"
- %}}
-
-<span class="badge bg-danger text-white">Nyheter</span>
-
-Urix på lørdag er NRKs utenriksredaksjon oppsummering av det som skjer rundt om i verden. I tillegg
-får vi ukas oppleste korrespondentbrev.
-
-{{% /podkastkort %}}
-
-{{% podkastkort
-	header="Dagsnytt 18"
-	src="d1.jpg"
-	utgiver="NRK"
-	hyppighet="Hver ukedag"
-	varighet="En time"
-	offisiell="https://radio.nrk.no/serie/dagsnytt-atten"
-	pocket="https://pca.st/RjcG"
-	merkelapp="Nyheter"
- %}}
-
-<span class="badge bg-danger text-white">Nyheter</span> <span class="badge bg-dark text-white">Video</span>
-
-Norges mest populære debattprogram. Viktige debatter, aktuelle intervjuer og analyser.
-
-{{% /podkastkort %}}
-
 {{% podkastkort header="Getting Things Done" src="gtdp.jpg" utgiver="GTDnordic"
 hyppighet="Annenhver uke" varighet="Rundt en halvtime" offisiell="https://gtdnordic.com/podcast/"
 pocket="https://pca.st/KER0"
@@ -275,6 +204,25 @@ Dette var en ukentlig podkast, men den ble lagt ned etter 428 episoder, som utgj
 og rikholdig arkiv med spennende intervjuer. Noen ganger publiseres nye episoder.
 
 {{% /podkastkort %}}
+
+{{% podkastkort
+	header="Det store bildet"
+	src="dsb.jpg"
+	utgiver="Brandpeople"
+	hyppighet="1-2 ganger i uka"
+	varighet="Mellom en halvtime til en time"
+	offisiell="https://www.brandpeople.no/tvogpodcast/detstorebildet"
+	pocket="https://pca.st/8c2pgn9o"
+	merkelapp="Nyheter"
+ %}}
+
+<span class="badge bg-info text-white">Nyheter</span>
+
+Denne podkasten foretrekker jeg for tiden for analyse om den politiske situasjonen i
+De forente stater og resten av verden. Gode gjester.
+
+{{% /podkastkort %}}
+
 
 {{% podkastkort
 	header="This American Life"
