@@ -10,9 +10,11 @@ main = { weight = 9, parent = "Andre tilfeldige ting" }
 
 Skal du arrangere en allmennkviss? Gjør kvissen mer interessant og lærerik, enn bare en liste
 med tilfeldige spørsmål! Legg ved glidende overganger og interessant informasjon mellom hvert
-spørsmål. Her følger et eksempel på et slikt kvissmanus.
+spørsmål. Her følger et par eksempler på et slike kvissmanus.
 
 {{% /ingress %}}
+
+# Eksempel 1
 
 Kvissen ble skrevet for et julebord desember 2022.
 
@@ -155,3 +157,188 @@ John Carew.
 13. Harstad og Hinnøya.
 14. I den første nøtten er det jegerutstyr, i den andre er det en ballkjole, og i
 den tredje og siste nøtta finner vi en brudekjole.
+
+# Eksempel 2
+
+Kvissen ble skrevet til en julaftensamling i 2024.
+
+Vi befinner oss nå på Fornebu, denne halvøya som virker veldig som Oslo,
+men ikke er det. Her har det skjedd stor utvikling de siste årene. Mange
+nye boligområder har kommet til, Fornebubanen er på vei, det har åpnet
+et kjøpesenter hvor Marte jobber nå i jula, og flere store selskaper
+slik som Equinor, Aker Solutions, Evry har sine store og flotte
+hovedkontorer her. Men før dette var halvøya preget å være hjem til
+Norges tidligere hovedflyplass.
+
+1. Hvilket år stengte Fornebu og ble flytta til Gardermoen?
+
+Men det var ikke selvskrevet at det skulle være nettopp Gardermoen som
+tok over som Norges hovedflyplass. Flere alternativet ble drøftet, og
+Stortingets flertall bestemte seg i 1988 for et annet sted i nærheten.
+
+2. Hva heter dette stedet?
+
+Det er ikke bare metallfugler som har tatt av fra Fornebu. Store Norske
+Leksikon lister opp hele tolv verneområder. Blant de finner vi «Alv
+naturreservat», som er en liten holme vest for her vi er nå. Holmen er
+fredet for hekkende sjøfugl, og en måling fra 2005 viser til en stigende
+hekkeaktivitet for gråmåker og sildemåke.
+
+3. En av de som passer på fuglelivet og gjør slike observasjoner, er
+naturvernorganisasjonen «Norsk Ornitologisk Forening». I 2021 skiftet
+organisasjonen navn til noe litt mer internasjonalt og lettlest. Hva
+heter den i dag?
+
+4. Hva er det vitenskaplige navnet på måkefamilien?
+
+En annen familie som holder til her på Fornebu, er selskapene i
+Telenor-gruppen. Vi kjenner den kanskje mest som en norsk
+telekomoperatør, men de holder til i resten av Norden, og med sine
+betvilsomme virksomheter i Asia.
+
+Her ute ligger også som tildigere het «Telenor Arena», og denne arenen
+har vært vertskap for en stor rekke internasjonale artister, inkludert
+navn som Tina Turner, Metallica, Lady Gaga, Justin Bieber og mange
+flere. Også shows slik som Disney on Ice, diverse messer slik som
+Boligmessa, andre idrettsarrangementer slik som håndball-VM, med mer,
+har blitt arrangert her.
+
+5. I hvilket år ble Eurovision Song Contest arrangert i Telenor Arena?
+
+Men arenaen ble opprinnelig bygget for å være hjemmebanen til et
+fotballag.
+
+6. Hvilket fotballag – og hvor holder de til nå?
+
+Hvis man derimot vil spille fotball i behageligheten av sin egen sofa
+hjemme i stua, kan man for eksempel få tak i en kopi av videospillet
+«FIFA», en fotballsimulator som har kommet ut hvert år siden 1993 til
+2022 og utgitt på en rekke spillkonsoller og -plattformer.
+
+7. Ett av de spillkonsollene man kan spille dette videospillet på,
+feiret 30 år i år. Hva heter denne aktuelle spillkonsollen?
+
+8. Hvilket brettspill går ut på å bygge og utvikle bosetninger, veier og
+byer på en øy, og er spesielt populært i strategimiljøer?
+
+Når vi sier at 30-årsjubileet var i år, ble den bare lansert i ett land
+først, deretter Nord-Amerika og Europa. Det heldige landet var Japan,
+som ofte skiller seg ut i slike sammenhenger.
+
+Men når vi er innom Japan må vi jo selvfølgelig snakke om signaturretten
+sushi som vi er godt kjent med her til lands. Mens vi kan gå på fine
+restauranter for å nyte det, er opprinnelsen egentlig gatemat fra Tokyo,
+og er en svært passende rett å servere på samlebånd, eller sushibånd som
+kanskje er mer vanlig å si.
+
+Jeg tør ikke begi meg ut på så mange flere fakta om sushi, så da tar jeg
+heller noe mer personlig: Min favorittrestaurant i Oslo hadde faktisk
+Oslos første samlebånd for sushi (eller, så har jeg hørt). Da het den
+Sushi & Wok. For noen år renoverte de etter krav om å innskrenke
+restaurantens areal, og da forsvant båndet. Nå heter restauranten Nabo
+Kitchen Bar, og ligger i Essendrops gate på Majorstuen, ved siden av en
+stor og kjent kinosal.
+
+9. Relatert til sushi, og ofte på forskjellige sushimenyer her til
+lands, finner vi «sashsimi». Hva er «sashimi»?
+
+10. Hvilken japansk suppe er laget av fermenterte soyabønner?
+
+Det finnes også noe man kan kalle for sushisalat, som kanskje er bedre
+kjent som poke bowl. En annen type salat er Cæsarsalat, som ikke har noe
+med selveste Julius Cesar å gjøre.
+
+Det som derimot har med Julius Cesar å gjøre, er Romerriket, som jeg
+bare har tenkt på én gang denne uka, da jeg kjøpte en Asterix-tegneserie
+til julestrømpa!
+
+Ja, hva skal vi si om Romerriket, da? Mektig siviliasjon, stort omfang, 
+eksisterte både før og etter Kristus. Kjent for imponerende
+ingeniørkunstverk, som akvedukter, veier og amfiteatre, samt sitt
+effektive militære system og avanserte juridiske struktur.
+
+Næh – kjedelig! La oss heller tenke på gladiatorkamper! For hva er vel
+mer underholdende enn en skokk svette, muskuløse menn (og av og til
+kvinner!) som denger løs på hverandre med sverd, nett og tridenter foran
+et brølende publikum? Dette var ikke bare kamp – det var showbusiness!
+Glem Netflix, glem TikTok – her snakker vi om direktesendt voldelig
+reality-TV, der “å bli stemt ut” betydde å bli stemplet med et sverd i
+milten.
+
+11. Hvilket berømt byggverk i Roma ble brukt til gladiatorkamper?
+
+12. Og Roma regnes som en av to hovedstader i Romerriket. Hva het den
+andre byen som ble utpekt som hovedstad i det østlige Romerriket?
+
+Hvis man vil se Gladiatorkamper idag, er det nok best å gjøre dette på
+skjermen. I filmen «Gladiator» fra år 2000, følger vi en eomersk general
+som får hele familien drept av en nyinnsatt keiser. Selv blir han solgt
+som slave, og ender opp som gladiator i, ja, et berømt byggverk i Roma.
+
+13. En oppfølger kom ut bare for en måned siden, med navnet «Gladiator
+II», skrevet med Romertall. Hvem har regissert "Gladiator II"?
+
+14. Den første Gladiator-filmen var nominert for 7 Oscar-statuetter, og
+vant 5 Oscar-statuetter, inkludert beste film, skuespiller,
+kostymedesign, lyd og visuelle effekter. Hvor mange Oscar-statuetter kan
+en film egentlig vinne? Jeg har sjekket. Rekorden er 11, og deles av tre
+filmer per i dag. Hvilke filmer? Her er det nok med en riktig for å få
+poeng, men kodus til den som klarer alle tre.
+
+Den personen som derimot har flest nominasjoner (59) og statuetter (22)
+er Walt Disney. 1. januar i år skjedde det noe spesielt, da filmen som
+introduserte Mikke og Minnie Mus til verden, mistet
+opphavsrettbeskyttelsen (copyright) i AFS.
+
+15. Hva heter denne ikoniske filmen?
+
+16. En annen type beskyttelse for noe man har laget, er patenter.
+Hvilken myndighet gir ut patenter i Norge?
+
+Men ikke alle ideer blir skapt i studoer eller på kontorer. Noen ganger
+oppstår de rundt et bål, på en fjelltopp, eller mens man stirrer ut over
+havet. Gjennom historien har mennesker brukt historier og myter til å
+forklare verden rundt seg, skape håp, og kanskje til og med skremme
+litt.
+
+17. I mange norske folkeeventyr møter vi en skikkelse som bor under
+broer og ofte lurer på hvem som "tripper på hans bro". Hvilken skapning
+snakker vi om?
+
+18. I norrøn mytologi vokter Midgardsormen noe veldig viktig. Hva er
+det?
+
+Midtgardsormen er også navnet på et anlegg av avløpsledninger langs
+nedre del av Akerselva og i sentrum, som ble ferdigstilt i 2014. Oslo
+sentrum, spesielt Bjørvika, har vært under stor endring, og er nå snart
+et levende og fint bysentrum der det tidligere var industri og motorveg.
+
+19. Hvilket år åpnet det nye Munch-museet?
+
+20. Og et annet ferdigutviklet modernisert i byrområde er Aker brygge.
+Fra denne aktuelle bryggen kan man ta båt hit til Fornebu. Men det er
+ikke en selvstendig båtrute. Hvor går båten videre?
+
+**Og her kommer svarene**
+
+1. Oslo lufthavn Fornebu ble åpnet i 1. juni 1939, og ble utvida flere ganger helt til
+Oslo luthavn, Gardermoen tok over 7. oktober 1998.
+2. Hurumlandet.
+3. Organisasjonen heter nå Birdlife Norge.
+4. Larinae
+5. 2010.
+6.  Stabæk Fotball, og nå har de flyttet hjem til Nadderud Stadion.
+7. PlayStation 5.
+8. Settles fra Catan
+9. Rå fisk uten ris.
+10. Misosuppe.
+11. Colousseum.
+12. Constantinople (Byzantium, Nova Roma, New Rome, Second Rome, Eastern Rome, Roma
+Constantinopolitana, Constantinopolitan Rome, Lygos, Augusta Antonina, Kostantiniyye,
+Istanbul, Stamboul, Istambol, er bare noen eksempler fra Wikipedia-artikkelen «Names of
+Istanbul»).
+13. Ridley Scott, samme som den første.
+14. Ben-Hur fra 1959. Titanic fra 1997. Ringenes herre: Atter en konge fra 2003.
+15. Steamboat Willie.
+16. Patentstyret, underlagt Nærings- og fiskeridepartementet, og holer til i Nydalen.
+19. 2020
