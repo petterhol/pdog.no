@@ -115,7 +115,6 @@ alt som lever rundt oss.
 
 ## Annet
 
-
 - [Defunctland {{< ext >}}][Defunctland] har en rekke interesannte videoer om fornøyelsesparker
 (speiselt Disney) og temaliknende opplevelser, samt barne-tv-serier.
 
@@ -147,3 +146,4 @@ alt som lever rundt oss.
 [fosh]: https://www.youtube.com/@MaxFosh
 [pleasantgreen]: https://www.youtube.com/@PleasantGreen
 [tomscott]: https://www.youtube.com/@TomScottGo
+[notjustbikes]: https://www.youtube.com/@NotJustBikes
