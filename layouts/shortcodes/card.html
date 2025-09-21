@@ -1,0 +1,18 @@
+{{ $parentId := printf "accordion-%d" .Parent.Ordinal }}
+{{ $cardId := printf "card-%d-%d" .Parent.Ordinal .Ordinal }}
+{{ $headerId := printf "%s-header" $cardId }}
+{{ $collapseId := printf "%s-collapse" $cardId }}
+<div class="card" id="{{ $cardId }}">
+  <div class="card-header" id="{{ $headerId }}">
+    <h2 class="mb-0">
+      <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#{{ $collapseId }}" aria-expanded="true" aria-controls="{{ $collapseId }}" >
+        {{ .Get "header" }}
+      </button>
+    </h2>
+  </div>
+  <div id="{{ $collapseId }}" class="collapse" aria-labelledby="{{ $headerId }}" data-parent="#{{ $parentId }}">
+    <div class="card-body">
+      {{ .Inner }}
+    </div>
+  </div>
+</div>
