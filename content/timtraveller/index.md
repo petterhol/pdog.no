@@ -1,5 +1,5 @@
 +++
-title = "The Tim Traveller"
+title = "The Tim Traveller-kartet"
 [menu]
 main = { parent = "Ting jeg har laget", weight = 2 }
 +++

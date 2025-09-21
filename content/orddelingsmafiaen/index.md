@@ -1,7 +1,7 @@
 +++
-title = "Minneside: Orddelingsmafiaen"
+title = "Orddelingsmafiaen"
 [menu]
-main = { parent = "Andre tilfeldige ting", weight = "2" }
+main = { parent = "Ting jeg har laget", weight = "2" }
 +++
 
 <!-- markdownlint-disable MD034 MD052 MD053 -->
