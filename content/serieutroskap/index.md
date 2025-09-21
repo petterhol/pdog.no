@@ -1,7 +1,7 @@
 +++
 title = "Standardkontrakt for seriesamhold"
 [menu]
-main = { weight = 9, parent = "Redet" }
+main = { weight = 9, parent = "Ting jeg har laget" }
 +++
 
 <!-- markdownlint-disable -->

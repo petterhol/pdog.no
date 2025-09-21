@@ -1,7 +1,8 @@
 +++
 title = "Gjør kvisser lærerike og engasjerende"
+linktitle = "Utbroderte kvissmanus"
 [menu]
-main = { weight = 9, parent = "Andre tilfeldige ting" }
+main = { weight = 9, parent = "Ting jeg har laget" }
 +++
 
 <!-- markdownlint-disable -->

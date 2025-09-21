@@ -1,7 +1,7 @@
 +++
 title = "Sjekk av internettforbindelsen"
 [menu]
-main = { weight = 9, parent = "Redet" }
+main = { weight = 9, parent = "Sjekk av internettforbindelsen" }
 +++
 
 {{% ingress %}}

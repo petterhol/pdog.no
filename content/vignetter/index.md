@@ -1,7 +1,7 @@
 +++
 title = "Vignetter og kjenningsmelodier"
 [menu]
-main = { parent = "Redet", weight = 3 }
+main = { parent = "Andre tilfeldige ting", weight = 3 }
 +++
 
 <!-- markdownlint-disable MD002 MD033 -->
