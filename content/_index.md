@@ -37,27 +37,6 @@ Dette er enkeltpersonforetaket mitt.
 <p><b><a href="https://heltogholdent.no">Besøk nettsiden <sup><i class="fas fa-external-link-alt"></i></sup> </a></b></p>
 </div></div>
 
-<a href="https://rakkel.no" style="color: black;">
-<div class="card">
-<img src="../_index/rakkel.png" class="card-img-top" alt="..."></a>
-<div class="card-body">
-<h5 class="card-title">Rakkel</h5>
-<p class="card-text">
-Rakkel gjør middels gode og dårlige ideer om til nettsider, konsepter og folkebevegelser.
-</p>
-<p><b><a href="https://rakkel.no">Besøk Rakkel <sup><i class="fas fa-external-link-alt"></i></sup> </a></b></p>
-</div></div>
-
-<a href="https://tkbussreiser.no" style="color: black;">
-<div class="card">
-<img src="https://ny.tkbussreiser.no/wp-content/uploads/2024/07/logo-fra-pds-768x256.png" class="card-img-top" alt="..."></a>
-<div class="card-body">
-<h5 class="card-title">TK Bussreiser</h5>
-<p class="card-text">
-Jeg jobber i administrasjonen til TK Bussreiser. Vi er et hyggelig og fleksibelt turbusselskap.</p>
-<p><b><a href="https://tkbussreiser.no">Besøk TK Bussreiser <sup><i class="fas fa-external-link-alt"></i></sup> </a></b></p>
-</div></div>
-
 <a href="../kokebok" style="color: black;">
 <div class="card">
 <img src="../_index/hundemat-forside.png" class="card-img-top" alt="..."></a>
@@ -68,19 +47,6 @@ Jeg er absolutt ingen kokk, men jeg har samlet noen oppskrifter jeg har vokst op
 selv. Jeg deler også noen andre tanker om hvordan livet på kjøkkenet kan gjøres enklere.
 </p>
 <p><strong><a href="../kokebok">Les mer →</a></strong></p>
-</div></div>
-
-<a href="https://ltf.no" style="color: black;">
-<div class="card">
-<img src="../_index/veterantrikk.jpg" class="card-img-top" alt="..."></a>
-<div class="card-body">
-<h5 class="card-title">Kollektivtransporthistorie</h5>
-<p class="card-text">
-Jeg er med i Lokaltrafikkhistorisk forening (LTF), en medlemsorganisasjon som bevarer, dokumenterer
-og formidler kollektivtrafikkhistorien i Oslo og Akerhus. I foreningen sitter jeg i
-styret og samtidig valgt som leder av Sporveismuseet.
-</p>
-<p><strong><a href="https://ltf.no">Gå til nettstedet for LTF <sup><i class="fas fa-external-link-alt"></i></sup></a></strong>
 </div></div>
 
 <a href="../timtraveller" style="color: black;">
