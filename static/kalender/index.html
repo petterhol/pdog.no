@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ISO uke-kalender</title>
+  <style>
+    :root {
+      --today-border: 2px solid #0053b3;
+      --today-bg: #e6f0ff;
+      --today-text: #0b3d91;
+      --muted: #7a7a7a;
+      --table-border: #d0d0d0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 1rem;
+      background: #f7f7f7;
+      color: #121212;
+      line-height: 1.4;
+    }
+
+    h1 {
+      margin-bottom: 0.25rem;
+    }
+
+    p.description {
+      margin-top: 0;
+      margin-bottom: 1rem;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+      align-items: end;
+    }
+
+    .control-group {
+      background: #ffffff;
+      border: 1px solid #dcdcdc;
+      border-radius: 6px;
+      padding: 0.75rem;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+    }
+
+    .control-group label {
+      display: block;
+      font-weight: bold;
+      margin-bottom: 0.35rem;
+      font-size: 0.95rem;
+    }
+
+    .control-group input[type="number"],
+    .control-group input[type="date"] {
+      width: 100%;
+      padding: 0.45rem;
+      border: 1px solid #cfcfcf;
+      border-radius: 4px;
+      font-size: 1rem;
+    }
+
+    .control-actions {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-top: 0.35rem;
+    }
+
+    button, .toggle-group label {
+      font-size: 0.95rem;
+      cursor: pointer;
+    }
+
+    button {
+      border: 1px solid #b3b3b3;
+      background: linear-gradient(#ffffff, #f1f1f1);
+      padding: 0.45rem 0.65rem;
+      border-radius: 4px;
+      transition: background 0.15s ease;
+    }
+
+    button:hover {
+      background: linear-gradient(#f7f7f7, #e9e9e9);
+    }
+
+    .toggle-group {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      margin-top: 0.15rem;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #ffffff;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+    }
+
+    thead th {
+      background: #f3f3f3;
+      border: 1px solid var(--table-border);
+      padding: 0.6rem 0.4rem;
+      font-size: 0.95rem;
+    }
+
+    tbody td, tbody th {
+      border: 1px solid var(--table-border);
+      padding: 0.55rem 0.35rem;
+      text-align: center;
+      font-size: 0.95rem;
+    }
+
+    tbody th {
+      background: #fafafa;
+      font-weight: bold;
+      width: 4.5rem;
+    }
+
+    .outside-year {
+      color: var(--muted);
+    }
+
+    .today {
+      border: var(--today-border);
+      background: var(--today-bg);
+      color: var(--today-text);
+      font-weight: bold;
+      position: relative;
+    }
+
+    .today .today-label {
+      display: inline-block;
+      margin-left: 0.25rem;
+      padding: 0.1rem 0.35rem;
+      background: #0053b3;
+      color: #ffffff;
+      border-radius: 999px;
+      font-size: 0.75rem;
+      vertical-align: middle;
+    }
+
+    .week-focus {
+      outline: 2px solid #6aa1ff;
+      outline-offset: -2px;
+      position: relative;
+      background: #f1f6ff;
+    }
+
+    .week-focus::after {
+      content: "Fokusert uke";
+      position: absolute;
+      right: 4px;
+      top: 4px;
+      font-size: 0.7rem;
+      color: #1c4b9e;
+      background: #dce8ff;
+      padding: 0.05rem 0.35rem;
+      border-radius: 10px;
+    }
+
+    .month-shaded .month-0 { background: #f7f3ff; }
+    .month-shaded .month-1 { background: #f3f8ff; }
+    .month-shaded .month-2 { background: #f0fff6; }
+    .month-shaded .month-3 { background: #fff8f0; }
+    .month-shaded .month-4 { background: #f6f0ff; }
+    .month-shaded .month-5 { background: #f0f7ff; }
+    .month-shaded .month-6 { background: #f0fff9; }
+    .month-shaded .month-7 { background: #fff0f8; }
+    .month-shaded .month-8 { background: #f3fff0; }
+    .month-shaded .month-9 { background: #f0f4ff; }
+    .month-shaded .month-10 { background: #fff0f0; }
+    .month-shaded .month-11 { background: #f0fff5; }
+
+    .feedback {
+      margin-top: 0.5rem;
+      min-height: 1.2rem;
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 768px) {
+      body {
+        margin: 0.5rem;
+        font-size: 0.95rem;
+      }
+
+      table {
+        font-size: 0.85rem;
+      }
+
+      thead th, tbody td, tbody th {
+        padding: 0.4rem 0.25rem;
+      }
+
+      .control-group {
+        padding: 0.6rem;
+      }
+
+      .controls {
+        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>ISO uke-kalender</h1>
+  <p class="description">Årsoversikt etter ISO 8601 med fokus på uker.</p>
+
+  <div class="controls">
+    <div class="control-group">
+      <label for="yearInput">Kalenderår</label>
+      <input type="number" id="yearInput" aria-label="Velg kalenderår">
+      <div class="control-actions">
+        <button id="setYearBtn" type="button">Vis år</button>
+        <button id="currentYearBtn" type="button">Gå til inneværende uke</button>
+      </div>
+    </div>
+    <div class="control-group">
+      <label for="dateInput">Hopp til dato</label>
+      <input type="date" id="dateInput" aria-label="Velg dato">
+      <div class="control-actions">
+        <button id="goToDateBtn" type="button">Hopp til dato</button>
+      </div>
+    </div>
+    <div class="control-group">
+      <label>Visningsvalg</label>
+      <div class="toggle-group">
+        <input type="checkbox" id="toggleMonths" checked>
+        <label for="toggleMonths">Vis månedfarger</label>
+      </div>
+      <div class="control-actions">
+        <button id="copyDateLink" type="button">Kopier permalenke (dato)</button>
+        <button id="copyWeekLink" type="button">Kopier permalenke (uke)</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="feedback" id="feedback" aria-live="polite"></div>
+
+  <table id="calendar" aria-describedby="feedback">
+    <thead>
+      <tr id="calendarHead"></tr>
+    </thead>
+    <tbody id="calendarBody"></tbody>
+  </table>
+
+  <script>
+    // Konfigurerbare dagoverskrifter (mandag først)
+    const dayHeaders = ['Mandag', 'Tirsdag', 'Onsdag', 'Torsdag', 'Fredag', 'Lørdag', 'Søndag'];
+
+    const calendarHead = document.getElementById('calendarHead');
+    const calendarBody = document.getElementById('calendarBody');
+    const yearInput = document.getElementById('yearInput');
+    const dateInput = document.getElementById('dateInput');
+    const toggleMonths = document.getElementById('toggleMonths');
+    const feedback = document.getElementById('feedback');
+
+    let focusedDate = null;
+    let focusedWeekId = null;
+    let currentYear = null;
+
+    function pad2(value) {
+      return String(value).padStart(2, '0');
+    }
+
+    function toLocalDateString(date) {
+      return pad2(date.getDate()) + '.' + pad2(date.getMonth() + 1);
+    }
+
+    function cloneDate(date) {
+      return new Date(date.getTime());
+    }
+
+    function addDays(date, days) {
+      const cloned = cloneDate(date);
+      cloned.setUTCDate(cloned.getUTCDate() + days);
+      return cloned;
+    }
+
+    function startOfISOWeek(date) {
+      const result = cloneDate(date);
+      const day = (result.getUTCDay() + 6) % 7; // Monday=0
+      result.setUTCDate(result.getUTCDate() - day);
+      result.setUTCHours(0, 0, 0, 0);
+      return result;
+    }
+
+    function getISOWeekYear(date) {
+      const target = cloneDate(date);
+      target.setUTCHours(0, 0, 0, 0);
+      // Thursday determines the year
+      target.setUTCDate(target.getUTCDate() + 3 - ((target.getUTCDay() + 6) % 7));
+      return target.getUTCFullYear();
+    }
+
+    function getISOWeekNumber(date) {
+      const target = cloneDate(date);
+      target.setUTCHours(0, 0, 0, 0);
+      target.setUTCDate(target.getUTCDate() + 3 - ((target.getUTCDay() + 6) % 7));
+      const firstThursday = new Date(Date.UTC(target.getUTCFullYear(), 0, 4));
+      const diff = target - startOfISOWeek(firstThursday);
+      return 1 + Math.round(diff / 604800000);
+    }
+
+    function isoWeekToDate(isoYear, isoWeek, isoDay) {
+      const jan4 = new Date(Date.UTC(isoYear, 0, 4));
+      const week1Start = startOfISOWeek(jan4);
+      return addDays(week1Start, (isoWeek - 1) * 7 + (isoDay - 1));
+    }
+
+    function getWeeksForYear(isoYear) {
+      const weeks = [];
+      const jan4 = new Date(Date.UTC(isoYear, 0, 4));
+      let cursor = startOfISOWeek(jan4);
+      while (getISOWeekYear(cursor) === isoYear) {
+        weeks.push(cloneDate(cursor));
+        cursor = addDays(cursor, 7);
+      }
+      return weeks;
+    }
+
+    function renderHeaders() {
+      const fragment = document.createDocumentFragment();
+      const weekHeader = document.createElement('th');
+      weekHeader.textContent = 'Uke';
+      fragment.appendChild(weekHeader);
+      dayHeaders.forEach(day => {
+        const th = document.createElement('th');
+        th.textContent = day;
+        fragment.appendChild(th);
+      });
+      calendarHead.innerHTML = '';
+      calendarHead.appendChild(fragment);
+    }
+
+    function clearFocus() {
+      if (focusedWeekId) {
+        const previous = calendarBody.querySelector(`[data-week-id="${focusedWeekId}"]`);
+        if (previous) {
+          previous.classList.remove('week-focus');
+        }
+      }
+    }
+
+    function setFocus(dateToFocus, scrollIntoView = true) {
+      focusedDate = cloneDate(dateToFocus);
+      const weekStart = startOfISOWeek(focusedDate);
+      const weekYear = getISOWeekYear(weekStart);
+      const weekNumber = getISOWeekNumber(weekStart);
+      focusedWeekId = `${weekYear}-W${pad2(weekNumber)}`;
+      clearFocus();
+      const row = calendarBody.querySelector(`[data-week-id="${focusedWeekId}"]`);
+      if (row) {
+        row.classList.add('week-focus');
+        if (scrollIntoView) {
+          row.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      }
+      dateInput.value = toDateInputValue(focusedDate);
+    }
+
+    function toDateInputValue(date) {
+      return [date.getUTCFullYear(), pad2(date.getUTCMonth() + 1), pad2(date.getUTCDate())].join('-');
+    }
+
+    function renderCalendar(year, focusDate) {
+      currentYear = year;
+      yearInput.value = year;
+      renderHeaders();
+      calendarBody.innerHTML = '';
+      const weeks = getWeeksForYear(year);
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+      weeks.forEach(weekStart => {
+        const weekYear = getISOWeekYear(weekStart);
+        const weekNumber = getISOWeekNumber(weekStart);
+        const tr = document.createElement('tr');
+        tr.dataset.weekId = `${weekYear}-W${pad2(weekNumber)}`;
+
+        const weekCell = document.createElement('th');
+        weekCell.scope = 'row';
+        weekCell.textContent = pad2(weekNumber);
+        tr.appendChild(weekCell);
+
+        for (let i = 0; i < 7; i++) {
+          const date = addDays(weekStart, i);
+          const td = document.createElement('td');
+          td.dataset.date = date.toISOString();
+          td.classList.add(`month-${date.getUTCMonth()}`);
+          td.textContent = toLocalDateString(new Date(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()));
+
+          if (date.getUTCFullYear() !== year) {
+            td.classList.add('outside-year');
+          }
+
+          const displayDate = new Date(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate());
+          if (displayDate.getTime() === today.getTime()) {
+            td.classList.add('today');
+            const label = document.createElement('span');
+            label.className = 'today-label';
+            label.textContent = 'I dag';
+            td.appendChild(label);
+            td.setAttribute('aria-label', `${toLocalDateString(displayDate)} (i dag)`);
+          }
+
+          tr.appendChild(td);
+        }
+
+        calendarBody.appendChild(tr);
+      });
+
+      calendarBody.classList.toggle('month-shaded', toggleMonths.checked);
+
+      if (focusDate) {
+        setFocus(focusDate, false);
+      }
+    }
+
+    function parsePermalink() {
+      const params = new URLSearchParams(window.location.search);
+      const dateParam = params.get('date');
+      const weekParam = params.get('week');
+      const dateRegex = /^\d{4}-W\d{2}-[1-7]$/;
+      const weekRegex = /^\d{4}-W\d{2}$/;
+
+      if (dateParam && dateRegex.test(dateParam)) {
+        const [yearPart, weekPart, dayPart] = dateParam.split(/-W|-/).filter(Boolean);
+        const isoYear = parseInt(yearPart, 10);
+        const isoWeek = parseInt(weekPart, 10);
+        const isoDay = parseInt(dayPart, 10);
+        const targetDate = isoWeekToDate(isoYear, isoWeek, isoDay);
+        return { year: isoYear, date: targetDate };
+      }
+
+      if (weekParam && weekRegex.test(weekParam)) {
+        const [yearPart, weekPart] = weekParam.split('-W');
+        const isoYear = parseInt(yearPart, 10);
+        const isoWeek = parseInt(weekPart, 10);
+        const weekStart = isoWeekToDate(isoYear, isoWeek, 1);
+        return { year: isoYear, date: weekStart };
+      }
+
+      return null;
+    }
+
+    function applyPermalink(fallbackDate) {
+      const parsed = parsePermalink();
+      if (parsed) {
+        renderCalendar(parsed.year, parsed.date);
+        setFocus(parsed.date, true);
+        feedback.textContent = 'Hoppet til permalenke: ' + formatIsoPermalink(parsed.date);
+      } else {
+        const isoYear = getISOWeekYear(fallbackDate);
+        renderCalendar(isoYear, fallbackDate);
+        setFocus(fallbackDate, true);
+      }
+    }
+
+    function formatIsoPermalink(date) {
+      const weekYear = getISOWeekYear(date);
+      const weekNumber = pad2(getISOWeekNumber(date));
+      const weekDay = ((date.getUTCDay() + 6) % 7) + 1;
+      return `${weekYear}-W${weekNumber}-${weekDay}`;
+    }
+
+    function formatWeekPermalink(date) {
+      const weekYear = getISOWeekYear(date);
+      const weekNumber = pad2(getISOWeekNumber(date));
+      return `${weekYear}-W${weekNumber}`;
+    }
+
+    function copyTextToClipboard(text) {
+      if (!navigator.clipboard) {
+        feedback.textContent = 'Kopiering er ikke støttet i denne nettleseren.';
+        return;
+      }
+      navigator.clipboard.writeText(text).then(() => {
+        feedback.textContent = 'Permalenke kopiert til utklippstavlen: ' + text;
+      }).catch(() => {
+        feedback.textContent = 'Kunne ikke kopiere lenken.';
+      });
+    }
+
+    function updatePermalinkButtons() {
+      const baseUrl = window.location.origin + window.location.pathname;
+      const dateIso = formatIsoPermalink(focusedDate || new Date());
+      const weekIso = formatWeekPermalink(focusedDate || new Date());
+      document.getElementById('copyDateLink').onclick = () => {
+        copyTextToClipboard(`${baseUrl}?date=${dateIso}`);
+      };
+      document.getElementById('copyWeekLink').onclick = () => {
+        copyTextToClipboard(`${baseUrl}?week=${weekIso}`);
+      };
+    }
+
+    document.getElementById('setYearBtn').addEventListener('click', () => {
+      const chosenYear = parseInt(yearInput.value, 10);
+      if (!Number.isNaN(chosenYear)) {
+        const date = focusedDate || isoWeekToDate(chosenYear, 1, 1);
+        renderCalendar(chosenYear, date);
+        setFocus(date, true);
+        updatePermalinkButtons();
+        feedback.textContent = 'Viser kalenderår ' + chosenYear;
+      }
+    });
+
+    document.getElementById('currentYearBtn').addEventListener('click', () => {
+      const today = new Date();
+      const isoYear = getISOWeekYear(new Date(Date.UTC(today.getFullYear(), today.getMonth(), today.getDate())));
+      const utcToday = new Date(Date.UTC(today.getFullYear(), today.getMonth(), today.getDate()));
+      renderCalendar(isoYear, utcToday);
+      setFocus(utcToday, true);
+      updatePermalinkButtons();
+      feedback.textContent = 'Hoppet til inneværende uke.';
+    });
+
+    document.getElementById('goToDateBtn').addEventListener('click', () => {
+      if (!dateInput.value) return;
+      const [y, m, d] = dateInput.value.split('-').map(Number);
+      const chosen = new Date(Date.UTC(y, m - 1, d));
+      const isoYear = getISOWeekYear(chosen);
+      renderCalendar(isoYear, chosen);
+      setFocus(chosen, true);
+      updatePermalinkButtons();
+      feedback.textContent = 'Hoppet til ' + dateInput.value;
+    });
+
+    toggleMonths.addEventListener('change', () => {
+      calendarBody.classList.toggle('month-shaded', toggleMonths.checked);
+    });
+
+    calendarBody.addEventListener('click', (event) => {
+      const cell = event.target.closest('td');
+      if (!cell || !cell.dataset.date) return;
+      const selected = new Date(cell.dataset.date);
+      setFocus(selected, true);
+      feedback.textContent = 'Valgt dato: ' + formatIsoPermalink(selected);
+      updatePermalinkButtons();
+    });
+
+    // Init
+    (function init() {
+      const today = new Date();
+      const utcToday = new Date(Date.UTC(today.getFullYear(), today.getMonth(), today.getDate()));
+      const initialDate = utcToday;
+      applyPermalink(initialDate);
+      updatePermalinkButtons();
+    })();
+  </script>
+</body>
+</html>
