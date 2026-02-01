@@ -19,22 +19,83 @@ title = ""
 <div class="card-body">
 <h5 class="card-title">Hei!</h5>
 <p class="card-text">
-Jeg heter Petter, og er et menneske.
-På denne nettsiden finner du mine anbefalinger, en del ting jeg har laget, en samling av
-oppskrifter og andre tilfeldige ting.</p>
-<p>På forsiden finner du også lenker til andre deler av min tilstedeværelse på internett. Ønsker du kontakt med meg, kontakt meg da vel!</p>
-<p><b><a href="../kontaktinfo">Kontaktinformasjon → </a></b></p>
+Jeg heter Petter, og er et menneske. På denne nettsiden finner du all min
+tilstedeværelse på internett, slik som anbefalinger, ting jeg har laget, noen
+kokeboksoppskrifter og andre tilfeldige ting.</p>
 </div></div>
 
-<a href="https://heltogholdent.no" style="color: black;">
+<a href="../kontaktinfo" style="color: black;">
 <div class="card">
-<img src="https://heltogholdent.no/wp-content/uploads/2024/12/hhh-stor-2-1024x529.png" class="card-img-top" alt="..."></a>
 <div class="card-body">
-<h5 class="card-title">Holstad Helt og Holdent</h5>
+<h5 class="card-title">Kontaktopplysninger</h5>
 <p class="card-text">
-Dette er enkeltpersonforetaket mitt.
+E-post: <a href="mailto:hallo@petter.dog">hallo@petter.dog</a></p>
+<p>Telefonnnummer: (+47) 926 96 496<br>
+<i>Støtter SMS, MMS, iMessage, FaceTime og Signal</i></p>
+<p>Brev: Nordbergbakken 11, 0875 Oslo</p>
+<p>Digipost: petter.holstad#0D8M</p>
+<p>Leter du etter opplysninger om Holstad Helt og Holdent? Besøk
+<a href="https://heltogholdent.no/">heltogholdent.no</a>.</p>
 </p>
-<p><b><a href="https://heltogholdent.no">Besøk nettsiden <sup><i class="fas fa-external-link-alt"></i></sup> </a></b></p>
+</div></div>
+
+<a href="../kontaktinfo" style="color: black;">
+<div class="card">
+<div class="card-body">
+<h5 class="card-title">Har du mottatt en e-post fra @petter.dog?</h5>
+<p class="card-text">
+Jeg kan forklare: jeg eier domenet "petter.dog". Det betyr at jeg kan bestemme at alt
+som sendes til dette domenet, kan jeg motta i min ordinære innboks, og det har jeg gjort.
+
+Ofte bruker jeg muligheten til å lage <i>unike</i> e-postadresser til hver eneste ting
+jeg melder meg på, abonnerer på, registrerer meg på, kjøper i en nettbutikk, osv.
+
+Jeg setter pris på om du lar e-postadressen stå slik den er skrevet.
+
+Og nei – jeg er sannsynligvis ikke ansatt eller på annen måte tilknyttet ditt firma.
+
+Hvis du er på jakt etter en litt mer teknisk gjennomgang av hvordan dette fungerer,
+les min artikkel om altomfavende e-postinnstilling.
+</p>
+</div></div>
+
+<a href="../anbefalinger" style="color: black;">
+<div class="card">
+<div class="card-body">
+<h5 class="card-title">Mine anbefalinger</h5>
+<p class="card-text">
+Jeg publiserer mine anbefalinger innen følgende tema:</p>
+<p>
+<ul>
+<li><a href="../podkast">Podkaster</a></li>
+<li><a href="../film">Filmer (Letterboxd)</a></li>
+<li><a href="../youtube">YouTube-kanaler</a></li>
+<li><a href="../nettsider">Nyttige nettsteder</a></li>
+<li><a href="../sv">Kart for teknologisafari i San Francisco-bukta</a></li>
+</ul>
+</p>
+</div></div>
+
+<a href="../luftfoto" style="color: black;">
+<div class="card">
+<img src="../_index/luftfoto.png" class="card-img-top" alt="..."></a>
+<div class="card-body">
+<h5 class="card-title">Ting jeg har laget</h5>
+<p class="card-text">
+På dette nettstedet publiserer jeg også ting jeg laget selv.
+</p>
+<p>
+<ul>
+<li><a href="../luftfoto">Luftfotografier</a></li>
+<li><a href="../orddelingsmafiaen">Orddelingsmafiaen</a></li>
+<li><a href="../timtraveller">The Tim Traveller-kart</a></li>
+<li><a href="../reisekart">Personlig flykart</a></li>
+<li><a href="../serieutroskap">Standardkontrakt for seriesamhold</a></li>
+<li><a href="../kviss">Utbroderte kvissmanus</a></li>
+<li><a href="../geoguessr">GeoGuessr-kart</a></li>
+</ul>
+</p>
+<p><b><a href="../luftfoto">Se filmene → </a></b></p>
 </div></div>
 
 <a href="../kokebok" style="color: black;">
@@ -49,41 +110,21 @@ selv. Jeg deler også noen andre tanker om hvordan livet på kjøkkenet kan gjø
 <p><strong><a href="../kokebok">Les mer →</a></strong></p>
 </div></div>
 
-<a href="../timtraveller" style="color: black;">
+<a href="../anbefalinger" style="color: black;">
 <div class="card">
-<img src="../_index/tim.jpg" class="card-img-top" alt="..."></a>
 <div class="card-body">
-<h5 class="card-title">Kartet til Timoteus reisemann</h5>
+<h5 class="card-title">Andre tilfeldige ting</h5>
 <p class="card-text">
-The Tim Traveller er en fantastisk fin YouTube-kanal som fokuserer på tre temaer:
-reising, turvandring og transport. Videoene tar ofte for seg et fysisk sted.
-For å kunne besøke noen av de samme stedene som Tim har gjort, har jeg laget et Google
-My Maps-kart, som stadig oppdateres med kartpunkter fra videoene hans.
+Disse temaene har også fått plass her:</p>
+<p>
+<ul>
+<li><a href="../vignett">Vignetter og kjenningsmelodier</a></li>
+<li><a href="../straffepant">Straffepant</a></li>
+<li><a href="../koreaking">Minneside: M/S Fjordkongen</a></li>
+<li><a href="../nettsider">Nyttige nettsteder</a></li>
+<li><a href="../sv">Kart for teknologisafari i San Francisco-bukta</a></li>
+</ul>
 </p>
-<p><strong><a href="../timtraveller">Se kartet →</a></strong></p>
-</div></div>
-
-<a href="../epostadressen-min">
-<div class="card border-primary mb-3";">
-<div class="card-body text-primary">
-<h5 class="card-title">Har du mottatt en e-post som slutter på @petter.dog?</h5>
-<p class="card-text">
-Foran krøllalfa (@) står det nok navnet på firmaet du jobber i, samt noe om hvor jeg brukte
-e-posten, og en ukedato. Ingen fare, det er bare meg! Trykk her for å lese mer.
-</p>
-<p><strong>Les mer om hvorfor →</strong></p>
-</div></a></div>
-
-<a href="../luftfoto" style="color: black;">
-<div class="card">
-<img src="../_index/luftfoto.png" class="card-img-top" alt="..."></a>
-<div class="card-body">
-<h5 class="card-title">Luftfotografering</h5>
-<p class="card-text">
-Jeg eier et luftfotografiapparat som jeg av og til bruker for å lage fine filmer av natur og
-struktur.
-</p>
-<p><b><a href="../luftfoto">Se filmene → </a></b></p>
 </div></div>
 
 </div>
