@@ -1,7 +1,8 @@
 +++
 title = "Profesjonelle tips" 
 aliases = [ "protip", "protips", ]
-[menu] main = {weight = 2, parent = "Andre tilfeldige ting" }
+[menu]
+main = {weight = 2, parent = "Andre tilfeldige ting" }
 +++
 
 <!-- markdownlint-disable MD033 MD032 MD034 MD010 MD013 MD001 -->
