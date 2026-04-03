@@ -1,15 +1,12 @@
-+++ title = "Profesjonelle tips" aliases = [ "protip", "protips", ]
-[menu] main = {weight = 2, parent = "Andre tilfeldige ting" } +++
++++
+title = "Profesjonelle tips" 
+aliases = [ "protip", "protips", ]
+[menu] main = {weight = 2, parent = "Andre tilfeldige ting" }
++++
 
-<!-- markdownlint-disable MD033 MD032 MD034 MD010 MD013 -->
+<!-- markdownlint-disable MD033 MD032 MD034 MD010 MD013 MD001 -->
 
-{{% ingress %}}
-
-
-
-{{% /ingress %}}
-
-## Trenger du papp i store formater? Spør på store butikker!
+## Trenger du papp i store formater? Spør på store butikker
 
 {{< img-caption-link figure-class="float-right padding" class="rounded"
 src="elkjop.jpeg" float="right" alt="" img-caption="" height="250px"
