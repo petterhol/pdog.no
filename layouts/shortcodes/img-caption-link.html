@@ -3,15 +3,16 @@
 <a href="{{ .Get "link" }}" target="_blank">
 
 <img
-    class="{{ .Get "class" }}"
-    src="{{ .Get "src" }}"
-    alt="{{ .Get "alt" }}"
-    float:right;
+  class="{{ .Get "class" }}"
+  src="{{ .Get "src" }}"
+  alt="{{ .Get "alt" }}"
+  style="max-width: 100%; height: {{ .Get "height" }}; float: right; margin: 0 0 1em 1em;"
 />
 
 </a>
 
-<figcaption
-  class="figure-caption">{{ .Get "img-caption" }}
+<figcaption class="figure-caption">
+  {{ .Get "img-caption" }}
 </figcaption>
+
 </figure>
