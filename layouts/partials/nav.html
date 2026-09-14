@@ -1,32 +1,35 @@
 <nav class="navbar fixed-top navbar-expand-xl bg-light" data-bs-theme="light">
-  <a class="navbar-brand" href="/">
-    <!-- Logo: <img src="/favicon.png" width="30" height="30" class="d-inline-block align-top me-1" alt=""> -->
-ryddedagen.no  </a>
-  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-nav"
-    aria-controls="navbar-nav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div id="navbar-nav" class="collapse navbar-collapse">
-    <div class="navbar-nav">
-      {{ $currentPage := . }}
-      {{ range $.Site.Menus.main }}
-        {{ if .HasChildren }}
-        <div class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true"
-            aria-expanded="false">
-            {{ .Pre }} <span>{{ .Name }}</span>
-          </a>
-          <div class="dropdown-menu">
-            {{ range .Children }}
-            <a href="{{ .URL }}" class="dropdown-item">{{ .Name }}</a>
-            {{ end }}
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">
+      <!-- Logo: <img src="/favicon.png" width="30" height="30" class="d-inline-block align-top me-1" alt=""> -->
+      ryddedagen.no
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-nav"
+      aria-controls="navbar-nav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div id="navbar-nav" class="collapse navbar-collapse">
+      <div class="navbar-nav">
+        {{ $currentPage := . }}
+        {{ range $.Site.Menus.main }}
+          {{ if .HasChildren }}
+          <div class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true"
+              aria-expanded="false">
+              {{ .Pre }} <span>{{ .Name }}</span>
+            </a>
+            <div class="dropdown-menu">
+              {{ range .Children }}
+              <a href="{{ .URL }}" class="dropdown-item">{{ .Name }}</a>
+              {{ end }}
+            </div>
           </div>
-        </div>
-        {{ else }}
-        <a class="nav-item nav-link{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}"
-          href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+          {{ else }}
+          <a class="nav-item nav-link{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{ end }}"
+            href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+          {{ end }}
         {{ end }}
-      {{ end }}
+      </div>
     </div>
   </div>
 </nav>
