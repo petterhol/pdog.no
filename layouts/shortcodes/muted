@@ -1,3 +1,0 @@
-<small class="text-muted">
-{{ .Inner }}
-</small>
