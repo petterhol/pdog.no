@@ -1,11 +1,6 @@
 {{ define "main" }}
   {{ with .Params.subtitle }}
-    <span class="subtitle">{{.}}</span>
+    <span class="subtitle">{{ . }}</span>
   {{ end }}
   {{ .Content }}
-{{ end }}
-
-{{ define "footer" }}
-<p>
-Heisann</p>
 {{ end }}

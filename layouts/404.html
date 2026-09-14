@@ -1,17 +1,10 @@
 
 {{ define "main"}}
-      <div>
-      <img class="img-fluid" src="../../404hund.png" alt="Bildet viser en hund som står ved en kjøttpresse og kverner kjøtt. Hunden har et litt forskrekket ansiktsuttrykk. På bildet står følgende tekst (på dansk): Katten!!!!!! Nej den har jeg ikke set ???">
-
-       <h4 id="title"><a href="{{ "/" | relURL }}">Gå til hovedsiden • </a>
-       <script>
-  document.write('<a href="' + document.referrer + '">Gå tilbake til forrige side</a>');
-</script>
-</h4>
-
-Hvis du havnet her fordi du trykket på en lenke, send gjerne informasjon om hvor du fant denne
-lenken til meg. Du kan gjerne bruke følgende e-postadresse:
-<a href="mailto:404@pdog.no">404@pdog.no</a>.
-
-      </div>
+<div>
+  <h2>Fant ikke siden</h2>
+  <p class="lead">Siden du leter etter finnes ikke.</p>
+  <p>
+    <a href="{{ "/" | relURL }}">Gå til forsiden</a>
+  </p>
+</div>
 {{ end }}

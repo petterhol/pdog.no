@@ -1,7 +1,7 @@
 {
-  "name": "pdog.no",
+  "name": "ryddedagen.no",
   "version": "1.0.0",
-  "description": "Hjemmeside for Petter Holstad. <https://pdog.no>",
+  "description": "Hjemmeside for ryddedagen.no.",
   "main": "index.js",
   "directories": {
     "test": "tests"

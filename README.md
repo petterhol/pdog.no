@@ -1,6 +1,6 @@
-# pdog.no
+# ryddedagen.no
 
-Hjemmeside for Petter Holstad. <https://pdog.no>
+Hjemmeside for ryddedagen.no.
 
 ## Forutsetninger
 
@@ -11,7 +11,7 @@ Installer [Hugo](https://gohugo.io/getting-started/installing/).
 For å bygge nettsiden må du være i prosjektmappen og kjøre `hugo`.
 
 ```shell
-cd pdog.no
+cd ryddedagen.no
 hugo
 ```
 
