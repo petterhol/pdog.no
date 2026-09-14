@@ -1,7 +1,7 @@
 {{/* collapse-arrow shortcode: usage {{< collapse-arrow id="unique" label="Text" >}}Inner{{< /collapse-arrow >}} */}}
 {{ $id := .Get "id" | default (printf "collapse-%d" .Ordinal) }}
 <p>
-  <a href="#{{$id}}" class="text-primary" data-toggle="collapse" aria-expanded="false" aria-controls="{{$id}}">
+  <a href="#{{$id}}" class="text-primary" data-bs-toggle="collapse" aria-expanded="false" aria-controls="{{$id}}">
     <i class="fas fa-arrow-right" id="{{$id}}-icon"></i> {{ .Get "label" }}
   </a>
 </p>
