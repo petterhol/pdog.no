@@ -1,9 +1,6 @@
-# This is a basic workflow to help you get started with Actions
-
 name: CI
 
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the main branch
+# Kjører på push og pull request mot main
 on:
   push:
     branches: [ main ]
@@ -12,16 +9,42 @@ on:
 
 jobs:
   markdownlint:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-    - name: markdownlint-cli
-      uses: nosborn/github-action-markdown-cli@v1.1.1
-      with:
-        files: .
-        config_file: ".markdownlint.json"
+      - name: markdownlint-cli
+        uses: nosborn/github-action-markdown-cli@v1.1.1
+        with:
+          files: .
+          config_file: ".markdownlint.json"
+
+  hugo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sett opp Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Bygg nettsiden
+        run: hugo --minify
+
+      # Første kjøring viser også advarsler, men stopper ikke bygget
+      - name: HTML5-validering (med advarsler)
+        uses: Cyb3r-Jak3/html5validator-action@master
+        with:
+          root: public/
+          extra: --show-warnings
+        continue-on-error: true
+
+      # Andre kjøring er den som avgjør: feil her feller bygget
+      - name: HTML5-validering
+        uses: Cyb3r-Jak3/html5validator-action@master
+        with:
+          root: public/

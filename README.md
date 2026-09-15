@@ -25,12 +25,23 @@ markdownlint-kontroll. For å unngå for mange markdownlint-commits, bruker vi
 [https://dlaa.me/markdownlint/](https://dlaa.me/markdownlint/) til å kontrollere
 dokumentene før vi commiter.
 
-## hugo validator
+## HTML5-validering
 
-Det er også installert en kontroll for hugo som sjekker de ferdige HTML-filene
-som genereres. For å unngå for mange hugo-commits, bruker vi
-[https://html5.validator.nu](https://html5.validator.nu) til å kontrollere dokumentene
-før vi commiter.
+Hver merge går gjennom en HTML5-validering. `hugo`-jobben i
+`.github/workflows/main.yml` bygger nettsiden med `hugo --minify` og kjører
+[v.Nu](https://validator.github.io/validator/) mot alt som havner i `public/`.
+Valideringen kjøres to ganger: først med `--show-warnings`, som bare er til
+informasjon, og så uten, og det er den siste som feller bygget hvis den finner
+feil.
 
-*Hugo validator er foreløpig deaktivert grunnet en uløselig konflikt i pull
-request #44. Denne aktiveres på et senere tidspunkt*.
+For å slippe unødvendige rettecommits kan du kontrollere en side før du
+commiter, enten på [html5.validator.nu](https://html5.validator.nu) eller
+lokalt:
+
+```shell
+pip install html5validator
+hugo --minify
+html5validator --root public/ --show-warnings
+```
+
+Merk at `html5validator` trenger Java installert.
