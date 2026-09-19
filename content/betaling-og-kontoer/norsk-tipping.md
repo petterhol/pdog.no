@@ -1,10 +1,6 @@
 +++
 title = "Norsk Tipping"
 weight = 3
-[menu.main]
-  parent = "betaling-og-kontoer"
-  name = "Norsk Tipping"
-  weight = 3
 [[knapper]]
   tekst = "Logg inn på norsk-tipping.no"
   url = "https://norsk-tipping.no"

@@ -1,10 +1,6 @@
 +++
 title = "Pass og ID-kort"
 weight = 2
-[menu.main]
-  parent = "id-nokler-tilgang"
-  name = "Pass og ID-kort"
-  weight = 2
 [[knapper]]
   tekst = "Bestill time for pass og ID-kort på politiet.no"
   url = "https://www.politiet.no/tjenester/pass-og-id-kort/bestille-endre-eller-avbestille-time-til-pass-og-id-kort/"

@@ -1,10 +1,6 @@
 +++
 title = "Kredittopplysningsbyrå og kredittsperre"
 weight = 1
-[menu.main]
-  parent = "betaling-og-kontoer"
-  name = "Kredittopplysningsbyrå og kredittsperre"
-  weight = 1
 [[knapper]]
   tekst = "Gå til Datatilsynets liste"
   url = "https://www.datatilsynet.no/personvern-pa-ulike-omrader/kredittvurdering/virksomheter-som-kredittvurderer/"

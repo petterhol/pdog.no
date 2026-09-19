@@ -1,10 +1,6 @@
 +++
 title = "PayPal"
 weight = 4
-[menu.main]
-  parent = "betaling-og-kontoer"
-  name = "PayPal"
-  weight = 4
 [[knapper]]
   tekst = "Logg inn på paypal.com"
   url = "https://paypal.com"

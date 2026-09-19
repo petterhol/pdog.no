@@ -1,10 +1,6 @@
 +++
 title = "Prikker i førerkort"
 weight = 6
-[menu.main]
-  parent = "myndighetene"
-  name = "Prikker i førerkort"
-  weight = 6
 [[knapper]]
   tekst = "Logg inn på politiet.no"
   url = "https://www.politiet.no/tjenester/forerkort-og-kjoreseddel/prikker-i-forerkortet"

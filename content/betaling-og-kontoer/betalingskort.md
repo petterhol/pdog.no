@@ -1,10 +1,6 @@
 +++
 title = "Betalingskort"
 weight = 5
-[menu.main]
-  parent = "betaling-og-kontoer"
-  name = "Betalingskort"
-  weight = 5
 +++
 
 Med betalingskort mener jeg bankkort, debitkort, kredittkort og så videre. Har du oversikt over

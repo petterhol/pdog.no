@@ -1,10 +1,6 @@
 +++
 title = "Facebook"
 weight = 2
-[menu.main]
-  parent = "datasikkerhet"
-  name = "Facebook"
-  weight = 2
 [[knapper]]
   tekst = "Gå til Facebook-innstillingene"
   url = "https://www.facebook.com/settings"

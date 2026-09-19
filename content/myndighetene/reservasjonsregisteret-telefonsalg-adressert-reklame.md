@@ -1,10 +1,6 @@
 +++
 title = "Reservasjonsregisteret (telefonsalg, adressert reklame)"
 weight = 8
-[menu.main]
-  parent = "myndighetene"
-  name = "Reservasjonsregisteret (telefonsalg, adressert reklame)"
-  weight = 8
 [[knapper]]
   tekst = "Logg inn på Reservasjonsregisteret"
   url = "https://www.brreg.no/om-oss/registrene-vare/om-reservasjonsregisteret/reservasjon-mot-telefonsalg-og-adressert-reklame/"

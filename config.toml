@@ -5,35 +5,3 @@ title = "ryddedagen.no"
 
 [markup.goldmark.renderer]
 unsafe = true
-
-# Nedtrekksknappen er ikke klikkbar, så kategorisidene får egne oppføringer
-[[menu.main]]
-  parent = "myndighetene"
-  identifier = "myndighetene-oversikt"
-  name = "Oversikt"
-  url = "/myndighetene/"
-  weight = -1
-[[menu.main]]
-  parent = "postkasser"
-  identifier = "postkasser-oversikt"
-  name = "Oversikt"
-  url = "/postkasser/"
-  weight = -1
-[[menu.main]]
-  parent = "id-nokler-tilgang"
-  identifier = "id-nokler-tilgang-oversikt"
-  name = "Oversikt"
-  url = "/id-nokler-tilgang/"
-  weight = -1
-[[menu.main]]
-  parent = "betaling-og-kontoer"
-  identifier = "betaling-og-kontoer-oversikt"
-  name = "Oversikt"
-  url = "/betaling-og-kontoer/"
-  weight = -1
-[[menu.main]]
-  parent = "datasikkerhet"
-  identifier = "datasikkerhet-oversikt"
-  name = "Oversikt"
-  url = "/datasikkerhet/"
-  weight = -1

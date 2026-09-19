@@ -1,10 +1,6 @@
 +++
 title = "Nav"
 weight = 10
-[menu.main]
-  parent = "myndighetene"
-  name = "Nav"
-  weight = 10
 [[knapper]]
   tekst = "Logg inn på nav.no"
   url = "https://nav.no"

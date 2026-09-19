@@ -1,10 +1,6 @@
 +++
 title = "NRK TV"
 weight = 2
-[menu.main]
-  parent = "myndighetene"
-  name = "NRK TV"
-  weight = 2
 [[knapper]]
   tekst = "Gå inn på nrk.no"
   url = "https://innlogging.nrk.no"

@@ -1,10 +1,6 @@
 +++
 title = "MinID"
 weight = 3
-[menu.main]
-  parent = "id-nokler-tilgang"
-  name = "MinID"
-  weight = 3
 [[knapper]]
   tekst = "Les mer på minid.no"
   url = "https://minid.no"

@@ -1,10 +1,6 @@
 +++
 title = "Digipost/eBoks"
 weight = 1
-[menu.main]
-  parent = "postkasser"
-  name = "Digipost/eBoks"
-  weight = 1
 [[knapper]]
   tekst = "Logg inn på digipost.no"
   url = "https://digipost.no"

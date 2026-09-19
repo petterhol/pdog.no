@@ -1,10 +1,6 @@
 +++
 title = "Skatteetaten"
 weight = 9
-[menu.main]
-  parent = "myndighetene"
-  name = "Skatteetaten"
-  weight = 9
 [[knapper]]
   tekst = "Logg inn på skatteten.no"
   url = "https://www.skatteetaten.no/person/"

@@ -1,10 +1,6 @@
 +++
 title = "Biblioteket"
 weight = 3
-[menu.main]
-  parent = "myndighetene"
-  name = "Biblioteket"
-  weight = 3
 +++
 
 Det lokale biblioteket ditt har sannsynligvis en side du kan logge inn på for å sjekke ting som

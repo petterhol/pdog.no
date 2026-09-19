@@ -1,10 +1,6 @@
 +++
 title = "Fysiske nøkler og adgangsbrikker"
 weight = 1
-[menu.main]
-  parent = "id-nokler-tilgang"
-  name = "Fysiske nøkler og adgangsbrikker"
-  weight = 1
 +++
 
 En årlig revisjon kan være et godt tidspunkt for å sjekke din beholdning av fysiske nøkler og

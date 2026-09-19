@@ -1,10 +1,6 @@
 +++
 title = "Sjekk etter lekkede brukerdetaljer"
 weight = 3
-[menu.main]
-  parent = "datasikkerhet"
-  name = "Sjekk etter lekkede brukerdetaljer"
-  weight = 3
 [[knapper]]
   tekst = "Gå til haveibeenpwned.com"
   url = "https://haveibeenpwned.com"

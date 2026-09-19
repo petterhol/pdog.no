@@ -1,10 +1,6 @@
 +++
 title = "Gavekort-gjennomgang"
 weight = 2
-[menu.main]
-  parent = "betaling-og-kontoer"
-  name = "Gavekort-gjennomgang"
-  weight = 2
 +++
 
 Har du noen gavekort liggende? Kanskje du fikk noen til jul? Samle de, og lag påminnelser slik

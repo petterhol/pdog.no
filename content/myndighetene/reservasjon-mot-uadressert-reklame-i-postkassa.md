@@ -1,10 +1,6 @@
 +++
 title = "Reservasjon mot uadressert reklame i postkassa"
 weight = 7
-[menu.main]
-  parent = "myndighetene"
-  name = "Reservasjon mot uadressert reklame i postkassa"
-  weight = 7
 [[knapper]]
   tekst = "Besøk Postens skiltbutikk"
   url = "https://skiltbutikken.posten.no"

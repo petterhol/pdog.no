@@ -1,10 +1,6 @@
 +++
 title = "Bankforbindelser"
 weight = 6
-[menu.main]
-  parent = "betaling-og-kontoer"
-  name = "Bankforbindelser"
-  weight = 6
 +++
 
 Har du oversikt over alle bankkonti du har? Kanskje fra en gammel bank, kanskje fra den gang du

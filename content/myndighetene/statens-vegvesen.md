@@ -1,10 +1,6 @@
 +++
 title = "Statens vegvesen"
 weight = 5
-[menu.main]
-  parent = "myndighetene"
-  name = "Statens vegvesen"
-  weight = 5
 [[knapper]]
   tekst = "Logg inn på vegvesen.no"
   url = "https://www.vegvesen.no/dinside/"

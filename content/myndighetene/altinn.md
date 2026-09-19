@@ -1,10 +1,6 @@
 +++
 title = "Altinn"
 weight = 1
-[menu.main]
-  parent = "myndighetene"
-  name = "Altinn"
-  weight = 1
 [[knapper]]
   tekst = "Logg inn på altinn.no"
   url = "https://altinn.no"

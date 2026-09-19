@@ -1,10 +1,6 @@
 +++
 title = "Strex"
 weight = 7
-[menu.main]
-  parent = "betaling-og-kontoer"
-  name = "Strex"
-  weight = 7
 [[knapper]]
   tekst = "Logg inn på Strex.no"
   url = "https://strex.no"

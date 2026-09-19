@@ -1,10 +1,6 @@
 +++
 title = "Søk på deg selv på internett"
 weight = 1
-[menu.main]
-  parent = "datasikkerhet"
-  name = "Søk på deg selv på internett"
-  weight = 1
 +++
 
 Ved å søke på deg selv på diverse søkemotorer, kan du finne ut om det er noen ting ute om deg
