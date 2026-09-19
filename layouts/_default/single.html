@@ -3,4 +3,13 @@
     <span class="subtitle">{{ . }}</span>
   {{ end }}
   {{ .Content }}
+
+  {{ with .Params.knapper }}
+  <div class="text-center my-4">
+    {{ range . }}
+    <a class="btn btn-primary m-1" href="{{ .url }}"
+       target="_blank" rel="noreferrer noopener">{{ .tekst }}</a>
+    {{ end }}
+  </div>
+  {{ end }}
 {{ end }}

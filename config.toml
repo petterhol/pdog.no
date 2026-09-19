@@ -1,7 +1,7 @@
 baseURL = "https://ryddedagen.no"
 languageCode = "nb"
 defaultContentLanguage = "nb"
-title = "Petter Dog Holstad"
+title = "ryddedagen.no"
 
 [markup.goldmark.renderer]
 unsafe = true
