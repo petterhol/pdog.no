@@ -11,3 +11,6 @@ Ideer til pdog.no.mindnode/viewState.plist
 .DS_Store
 .DS_Store
 .hugo_build*.lock
+
+# Personlige notater, ikke en del av nettstedet
+Ryddedagen.md
