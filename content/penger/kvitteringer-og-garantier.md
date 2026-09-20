@@ -1,4 +1,4 @@
 +++
 title = "Kvitteringer og garantier"
-weight = 12
+weight = 8
 +++

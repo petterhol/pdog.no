@@ -1,4 +1,4 @@
 +++
 title = "Fritid"
-weight = 12
+weight = 11
 +++

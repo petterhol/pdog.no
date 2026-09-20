@@ -5,3 +5,28 @@ title = "ryddedagen.no"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[[menu.footer]]
+  name = "Om ryddedagen.no"
+  pageRef = "/om"
+  weight = 1
+
+[[menu.footer]]
+  name = "Personvern"
+  pageRef = "/personvern"
+  weight = 2
+
+[[menu.footer]]
+  name = "Kontakt"
+  pageRef = "/kontakt"
+  weight = 3
+
+[[menu.footer]]
+  name = "Rapporter feil eller unøyaktigheter"
+  pageRef = "/rapporter-feil"
+  weight = 4
+
+[[menu.footer]]
+  name = "Kom med nye ideer"
+  pageRef = "/nye-ideer"
+  weight = 5

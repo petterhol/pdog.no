@@ -1,6 +1,6 @@
 +++
 title = "PayPal"
-weight = 4
+weight = 13
 [[knapper]]
   tekst = "Logg inn på paypal.com"
   url = "https://paypal.com"

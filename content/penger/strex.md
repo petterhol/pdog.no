@@ -1,6 +1,6 @@
 +++
 title = "Strex"
-weight = 5
+weight = 11
 [[knapper]]
   tekst = "Logg inn på Strex.no"
   url = "https://strex.no"

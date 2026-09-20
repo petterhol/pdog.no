@@ -1,4 +1,4 @@
 +++
 title = "Penger"
-weight = 3
+weight = 2
 +++

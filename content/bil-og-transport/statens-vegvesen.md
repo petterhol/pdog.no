@@ -1,6 +1,6 @@
 +++
 title = "Statens vegvesen"
-weight = 1
+weight = 5
 [[knapper]]
   tekst = "Logg inn på vegvesen.no"
   url = "https://www.vegvesen.no/dinside/"

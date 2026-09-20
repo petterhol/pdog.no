@@ -1,0 +1,8 @@
+# Noder i kartet som IKKE skal bli egne sider.
+# Én nodetittel per linje. Linjer som starter med # er kommentarer.
+# Brukes for overskrifter og for punkter som hører hjemme som tekst på siden over.
+Ha BankID klar
+Åpne passordbehandleren
+Last ned kontoutskrifter for de siste tre månedene
+Lad telefonen og PC-en
+Sosiale medier

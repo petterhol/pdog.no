@@ -1,10 +1,17 @@
 # ryddedagen.no
 
-Hjemmeside for ryddedagen.no.
-
 ## Forutsetninger
 
 Installer [Hugo](https://gohugo.io/getting-started/installing/).
+
+## Jobb med forhåndsvisning
+
+For å vise en forhåndsvisning må du være i prosjektmappen og kjøre `hugo serve`.
+
+```shell
+cd ryddedagen.no
+hugo serve
+```
 
 ## Bygg nettsiden
 
@@ -43,5 +50,3 @@ pip install html5validator
 hugo --minify
 html5validator --root public/ --show-warnings
 ```
-
-Merk at `html5validator` trenger Java installert.

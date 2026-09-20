@@ -1,6 +1,6 @@
 +++
 title = "Prikker i førerkort"
-weight = 6
+weight = 7
 [[knapper]]
   tekst = "Logg inn på politiet.no"
   url = "https://www.politiet.no/tjenester/forerkort-og-kjoreseddel/prikker-i-forerkortet"

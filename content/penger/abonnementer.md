@@ -1,4 +1,4 @@
 +++
 title = "Abonnementer"
-weight = 6
+weight = 12
 +++

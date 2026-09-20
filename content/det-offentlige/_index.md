@@ -1,4 +1,4 @@
 +++
 title = "Det offentlige"
-weight = 4
+weight = 3
 +++
