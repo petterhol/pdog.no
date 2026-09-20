@@ -31,17 +31,14 @@
     {{ partial "nav.html" . }}
   </header>
   <br><br><br><br>
-  <main class="col-md-9 col-xl-8 py-md-3 ps-md-5 bd-content">
+  <main class="col-md-9 col-xl-8 py-md-3 ps-3 ps-md-5 bd-content">
     {{ with .Title }}
       <h1>{{ . }}</h1>
     {{ end }}
     {{ block "main" . }}
     {{ end }}
   </main>
-  <footer class="text-body-secondary small text-center p-3">
-<hr>
-<!-- <img src="/favicon.png" height="20" alt=""> --> Nettsiden er utviklet av <a href="https://ryddedagen.no/">Petter Dog Holstad</a> og <a href="https://stigjohan.no/">Stig Johan Berggren</a>.
-</footer>
+  {{ partial "footer.html" . }}
 
 </body>
 

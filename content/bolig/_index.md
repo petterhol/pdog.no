@@ -1,4 +1,4 @@
 +++
 title = "Bolig"
-weight = 5
+weight = 4
 +++

@@ -1,4 +1,4 @@
 +++
 title = "Beredskap"
-weight = 9
+weight = 8
 +++

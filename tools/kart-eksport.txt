@@ -1,0 +1,161 @@
+Ryddedagen
+  • ID og innlogging (http://localhost:1313/id-og-innlogging/)
+    • Kontakt- og reservasjonsregisteret (http://localhost:1313/id-og-innlogging/kontakt-og-reservasjonsregisteret/)
+      • Sjekk at mobilnummer og e-post er riktig
+    • ID-porten og BankID (http://localhost:1313/id-og-innlogging/id-porten-og-bankid/)
+      • Sjekk at innloggingen fungerer
+      • Forklare forskjell på ID-porten, BankID, MinID osv..
+      • Ha en reserveløsning
+    • MinID (http://localhost:1313/id-og-innlogging/minid/)
+    • Pass og ID-kort (http://localhost:1313/id-og-innlogging/pass-og-id-kort/)
+      • Sjekk utløpsdato
+      • Ta bilde av
+    • Passordbehandler og tofaktor (http://localhost:1313/id-og-innlogging/passordbehandler-og-tofaktor/)
+      • Skru på tofaktor på viktige kontoer
+      • Lagre reservekoder et trygt sted
+  • Penger (http://localhost:1313/penger/)
+    • Bankforbindelser (http://localhost:1313/penger/bankkonti/)
+      • Avslutt kontoer du ikke bruker
+      • AvtaleGiro og eFaktura
+    • Betalingskort (http://localhost:1313/penger/betalingskort/)
+      • Sjekk utløpsdato
+      • Fjern kort lagret i nettbutikker du ikke bruker
+    • Gavekort og tilgodelapper (http://localhost:1313/penger/gavekort-gjennomgang/)
+      • Bruk dem før de går ut
+      • Lag oversikt
+    • Wise (http://localhost:1313/penger/wise/)
+      • Må undersøke dette nærmere
+    • Gjeldsregisteret (http://localhost:1313/penger/gjeldsregisteret/)
+      • Sjekk usikret gjeld (kredittkort, forbrukslån)
+      • Også brreg sin
+    • Pensjon (http://localhost:1313/penger/pensjon/)
+      • Norsk Pensjon: oversikt over pensjonen din
+      • Egen pensjonskonto: sjekk forvalter og gebyrer
+      • Sjekk pensjon fra tidligere arbeidsgivere
+    • Forsikringer (http://localhost:1313/penger/forsikringer/)
+      • Se etter dobbeltforsikring
+      • Sjekk at dekningen stemmer med det du eier
+    • Kvitteringer og garantier i boks (http://localhost:1313/penger/kvitteringer-og-garantier/)
+      • Samle kvitteringer for ting med garanti eller reklamasjonsrett
+    • Digitale lommebøker (http://localhost:1313/penger/digitale-lommeboker/)
+    • Vipps (http://localhost:1313/penger/vipps/)
+    • Strex (betaling over mobilregningen) (http://localhost:1313/penger/strex/)
+    • Abonnementer (http://localhost:1313/penger/abonnementer/)
+      • Gå gjennom kontoutskriftene
+      • Strømmetjenester
+      • Aviser og magasiner
+      • Apper (App Store og Google Play)
+      • Trening
+      • Strøm, mobil og bredbånd
+        • Er prisen fortsatt riktig?
+    • PayPal: automatiske betalinger (http://localhost:1313/penger/paypal/)
+  • Det offentlige (http://localhost:1313/det-offentlige/)
+    • Skatteetaten (http://localhost:1313/det-offentlige/skatteetaten-mine-sider/)
+      • Sjekk skattekortet
+      • Sjekk adressen i Folkeregisteret
+      • Delegering
+    • Nav (http://localhost:1313/det-offentlige/nav/)
+      • Sjekk kontonummeret
+      • Se pensjonsopptjeningen
+      • Sjekk arbeidsforholdene dine hos Nav
+    • Altinn (http://localhost:1313/det-offentlige/altinn/)
+      • Rydd i fullmakter og roller
+  • Bolig (http://localhost:1313/bolig/)
+    • Tømmekalender (http://localhost:1313/bolig/tommekalender/)
+      • Legg den inn i kalenderen
+    • Fysiske nøkler (http://localhost:1313/bolig/fysiske-nokler-og-adgangsbrikker/)
+      • Ta bilde av
+      • Hvem har kopi?
+    • Røykvarsler og brannslukker (http://localhost:1313/bolig/roykvarsler-og-brannslukker/)
+      • Test røykvarsleren og bytt batteri
+      • Sjekk trykket på brannslukkeren
+    • Test jordfeilbryteren (http://localhost:1313/bolig/jordfeilbryter/)
+    • Kartverket (http://localhost:1313/bolig/kartverket/)
+      • Gjelder hvis du eier bolig
+      • Sjekk heftelser på eiendommen
+    • Kjæledyr (http://localhost:1313/bolig/kjaeledyr/)
+      • Sjekk at kontaktinformasjonen i DyreID stemmer
+  • Bil og transport (http://localhost:1313/bil-og-transport/)
+    • Frist for EU-kontroll (http://localhost:1313/bil-og-transport/eu-kontroll/)
+    • Bilforsikring (http://localhost:1313/bil-og-transport/bilforsikring/)
+    • Bombrikke (AutoPASS) (http://localhost:1313/bil-og-transport/bombrikke/)
+    • Parkerings- og ladeapper (http://localhost:1313/bil-og-transport/parkerings-og-ladeapper/)
+      • Fjern lagrede kort du ikke bruker
+    • Sjekk hvilke kjøretøy som er registrert på deg (http://localhost:1313/bil-og-transport/statens-vegvesen/)
+    • Førerkort (http://localhost:1313/bil-og-transport/forerkort/)
+      • Sjekk utløpsdato
+      • Digitalt førerkort: sjekk at innloggingen fungerer (https://www.nrk.no/vestfoldogtelemark/digitalt-forarkort_-politiet-ber-bilistar-sjekke-innlogging-for-koyreturen-1.17934411)
+      • Prikker i førerkort (http://localhost:1313/bil-og-transport/prikker-i-forerkortet/)
+  • Reise (http://localhost:1313/reise/)
+    • EU-kort (http://localhost:1313/reise/eu-kort/)
+      • Sjekk utløpsdato
+    • Reiseforsikring (http://localhost:1313/reise/reiseforsikring/)
+      • Dekker kredittkortet?
+    • Innreisetillatelser (http://localhost:1313/reise/innreisetillatelser/)
+      • ESTA (USA) og ETA (Storbritannia) har utløpsdato
+  • Helse (http://localhost:1313/helse/)
+    • Helsenorge (http://localhost:1313/helse/helsenorge/)
+      • Sjekk fastlege
+      • Sjekk hvem som har fullmakt
+    • Lever gamle medisiner på apoteket (http://localhost:1313/helse/gamle-medisiner/)
+    • Nødkontakt og medisinsk ID på telefonen (http://localhost:1313/helse/nodkontakt-og-medisinsk-id/)
+  • Beredskap (http://localhost:1313/beredskap/)
+    • Sjekk lageret mot DSBs egenberedskapsråd (http://localhost:1313/beredskap/egenberedskap/)
+      • Mat og vann
+      • Medisiner
+      • Radio og batterier
+    • Kontanter hjemme (http://localhost:1313/beredskap/kontanter-hjemme/)
+    • Sjekk holdbarhetsdatoer (http://localhost:1313/beredskap/holdbarhetsdatoer/)
+  • Post og reklame (http://localhost:1313/post-og-reklame/)
+    • Digipost eller e-Boks (http://localhost:1313/post-og-reklame/digiposteboks/)
+      • Velg én, og sjekk at varslene kommer fram
+    • Reservasjon mot adressert reklame og telefonsalg (http://localhost:1313/post-og-reklame/reservasjonsregisteret-telefonsalg-adressert-reklame/)
+      • Reservasjonsregisteret
+    • Reservasjon mot uadressert reklame (http://localhost:1313/post-og-reklame/reservasjon-mot-uadressert-reklame-i-postkassa/)
+  • Personvern og sikkerhet (http://localhost:1313/personvern-og-sikkerhet/)
+    • Søk på deg selv (http://localhost:1313/personvern-og-sikkerhet/sok-pa-deg-selv-pa-internett/)
+    • Lekkede brukerdetaljer (http://localhost:1313/personvern-og-sikkerhet/sjekk-etter-lekkede-brukerdetaljer/)
+    • Kredittopplysning og kredittsperre (http://localhost:1313/personvern-og-sikkerhet/kredittopplysningsbyra-og-kredittsperre/)
+    • Sosiale medier
+      • Facebook-venner
+      • Tilkoblede apper
+      • Hvem kan se hva
+      • Facebook (http://localhost:1313/personvern-og-sikkerhet/facebook/)
+    • Slett gamle kontoer (http://localhost:1313/personvern-og-sikkerhet/slett-gamle-kontoer/)
+    • Innloggede enheter (http://localhost:1313/personvern-og-sikkerhet/innloggede-enheter/)
+      • Apple, Google og Microsoft
+    • Hjemmenettet (http://localhost:1313/personvern-og-sikkerhet/hjemmenettet/)
+      • Bytt standardpassord på ruteren
+      • Oppdater ruteren
+    • Reserver deg mot oppføring hos 1881 og Gulesider (http://localhost:1313/personvern-og-sikkerhet/oppforing-hos-1881-og-gulesider/)
+    • Gamle mobiler og PC-er (http://localhost:1313/personvern-og-sikkerhet/gamle-mobiler-og-pcer/)
+      • Tilbakestill før du selger eller kaster
+    • Sikkerhetskopi (http://localhost:1313/personvern-og-sikkerhet/sikkerhetskopi/)
+      • Sjekk at den faktisk kjører
+  • Fritid (http://localhost:1313/fritid/)
+    • NRK TV i utlandet (http://localhost:1313/fritid/nrk-tv/)
+    • Biblioteket (http://localhost:1313/fritid/biblioteket/)
+      • Lånekort og lån
+    • Norsk Tipping (http://localhost:1313/fritid/norsk-tipping/)
+      • Grasrotandelen
+      • Kontonummer
+      • Spillegrenser
+    • Bonusprogram og poeng (http://localhost:1313/fritid/bonusprogram-og-poeng/)
+      • Bruk poengene før de går ut
+  • Medlemskap og verv (http://localhost:1313/medlemskap-og-verv/)
+    • Slett deg fra gamle verv (http://localhost:1313/medlemskap-og-verv/gamle-verv/)
+    • Roller i Brønnøysundregistrene (http://localhost:1313/medlemskap-og-verv/roller-i-bronnoysundregistrene/)
+    • Medlemskap du betaler for (http://localhost:1313/medlemskap-og-verv/medlemskap-du-betaler-for/)
+    • Tros- og livssynssamfunn (http://localhost:1313/medlemskap-og-verv/tros-og-livssynssamfunn/)
+  • Hvis noe skjer (http://localhost:1313/hvis-noe-skjer/)
+    • Fremtidsfullmakt (http://localhost:1313/hvis-noe-skjer/fremtidsfullmakt/)
+      • Prosjekt. Første steg: bestem hvem du vil gi fullmakt
+    • Testament (http://localhost:1313/hvis-noe-skjer/testament/)
+      • Prosjekt. Første steg: skriv ned hvem som skal ha hva
+    • Digital arv (http://localhost:1313/hvis-noe-skjer/digital-arv/)
+      • Apple, Google og Facebook
+    • Oversikt til dem som blir igjen (http://localhost:1313/hvis-noe-skjer/oversikt-til-de-etterlatte/)
+      • Prosjekt. Første steg: skriv ned hvor viktige papirer og kontoer ligger
+    • Hvem får utbetalt forsikring og pensjon (http://localhost:1313/hvis-noe-skjer/utbetaling-av-forsikring-og-pensjon/)
+  • Arbeid og studier (http://localhost:1313/arbeid-og-studier/)
+    • Lagre vitnemål (http://localhost:1313/arbeid-og-studier/vitnemal/)

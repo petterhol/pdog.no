@@ -1,6 +1,6 @@
 +++
 title = "Gavekort-gjennomgang"
-weight = 7
+weight = 3
 +++
 
 Har du noen gavekort liggende? Kanskje du fikk noen til jul? Samle de, og lag påminnelser slik

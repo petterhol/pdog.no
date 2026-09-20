@@ -1,4 +1,4 @@
 +++
 title = "Forsikringer"
-weight = 11
+weight = 7
 +++

@@ -1,4 +1,4 @@
 +++
 title = "Personvern og sikkerhet"
-weight = 11
+weight = 10
 +++

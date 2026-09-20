@@ -1,4 +1,4 @@
 +++
 title = "Pensjon"
-weight = 10
+weight = 6
 +++

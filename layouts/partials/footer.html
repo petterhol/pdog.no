@@ -1,0 +1,21 @@
+<footer class="text-body-secondary small text-center p-3">
+  <hr>
+  {{ with site.Menus.footer }}
+  <nav aria-label="Bunnmeny">
+    <ul class="list-inline mb-2">
+      {{ range . }}
+        {{ $adresse := .URL }}
+        {{ with .Page }}{{ $adresse = .RelPermalink }}{{ end }}
+        <li class="list-inline-item">
+          <a href="{{ $adresse }}"{{ if $.IsMenuCurrent "footer" . }} aria-current="page"{{ end }}>{{ .Name }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+  {{ end }}
+  <p class="mb-0">
+    <!-- <img src="/favicon.png" height="20" alt=""> -->
+    Redaktør: <a href="https://petter.dog/">Petter Dog Holstad</a>
+    Teknisk utvikling av: <a href="https://stigjohan.no/">Stig Johan Berggren</a>.
+  </p>
+</footer>

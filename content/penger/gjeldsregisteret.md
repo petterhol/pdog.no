@@ -1,4 +1,4 @@
 +++
 title = "Gjeldsregisteret"
-weight = 9
+weight = 5
 +++

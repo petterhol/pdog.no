@@ -1,4 +1,4 @@
 +++
 title = "Helse"
-weight = 8
+weight = 7
 +++

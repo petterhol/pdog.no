@@ -1,4 +1,4 @@
 +++
 title = "Arbeid og studier"
-weight = 15
+weight = 14
 +++

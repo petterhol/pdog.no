@@ -1,4 +1,4 @@
 +++
 title = "Bilforsikring"
-weight = 3
+weight = 2
 +++
