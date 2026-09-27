@@ -1,0 +1,19 @@
+{{- /*
+  fremdrift.html - tallet for gjeldende side, i liten grå skrift.
+
+  Rendres fra partials/sidelinje.html, altså i navbarens andre rad, til
+  høyre for hvilken side man er på. Fylles av skriptet nederst i
+  baseof.html og starter skjult, så det aldri viser feil tall for noen uten
+  JavaScript. Skriptet lar det ligge skjult når siden ikke har handlinger.
+
+  Nullstillingsknappen ligger nederst på siden
+  (partials/nullstill.html), ikke her.
+
+  Ikke bruk d-flex her: utility-klassen er !important og slår ut
+  hidden-attributtet. Ikke bruk text-body-secondary heller, av samme grunn
+  overfor ferdig-fargen. Begge farger settes i style.css.
+*/ -}}
+
+<div class="fremdrift text-nowrap ms-auto" data-fremdrift hidden>
+  <span data-fremdrift-tekst></span>
+</div>

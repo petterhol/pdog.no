@@ -1,0 +1,14 @@
+{{- /*
+  nullstill.html - fjerner alle avkryssingene på siden.
+
+  Ligger nederst, etter siste handling: det er der man er når man er ferdig
+  eller vil begynne på nytt, og den slipper å trenge seg inn i navbaren.
+  Skriptet i baseof.html viser den først når noe faktisk er krysset av.
+
+  Rendres fra layouts/_default/single.html på sider som bruker «handling».
+*/ -}}
+
+<p class="nullstill small mt-4">
+  <button type="button" class="btn btn-link btn-sm p-0 align-baseline fremdrift-nullstill"
+          data-fremdrift-nullstill hidden>Nullstill avkryssingene på denne siden</button>
+</p>
