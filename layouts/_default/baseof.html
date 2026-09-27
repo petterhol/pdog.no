@@ -27,18 +27,200 @@
 </head>
 
 <body>
-  <header>
+  {{/* sticky-top hoerer paa <header>, ikke paa <nav>: et sticky element
+       kleber bare saa lenge forelderen er i bildet, og <header> er ikke
+       hoeyere enn baren selv. Baren ligger dermed i vanlig flyt og skyver
+       innholdet ned av seg selv naar menyen slaas ut - ingen utregnet
+       toppavstand, ingen maaling. */}}
+  <header class="sticky-top">
     {{ partial "nav.html" . }}
   </header>
-  <br><br><br><br>
   <main class="col-md-9 col-xl-8 py-md-3 ps-3 ps-md-5 bd-content">
-    {{ with .Title }}
-      <h1>{{ . }}</h1>
+    {{/* Sider med inngangskort rendrer tittelen inne i kortet. */}}
+    {{ if not (.HasShortcode "inngang") }}
+      {{ with .Title }}
+        <h1>{{ . }}</h1>
+      {{ end }}
     {{ end }}
     {{ block "main" . }}
     {{ end }}
   </main>
   {{ partial "footer.html" . }}
+
+
+  <!-- Avkryssing av handlinger: lagres per nettleser i localStorage.
+       Plukker opp alle elementer med data-handling-key, uansett side,
+       og fyller ut fremdriftsvisningen fra partials/fremdrift.html. -->
+  <script>
+    (function () {
+      'use strict';
+
+      var PREFIKS = 'ryddedagen:handling:';
+      var bokser = document.querySelectorAll('[data-handling-key]');
+      if (!bokser.length) { return; }
+
+      var linje = document.querySelector('[data-fremdrift]');
+      var tekstfelt = document.querySelector('[data-fremdrift-tekst]');
+      var stripe = document.querySelector('[data-fremdrift-stripe]');
+      var felt = document.querySelector('[data-fremdrift-felt]');
+      var nullstillKnapp = document.querySelector('[data-fremdrift-nullstill]');
+
+      function les(nokkel) {
+        try { return localStorage.getItem(PREFIKS + nokkel) === '1'; }
+        catch (e) { return false; }
+      }
+
+      function lagre(nokkel, avkrysset) {
+        try {
+          if (avkrysset) { localStorage.setItem(PREFIKS + nokkel, '1'); }
+          else { localStorage.removeItem(PREFIKS + nokkel); }
+        } catch (e) { /* privat modus eller blokkert lagring - hopp over */ }
+      }
+
+      function tegn(boks) {
+        var kort = boks.closest('[data-handling]');
+        if (kort) { kort.classList.toggle('handling--utfort', boks.checked); }
+      }
+
+      // Naar en handling krysses av, faller skjermbildet sammen igjen -
+      // det er ikke lenger noe man trenger aa se paa. Kalles bare naar
+      // noen faktisk krysser av, ikke ved innlasting, saa et bilde man
+      // selv har aapnet blir staaende aapent.
+      function lukkBilde(boks) {
+        var kort = boks.closest('[data-handling]');
+        if (!kort) { return; }
+        var bilde = kort.querySelector('details.handling-bilde');
+        if (bilde) { bilde.open = false; }
+      }
+
+      function oppdaterFremdrift() {
+        var gjort = 0;
+        Array.prototype.forEach.call(bokser, function (b) { if (b.checked) { gjort += 1; } });
+        var alle = bokser.length;
+        var andel = alle ? Math.round((gjort / alle) * 100) : 0;
+        var ferdig = (gjort === alle);
+
+        if (tekstfelt) {
+          tekstfelt.textContent = ferdig
+            ? 'Alle ' + alle + ' er gjort'
+            : gjort + ' av ' + alle + ' gjort';
+        }
+        if (felt) { felt.style.width = andel + '%'; }
+        if (stripe) {
+          stripe.classList.toggle('fremdriftstripe--ferdig', ferdig);
+          stripe.setAttribute('aria-hidden', 'true');
+          stripe.hidden = false;
+        }
+        if (nullstillKnapp) { nullstillKnapp.hidden = (gjort === 0); }
+        if (linje) {
+          linje.classList.toggle('fremdrift--ferdig', ferdig);
+          linje.hidden = false;
+        }
+      }
+
+      var sett = Object.create(null);
+
+      Array.prototype.forEach.call(bokser, function (boks) {
+        var nokkel = boks.getAttribute('data-handling-key');
+        if (!nokkel) { return; }
+        if (sett[nokkel]) {
+          console.warn('ryddedagen: duplikat handling-id "' + nokkel + '" pa denne siden.');
+        }
+        sett[nokkel] = true;
+
+        boks.checked = les(nokkel);
+        tegn(boks);
+
+        boks.addEventListener('change', function () {
+          lagre(nokkel, boks.checked);
+          tegn(boks);
+          if (boks.checked) { lukkBilde(boks); }
+          oppdaterFremdrift();
+        });
+      });
+
+      if (nullstillKnapp) {
+        nullstillKnapp.addEventListener('click', function () {
+          if (!window.confirm('Fjerne alle avkryssingene pa denne siden?')) { return; }
+          Array.prototype.forEach.call(bokser, function (boks) {
+            boks.checked = false;
+            lagre(boks.getAttribute('data-handling-key'), false);
+            tegn(boks);
+          });
+          oppdaterFremdrift();
+        });
+      }
+
+      // Hold flere aapne faner i synk.
+      window.addEventListener('storage', function (e) {
+        if (!e.key || e.key.indexOf(PREFIKS) !== 0) { return; }
+        var endret = e.key.slice(PREFIKS.length);
+        Array.prototype.forEach.call(bokser, function (boks) {
+          if (boks.getAttribute('data-handling-key') !== endret) { return; }
+          boks.checked = (e.newValue === '1');
+          tegn(boks);
+          if (boks.checked) { lukkBilde(boks); }
+        });
+        oppdaterFremdrift();
+      });
+
+      oppdaterFremdrift();
+    })();
+  </script>
+
+
+  <!-- Klikk paa et skjermbilde forstoerrer det i et <dialog>. Uten
+       JavaScript, eller i nettlesere uten showModal, gjoer lenken jobben
+       selv og aapner bildefila direkte. Esc, fokusfelle og bakgrunn
+       haandterer nettleseren naar dialogen aapnes som modal. -->
+  <script>
+    (function () {
+      'use strict';
+
+      var lenker = document.querySelectorAll('[data-bildelenke]');
+      if (!lenker.length) { return; }
+      if (typeof document.createElement('dialog').showModal !== 'function') { return; }
+
+      var vindu = null;
+      var vindusbilde = null;
+
+      function lagVindu() {
+        vindu = document.createElement('dialog');
+        vindu.className = 'bildevindu';
+
+        var lukk = document.createElement('button');
+        lukk.type = 'button';
+        lukk.className = 'bildevindu-lukk';
+        lukk.setAttribute('aria-label', 'Lukk bildet');
+        lukk.innerHTML = '&times;';
+
+        vindusbilde = document.createElement('img');
+        vindusbilde.className = 'bildevindu-bilde';
+
+        vindu.appendChild(lukk);
+        vindu.appendChild(vindusbilde);
+        document.body.appendChild(vindu);
+
+        lukk.addEventListener('click', function () { vindu.close(); });
+        vindu.addEventListener('click', function (e) {
+          if (e.target === vindu) { vindu.close(); }
+        });
+      }
+
+      Array.prototype.forEach.call(lenker, function (lenke) {
+        lenke.addEventListener('click', function (e) {
+          // La folk fortsatt aapne bildet i ny fane med cmd/ctrl/shift.
+          if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button !== 0) { return; }
+          e.preventDefault();
+          if (!vindu) { lagVindu(); }
+          var img = lenke.querySelector('img');
+          vindusbilde.src = lenke.getAttribute('href');
+          vindusbilde.alt = img ? img.alt : '';
+          vindu.showModal();
+        });
+      });
+    })();
+  </script>
 
 </body>
 

@@ -1,0 +1,39 @@
+{{- /*
+  notis.html - en liten merknad i brødteksten: et sidespor, en avklaring,
+  en henvisning videre. Ikke en handling, og ikke en bolk.
+
+  Bruk:
+
+    {{< notis tittel="Leter du etter fullmakt og tilgangsstyring?" >}}
+    Dette håndteres av innstillinger på Altinn, ikke på Skatteetaten.
+    {{< /notis >}}
+
+  Parametre:
+    tittel (valgfri) kort ingress i halvfet. Bevisst et avsnitt og ikke en
+           overskrift: en merknad skal ikke inn i overskriftshierarkiet på
+           linje med bolkene av handlinger.
+    stil   (valgfri) Bootstrap-variant uten "alert-"-prefikset. Standard er
+           secondary, som er dempet nok til at den ikke roper. Bruk warning
+           eller danger bare når noe faktisk kan gå galt.
+
+  Merk: ingen role="alert" her. Den rollen er et live-område beregnet på
+  meldinger som dukker opp mens man bruker siden, og ville fått skjermlesere
+  til å avbryte opplesningen for en merknad som har stått der hele tiden.
+*/ -}}
+
+{{- $stil := trim (or (.Get "stil") "secondary") " " -}}
+{{- $tittel := trim (or (.Get "tittel") "") " " -}}
+
+{{- $raatekst := trim (or .Inner (.Get "tekst") "") "\n " -}}
+{{- if eq $raatekst "" -}}
+  {{- errorf "shortcoden «notis» mangler tekst (%s)" .Position -}}
+{{- end -}}
+{{- $visning := cond (strings.Contains $raatekst "\n\n") "block" "inline" -}}
+{{- $tekst := $.Page.RenderString (dict "display" $visning) $raatekst -}}
+
+<div class="notis alert alert-{{ $stil }} my-4">
+  {{- with $tittel }}
+  <p class="notis-tittel fw-semibold mb-1">{{ . }}</p>
+  {{- end }}
+  <div class="notis-tekst">{{ $tekst }}</div>
+</div>

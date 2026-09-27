@@ -4,6 +4,10 @@
   {{ end }}
   {{ .Content }}
 
+  {{ if .HasShortcode "handling" }}
+    {{ partial "nullstill.html" . }}
+  {{ end }}
+
   {{ with .Params.knapper }}
   <div class="text-center my-4">
     {{ range . }}

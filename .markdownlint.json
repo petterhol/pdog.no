@@ -4,5 +4,6 @@
     },
     "line-length": {
         "line_length": 100
-    }
+    },
+    "no-bare-urls": false
 }
