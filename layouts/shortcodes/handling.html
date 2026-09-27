@@ -1,0 +1,175 @@
+{{- /*
+  handling.html - én konkret handling med avkryssingsboks.
+
+  Bruk (husk vinkel-parentes-varianten, ikke prosent):
+
+    {{< handling
+        id="skatteetaten-kontaktinfo"
+        tittel="Sjekk kontaktinformasjonen din"
+        sti="Konto for utbetalinger fra Skatteetaten"
+    >}}
+    Kontroller at mobilnummer og e-postadresse stemmer.
+    {{< /handling >}}
+
+  Parametre:
+    id         (påkrevd) unik nøkkel, brukes i localStorage. Bruk sideprefiks,
+               f.eks. "skatteetaten-kontaktinfo", så den er unik på tvers av
+               sider. Nøkkelen er permanent: endrer du den, mister alle som
+               har krysset av avkryssingen sin.
+    tittel     (valgfri) kort handlingstekst. Uten tittel blir innholdet selve
+               klikkflaten.
+    sti        (valgfri) hvor på undersiden man må klikke videre for å
+               finne handlingen, f.eks. "Konto for utbetalinger fra
+               Skatteetaten". Vises som en dempet brødsmulesti. Del opp
+               med ">" eller "→" hvis det er flere trinn. Overskriften
+               sier hvilken underside man er på, så gjenta den ikke her,
+               og la stien stå tom når handlingen ligger rett på
+               undersiden.
+    stilenke   (valgfri) adresse som siste ledd i stien lenkes til, altså
+               dit man faktisk skal. Åpnes i ny fane, slik at sjekklista
+               blir stående. Krever sti.
+    bilde      (valgfri) trengs normalt ikke. Legg skjermbildet i
+               static/bilder/ med id-en som filnavn - altså
+               static/bilder/skatteetaten-kontaktinfo.png - så finner
+               shortcoden det selv. png, jpg, jpeg, webp, avif og gif
+               prøves i den rekkefølgen. Oppgi denne bare hvis bildet
+               ligger et annet sted eller heter noe annet.
+    bildetekst (valgfri) beskriver bildet. Vises under bildet og brukes som
+               alt-tekst. Uten den blir alt-teksten "Skjermbilde: <tittel>",
+               og det vises ingen tekst under bildet.
+    ikon       (valgfri) Font Awesome-klasser. Uten denne vises ingen ikon.
+
+  Klikk på bildet forstørrer det. Uten JavaScript åpner lenken bildet
+  direkte i samme fane, så det virker uansett.
+
+  Avkryssingen lagres av skriptet nederst i layouts/_default/baseof.html,
+  som plukker opp alle elementer med data-handling-key. Fremdriftsvisningen
+  øverst på siden kommer fra layouts/partials/fremdrift.html.
+*/ -}}
+
+{{- $id := trim (or (.Get "id") "") " " -}}
+{{- if eq $id "" -}}
+  {{- errorf "shortcoden «handling» mangler påkrevd parameter «id» (%s)" .Position -}}
+{{- end -}}
+{{- if not (findRE `^[a-z0-9][a-z0-9._-]*$` $id) -}}
+  {{- warnf "handling-id «%s» bør bare inneholde små bokstaver, tall, punktum, bindestrek og understrek (%s)" $id .Position -}}
+{{- end -}}
+
+{{- $ikon := trim (or (.Get "ikon") "") " " -}}
+{{- $tittel := trim (or (.Get "tittel") "") " " -}}
+{{- $sti := trim (or (.Get "sti") "") " " -}}
+{{- $stilenke := trim (or (.Get "stilenke") "") " " -}}
+{{- if and $stilenke (eq $sti "") -}}
+  {{- warnf "handling «%s» har «stilenke» uten «sti», så det er ingenting å lenke fra (%s)" $id .Position -}}
+{{- end -}}
+
+{{/* Stien skrives som "Trinn > Trinn" eller med pil, og blir til en
+     brødsmulesti. Bevisst en <ol> uten <nav>: dette er ikke navigasjon på
+     siden, bare en beskrivelse av hvor man klikker, og et navigasjons-
+     landemerke uten lenker ville bare forvirret skjermlesere. */}}
+{{- $stideler := slice -}}
+{{- with $sti -}}
+  {{- range split (replaceRE `\s*(>|→|›|/)\s*` "\x1f" .) "\x1f" -}}
+    {{- with trim . " " -}}
+      {{- $stideler = $stideler | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $bildetekst := trim (or (.Get "bildetekst") "") " " -}}
+
+{{/* Bildet finnes hvis det ligger i static/bilder/ og heter det samme som
+     id-en. Da slipper innholdsfila å vite om det i det hele tatt: legg fila
+     i mappa, så dukker "Vis skjermbilde" opp ved neste bygg. */}}
+{{- $bilde := trim (or (.Get "bilde") "") " " -}}
+{{- if eq $bilde "" -}}
+  {{- range slice "png" "jpg" "jpeg" "webp" "avif" "gif" -}}
+    {{- if eq $bilde "" -}}
+      {{- if fileExists (printf "static/bilder/%s.%s" $id .) -}}
+        {{- $bilde = printf "/bilder/%s.%s" $id . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* Alt-teksten kan ikke utledes av et filnavn, så uten bildetekst faller vi
+     tilbake på tittelen. Et skjermbilde uten alt-tekst gir feil i
+     HTML5-valideringen, og hjelper uansett ingen. */}}
+{{- $alt := $bildetekst -}}
+{{- if eq $alt "" -}}
+  {{- $alt = cond (ne $tittel "") (printf "Skjermbilde: %s" $tittel) "Skjermbilde" -}}
+{{- end -}}
+
+{{- $raatekst := trim (or .Inner (.Get "tekst") "") "\n " -}}
+{{- $tekst := "" -}}
+{{- with $raatekst -}}
+  {{- $visning := cond (strings.Contains . "\n\n") "block" "inline" -}}
+  {{- $tekst = $.Page.RenderString (dict "display" $visning) . -}}
+{{- end -}}
+
+{{- $boksId := printf "handling-%s" $id -}}
+
+<div class="handling card mb-3 shadow-sm" data-handling>
+  <div class="card-body d-flex align-items-start gap-3 py-3">
+    <input class="form-check-input handling-boks flex-shrink-0 mt-1"
+           type="checkbox"
+           id="{{ $boksId }}"
+           data-handling-key="{{ $id }}">
+    <div class="flex-grow-1">
+      {{- if $tittel }}
+      <label class="handling-tittel d-block fw-semibold mb-0" for="{{ $boksId }}">
+        {{- with $ikon }}<i class="{{ . }} handling-ikon me-2" aria-hidden="true"></i>{{ end }}{{ $tittel }}
+      </label>
+      {{- with $stideler }}
+      <ol class="handling-sti breadcrumb small mb-0">
+        {{- $siste := sub (len .) 1 }}
+        {{- range $i, $ledd := . }}
+        <li class="breadcrumb-item">
+          {{- if and $stilenke (eq $i $siste) -}}
+          <a href="{{ $stilenke }}" target="_blank" rel="noreferrer noopener"
+             aria-label="{{ $ledd }} – åpnes i ny fane">{{ $ledd }}</a>
+          {{- else -}}
+          {{ $ledd }}
+          {{- end -}}
+        </li>
+        {{- end }}
+      </ol>
+      {{- end }}
+      {{- with $tekst }}
+      <div class="handling-tekst text-body-secondary mt-1">{{ . }}</div>
+      {{- end }}
+      {{- else }}
+      <label class="handling-tittel d-block mb-0" for="{{ $boksId }}">
+        {{- with $ikon }}<i class="{{ . }} handling-ikon me-2" aria-hidden="true"></i>{{ end }}{{ $tekst }}
+      </label>
+      {{- with $stideler }}
+      <ol class="handling-sti breadcrumb small mb-0">
+        {{- $siste := sub (len .) 1 }}
+        {{- range $i, $ledd := . }}
+        <li class="breadcrumb-item">
+          {{- if and $stilenke (eq $i $siste) -}}
+          <a href="{{ $stilenke }}" target="_blank" rel="noreferrer noopener"
+             aria-label="{{ $ledd }} – åpnes i ny fane">{{ $ledd }}</a>
+          {{- else -}}
+          {{ $ledd }}
+          {{- end -}}
+        </li>
+        {{- end }}
+      </ol>
+      {{- end }}
+      {{- end }}
+      {{- with $bilde }}
+      <details class="handling-bilde mt-2">
+        <summary class="small">Vis skjermbilde</summary>
+        <figure class="mt-2 mb-0">
+          <a class="handling-bildelenke" data-bildelenke href="{{ . }}">
+            <img src="{{ . }}" alt="{{ $alt }}" class="img-fluid rounded border" loading="lazy">
+          </a>
+          {{- with $bildetekst }}
+          <figcaption class="small text-body-secondary mt-1">{{ . }}</figcaption>
+          {{- end }}
+        </figure>
+      </details>
+      {{- end }}
+    </div>
+  </div>
+</div>

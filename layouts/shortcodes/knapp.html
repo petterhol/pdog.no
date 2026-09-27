@@ -1,0 +1,35 @@
+{{- /*
+  knapp.html - en lenkeknapp midt i brødteksten.
+
+  Bruk:
+
+    {{< knapp url="https://www.skatteetaten.no/person/" >}}
+    Logg inn på skatteetaten.no
+    {{< /knapp >}}
+
+  Parametre:
+    url    (påkrevd) adressen knappen peker til.
+    stil   (valgfri) Bootstrap-variant uten "btn-"-prefikset: primary
+           (standard), secondary, outline-primary og så videre.
+    egenfane (valgfri) "nei" for å åpne i samme fane. Standard er ny fane.
+
+  Erstatter [[knapper]] i front matter. Sider som fortsatt bruker front
+  matter-varianten rendres av layouts/_default/single.html.
+*/ -}}
+
+{{- $url := trim (or (.Get "url") "") " " -}}
+{{- if eq $url "" -}}
+  {{- errorf "shortcoden «knapp» mangler påkrevd parameter «url» (%s)" .Position -}}
+{{- end -}}
+
+{{- $stil := trim (or (.Get "stil") "primary") " " -}}
+{{- $tekst := trim (or .Inner (.Get "tekst") "") "\n " -}}
+{{- if eq $tekst "" -}}
+  {{- errorf "shortcoden «knapp» mangler tekst (%s)" .Position -}}
+{{- end -}}
+{{- $nyfane := ne (lower (trim (or (.Get "egenfane") "ja") " ")) "nei" -}}
+
+<div class="text-center my-4">
+  <a class="btn btn-{{ $stil }}" href="{{ $url }}"
+     {{- if $nyfane }} target="_blank" rel="noreferrer noopener"{{ end }}>{{ $tekst }}</a>
+</div>

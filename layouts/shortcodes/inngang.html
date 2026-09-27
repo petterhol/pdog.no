@@ -1,0 +1,105 @@
+{{- /*
+  inngang.html - sidens inngangskort: sidetittelen, en kort innledning,
+  skjermbilde av tjenesten, hvordan man logger inn, og knappen inn.
+
+  Kortet rendrer sidens <h1>. Derfor hopper layouts/_default/baseof.html
+  over tittelen paa sider som bruker denne shortcoden, og derfor hoerer
+  kortet oeverst paa siden - staar det lenger nede, havner overskriften
+  midt i teksten.
+
+  Bruk:
+
+    {{< inngang
+        url="https://www.skatteetaten.no/person/"
+        knapp="Logg inn på skatteetaten.no"
+        innlogging="ID-porten"
+    >}}
+    Hos Skatteetaten kan du sjekke skattekort og skattegjeld, men det er
+    også etaten som har tatt over Folkeregisteret.
+    {{< /inngang >}}
+
+  Parametre:
+    url        (påkrevd) adressen knappen går til.
+    knapp      (valgfri) knappeteksten. Standard: "Gå til tjenesten".
+    stil       (valgfri) Bootstrap-variant uten "btn-"-prefikset. Standard
+               er outline-primary: en fylt flate er det eneste stedet på
+               siden der blått ikke bare er en tynn aksent. Bytt til
+               primary, dark eller outline-dark hvis du vil ha den tyngre.
+    navn       (valgfri) tjenestens navn over innledningen. Bevisst et
+               avsnitt og ikke en overskrift, så det ikke havner i
+               overskriftshierarkiet på linje med bolkene under. Sløyf den
+               når innledningen uansett sier hva tjenesten heter.
+    innlogging (valgfri) hvordan man logger inn, f.eks. "ID-porten".
+    bilde      (valgfri) trengs normalt ikke: legg et oversiktsbilde i
+               static/bilder/ med sidens eget filnavn, altså
+               static/bilder/skatteetaten-mine-sider.png for denne siden.
+               Uten bilde blir kortet bare tekst og knapp.
+    bildetekst (valgfri) beskriver bildet. Uten den blir alt-teksten
+               "Skjermbilde av tjenesten".
+
+  Teksten står til venstre og bildet til høyre, så øyet møter hva siden
+  handler om før det møter illustrasjonen. På smale skjermer stables de,
+  med teksten øverst. Bildet forstørres ved klikk, av samme skript som
+  skjermbildene i handlingskortene. Kortet har med vilje ingen farget venstrekant - den
+  tilhører handlingene, og dette er ikke en handling.
+*/ -}}
+
+{{- $url := trim (or (.Get "url") "") " " -}}
+{{- if eq $url "" -}}
+  {{- errorf "shortcoden «inngang» mangler påkrevd parameter «url» (%s)" .Position -}}
+{{- end -}}
+
+{{- $knapp := trim (or (.Get "knapp") "Gå til tjenesten") " " -}}
+{{- $stil := trim (or (.Get "stil") "outline-primary") " " -}}
+{{- $navn := trim (or (.Get "navn") "") " " -}}
+{{- $innlogging := trim (or (.Get "innlogging") "") " " -}}
+{{- $bildetekst := trim (or (.Get "bildetekst") "") " " -}}
+
+{{- $bilde := trim (or (.Get "bilde") "") " " -}}
+{{- if eq $bilde "" -}}
+  {{- $grunnnavn := .Page.File.ContentBaseName -}}
+  {{- range slice "png" "jpg" "jpeg" "webp" "avif" "gif" -}}
+    {{- if eq $bilde "" -}}
+      {{- if fileExists (printf "static/bilder/%s.%s" $grunnnavn .) -}}
+        {{- $bilde = printf "/bilder/%s.%s" $grunnnavn . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $alt := or $bildetekst "Skjermbilde av tjenesten" -}}
+
+{{- $raatekst := trim (or .Inner (.Get "tekst") "") "\n " -}}
+{{- $tekst := "" -}}
+{{- with $raatekst -}}
+  {{- $visning := cond (strings.Contains . "\n\n") "block" "inline" -}}
+  {{- $tekst = $.Page.RenderString (dict "display" $visning) . -}}
+{{- end -}}
+
+<div class="inngang card mb-4">
+  <div class="card-body">
+    <div class="row g-4 align-items-center">
+      <div class="{{ if $bilde }}col-md-7{{ else }}col-12{{ end }}">
+        <h1 class="inngang-tittel h2 mb-3">{{ .Page.Title }}</h1>
+        {{- with $navn }}
+        <p class="inngang-navn h5 mb-1">{{ . }}</p>
+        {{- end }}
+        {{- with $tekst }}
+        <div class="inngang-tekst">{{ . }}</div>
+        {{- end }}
+        {{- with $innlogging }}
+        <p class="inngang-innlogging small text-body-secondary mt-2 mb-0">Logg inn med {{ . }}</p>
+        {{- end }}
+        <a class="btn btn-{{ $stil }} btn-lg mt-3" href="{{ $url }}"
+           target="_blank" rel="noreferrer noopener">{{ $knapp }} <span aria-hidden="true">&rarr;</span></a>
+      </div>
+      {{- with $bilde }}
+      <div class="col-md-5">
+        <a class="inngang-bildelenke" data-bildelenke href="{{ . }}">
+          <img src="{{ . }}" alt="{{ $alt }}" class="img-fluid rounded border" loading="lazy">
+        </a>
+      </div>
+      {{- end }}
+    </div>
+  </div>
+</div>
