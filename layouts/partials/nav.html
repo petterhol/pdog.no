@@ -1,4 +1,4 @@
-<nav class="navbar fixed-top navbar-expand-xl bg-light" data-bs-theme="light">
+<nav class="navbar navbar-expand-xl bg-light" data-bs-theme="light">
   <div class="container-fluid ps-3 ps-md-5">
     <a class="navbar-brand" href="/">
       <!-- Logo: <img src="/favicon.png" width="30" height="30" class="d-inline-block align-top me-1" alt=""> -->
@@ -16,8 +16,10 @@
         {{ $denne := . }}
         {{ range site.Sections.ByWeight }}
           <div class="nav-item dropdown">
-            <button class="nav-link dropdown-toggle{{ if or (.IsAncestor $denne) (eq . $denne) }} active{{ end }}"
-              type="button" data-bs-toggle="dropdown" aria-expanded="false">
+            {{- $iDenne := or (.IsAncestor $denne) (eq . $denne) }}
+            <button class="nav-link dropdown-toggle{{ if $iDenne }} active{{ end }}"
+              type="button" data-bs-toggle="dropdown" aria-expanded="false"
+              {{- if $iDenne }} aria-current="true"{{ end }}>
               <span>{{ .Title }}</span>
             </button>
             <div class="dropdown-menu">
@@ -33,4 +35,6 @@
       </div>
     </div>
   </div>
+
+  {{ partial "sidelinje.html" . }}
 </nav>

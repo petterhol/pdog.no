@@ -1,0 +1,38 @@
+{{- /*
+  sidelinje.html - navbarens andre rad: hvilken side man står på, og
+  fremdriften for den.
+
+  Ligger i den faste baren, så den blir stående når man skroller ned og
+  tittelen i inngangskortet har rullet ut av syne. Seksjonen står foran
+  sidetittelen med samme pil som stiene i handlingskortene, så de to leses
+  som samme slags opplysning.
+
+  Raden sløyfes på forsiden og på sider uten tittel, der den ikke ville
+  sagt noe. Navbarens høyde varierer dermed mellom sider, og det er derfor
+  avstanden ned til innholdet måles av skriptet i baseof.html i stedet for
+  å være en fast verdi.
+
+  Nederst ligger fremdriftsstolpen. Den er absolutt posisjonert mot
+  navbaren, så den legger seg i underkanten av hele baren, under denne
+  raden, uansett hvor i koden den står.
+*/ -}}
+
+{{- $seksjon := "" -}}
+{{- with .Parent -}}
+  {{- if not .IsHome -}}{{- $seksjon = .Title -}}{{- end -}}
+{{- end -}}
+
+{{- if and .Title (not .IsHome) }}
+<div class="sidelinje w-100 small">
+  <div class="container-fluid ps-3 ps-md-5 pe-3 d-flex align-items-center gap-2">
+    <span class="sidelinje-sted text-truncate">
+      {{- with $seksjon }}{{ . }} <span aria-hidden="true">&rarr;</span> {{ end }}{{ .Title }}
+    </span>
+    {{ partial "fremdrift.html" . }}
+  </div>
+</div>
+{{- end }}
+
+<div class="fremdriftstripe" data-fremdrift-stripe hidden>
+  <div class="fremdriftstripe-felt" data-fremdrift-felt></div>
+</div>
