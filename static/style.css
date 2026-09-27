@@ -1,3 +1,249 @@
 /* ryddedagen.no – egne stiler.
    Lastes foer Bootstrap i baseof.html, saa regler som skal overstyre
    Bootstrap trenger hoeyere spesifisitet. */
+
+/* --- Handlinger (shortcoden `handling`) -------------------------------
+   Merk: denne fila lastes foer Bootstrap, saa reglene under bruker
+   bevisst to eller flere klasser for aa vinne over Bootstrap. */
+
+.card.handling {
+  border-left: 4px solid var(--bs-primary, #0d6efd);
+}
+
+.handling .handling-tittel {
+  cursor: pointer;
+}
+
+.handling .handling-sti {
+  color: var(--bs-secondary-color, rgba(33, 37, 41, .75));
+
+  /* Pil i stedet for Bootstraps skraastrek mellom leddene. Bootstrap setter
+     aldri denne variabelen selv, bare leser den med "/" som reserveverdi,
+     saa dette virker ogsaa naar style.css lastes foer Bootstrap. Skrevet som
+     escape-sekvens, ikke som tegnet selv, saa den ikke er avhengig av hvilken
+     tegnkoding CSS-fila serveres med. */
+  --bs-breadcrumb-divider: "\2192";
+}
+
+.handling .handling-ikon {
+  color: var(--bs-primary, #0d6efd);
+}
+
+.handling .handling-boks {
+  width: 1.25em;
+  height: 1.25em;
+  cursor: pointer;
+}
+
+/* Utfoert: dempet, men fortsatt lesbar. */
+.card.handling.handling--utfort {
+  border-left-color: var(--bs-success, #198754);
+  opacity: .72;
+}
+
+.handling.handling--utfort .handling-tittel {
+  text-decoration: line-through;
+}
+
+.handling.handling--utfort .handling-ikon {
+  color: var(--bs-success, #198754);
+}
+
+/* --- Navbaren --------------------------------------------------------
+   Baren ligger i vanlig flyt med sticky-top paa <header>, saa den skyver
+   innholdet ned naar hamburgermenyen slaas ut, og kleber seg til toppen
+   naar man skroller. Derfor trenger body ingen toppavstand.
+
+   position: relative fordi fremdriftsstolpen er absolutt posisjonert mot
+   baren. Uten fixed-top er den ikke lenger posisjonert av seg selv, og
+   stolpen ville lagt seg mot sida i stedet for mot baren.
+
+   MERK: ikke sett flex-wrap her. Bootstrap gir .container-fluid inne i
+   navbaren flex-wrap: inherit, saa nowrap her ville ogsaa hindret menyen i
+   aa brekke ned paa egen linje naar hamburgeren aapnes - da legger den seg
+   som en hoey kolonne ved siden av merkenavnet i stedet. Kolonneretningen
+   stabler de to radene uten at wrap trenger aa roeres. */
+
+nav.navbar {
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  padding-top: 0;
+  padding-bottom: 0;
+
+  /* Bootstraps egen variabel for det aktive menypunktet. Aa sette den her
+     er enklere enn aa overstyre fargeregelen, som ligger dypere. */
+  --bs-navbar-active-color: var(--bs-primary, #0d6efd);
+}
+
+/* Seksjonen man staar i. Bootstrap skiller den bare med en moerkere
+   tekstfarge, som er lett aa overse i en rad med fjorten punkter. Streken
+   er lagt med inset box-shadow og ikke border, saa den ikke flytter noe. */
+
+.navbar .navbar-nav .nav-link.active {
+  font-weight: 600;
+}
+
+@media (min-width: 1200px) {
+  /* Menyen er en rad: understrek. */
+  .navbar .navbar-nav .nav-link.active {
+    box-shadow: inset 0 -2px 0 currentColor;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  /* Menyen er en liste: loddrett strek til venstre, som handlingskortene. */
+  .navbar .navbar-nav .nav-link.active {
+    box-shadow: inset 2px 0 0 currentColor;
+    padding-left: .5rem;
+  }
+}
+
+nav.navbar > .container-fluid {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+
+.navbar .sidelinje {
+  border-top: 1px solid var(--bs-border-color, #dee2e6);
+  padding-top: .35rem;
+  padding-bottom: .35rem;
+  color: var(--bs-secondary-color, rgba(33, 37, 41, .75));
+}
+
+main {
+  padding-top: 1rem;
+}
+
+/* --- Fremdriftsvisning ----------------------------------------------
+   Stolpen (partials/nav.html) er sveiset til underkanten av den faste
+   navbaren, saa den koster ingen hoeyde og foelger med naar man skroller.
+   Tallinja (partials/fremdrift.html) staar under tittelen. */
+
+.navbar .fremdriftstripe {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 3px;
+  background-color: rgba(0, 0, 0, .07);
+}
+
+.navbar .fremdriftstripe-felt {
+  width: 0;
+  height: 100%;
+  background-color: var(--bs-primary, #0d6efd);
+  transition: width .25s ease, background-color .25s ease;
+}
+
+/* Samme groenn som et avkrysset handlingskort, og bare paa hundre prosent. */
+.navbar .fremdriftstripe--ferdig .fremdriftstripe-felt {
+  background-color: var(--bs-success, #198754);
+}
+
+.fremdrift {
+  color: var(--bs-secondary-color, rgba(33, 37, 41, .75));
+}
+
+.fremdrift.fremdrift--ferdig {
+  color: var(--bs-success, #198754);
+}
+
+.nullstill .fremdrift-nullstill {
+  text-decoration: none;
+  color: var(--bs-secondary-color, rgba(33, 37, 41, .75));
+}
+
+.nullstill .fremdrift-nullstill:hover {
+  text-decoration: underline;
+  opacity: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .navbar .fremdriftstripe-felt {
+    transition: none;
+  }
+}
+
+/* --- Skjermbilder i handlingskortene -------------------------------- */
+
+.handling .handling-bilde > summary {
+  cursor: pointer;
+  color: var(--bs-primary, #0d6efd);
+  width: fit-content;
+}
+
+.handling .handling-bilde img {
+  max-height: 32rem;
+}
+
+[data-bildelenke] {
+  display: inline-block;
+  cursor: zoom-in;
+}
+
+/* Forstoerret bilde. Dialogen lages av skriptet i baseof.html, saa disse
+   reglene treffer et element som ikke finnes i kildekoden. */
+
+.bildevindu {
+  max-width: min(96vw, 1400px);
+  max-height: 94vh;
+  padding: 0;
+  border: 0;
+  border-radius: .5rem;
+  background: transparent;
+  overflow: visible;
+}
+
+.bildevindu::backdrop {
+  background-color: rgba(0, 0, 0, .75);
+}
+
+.bildevindu .bildevindu-bilde {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 94vh;
+  border-radius: .5rem;
+}
+
+.bildevindu .bildevindu-lukk {
+  position: absolute;
+  top: .5rem;
+  right: .5rem;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #fff;
+  background-color: rgba(0, 0, 0, .55);
+}
+
+.bildevindu .bildevindu-lukk:hover,
+.bildevindu .bildevindu-lukk:focus-visible {
+  background-color: rgba(0, 0, 0, .8);
+}
+
+/* --- Notiser (shortcoden `notis`) ------------------------------------
+   Bevisst uten den blaa venstrekanten handlingskortene har, saa en
+   merknad ikke leses som enda en handling. */
+
+.notis .notis-tekst > :last-child {
+  margin-bottom: 0;
+}
+
+/* --- Inngangskortet (shortcoden `inngang`) ---------------------------
+   Bevisst uten farget venstrekant: den tilhoerer handlingskortene. */
+
+.inngang .inngang-tekst > :last-child {
+  margin-bottom: 0;
+}
+
+.inngang .inngang-bildelenke img {
+  width: 100%;
+}
